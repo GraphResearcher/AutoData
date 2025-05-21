@@ -7,7 +7,7 @@ import pytest
 from loguru import logger
 import time
 
-from autodata.utils.logging import setup_logging
+from AutoData.utils.logging import setup_logging
 
 
 @pytest.fixture
@@ -21,14 +21,14 @@ def test_console_logging(capsys):
     """Test console logging configuration."""
     # Setup logging with default settings
     setup_logging(log_level="INFO")
-    
+
     # Log a test message
     test_message = "Test console logging"
     logger.info(test_message)
-    
+
     # Capture the output
     captured = capsys.readouterr()
-    
+
     # Verify the log format
     assert "INFO" in captured.err
     assert test_message in captured.err
@@ -40,23 +40,20 @@ def test_file_logging(temp_log_dir):
     """Test file logging configuration."""
     # Create a log file path
     log_file = Path(temp_log_dir) / "test.log"
-    
+
     # Setup logging with file output
-    setup_logging(
-        log_level="DEBUG",
-        log_file=str(log_file)
-    )
-    
+    setup_logging(log_level="DEBUG", log_file=str(log_file))
+
     # Log a test message
     test_message = "Test file logging"
     logger.debug(test_message)
-    
+
     # Verify the log file was created
     assert log_file.exists()
-    
+
     # Read the log file
     log_content = log_file.read_text()
-    
+
     # Verify the log format and content
     assert "DEBUG" in log_content
     assert test_message in log_content
@@ -67,16 +64,16 @@ def test_log_levels(capsys):
     """Test different log levels."""
     # Setup logging with DEBUG level
     setup_logging(log_level="DEBUG")
-    
+
     # Log messages at different levels
     logger.debug("Debug message")
     logger.info("Info message")
     logger.warning("Warning message")
     logger.error("Error message")
-    
+
     # Capture the output
     captured = capsys.readouterr()
-    
+
     # Verify all levels are present
     assert "DEBUG" in captured.err
     assert "INFO" in captured.err
@@ -95,15 +92,15 @@ def test_log_file_permissions(temp_log_dir):
     # Create a nested directory structure
     nested_dir = Path(temp_log_dir) / "nested" / "dir" / "structure"
     log_file = nested_dir / "test.log"
-    
+
     # Setup logging
     setup_logging(log_file=str(log_file))
-    
+
     # Verify directory was created
     assert nested_dir.exists()
-    
+
     # Verify log file was created
     assert log_file.exists()
-    
+
     # Verify file permissions
-    assert os.access(log_file, os.W_OK)  # Check if file is writable 
+    assert os.access(log_file, os.W_OK)  # Check if file is writable

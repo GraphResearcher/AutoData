@@ -1,47 +1,123 @@
-"""Base agent implementation for AutoData."""
+"""
+Base agent class for the AutoData package.
+"""
 
+import logging
 from abc import ABC, abstractmethod
-from typing import Any, Dict, Optional
+from typing import Dict, Any, List, Optional
 
-from loguru import logger
+from langchain_core.messages import BaseMessage, HumanMessage, AIMessage
+from langchain_openai import ChatOpenAI
+
+from autodata.core.config import AutoDataConfig
+from autodata.core.types import AgentState
+
+logger = logging.getLogger(__name__)
 
 
 class BaseAgent(ABC):
-    """Base class for all AutoData agents.
-    
-    This abstract base class defines the interface that all agents must implement.
-    Agents are responsible for specific tasks in the data collection pipeline.
-    """
+    """Base class for all agents in the AutoData system."""
 
-    def __init__(self, name: str, config: Optional[Dict[str, Any]] = None) -> None:
-        """Initialize the agent.
-        
+    def __init__(self, config: AutoDataConfig):
+        """Initialize the agent with configuration.
+
         Args:
-            name: Unique identifier for the agent
-            config: Optional configuration dictionary
+            config: AutoData configuration object
         """
-        self.name = name
-        self.config = config or {}
-        logger.info(f"Initialized {self.__class__.__name__} agent: {name}")
+        self.config = config
+        self.llm = ChatOpenAI(
+            model_name=config.llm.model_name,
+            temperature=config.llm.temperature,
+            max_tokens=config.llm.max_tokens,
+            api_key=config.llm.api_key,
+        )
 
     @abstractmethod
-    async def execute(self, *args: Any, **kwargs: Any) -> Any:
-        """Execute the agent's main task.
-        
-        This method must be implemented by all concrete agent classes.
-        
+    def run(self, state: AgentState) -> AgentState:
+        """Run the agent's main logic.
+
         Args:
-            *args: Variable length argument list
-            **kwargs: Arbitrary keyword arguments
-            
+            state: Current state of the workflow
+
         Returns:
-            The result of the agent's execution
+            Updated state
         """
         pass
 
-    async def cleanup(self) -> None:
-        """Clean up resources used by the agent.
-        
-        This method can be overridden by subclasses to implement custom cleanup logic.
+    def _add_message(
+        self, state: AgentState, content: str, role: str = "assistant"
+    ) -> None:
+        """Add a message to the state's message history.
+
+        Args:
+            state: Current state
+            content: Message content
+            role: Message role ("human" or "assistant")
         """
-        logger.debug(f"Cleaning up {self.__class__.__name__} agent: {self.name}") 
+        if role == "human":
+            message = HumanMessage(content=content)
+        else:
+            message = AIMessage(content=content)
+        state.messages.append(message)
+
+    def _get_system_prompt(self) -> str:
+        """Get the system prompt for this agent.
+
+        Returns:
+            System prompt string
+        """
+        return f"You are an AI agent in the AutoData system. Your role is {self.__class__.__name__}."
+
+    def _get_chat_history(self, state: AgentState) -> List[BaseMessage]:
+        """Get the chat history for this agent.
+
+        Args:
+            state: Current state
+
+        Returns:
+            List of messages
+        """
+        return state.messages
+
+    def _call_llm(
+        self, prompt: str, state: AgentState, system_prompt: Optional[str] = None
+    ) -> str:
+        """Call the LLM with a prompt and chat history.
+
+        Args:
+            prompt: The prompt to send to the LLM
+            state: Current state
+            system_prompt: Optional system prompt override
+
+        Returns:
+            LLM response
+        """
+        messages = [
+            {"role": "system", "content": system_prompt or self._get_system_prompt()}
+        ]
+
+        # Add chat history
+        for msg in self._get_chat_history(state):
+            if isinstance(msg, HumanMessage):
+                messages.append({"role": "user", "content": msg.content})
+            else:
+                messages.append({"role": "assistant", "content": msg.content})
+
+        # Add current prompt
+        messages.append({"role": "user", "content": prompt})
+
+        try:
+            response = self.llm.invoke(messages)
+            return response.content
+        except Exception as e:
+            logger.error(f"Error calling LLM: {str(e)}", exc_info=True)
+            raise
+
+    def _update_state(self, state: AgentState, **kwargs) -> None:
+        """Update the state with new values.
+
+        Args:
+            state: Current state
+            **kwargs: Key-value pairs to update in state
+        """
+        state.update(**kwargs)

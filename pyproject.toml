@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
 authors = [
-    { name = "Billy Ma", email = "tma2@nd.edu" }
+    { name = "xxx", email = "xxx@xxx.com" }
 ]
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -22,23 +22,47 @@ classifiers = [
     "Programming Language :: Python :: 3.11",
 ]
 dependencies = [
+    # Core dependencies
     "langchain>=0.1.0",
+    "langchain-openai>=0.0.2",
+    "langchain-core>=0.1.0",
+    "langchain-community>=0.0.10",
+    "langchain-text-splitters>=0.0.1",
+    
+    # LLM and AI
     "openai>=1.0.0",
+    "anthropic>=0.8.0",
+    
+    # Web and data processing
     "beautifulsoup4>=4.12.0",
     "requests>=2.31.0",
+    "aiohttp>=3.9.0",
+    "selenium>=4.15.0",
+    "playwright>=1.40.0",
+    
+    # Data handling
+    "pandas>=2.1.0",
+    "numpy>=1.24.0",
+    
+    # Utilities
     "pydantic>=2.0.0",
     "python-dotenv>=1.0.0",
     "loguru>=0.7.0",
-    "Jinja2"
+    "Jinja2>=3.1.0",
+    "tenacity>=8.2.0",
+    "tiktoken>=0.5.0",
 ]
 
 [project.optional-dependencies]
 dev = [
     "pytest>=7.0.0",
     "pytest-cov>=4.0.0",
+    "pytest-asyncio>=0.21.0",
+    "pytest-mock>=3.12.0",
     "ruff>=0.1.0",
     "mypy>=1.0.0",
     "black>=23.0.0",
+    "pre-commit>=3.5.0",
 ]
 
 [tool.ruff]

@@ -1,47 +1,53 @@
-"""Logging utilities for AutoData."""
+"""
+Logging configuration for the AutoData package.
+"""
 
+import logging
 import sys
 from pathlib import Path
 from typing import Optional
 
-from loguru import logger
-
 
 def setup_logging(
-    log_level: str = "INFO",
-    log_file: Optional[str] = None
+    level: str = "INFO",
+    log_file: Optional[Path] = None,
+    log_format: str = "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
 ) -> None:
-    """Configure logging for AutoData.
-    
+    """Configure logging for the AutoData package.
+
     Args:
-        log_level: Logging level (DEBUG, INFO, WARNING, ERROR, CRITICAL)
-        log_file: Optional path to log file. If None, logs will only go to stderr
-    
-    Raises:
-        ValueError: If an invalid log level is provided
+        level: Logging level (default: "INFO")
+        log_file: Optional path to log file
+        log_format: Format string for log messages
     """
-    # Validate log level
-    valid_levels = {"DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL"}
-    if log_level not in valid_levels:
-        raise ValueError(f"Invalid log level: {log_level}. Must be one of {valid_levels}")
-    
-    # Remove default handler
-    logger.remove()
-    
-    # Add stderr handler
-    logger.add(
-        sys.stderr,
-        format="<green>{time:YYYY-MM-DD HH:mm:ss}</green> | <level>{level: <8}</level> | <cyan>{name}</cyan>:<cyan>{function}</cyan>:<cyan>{line}</cyan> - <level>{message}</level>",
-        level=log_level,
-        colorize=True
-    )
-    
+    # Create formatter
+    formatter = logging.Formatter(log_format)
+
+    # Configure root logger
+    root_logger = logging.getLogger()
+    root_logger.setLevel(level)
+
+    # Clear existing handlers
+    root_logger.handlers = []
+
+    # Add console handler
+    console_handler = logging.StreamHandler(sys.stdout)
+    console_handler.setFormatter(formatter)
+    root_logger.addHandler(console_handler)
+
     # Add file handler if log_file is specified
     if log_file:
-        log_path = Path(log_file)
-        log_path.parent.mkdir(parents=True, exist_ok=True)
-        logger.add(
-            log_file,
-            format="{time:YYYY-MM-DD HH:mm:ss} | {level: <8} | {name}:{function}:{line} - {message}",
-            level=log_level
-        ) 
+        log_file.parent.mkdir(parents=True, exist_ok=True)
+        file_handler = logging.FileHandler(log_file)
+        file_handler.setFormatter(formatter)
+        root_logger.addHandler(file_handler)
+
+    # Set specific logger levels
+    logging.getLogger("urllib3").setLevel(logging.WARNING)
+    logging.getLogger("selenium").setLevel(logging.WARNING)
+    logging.getLogger("langchain").setLevel(logging.INFO)
+
+    # Log configuration
+    logging.info(f"Logging configured with level: {level}")
+    if log_file:
+        logging.info(f"Log file: {log_file}")
