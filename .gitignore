@@ -209,3 +209,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+Data/benchmark.tar.gz
