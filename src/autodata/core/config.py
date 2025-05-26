@@ -12,7 +12,7 @@ class LLMConfig(BaseModel):
     """Configuration for LLM models."""
 
     model_name: str = Field(default="gpt-4-turbo-preview")
-    temperature: float = Field(default=0.7)
+    temperature: float = Field(default=0.0)
     max_tokens: int = Field(default=2000)
     api_key: Optional[str] = Field(default=None)
 
