@@ -27,6 +27,9 @@ env/
 venv/
 ENV/
 
+# API keys
+private.env
+
 # IDE
 .idea/
 .vscode/

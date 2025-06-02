@@ -7,7 +7,7 @@ name = "AutoData"
 version = "0.1.0"
 description = "Automatic web data collection via multi-agent system with LLMs"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [
     { name = "xxx", email = "xxx@xxx.com" }
@@ -17,9 +17,9 @@ classifiers = [
     "Intended Audience :: Developers",
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
 ]
 dependencies = [
     # Core dependencies
@@ -28,6 +28,7 @@ dependencies = [
     "langchain-core>=0.1.0",
     "langchain-community>=0.0.10",
     "langchain-text-splitters>=0.0.1",
+    "langgraph>=0.1.0",
     
     # LLM and AI
     "openai>=1.0.0",
@@ -51,6 +52,7 @@ dependencies = [
     "Jinja2>=3.1.0",
     "tenacity>=8.2.0",
     "tiktoken>=0.5.0",
+    "easydict>=1.10",
 ]
 
 [project.optional-dependencies]

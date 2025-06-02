@@ -11,7 +11,7 @@ from typing import Optional
 def setup_logging(
     level: str = "INFO",
     log_file: Optional[Path] = None,
-    log_format: str = "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    log_format: str = "%(asctime)s - %(name)s - [%(levelname)s] - %(message)s",
 ) -> None:
     """Configure logging for the AutoData package.
 
@@ -20,8 +20,8 @@ def setup_logging(
         log_file: Optional path to log file
         log_format: Format string for log messages
     """
-    # Create formatter
-    formatter = logging.Formatter(log_format)
+    # Create formatter with custom date format
+    formatter = logging.Formatter(fmt=log_format, datefmt="%Y/%m/%d %H:%M:%S")
 
     # Configure root logger
     root_logger = logging.getLogger()
