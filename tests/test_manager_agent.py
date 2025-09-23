@@ -4,9 +4,9 @@ import pytest
 from unittest.mock import Mock, patch
 from langchain_core.messages import HumanMessage
 
-from src.autodata.agents.manager import ManagerAgent, ManagerResponse
-from src.autodata.core.config import AutoDataConfig
-from src.autodata.core.types import AgentState
+from autodata.agents.manager import ManagerAgent, ManagerResponse
+from autodata.core.config import AutoDataConfig
+from autodata.core.types import AgentState
 
 
 class TestManagerAgent:

@@ -5,6 +5,7 @@ from typing import Optional
 import logging
 from langchain_core.messages import HumanMessage
 from langchain_openai import ChatOpenAI
+from langchain_google_genai import GoogleGenerativeAI
 from langgraph.graph import StateGraph, START, END
 
 sys.dont_write_bytecode = True
@@ -77,9 +78,14 @@ class AutoData:
             return llm
         except Exception as e:
             logger.error(f"❌ Failed to initialize LLM: {e}")
-            logger.info("💡 Falling back to ChatOpenAI with default configuration")
-            # Fallback to default ChatOpenAI
-            return ChatOpenAI(temperature=0.1)
+            logger.info("💡 Falling back to GoogleGenerativeAI with default configuration")
+            # Fallback to default GoogleGenerativeAI
+            return GoogleGenerativeAI(
+                model=self.config.LLM_Config.model,  # Truyền model vào GoogleGenerativeAI
+                temperature=self.config.LLM_Config.temperature,
+                max_tokens=self.config.LLM_Config.max_tokens,
+                api_key=self.config.LLM_Config.api_key,  # Nếu có
+            )
 
     def _build_workflow(self):
         """Build the multi-agent workflow graph."""

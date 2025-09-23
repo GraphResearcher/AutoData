@@ -8,8 +8,8 @@ import logging
 from pathlib import Path
 from typing import Optional, List
 import yaml
-from pydantic import BaseModel, Field
-from langchain_openai import ChatOpenAI
+from pydantic import BaseModel, Field, ValidationError
+from langchain_google_genai import GoogleGenerativeAI
 from dotenv import load_dotenv
 
 sys.dont_write_bytecode = True
@@ -58,7 +58,6 @@ def verify_environment_variables() -> None:
     """Verify that essential environment variables are present."""
     required_vars = []
     optional_vars = {
-        "OPENAI_API_KEY": "OpenAI API access",
         "ANTHROPIC_API_KEY": "Anthropic Claude API access",
         "GOOGLE_API_KEY": "Google AI API access",
         "LANGSMITH_API_KEY": "LangSmith tracing and monitoring",
@@ -91,19 +90,24 @@ def verify_environment_variables() -> None:
 class LLMConfig(BaseModel):
     """Configuration for LLM models."""
 
-    ModelClass: str = Field(default="ChatOpenAI")
-    model: str = Field(default="gpt-4o-mini")
+    ModelClass: str = Field(default="GoogleGenerativeAI")
+    model: str = Field(default="gemini-2.5-flash")
     temperature: float = Field(default=0.0)
     max_tokens: int = Field(default=16384)
     api_key: Optional[str] = Field(default=None)
+try:
+    LLMConfig()
+except ValidationError as exc:
+    print(repr(exc.errors()[0]['type']))
+        # > 'missing'
 
-    def _get_llm_additional_kwargs(
-        self, exclude: Optional[str | List[str]] = ["ModelClass"]
-    ):
-        if isinstance(exclude, str):
-            exclude = [exclude]
+    def get_additional_kwargs(self):
+        """Trả về các tham số cần thiết."""
         return {
-            key: value for key, value in self.model_dump().items() if key not in exclude
+            "model": self.model,
+            "temperature": self.temperature,
+            "max_tokens": self.max_tokens,
+            "api_key": self.api_key,  # Nếu có
         }
 
 
@@ -170,11 +174,22 @@ class AutoDataConfig(BaseModel):
         with open(config_path, "w") as f:
             yaml.dump(self.model_dump(), f)
 
+    def initialize_llm(self) -> GoogleGenerativeAI:
+        """Khởi tạo đối tượng GoogleGenerativeAI từ cấu hình LLMConfig."""
+        # Đảm bảo rằng model và các tham số khác được truyền đúng
+        return GoogleGenerativeAI(
+            model=self.LLM_Config.model,  # Truyền model từ LLMConfig
+            temperature=self.LLM_Config.temperature,
+            max_tokens=self.LLM_Config.max_tokens,
+            api_key=self.LLM_Config.api_key,  # Nếu có
+        )
+
+
     def update_from_env(self) -> None:
         """Update configuration from environment variables."""
         # LLM settings
-        if os.getenv("OPENAI_API_KEY"):
-            self.llm.api_key = os.getenv("OPENAI_API_KEY")
+        if os.getenv("GOOGLE_API_KEY"):
+            self.llm.api_key = os.getenv("GOOGLE_API_KEY")
 
         # Tool settings
         if os.getenv("GOOGLE_API_KEY"):
