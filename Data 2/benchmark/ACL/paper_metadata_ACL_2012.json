@@ -1,0 +1,2433 @@
+{
+    "duh-etal-2012-learning": {
+        "TITLE": "Learning to Translate with Multiple Objectives",
+        "AUTHORS": "Duh, Kevin  and Sudoh, Katsuhito  and Wu, Xianchao  and Tsukada, Hajime  and Nagata, Masaaki",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "simianer-etal-2012-joint": {
+        "TITLE": "Joint Feature Selection in Distributed Stochastic Learning for Large-Scale Discriminative Training in SMT",
+        "AUTHORS": "Simianer, Patrick  and Riezler, Stefan  and Dyer, Chris",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "kolachina-etal-2012-prediction": {
+        "TITLE": "Prediction of Learning Curves in Machine Translation",
+        "AUTHORS": "Kolachina, Prasanth  and Cancedda, Nicola  and Dymetman, Marc  and Venkatapathy, Sriram",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "sim-2012-probabilistic": {
+        "TITLE": "Probabilistic Integration of Partial Lexical Information for Noise Robust Haptic Voice Recognition",
+        "AUTHORS": "Sim, Khe Chai",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "lee-glass-2012-nonparametric": {
+        "TITLE": "A Nonparametric Bayesian Approach to Acoustic Model Discovery",
+        "AUTHORS": "Lee, Chia-ying  and Glass, James",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "peng-etal-2012-automated": {
+        "TITLE": "Automated Essay Scoring Based on Finite State Transducer: towards ASR Transcription of Oral English Speech",
+        "AUTHORS": "Peng, Xingyuan  and Ke, Dengfeng  and Xu, Bo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "feng-hirst-2012-text": {
+        "TITLE": "Text-level Discourse Parsing with Rich Linguistic Features",
+        "AUTHORS": "Feng, Vanessa Wei  and Hirst, Graeme",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "zhou-xue-2012-pdtb": {
+        "TITLE": "PDTB-style Discourse Annotation of Chinese Text",
+        "AUTHORS": "Zhou, Yuping  and Xue, Nianwen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "nguyen-etal-2012-sits": {
+        "TITLE": "SITS: A Hierarchical Nonparametric Model using Speaker Identity for Topic Segmentation in Multiparty Conversations",
+        "AUTHORS": "Nguyen, Viet-An  and Boyd-Graber, Jordan  and Resnik, Philip",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "kolomiyets-etal-2012-extracting": {
+        "TITLE": "Extracting Narrative Timelines as Temporal Dependency Structures",
+        "AUTHORS": "Kolomiyets, Oleksandr  and Bethard, Steven  and Moens, Marie-Francine",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "chambers-2012-labeling": {
+        "TITLE": "Labeling Documents with Timestamps: Learning from their Time Expressions",
+        "AUTHORS": "Chambers, Nathanael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "garrido-etal-2012-temporally": {
+        "TITLE": "Temporally Anchored Relation Extraction",
+        "AUTHORS": "Garrido, Guillermo  and Peñas, Anselmo  and Cabaleiro, Bernardo  and Rodrigo, Álvaro",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "berant-etal-2012-efficient": {
+        "TITLE": "Efficient Tree-based Approximation for Entailment Graph Learning",
+        "AUTHORS": "Berant, Jonathan  and Dagan, Ido  and Adler, Meni  and Goldberger, Jacob",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "branavan-etal-2012-learning": {
+        "TITLE": "Learning High-Level Planning from Text",
+        "AUTHORS": "Branavan, S.R.K.  and Kushman, Nate  and Lei, Tao  and Barzilay, Regina",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "bruni-etal-2012-distributional": {
+        "TITLE": "Distributional Semantics in Technicolor",
+        "AUTHORS": "Bruni, Elia  and Boleda, Gemma  and Baroni, Marco  and Tran, Nam-Khanh",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "green-denero-2012-class": {
+        "TITLE": "A Class-Based Agreement Model for Generating Accurately Inflected Translations",
+        "AUTHORS": "Green, Spence  and DeNero, John",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "nuhn-etal-2012-deciphering": {
+        "TITLE": "Deciphering Foreign Language by Combining Language Models and Context Vectors",
+        "AUTHORS": "Nuhn, Malte  and Mauser, Arne  and Ney, Hermann",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "neubig-etal-2012-machine": {
+        "TITLE": "Machine Translation without Words through Substring Alignment",
+        "AUTHORS": "Neubig, Graham  and Watanabe, Taro  and Mori, Shinsuke  and Kawahara, Tatsuya",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "rastrow-etal-2012-fast": {
+        "TITLE": "Fast Syntactic Analysis for Statistical Language Modeling via Substructure Sharing and Uptraining",
+        "AUTHORS": "Rastrow, Ariya  and Dredze, Mark  and Khudanpur, Sanjeev",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "elsner-etal-2012-bootstrapping": {
+        "TITLE": "Bootstrapping a Unified Model of Lexical and Phonetic Acquisition",
+        "AUTHORS": "Elsner, Micha  and Goldwater, Sharon  and Eisenstein, Jacob",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "tang-etal-2012-discriminative": {
+        "TITLE": "Discriminative Pronunciation Modeling: A Large-Margin, Feature-Rich Approach",
+        "AUTHORS": "Tang, Hao  and Keshet, Joseph  and Livescu, Karen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "constant-etal-2012-discriminative": {
+        "TITLE": "Discriminative Strategies to Integrate Multiword Expression Recognition and Parsing",
+        "AUTHORS": "Constant, Matthieu  and Sigogne, Anthony  and Watrin, Patrick",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-etal-2012-utilizing": {
+        "TITLE": "Utilizing Dependency Language Models for Graph-based Dependency Parsing Models",
+        "AUTHORS": "Chen, Wenliang  and Zhang, Min  and Li, Haizhou",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "cohen-etal-2012-spectral": {
+        "TITLE": "Spectral Learning of Latent-Variable PCFGs",
+        "AUTHORS": "Cohen, Shay B.  and Stratos, Karl  and Collins, Michael  and Foster, Dean P.  and Ungar, Lyle",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "sun-wan-2012-reducing": {
+        "TITLE": "Reducing Approximation and Estimation Errors for Chinese Lexical Processing with Heterogeneous Annotations",
+        "AUTHORS": "Sun, Weiwei  and Wan, Xiaojun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "sun-uszkoreit-2012-capturing": {
+        "TITLE": "Capturing Paradigmatic and Syntagmatic Lexical Relations: Towards Accurate Chinese Part-of-Speech Tagging",
+        "AUTHORS": "Sun, Weiwei  and Uszkoreit, Hans",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "sun-etal-2012-fast": {
+        "TITLE": "Fast Online Training with Frequency-Adaptive Learning Rates for Chinese Word Segmentation and New Word Detection",
+        "AUTHORS": "Sun, Xu  and Wang, Houfeng  and Li, Wenjie",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "croce-etal-2012-verb": {
+        "TITLE": "Verb Classification using Distributional Similarity in Syntactic and Semantic Structures",
+        "AUTHORS": "Croce, Danilo  and Moschitti, Alessandro  and Basili, Roberto  and Palmer, Martha",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "zhong-ng-2012-word": {
+        "TITLE": "Word Sense Disambiguation Improves Information Retrieval",
+        "AUTHORS": "Zhong, Zhi  and Ng, Hwee Tou",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "stern-etal-2012-efficient": {
+        "TITLE": "Efficient Search for Transformation-based Inference",
+        "AUTHORS": "Stern, Asher  and Stern, Roni  and Dagan, Ido  and Felner, Ariel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "he-deng-2012-maximum": {
+        "TITLE": "Maximum Expected BLEU Training of Phrase and Lexicon Translation Models",
+        "AUTHORS": "He, Xiaodong  and Deng, Li",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "liu-etal-2012-learning": {
+        "TITLE": "Learning Translation Consensus with Structured Label Propagation",
+        "AUTHORS": "Liu, Shujie  and Li, Chi-Ho  and Li, Mu  and Zhou, Ming",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "vaswani-etal-2012-smaller": {
+        "TITLE": "Smaller Alignment Models for Better Translations: Unsupervised Word Alignment with the l0-norm",
+        "AUTHORS": "Vaswani, Ashish  and Huang, Liang  and Chiang, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "mukherjee-liu-2012-modeling": {
+        "TITLE": "Modeling Review Comments",
+        "AUTHORS": "Mukherjee, Arjun  and Liu, Bing",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "celikyilmaz-hakkani-tur-2012-joint": {
+        "TITLE": "A Joint Model for Discovery of Aspects in Utterances",
+        "AUTHORS": "Celikyilmaz, Asli  and Hakkani-Tur, Dilek",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "mukherjee-liu-2012-aspect": {
+        "TITLE": "Aspect Extraction through Semi-Supervised Modeling",
+        "AUTHORS": "Mukherjee, Arjun  and Liu, Bing",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1036.bib",
+            "SUPP": ""
+        }
+    },
+    "raghavan-etal-2012-learning": {
+        "TITLE": "Learning to “Read Between the Lines” using Bayesian Logic Programs",
+        "AUTHORS": "Raghavan, Sindhu  and Mooney, Raymond  and Ku, Hyeonseo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1037.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1037.bib",
+            "SUPP": ""
+        }
+    },
+    "kuznetsova-etal-2012-collective": {
+        "TITLE": "Collective Generation of Natural Image Descriptions",
+        "AUTHORS": "Kuznetsova, Polina  and Ordonez, Vicente  and Berg, Alexander  and Berg, Tamara  and Choi, Yejin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1038.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1038.bib",
+            "SUPP": ""
+        }
+    },
+    "konstas-lapata-2012-concept": {
+        "TITLE": "Concept-to-text Generation via Discriminative Reranking",
+        "AUTHORS": "Konstas, Ioannis  and Lapata, Mirella",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1039.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1039.bib",
+            "SUPP": ""
+        }
+    },
+    "wick-etal-2012-discriminative": {
+        "TITLE": "A Discriminative Hierarchical Model for Fast Coreference at Large Scale",
+        "AUTHORS": "Wick, Michael  and Singh, Sameer  and McCallum, Andrew",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1040.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1040.bib",
+            "SUPP": ""
+        }
+    },
+    "bansal-klein-2012-coreference": {
+        "TITLE": "Coreference Semantics from Web Features",
+        "AUTHORS": "Bansal, Mohit  and Klein, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1041.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1041.bib",
+            "SUPP": ""
+        }
+    },
+    "abu-jbara-etal-2012-subgroup": {
+        "TITLE": "Subgroup Detection in Ideological Discussions",
+        "AUTHORS": "Abu-Jbara, Amjad  and Dasigi, Pradeep  and Diab, Mona  and Radev, Dragomir",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1042.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1042.bib",
+            "SUPP": ""
+        }
+    },
+    "li-etal-2012-cross": {
+        "TITLE": "Cross-Domain Co-Extraction of Sentiment and Topic Lexicons",
+        "AUTHORS": "Li, Fangtao  and Pan, Sinno Jialin  and Jin, Ou  and Yang, Qiang  and Zhu, Xiaoyan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1043.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1043.bib",
+            "SUPP": ""
+        }
+    },
+    "lippincott-etal-2012-learning": {
+        "TITLE": "Learning Syntactic Verb Frames using Graphical Models",
+        "AUTHORS": "Lippincott, Thomas  and Korhonen, Anna  and Ó Séaghdha, Diarmuid",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1044.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1044.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-2012-fast": {
+        "TITLE": "Fast Online Lexicon Learning for Grounded Language Acquisition",
+        "AUTHORS": "Chen, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1045.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1045.bib",
+            "SUPP": ""
+        }
+    },
+    "shindo-etal-2012-bayesian": {
+        "TITLE": "Bayesian Symbol-Refined Tree Substitution Grammars for Syntactic Parsing",
+        "AUTHORS": "Shindo, Hiroyuki  and Miyao, Yusuke  and Fujino, Akinori  and Nagata, Masaaki",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1046.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1046.bib",
+            "SUPP": ""
+        }
+    },
+    "bu-etal-2012-string": {
+        "TITLE": "String Re-writing Kernel",
+        "AUTHORS": "Bu, Fan  and Li, Hang  and Zhu, Xiaoyan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1047.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1047.bib",
+            "SUPP": ""
+        }
+    },
+    "su-etal-2012-translation": {
+        "TITLE": "Translation Model Adaptation for Statistical Machine Translation with Monolingual Topic Information",
+        "AUTHORS": "Su, Jinsong  and Wu, Hua  and Wang, Haifeng  and Chen, Yidong  and Shi, Xiaodong  and Dong, Huailin  and Liu, Qun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1048.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1048.bib",
+            "SUPP": ""
+        }
+    },
+    "sajjad-etal-2012-statistical": {
+        "TITLE": "A Statistical Model for Unsupervised and Semi-supervised Transliteration Mining",
+        "AUTHORS": "Sajjad, Hassan  and Fraser, Alexander  and Schmid, Helmut",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1049.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1049.bib",
+            "SUPP": ""
+        }
+    },
+    "bisazza-federico-2012-modified": {
+        "TITLE": "Modified Distortion Matrices for Phrase-Based Statistical Machine Translation",
+        "AUTHORS": "Bisazza, Arianna  and Federico, Marcello",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1050.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1050.bib",
+            "SUPP": ""
+        }
+    },
+    "jones-etal-2012-semantic": {
+        "TITLE": "Semantic Parsing with Bayesian Tree Transducers",
+        "AUTHORS": "Jones, Bevan  and Johnson, Mark  and Goldwater, Sharon",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1051.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1051.bib",
+            "SUPP": ""
+        }
+    },
+    "ng-curran-2012-dependency": {
+        "TITLE": "Dependency Hashing for n-best CCG Parsing",
+        "AUTHORS": "Ng, Dominick  and Curran, James R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1052.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1052.bib",
+            "SUPP": ""
+        }
+    },
+    "maletti-engelfriet-2012-strong": {
+        "TITLE": "Strong Lexicalization of Tree Adjoining Grammars",
+        "AUTHORS": "Maletti, Andreas  and Engelfriet, Joost",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1053.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1053.bib",
+            "SUPP": ""
+        }
+    },
+    "yan-etal-2012-tweet": {
+        "TITLE": "Tweet Recommendation with Graph Co-Ranking",
+        "AUTHORS": "Yan, Rui  and Lapata, Mirella  and Li, Xiaoming",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1054.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1054.bib",
+            "SUPP": ""
+        }
+    },
+    "liu-etal-2012-joint": {
+        "TITLE": "Joint Inference of Named Entity Recognition and Normalization for Tweets",
+        "AUTHORS": "Liu, Xiaohua  and Zhou, Ming  and Zhou, Xiangyang  and Fu, Zhongyang  and Wei, Furu",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1055.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1055.bib",
+            "SUPP": ""
+        }
+    },
+    "diao-etal-2012-finding": {
+        "TITLE": "Finding Bursty Topics from Microblogs",
+        "AUTHORS": "Diao, Qiming  and Jiang, Jing  and Zhu, Feida  and Lim, Ee-Peng",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1056.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1056.bib",
+            "SUPP": ""
+        }
+    },
+    "druck-pang-2012-spice": {
+        "TITLE": "Spice it up? Mining Refinements to Online Instructions from User Generated Content",
+        "AUTHORS": "Druck, Gregory  and Pang, Bo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1057.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1057.bib",
+            "SUPP": ""
+        }
+    },
+    "qu-liu-2012-sentence": {
+        "TITLE": "Sentence Dependency Tagging in Online Question Answering Forums",
+        "AUTHORS": "Qu, Zhonghua  and Liu, Yang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1058.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1058.bib",
+            "SUPP": ""
+        }
+    },
+    "pantel-etal-2012-mining": {
+        "TITLE": "Mining Entity Types from Query Logs via User Intent Modeling",
+        "AUTHORS": "Pantel, Patrick  and Lin, Thomas  and Gamon, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1059.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1059.bib",
+            "SUPP": ""
+        }
+    },
+    "meng-etal-2012-cross": {
+        "TITLE": "Cross-Lingual Mixture Model for Sentiment Classification",
+        "AUTHORS": "Meng, Xinfan  and Wei, Furu  and Liu, Xiaohua  and Zhou, Ming  and Xu, Ge  and Wang, Houfeng",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1060.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1060.bib",
+            "SUPP": ""
+        }
+    },
+    "chan-etal-2012-community": {
+        "TITLE": "Community Answer Summarization for Multi-Sentence Question with Group L1 Regularization",
+        "AUTHORS": "Chan, Wen  and Zhou, Xiangdong  and Wang, Wei  and Chua, Tat-Seng",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1061.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1061.bib",
+            "SUPP": ""
+        }
+    },
+    "gardent-narayan-2012-error": {
+        "TITLE": "Error Mining on Dependency Trees",
+        "AUTHORS": "Gardent, Claire  and Narayan, Shashi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1062.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1062.bib",
+            "SUPP": ""
+        }
+    },
+    "zweig-etal-2012-computational": {
+        "TITLE": "Computational Approaches to Sentence Completion",
+        "AUTHORS": "Zweig, Geoffrey  and Platt, John C.  and Meek, Christopher  and Burges, Christopher J.C.  and Yessenalina, Ainur  and Liu, Qiang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1063.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1063.bib",
+            "SUPP": ""
+        }
+    },
+    "huang-etal-2012-iterative": {
+        "TITLE": "Iterative Viterbi A* Algorithm for K-Best Sequential Decoding",
+        "AUTHORS": "Huang, Zhiheng  and Chang, Yi  and Long, Bo  and Crespo, Jean-Francois  and Dong, Anlei  and Keerthi, Sathiya  and Wu, Su-Lin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1064.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1064.bib",
+            "SUPP": ""
+        }
+    },
+    "whitney-sarkar-2012-bootstrapping": {
+        "TITLE": "Bootstrapping via Graph Propagation",
+        "AUTHORS": "Whitney, Max  and Sarkar, Anoop",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1065.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1065.bib",
+            "SUPP": ""
+        }
+    },
+    "naseem-etal-2012-selective": {
+        "TITLE": "Selective Sharing for Multilingual Dependency Parsing",
+        "AUTHORS": "Naseem, Tahira  and Barzilay, Regina  and Globerson, Amir",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1066.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1066.bib",
+            "SUPP": ""
+        }
+    },
+    "wilson-2012-creation": {
+        "TITLE": "The Creation of a Corpus of English Metalanguage",
+        "AUTHORS": "Wilson, Shomir",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1067.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1067.bib",
+            "SUPP": ""
+        }
+    },
+    "titov-klementiev-2012-crosslingual": {
+        "TITLE": "Crosslingual Induction of Semantic Roles",
+        "AUTHORS": "Titov, Ivan  and Klementiev, Alexandre",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1068.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1068.bib",
+            "SUPP": ""
+        }
+    },
+    "hayashi-etal-2012-head": {
+        "TITLE": "Head-driven Transition-based Parsing with Top-down Prediction",
+        "AUTHORS": "Hayashi, Katsuhiko  and Watanabe, Taro  and Asahara, Masayuki  and Matsumoto, Yuji",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1069.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1069.bib",
+            "SUPP": ""
+        }
+    },
+    "kanazawa-salvati-2012-mix": {
+        "TITLE": "MIX Is Not a Tree-Adjoining Language",
+        "AUTHORS": "Kanazawa, Makoto  and Salvati, Sylvain",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1070.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1070.bib",
+            "SUPP": ""
+        }
+    },
+    "li-etal-2012-exploiting": {
+        "TITLE": "Exploiting Multiple Treebanks for Parsing with Quasi-synchronous Grammars",
+        "AUTHORS": "Li, Zhenghua  and Liu, Ting  and Che, Wanxiang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1071.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1071.bib",
+            "SUPP": ""
+        }
+    },
+    "yogatama-etal-2012-probabilistic": {
+        "TITLE": "A Probabilistic Model for Canonicalizing Named Entity Mentions",
+        "AUTHORS": "Yogatama, Dani  and Sim, Yanchuan  and Smith, Noah A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1072.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1072.bib",
+            "SUPP": ""
+        }
+    },
+    "kim-etal-2012-multilingual": {
+        "TITLE": "Multilingual Named Entity Recognition using Parallel Data and Metadata from Wikipedia",
+        "AUTHORS": "Kim, Sungchul  and Toutanova, Kristina  and Yu, Hwanjo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1073.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1073.bib",
+            "SUPP": ""
+        }
+    },
+    "ozbal-strapparava-2012-computational": {
+        "TITLE": "A Computational Approach to the Automation of Creative Naming",
+        "AUTHORS": "Özbal, Gözde  and Strapparava, Carlo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1074.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1074.bib",
+            "SUPP": ""
+        }
+    },
+    "yao-etal-2012-unsupervised": {
+        "TITLE": "Unsupervised Relation Discovery with Sense Disambiguation",
+        "AUTHORS": "Yao, Limin  and Riedel, Sebastian  and McCallum, Andrew",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1075.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1075.bib",
+            "SUPP": ""
+        }
+    },
+    "takamatsu-etal-2012-reducing": {
+        "TITLE": "Reducing Wrong Labels in Distant Supervision for Relation Extraction",
+        "AUTHORS": "Takamatsu, Shingo  and Sato, Issei  and Nakagawa, Hiroshi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1076.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1076.bib",
+            "SUPP": ""
+        }
+    },
+    "kessler-etal-2012-finding": {
+        "TITLE": "Finding Salient Dates for Building Thematic Timelines",
+        "AUTHORS": "Kessler, Rémy  and Tannier, Xavier  and Hagège, Caroline  and Moriceau, Véronique  and Bittar, André",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1077.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1077.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-etal-2012-historical": {
+        "TITLE": "Historical Analysis of Legal Opinions with a Sparse Mixed-Effects Latent Variable Model",
+        "AUTHORS": "Wang, William Yang  and Mayfield, Elijah  and Naidu, Suresh  and Dittmar, Jeremiah",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1078.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1078.bib",
+            "SUPP": ""
+        }
+    },
+    "xiao-etal-2012-topic": {
+        "TITLE": "A Topic Similarity Model for Hierarchical Phrase-based Translation",
+        "AUTHORS": "Xiao, Xinyan  and Xiong, Deyi  and Zhang, Min  and Liu, Qun  and Lin, Shouxun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1079.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1079.bib",
+            "SUPP": ""
+        }
+    },
+    "moschitti-etal-2012-modeling": {
+        "TITLE": "Modeling Topic Dependencies in Hierarchical Text Categorization",
+        "AUTHORS": "Moschitti, Alessandro  and Ju, Qi  and Johansson, Richard",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1080.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1080.bib",
+            "SUPP": ""
+        }
+    },
+    "pitler-2012-attacking": {
+        "TITLE": "Attacking Parsing Bottlenecks with Unlabeled Data and Relevant Factorizations",
+        "AUTHORS": "Pitler, Emily",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1081.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1081.bib",
+            "SUPP": ""
+        }
+    },
+    "mirroshandel-etal-2012-semi": {
+        "TITLE": "Semi-supervised Dependency Parsing using Lexical Affinities",
+        "AUTHORS": "Mirroshandel, Seyed Abolghasem  and Nasr, Alexis  and Le Roux, Joseph",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1082.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1082.bib",
+            "SUPP": ""
+        }
+    },
+    "yang-xue-2012-chinese": {
+        "TITLE": "Chinese Comma Disambiguation for Discourse Analysis",
+        "AUTHORS": "Yang, Yaqin  and Xue, Nianwen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1083.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1083.bib",
+            "SUPP": ""
+        }
+    },
+    "markert-etal-2012-collective": {
+        "TITLE": "Collective Classification for Fine-grained Information Status",
+        "AUTHORS": "Markert, Katja  and Hou, Yufang  and Strube, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1084.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1084.bib",
+            "SUPP": ""
+        }
+    },
+    "mauge-etal-2012-structuring": {
+        "TITLE": "Structuring E-Commerce Inventory",
+        "AUTHORS": "Mauge, Karin  and Rohanimanesh, Khash  and Ruvini, Jean-David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1085.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1085.bib",
+            "SUPP": ""
+        }
+    },
+    "davis-etal-2012-named": {
+        "TITLE": "Named Entity Disambiguation in Streaming Data",
+        "AUTHORS": "Davis, Alexandre  and Veloso, Adriano  and Soares, Altigran  and Laender, Alberto  and Meira Jr., Wagner",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1086.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1086.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-etal-2012-big": {
+        "TITLE": "Big Data versus the Crowd: Looking for Relationships in All the Right Places",
+        "AUTHORS": "Zhang, Ce  and Niu, Feng  and Ré, Christopher  and Shavlik, Jude",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1087.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1087.bib",
+            "SUPP": ""
+        }
+    },
+    "lu-roth-2012-automatic": {
+        "TITLE": "Automatic Event Extraction with Structured Preference Modeling",
+        "AUTHORS": "Lu, Wei  and Roth, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1088.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1088.bib",
+            "SUPP": ""
+        }
+    },
+    "minkov-zettlemoyer-2012-discriminative": {
+        "TITLE": "Discriminative Learning for Joint Template Filling",
+        "AUTHORS": "Minkov, Einat  and Zettlemoyer, Luke",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1089.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1089.bib",
+            "SUPP": ""
+        }
+    },
+    "falk-etal-2012-classifying": {
+        "TITLE": "Classifying French Verbs Using French and English Lexical Resources",
+        "AUTHORS": "Falk, Ingrid  and Gardent, Claire  and Lamirel, Jean-Charles",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1090.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1090.bib",
+            "SUPP": ""
+        }
+    },
+    "guo-diab-2012-modeling": {
+        "TITLE": "Modeling Sentences in the Latent Space",
+        "AUTHORS": "Guo, Weiwei  and Diab, Mona",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1091.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1091.bib",
+            "SUPP": ""
+        }
+    },
+    "huang-etal-2012-improving": {
+        "TITLE": "Improving Word Representations via Global Context and Multiple Word Prototypes",
+        "AUTHORS": "Huang, Eric  and Socher, Richard  and Manning, Christopher  and Ng, Andrew",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1092.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1092.bib",
+            "SUPP": ""
+        }
+    },
+    "johnson-etal-2012-exploiting": {
+        "TITLE": "Exploiting Social Information in Grounded Language Learning via Grammatical Reduction",
+        "AUTHORS": "Johnson, Mark  and Demuth, Katherine  and Frank, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1093.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1093.bib",
+            "SUPP": ""
+        }
+    },
+    "danescu-niculescu-mizil-etal-2012-hello": {
+        "TITLE": "You Had Me at Hello: How Phrasing Affects Memorability",
+        "AUTHORS": "Danescu-Niculescu-Mizil, Cristian  and Cheng, Justin  and Kleinberg, Jon  and Lee, Lillian",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1094.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1094.bib",
+            "SUPP": ""
+        }
+    },
+    "xiong-etal-2012-modeling": {
+        "TITLE": "Modeling the Translation of Predicate-Argument Structure for SMT",
+        "AUTHORS": "Xiong, Deyi  and Zhang, Min  and Li, Haizhou",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1095.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1095.bib",
+            "SUPP": ""
+        }
+    },
+    "yang-etal-2012-ranking": {
+        "TITLE": "A Ranking-based Approach to Word Reordering for Statistical Machine Translation",
+        "AUTHORS": "Yang, Nan  and Li, Mu  and Zhang, Dongdong  and Yu, Nenghai",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1096.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1096.bib",
+            "SUPP": ""
+        }
+    },
+    "liu-ng-2012-character": {
+        "TITLE": "Character-Level Machine Translation Evaluation for Languages with Ambiguous Word Boundaries",
+        "AUTHORS": "Liu, Chang  and Ng, Hwee Tou",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1097.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1097.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-etal-2012-port": {
+        "TITLE": "PORT: a Precision-Order-Recall MT Evaluation Metric for Tuning",
+        "AUTHORS": "Chen, Boxing  and Kuhn, Roland  and Larkin, Samuel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1098.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1098.bib",
+            "SUPP": ""
+        }
+    },
+    "razmara-etal-2012-mixing": {
+        "TITLE": "Mixing Multiple Translation Models in Statistical Machine Translation",
+        "AUTHORS": "Razmara, Majid  and Foster, George  and Sankaran, Baskaran  and Sarkar, Anoop",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1099.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1099.bib",
+            "SUPP": ""
+        }
+    },
+    "feng-etal-2012-hierarchical": {
+        "TITLE": "Hierarchical Chunk-to-String Translation",
+        "AUTHORS": "Feng, Yang  and Zhang, Dongdong  and Li, Mu  and Liu, Qun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1100.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1100.bib",
+            "SUPP": ""
+        }
+    },
+    "pauls-klein-2012-large": {
+        "TITLE": "Large-Scale Syntactic Language Modeling with Treelets",
+        "AUTHORS": "Pauls, Adam  and Klein, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1101.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1101.bib",
+            "SUPP": ""
+        }
+    },
+    "yamaguchi-tanaka-ishii-2012-text": {
+        "TITLE": "Text Segmentation by Language Using Minimum Description Length",
+        "AUTHORS": "Yamaguchi, Hiroshi  and Tanaka-Ishii, Kumiko",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1102.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1102.bib",
+            "SUPP": ""
+        }
+    },
+    "he-etal-2012-improve": {
+        "TITLE": "Improve SMT Quality with Automatically Extracted Paraphrase Rules",
+        "AUTHORS": "He, Wei  and Wu, Hua  and Wang, Haifeng  and Liu, Ting",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1103.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1103.bib",
+            "SUPP": ""
+        }
+    },
+    "guerini-etal-2012-ecological": {
+        "TITLE": "Ecological Evaluation of Persuasive Messages Using Google AdWords",
+        "AUTHORS": "Guerini, Marco  and Strapparava, Carlo  and Stock, Oliviero",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1104.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1104.bib",
+            "SUPP": ""
+        }
+    },
+    "dragut-etal-2012-polarity": {
+        "TITLE": "Polarity Consistency Checking for Sentiment Dictionaries",
+        "AUTHORS": "Dragut, Eduard  and Wang, Hong  and Yu, Clement  and Sistla, Prasad  and Meng, Weiyi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1105.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1105.bib",
+            "SUPP": ""
+        }
+    },
+    "lin-etal-2012-combining": {
+        "TITLE": "Combining Coherence Models and Machine Translation Evaluation Metrics for Summarization Evaluation",
+        "AUTHORS": "Lin, Ziheng  and Liu, Chang  and Ng, Hwee Tou  and Kan, Min-Yen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1106.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1106.bib",
+            "SUPP": ""
+        }
+    },
+    "wubben-etal-2012-sentence": {
+        "TITLE": "Sentence Simplification by Monolingual Machine Translation",
+        "AUTHORS": "Wubben, Sander  and van den Bosch, Antal  and Krahmer, Emiel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1107.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1107.bib",
+            "SUPP": ""
+        }
+    },
+    "song-etal-2012-cost": {
+        "TITLE": "A Cost Sensitive Part-of-Speech Tagging: Differentiating Serious Errors from Minor Errors",
+        "AUTHORS": "Song, Hyun-Je  and Son, Jeong-Woo  and Noh, Tae-Gil  and Park, Seong-Bae  and Lee, Sang-Jo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1108.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1108.bib",
+            "SUPP": ""
+        }
+    },
+    "liu-etal-2012-broad": {
+        "TITLE": "A Broad-Coverage Normalization System for Social Media Language",
+        "AUTHORS": "Liu, Fei  and Weng, Fuliang  and Jiang, Xiao",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1109.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1109.bib",
+            "SUPP": ""
+        }
+    },
+    "hatori-etal-2012-incremental": {
+        "TITLE": "Incremental Joint Approach to Word Segmentation, POS Tagging, and Dependency Parsing in Chinese",
+        "AUTHORS": "Hatori, Jun  and Matsuzaki, Takuya  and Miyao, Yusuke  and Tsujii, Jun′ichi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1110.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1110.bib",
+            "SUPP": ""
+        }
+    },
+    "zhao-marcus-2012-exploring": {
+        "TITLE": "Exploring Deterministic Constraints: from a Constrained English POS Tagger to an Efficient ILP Solution to Chinese Word Segmentation",
+        "AUTHORS": "Zhao, Qiuye  and Marcus, Mitch",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-1111.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-1111.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-kit-2012-higher": {
+        "TITLE": "Higher-order Constituent Parsing and Parser Combination",
+        "AUTHORS": "Chen, Xiao  and Kit, Chunyu",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2001.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2001.bib",
+            "SUPP": ""
+        }
+    },
+    "tsarfaty-etal-2012-joint": {
+        "TITLE": "Joint Evaluation of Morphological Segmentation and Syntactic Parsing",
+        "AUTHORS": "Tsarfaty, Reut  and Nivre, Joakim  and Andersson, Evelina",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2002.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2002.bib",
+            "SUPP": ""
+        }
+    },
+    "che-etal-2012-comparison": {
+        "TITLE": "A Comparison of Chinese Parsers for Stanford Dependencies",
+        "AUTHORS": "Che, Wanxiang  and Spitkovsky, Valentin  and Liu, Ting",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2003.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2003.bib",
+            "SUPP": ""
+        }
+    },
+    "golland-etal-2012-feature": {
+        "TITLE": "A Feature-Rich Constituent Context Model for Grammar Induction",
+        "AUTHORS": "Golland, Dave  and DeNero, John  and Uszkoreit, Jakob",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2004.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2004.bib",
+            "SUPP": ""
+        }
+    },
+    "cancedda-2012-private": {
+        "TITLE": "Private Access to Phrase Tables for Statistical Machine Translation",
+        "AUTHORS": "Cancedda, Nicola",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2005.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2005.bib",
+            "SUPP": ""
+        }
+    },
+    "wuebker-etal-2012-fast": {
+        "TITLE": "Fast and Scalable Decoding with Language Model Look-Ahead for Phrase-based Statistical Machine Translation",
+        "AUTHORS": "Wuebker, Joern  and Ney, Hermann  and Zens, Richard",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2006.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2006.bib",
+            "SUPP": ""
+        }
+    },
+    "li-etal-2012-head": {
+        "TITLE": "Head-Driven Hierarchical Phrase-based Translation",
+        "AUTHORS": "Li, Junhui  and Tu, Zhaopeng  and Zhou, Guodong  and van Genabith, Josef",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2007.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2007.bib",
+            "SUPP": ""
+        }
+    },
+    "sun-zhou-2012-joint": {
+        "TITLE": "Joint Learning of a Dual SMT System for Paraphrase Generation",
+        "AUTHORS": "Sun, Hong  and Zhou, Ming",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2008.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2008.bib",
+            "SUPP": ""
+        }
+    },
+    "zhao-etal-2012-novel": {
+        "TITLE": "A Novel Burst-based Text Representation Model for Scalable Event Detection",
+        "AUTHORS": "Zhao, Xin  and Chen, Rishan  and Fan, Kai  and Yan, Hongfei  and Li, Xiaoming",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2009.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2009.bib",
+            "SUPP": ""
+        }
+    },
+    "kim-lee-2012-graph": {
+        "TITLE": "A Graph-based Cross-lingual Projection Approach for Weakly Supervised Relation Extraction",
+        "AUTHORS": "Kim, Seokhwan  and Lee, Gary Geunbae",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2010.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2010.bib",
+            "SUPP": ""
+        }
+    },
+    "alfonseca-etal-2012-pattern": {
+        "TITLE": "Pattern Learning for Relation Extraction with a Hierarchical Topic Model",
+        "AUTHORS": "Alfonseca, Enrique  and Filippova, Katja  and Delort, Jean-Yves  and Garrido, Guillermo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2011.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2011.bib",
+            "SUPP": ""
+        }
+    },
+    "bak-etal-2012-self": {
+        "TITLE": "Self-Disclosure and Relationship Strength in Twitter Conversations",
+        "AUTHORS": "Bak, JinYeong  and Kim, Suin  and Oh, Alice",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2012.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2012.bib",
+            "SUPP": ""
+        }
+    },
+    "dasigi-etal-2012-genre": {
+        "TITLE": "Genre Independent Subgroup Detection in Online Discussion Threads: A Study of Implicit Attitude using Textual Latent Semantics",
+        "AUTHORS": "Dasigi, Pradeep  and Guo, Weiwei  and Diab, Mona",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2013.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2013.bib",
+            "SUPP": ""
+        }
+    },
+    "raghavan-etal-2012-learning-temporally": {
+        "TITLE": "Learning to Temporally Order Medical Events in Clinical Text",
+        "AUTHORS": "Raghavan, Preethi  and Lai, Albert  and Fosler-Lussier, Eric",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2014.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2014.bib",
+            "SUPP": ""
+        }
+    },
+    "veale-2012-context": {
+        "TITLE": "A Context-sensitive, Multi-faceted Model of Lexico-Conceptual Affect",
+        "AUTHORS": "Veale, Tony",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2015.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2015.bib",
+            "SUPP": ""
+        }
+    },
+    "reddy-knight-2012-decoding": {
+        "TITLE": "Decoding Running Key Ciphers",
+        "AUTHORS": "Reddy, Sravana  and Knight, Kevin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2016.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2016.bib",
+            "SUPP": ""
+        }
+    },
+    "borschinger-johnson-2012-using": {
+        "TITLE": "Using Rejuvenation to Improve Particle Filtering for Bayesian Word Segmentation",
+        "AUTHORS": "Börschinger, Benjamin  and Johnson, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2017.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2017.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-manning-2012-baselines": {
+        "TITLE": "Baselines and Bigrams: Simple, Good Sentiment and Topic Classification",
+        "AUTHORS": "Wang, Sida  and Manning, Christopher",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2018.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2018.bib",
+            "SUPP": ""
+        }
+    },
+    "sahakian-snyder-2012-automatically": {
+        "TITLE": "Automatically Learning Measures of Child Language Development",
+        "AUTHORS": "Sahakian, Sam  and Snyder, Benjamin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2019.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2019.bib",
+            "SUPP": ""
+        }
+    },
+    "wu-etal-2012-comparative": {
+        "TITLE": "A Comparative Study of Target Dependency Structures for Statistical Machine Translation",
+        "AUTHORS": "Wu, Xianchao  and Sudoh, Katsuhito  and Duh, Kevin  and Tsukada, Hajime  and Nagata, Masaaki",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2020.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2020.bib",
+            "SUPP": ""
+        }
+    },
+    "kummerfeld-etal-2012-robust": {
+        "TITLE": "Robust Conversion of CCG Derivations to Phrase Structure Trees",
+        "AUTHORS": "Kummerfeld, Jonathan K.  and Klein, Dan  and Curran, James R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2021.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2021.bib",
+            "SUPP": ""
+        }
+    },
+    "yamangil-shieber-2012-estimating": {
+        "TITLE": "Estimating Compact Yet Rich Tree Insertion Grammars",
+        "AUTHORS": "Yamangil, Elif  and Shieber, Stuart",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2022.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2022.bib",
+            "SUPP": ""
+        }
+    },
+    "eidelman-etal-2012-topic": {
+        "TITLE": "Topic Models for Dynamic Translation Model Adaptation",
+        "AUTHORS": "Eidelman, Vladimir  and Boyd-Graber, Jordan  and Resnik, Philip",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2023.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2023.bib",
+            "SUPP": ""
+        }
+    },
+    "mehdad-etal-2012-detecting": {
+        "TITLE": "Detecting Semantic Equivalence and Information Disparity in Cross-lingual Documents",
+        "AUTHORS": "Mehdad, Yashar  and Negri, Matteo  and Federico, Marcello",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2024.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2024.bib",
+            "SUPP": ""
+        }
+    },
+    "frermann-bond-2012-cross": {
+        "TITLE": "Cross-lingual Parse Disambiguation based on Semantic Correspondence",
+        "AUTHORS": "Frermann, Lea  and Bond, Francis",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2025.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2025.bib",
+            "SUPP": ""
+        }
+    },
+    "chang-etal-2012-learning": {
+        "TITLE": "Learning to Find Translations and Transliterations on the Web",
+        "AUTHORS": "Chang, Joseph Z.  and Chang, Jason S.  and Jang, Roger Jyh-Shing",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2026.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2026.bib",
+            "SUPP": ""
+        }
+    },
+    "garley-hockenmaier-2012-beefmoves": {
+        "TITLE": "Beefmoves: Dissemination, Diversity, and Dynamics of English Borrowings in a German Hip Hop Forum",
+        "AUTHORS": "Garley, Matt  and Hockenmaier, Julia",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2027.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2027.bib",
+            "SUPP": ""
+        }
+    },
+    "guo-diab-2012-learning": {
+        "TITLE": "Learning the Latent Semantics of a Concept from its Definition",
+        "AUTHORS": "Guo, Weiwei  and Diab, Mona",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2028.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2028.bib",
+            "SUPP": ""
+        }
+    },
+    "garg-henderson-2012-unsupervised": {
+        "TITLE": "Unsupervised Semantic Role Induction with Global Role Ordering",
+        "AUTHORS": "Garg, Nikhil  and Henderson, James",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2029.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2029.bib",
+            "SUPP": ""
+        }
+    },
+    "labutov-lipson-2012-humor": {
+        "TITLE": "Humor as Circuits in Semantic Networks",
+        "AUTHORS": "Labutov, Igor  and Lipson, Hod",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2030.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2030.bib",
+            "SUPP": ""
+        }
+    },
+    "zeichner-etal-2012-crowdsourcing": {
+        "TITLE": "Crowdsourcing Inference-Rule Evaluation",
+        "AUTHORS": "Zeichner, Naomi  and Berant, Jonathan  and Dagan, Ido",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2031.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2031.bib",
+            "SUPP": ""
+        }
+    },
+    "agarwal-etal-2012-comprehensive": {
+        "TITLE": "A Comprehensive Gold Standard for the Enron Organizational Hierarchy",
+        "AUTHORS": "Agarwal, Apoorv  and Omuya, Adinoyi  and Harnly, Aaron  and Rambow, Owen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2032.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2032.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-etal-2012-two": {
+        "TITLE": "A Two-step Approach to Sentence Compression of Spoken Utterances",
+        "AUTHORS": "Wang, Dong  and Qian, Xian  and Liu, Yang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2033.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2033.bib",
+            "SUPP": ""
+        }
+    },
+    "feng-etal-2012-syntactic": {
+        "TITLE": "Syntactic Stylometry for Deception Detection",
+        "AUTHORS": "Feng, Song  and Banerjee, Ritwik  and Choi, Yejin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2034.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2034.bib",
+            "SUPP": ""
+        }
+    },
+    "mohamed-etal-2012-transforming": {
+        "TITLE": "Transforming Standard Arabic to Colloquial Arabic",
+        "AUTHORS": "Mohamed, Emad  and Mohit, Behrang  and Oflazer, Kemal",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2035.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2035.bib",
+            "SUPP": ""
+        }
+    },
+    "benotti-etal-2012-corpus": {
+        "TITLE": "Corpus-based Interpretation of Instructions in Virtual Environments",
+        "AUTHORS": "Benotti, Luciana  and Villalba, Martín  and Lau, Tessa  and Cerruti, Julián",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2036.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2036.bib",
+            "SUPP": ""
+        }
+    },
+    "xue-etal-2012-automatically": {
+        "TITLE": "Automatically Mining Question Reformulation Patterns from Search Log Data",
+        "AUTHORS": "Xue, Xiaobing  and Tao, Yu  and Jiang, Daxin  and Li, Hang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2037.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2037.bib",
+            "SUPP": ""
+        }
+    },
+    "swanson-charniak-2012-native": {
+        "TITLE": "Native Language Detection with Tree Substitution Grammars",
+        "AUTHORS": "Swanson, Benjamin  and Charniak, Eugene",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2038.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2038.bib",
+            "SUPP": ""
+        }
+    },
+    "tajiri-etal-2012-tense": {
+        "TITLE": "Tense and Aspect Error Correction for ESL Learners Using Global Context",
+        "AUTHORS": "Tajiri, Toshikazu  and Komachi, Mamoru  and Matsumoto, Yuji",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2039.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2039.bib",
+            "SUPP": ""
+        }
+    },
+    "banchs-2012-movie": {
+        "TITLE": "Movie-DiC: a Movie Dialogue Corpus for Research and Development",
+        "AUTHORS": "Banchs, Rafael E.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2040.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2040.bib",
+            "SUPP": ""
+        }
+    },
+    "cabrio-villata-2012-combining": {
+        "TITLE": "Combining Textual Entailment and Argumentation Theory for Supporting Online Debates Interactions",
+        "AUTHORS": "Cabrio, Elena  and Villata, Serena",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2041.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2041.bib",
+            "SUPP": ""
+        }
+    },
+    "chiarcos-2012-towards": {
+        "TITLE": "Towards the Unsupervised Acquisition of Discourse Relations",
+        "AUTHORS": "Chiarcos, Christian",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2042.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2042.bib",
+            "SUPP": ""
+        }
+    },
+    "darwish-ali-2012-arabic": {
+        "TITLE": "Arabic Retrieval Revisited: Morphological Hole Filling",
+        "AUTHORS": "Darwish, Kareem  and Ali, Ahmed",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2043.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2043.bib",
+            "SUPP": ""
+        }
+    },
+    "williams-katz-2012-extracting": {
+        "TITLE": "Extracting and modeling durations for habits and events from Twitter",
+        "AUTHORS": "Williams, Jennifer  and Katz, Graham",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2044.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2044.bib",
+            "SUPP": ""
+        }
+    },
+    "nothman-etal-2012-event": {
+        "TITLE": "Event Linking: Grounding Event Reference in a News Archive",
+        "AUTHORS": "Nothman, Joel  and Honnibal, Matthew  and Hachey, Ben  and Curran, James R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2045.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2045.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-etal-2012-coupling": {
+        "TITLE": "Coupling Label Propagation and Constraints for Temporal Fact Extraction",
+        "AUTHORS": "Wang, Yafang  and Dylla, Maximilian  and Spaniol, Marc  and Weikum, Gerhard",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2046.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2046.bib",
+            "SUPP": ""
+        }
+    },
+    "ganchev-etal-2012-using": {
+        "TITLE": "Using Search-Logs to Improve Query Tagging",
+        "AUTHORS": "Ganchev, Kuzman  and Hall, Keith  and McDonald, Ryan  and Petrov, Slav",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2047.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2047.bib",
+            "SUPP": ""
+        }
+    },
+    "tyndall-2012-toward": {
+        "TITLE": "Toward Automatically Assembling Hittite-Language Cuneiform Tablet Fragments into Larger Texts",
+        "AUTHORS": "Tyndall, Stephen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2048.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2048.bib",
+            "SUPP": ""
+        }
+    },
+    "lee-webster-2012-corpus": {
+        "TITLE": "A Corpus of Textual Revisions in Second Language Writing",
+        "AUTHORS": "Lee, John  and Webster, Jonathan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2049.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2049.bib",
+            "SUPP": ""
+        }
+    },
+    "schneider-etal-2012-coarse": {
+        "TITLE": "Coarse Lexical Semantic Annotation with Supersenses: An Arabic Case Study",
+        "AUTHORS": "Schneider, Nathan  and Mohit, Behrang  and Oflazer, Kemal  and Smith, Noah A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2050.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2050.bib",
+            "SUPP": ""
+        }
+    },
+    "mihalcea-nastase-2012-word": {
+        "TITLE": "Word Epoch Disambiguation: Finding How Words Change Over Time",
+        "AUTHORS": "Mihalcea, Rada  and Nastase, Vivi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2051.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2051.bib",
+            "SUPP": ""
+        }
+    },
+    "seroussi-etal-2012-authorship": {
+        "TITLE": "Authorship Attribution with Author-aware Topic Models",
+        "AUTHORS": "Seroussi, Yanir  and Bohnert, Fabian  and Zukerman, Ingrid",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2052.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2052.bib",
+            "SUPP": ""
+        }
+    },
+    "yang-etal-2012-information": {
+        "TITLE": "Information-theoretic Multi-view Domain Adaptation",
+        "AUTHORS": "Yang, Pei  and Gao, Wei  and Tan, Qi  and Wong, Kam-Fai",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2053.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2053.bib",
+            "SUPP": ""
+        }
+    },
+    "hu-boyd-graber-2012-efficient": {
+        "TITLE": "Efficient Tree-Based Topic Modeling",
+        "AUTHORS": "Hu, Yuening  and Boyd-Graber, Jordan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2054.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2054.bib",
+            "SUPP": ""
+        }
+    },
+    "zhu-etal-2012-learning": {
+        "TITLE": "Learning Better Rule Extraction with Translation Span Alignment",
+        "AUTHORS": "Zhu, Jingbo  and Xiao, Tong  and Zhang, Chunliang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2055.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2055.bib",
+            "SUPP": ""
+        }
+    },
+    "xi-etal-2012-enhancing": {
+        "TITLE": "Enhancing Statistical Machine Translation with Character Alignment",
+        "AUTHORS": "Xi, Ning  and Tang, Guangchao  and Dai, Xinyu  and Huang, Shujian  and Chen, Jiajun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2056.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2056.bib",
+            "SUPP": ""
+        }
+    },
+    "lee-etal-2012-translation": {
+        "TITLE": "Translation Model Size Reduction for Hierarchical Phrase-based Statistical Machine Translation",
+        "AUTHORS": "Lee, Seung-Wook  and Zhang, Dongdong  and Li, Mu  and Zhou, Ming  and Rim, Hae-Chang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2057.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2057.bib",
+            "SUPP": ""
+        }
+    },
+    "gesmundo-etal-2012-heuristic": {
+        "TITLE": "Heuristic Cube Pruning in Linear Time",
+        "AUTHORS": "Gesmundo, Andrea  and Satta, Giorgio  and Henderson, James",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2058.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2058.bib",
+            "SUPP": ""
+        }
+    },
+    "nakov-tiedemann-2012-combining": {
+        "TITLE": "Combining Word-Level and Character-Level Models for Machine Translation Between Closely-Related Languages",
+        "AUTHORS": "Nakov, Preslav  and Tiedemann, Jörg",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2059.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2059.bib",
+            "SUPP": ""
+        }
+    },
+    "riley-gildea-2012-improving": {
+        "TITLE": "Improving the IBM Alignment Models Using Variational Bayes",
+        "AUTHORS": "Riley, Darcey  and Gildea, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2060.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2060.bib",
+            "SUPP": ""
+        }
+    },
+    "goto-etal-2012-post": {
+        "TITLE": "Post-ordering by Parsing for Japanese-English Statistical Machine Translation",
+        "AUTHORS": "Goto, Isao  and Utiyama, Masao  and Sumita, Eiichiro",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2061.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2061.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-chiang-2012-exploration": {
+        "TITLE": "An Exploration of Forest-to-String Translation: Does Translation Help or Hurt Parsing?",
+        "AUTHORS": "Zhang, Hui  and Chiang, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2062.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2062.bib",
+            "SUPP": ""
+        }
+    },
+    "stallard-etal-2012-unsupervised": {
+        "TITLE": "Unsupervised Morphology Rivals Supervised Morphology for Arabic MT",
+        "AUTHORS": "Stallard, David  and Devlin, Jacob  and Kayser, Michael  and Lee, Yoong Keok  and Barzilay, Regina",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2063.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2063.bib",
+            "SUPP": ""
+        }
+    },
+    "seo-etal-2012-meta": {
+        "TITLE": "A Meta Learning Approach to Grammatical Error Correction",
+        "AUTHORS": "Seo, Hongsuck  and Lee, Jonghoon  and Kim, Seokhwan  and Lee, Kyusong  and Kang, Sechun  and Lee, Gary Geunbae",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2064.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2064.bib",
+            "SUPP": ""
+        }
+    },
+    "fang-huang-2012-fine": {
+        "TITLE": "Fine Granular Aspect Analysis using Latent Structural Models",
+        "AUTHORS": "Fang, Lei  and Huang, Minlie",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2065.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2065.bib",
+            "SUPP": ""
+        }
+    },
+    "tu-etal-2012-identifying": {
+        "TITLE": "Identifying High-Impact Sub-Structures for Convolution Kernels in Document-level Sentiment Classification",
+        "AUTHORS": "Tu, Zhaopeng  and He, Yifan  and Foster, Jennifer  and van Genabith, Josef  and Liu, Qun  and Lin, Shouxun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2066.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2066.bib",
+            "SUPP": ""
+        }
+    },
+    "kuo-etal-2012-exploiting": {
+        "TITLE": "Exploiting Latent Information to Predict Diffusions of Novel Topics on Social Networks",
+        "AUTHORS": "Kuo, Tsung-Ting  and Hung, San-Chuan  and Lin, Wei-Shih  and Peng, Nanyun  and Lin, Shou-De  and Lin, Wei-Fen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2067.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2067.bib",
+            "SUPP": ""
+        }
+    },
+    "yoshikawa-etal-2012-sentence": {
+        "TITLE": "Sentence Compression with Semantic Role Constraints",
+        "AUTHORS": "Yoshikawa, Katsumasa  and Iida, Ryu  and Hirao, Tsutomu  and Okumura, Manabu",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2068.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2068.bib",
+            "SUPP": ""
+        }
+    },
+    "genest-lapalme-2012-fully": {
+        "TITLE": "Fully Abstractive Approach to Guided Summarization",
+        "AUTHORS": "Genest, Pierre-Etienne  and Lapalme, Guy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2069.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2069.bib",
+            "SUPP": ""
+        }
+    },
+    "owczarzak-etal-2012-assessing": {
+        "TITLE": "Assessing the Effect of Inconsistent Assessors on Summarization Evaluation",
+        "AUTHORS": "Owczarzak, Karolina  and Rankel, Peter A.  and Dang, Hoa Trang  and Conroy, John M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2070.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2070.bib",
+            "SUPP": ""
+        }
+    },
+    "choi-palmer-2012-fast": {
+        "TITLE": "Fast and Robust Part-of-Speech Tagging Using Dynamic Model Selection",
+        "AUTHORS": "Choi, Jinho D.  and Palmer, Martha",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2071.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2071.bib",
+            "SUPP": ""
+        }
+    },
+    "gesmundo-samardzic-2012-lemmatisation": {
+        "TITLE": "Lemmatisation as a Tagging Task",
+        "AUTHORS": "Gesmundo, Andrea  and Samardžić, Tanja",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2072.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2072.bib",
+            "SUPP": ""
+        }
+    },
+    "baba-suzuki-2012-spelling": {
+        "TITLE": "How Are Spelling Errors Generated and Corrected? A Study of Corrected and Uncorrected Spelling Errors Using Keystroke Logs",
+        "AUTHORS": "Baba, Yukino  and Suzuki, Hisami",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2073.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2073.bib",
+            "SUPP": ""
+        }
+    },
+    "dridan-oepen-2012-tokenization": {
+        "TITLE": "Tokenization: Returning to a Long Solved Problem --- A Survey, Contrastive Experiment, Recommendations, and Toolkit ---",
+        "AUTHORS": "Dridan, Rebecca  and Oepen, Stephan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2074.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2074.bib",
+            "SUPP": ""
+        }
+    },
+    "magistry-sagot-2012-unsupervized": {
+        "TITLE": "Unsupervized Word Segmentation: the Case for Mandarin Chinese",
+        "AUTHORS": "Magistry, Pierre  and Sagot, Benoît",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2075.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2075.bib",
+            "SUPP": ""
+        }
+    },
+    "imamura-etal-2012-grammar": {
+        "TITLE": "Grammar Error Correction Using Pseudo-Error Sentences and Domain Adaptation",
+        "AUTHORS": "Imamura, Kenji  and Saito, Kuniko  and Sadamitsu, Kugatsu  and Nishikawa, Hitoshi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P12-2076.pdf",
+            "BIBTEX": "https://aclanthology.org/P12-2076.bib",
+            "SUPP": ""
+        }
+    }
+}

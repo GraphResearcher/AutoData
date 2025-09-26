@@ -7,7 +7,7 @@ import pytest
 from loguru import logger
 import time
 
-from AutoData.utils.logging import setup_logging
+from Autodata.utils.logging import setup_logging
 
 
 @pytest.fixture

@@ -1,0 +1,2433 @@
+{
+    "richman-schone-2008-mining": {
+        "TITLE": "Mining Wiki Resources for Multilingual Named Entity Recognition",
+        "AUTHORS": "Richman, Alexander E.  and Schone, Patrick",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "bergsma-etal-2008-distributional": {
+        "TITLE": "Distributional Identification of Non-Referential Pronouns",
+        "AUTHORS": "Bergsma, Shane  and Lin, Dekang  and Goebel, Randy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "pasca-van-durme-2008-weakly": {
+        "TITLE": "Weakly-Supervised Acquisition of Open-Domain Classes and Class Attributes from Web Documents and Query Logs",
+        "AUTHORS": "Paşca, Marius  and Van Durme, Benjamin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "banko-etzioni-2008-tradeoffs": {
+        "TITLE": "The Tradeoffs Between Open and Traditional Relation Extraction",
+        "AUTHORS": "Banko, Michele  and Etzioni, Oren",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "mirovsky-2008-pdt": {
+        "TITLE": "PDT 2.0 Requirements on a Query Language",
+        "AUTHORS": "Mírovský, Jiř\\",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "miyao-etal-2008-task": {
+        "TITLE": "Task-oriented Evaluation of Syntactic Parsers and Their Representations",
+        "AUTHORS": "Miyao, Yusuke  and Sætre, Rune  and Sagae, Kenji  and Matsuzaki, Takuya  and Tsujii, Jun′ichi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "chan-ng-2008-maxsim": {
+        "TITLE": "MAXSIM: A Maximum Similarity Metric for Machine Translation Evaluation",
+        "AUTHORS": "Chan, Yee Seng  and Ng, Hwee Tou",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "voorhees-2008-contradictions": {
+        "TITLE": "Contradictions and Justifications: Extensions to the Textual Entailment Task",
+        "AUTHORS": "Voorhees, Ellen M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "cherry-2008-cohesive": {
+        "TITLE": "Cohesive Phrase-Based Decoding for Statistical Machine Translation",
+        "AUTHORS": "Cherry, Colin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "deng-etal-2008-phrase": {
+        "TITLE": "Phrase Table Training for Precision and Recall: What Makes a Good Phrase and a Good Phrase Pair?",
+        "AUTHORS": "Deng, Yonggang  and Xu, Jia  and Gao, Yuqing",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-etal-2008-measure": {
+        "TITLE": "Measure Word Generation for English-Chinese SMT Systems",
+        "AUTHORS": "Zhang, Dongdong  and Li, Mu  and Duan, Nan  and Li, Chi-Ho  and Zhou, Ming",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-etal-2008-bayesian": {
+        "TITLE": "Bayesian Learning of Non-Compositional Phrases with Synchronous Parsing",
+        "AUTHORS": "Zhang, Hao  and Quirk, Chris  and Moore, Robert C.  and Gildea, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "kaufmann-pfister-2008-applying": {
+        "TITLE": "Applying a Grammar-Based Language Model to a Simplified Broadcast-News Transcription Task",
+        "AUTHORS": "Kaufmann, Tobias  and Pfister, Beat",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "bisani-etal-2008-automatic": {
+        "TITLE": "Automatic Editing in a Back-End Speech-to-Text System",
+        "AUTHORS": "Bisani, Maximilian  and Vozila, Paul  and Divay, Olivier  and Adams, Jeff",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "fleischman-roy-2008-grounded": {
+        "TITLE": "Grounded Language Modeling for Automatic Speech Recognition of Sports Video",
+        "AUTHORS": "Fleischman, Michael  and Roy, Deb",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "fleck-2008-lexicalized": {
+        "TITLE": "Lexicalized Phonotactic Word Segmentation",
+        "AUTHORS": "Fleck, Margaret M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "fang-2008-examination": {
+        "TITLE": "A Re-examination of Query Expansion Using Lexical Resources",
+        "AUTHORS": "Fang, Hui",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "cao-etal-2008-selecting": {
+        "TITLE": "Selecting Query Term Alternations for Web Search by Exploiting Query Contexts",
+        "AUTHORS": "Cao, Guihong  and Robertson, Stephen  and Nie, Jian-Yun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "duan-etal-2008-searching": {
+        "TITLE": "Searching Questions by Identifying Question Topic and Question Focus",
+        "AUTHORS": "Duan, Huizhong  and Cao, Yunbo  and Lin, Chin-Yew  and Yu, Yong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "mairesse-walker-2008-trainable": {
+        "TITLE": "Trainable Generation of Big-Five Personality Styles through Data-Driven Parameter Estimation",
+        "AUTHORS": "Mairesse, François  and Walker, Marilyn",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "lee-seneff-2008-correcting": {
+        "TITLE": "Correcting Misuse of Verb Forms",
+        "AUTHORS": "Lee, John  and Seneff, Stephanie",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "espinosa-etal-2008-hypertagging": {
+        "TITLE": "Hypertagging: Supertagging for Surface Realization with CCG",
+        "AUTHORS": "Espinosa, Dominic  and White, Michael  and Mehay, Dennis",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "mi-etal-2008-forest": {
+        "TITLE": "Forest-Based Translation",
+        "AUTHORS": "Mi, Haitao  and Huang, Liang  and Liu, Qun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "blunsom-etal-2008-discriminative": {
+        "TITLE": "A Discriminative Latent Variable Model for Statistical Machine Translation",
+        "AUTHORS": "Blunsom, Phil  and Cohn, Trevor  and Osborne, Miles",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-gildea-2008-efficient": {
+        "TITLE": "Efficient Multi-Pass Decoding for Synchronous Context Free Grammars",
+        "AUTHORS": "Zhang, Hao  and Gildea, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "koller-etal-2008-regular": {
+        "TITLE": "Regular Tree Grammars as a Formalism for Scope Underspecification",
+        "AUTHORS": "Koller, Alexander  and Regneri, Michaela  and Thater, Stefan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "davidov-rappoport-2008-classification": {
+        "TITLE": "Classification of Semantic Relationships between Nominals Using Pattern Clusters",
+        "AUTHORS": "Davidov, Dmitry  and Rappoport, Ari",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "mitchell-lapata-2008-vector": {
+        "TITLE": "Vector-based Models of Semantic Composition",
+        "AUTHORS": "Mitchell, Jeff  and Lapata, Mirella",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "arnold-etal-2008-exploiting": {
+        "TITLE": "Exploiting Feature Hierarchy for Transfer Learning in Named Entity Recognition",
+        "AUTHORS": "Arnold, Andrew  and Nallapati, Ramesh  and Cohen, William W.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "ji-grishman-2008-refining": {
+        "TITLE": "Refining Event Extraction through Cross-Document Inference",
+        "AUTHORS": "Ji, Heng  and Grishman, Ralph",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "branavan-etal-2008-learning": {
+        "TITLE": "Learning Document-Level Semantic Properties from Free-Text Annotations",
+        "AUTHORS": "Branavan, S.R.K.  and Chen, Harr  and Eisenstein, Jacob  and Barzilay, Regina",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "feng-lapata-2008-automatic": {
+        "TITLE": "Automatic Image Annotation Using Auxiliary Text Information",
+        "AUTHORS": "Feng, Yansong  and Lapata, Mirella",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "szarvas-2008-hedge": {
+        "TITLE": "Hedge Classification in Biomedical Texts with a Weakly Supervised Selection of Keywords",
+        "AUTHORS": "Szarvas, György",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "andreevskaia-bergler-2008-specialists": {
+        "TITLE": "When Specialists and Generalists Work Together: Overcoming Domain Dependence in Sentiment Tagging",
+        "AUTHORS": "Andreevskaia, Alina  and Bergler, Sabine",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "nomoto-2008-generic": {
+        "TITLE": "A Generic Sentence Trimmer with CRFs",
+        "AUTHORS": "Nomoto, Tadashi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "titov-mcdonald-2008-joint": {
+        "TITLE": "A Joint Model of Text and Aspect Ratings for Sentiment Summarization",
+        "AUTHORS": "Titov, Ivan  and McDonald, Ryan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1036.bib",
+            "SUPP": ""
+        }
+    },
+    "agirre-etal-2008-improving": {
+        "TITLE": "Improving Parsing and PP Attachment Performance with Sense Information",
+        "AUTHORS": "Agirre, Eneko  and Baldwin, Timothy  and Martinez, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1037.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1037.bib",
+            "SUPP": ""
+        }
+    },
+    "hoyt-baldridge-2008-logical": {
+        "TITLE": "A Logical Basis for the D Combinator and Normal Form in CCG",
+        "AUTHORS": "Hoyt, Frederick  and Baldridge, Jason",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1038.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1038.bib",
+            "SUPP": ""
+        }
+    },
+    "vadas-curran-2008-parsing": {
+        "TITLE": "Parsing Noun Phrase Structure with CCG",
+        "AUTHORS": "Vadas, David  and Curran, James R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1039.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1039.bib",
+            "SUPP": ""
+        }
+    },
+    "vickrey-koller-2008-sentence": {
+        "TITLE": "Sentence Simplification for Semantic Role Labeling",
+        "AUTHORS": "Vickrey, David  and Koller, Daphne",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1040.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1040.bib",
+            "SUPP": ""
+        }
+    },
+    "carenini-etal-2008-summarizing": {
+        "TITLE": "Summarizing Emails with Conversational Cohesion and Subjectivity",
+        "AUTHORS": "Carenini, Giuseppe  and Ng, Raymond T.  and Zhou, Xiaodong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1041.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1041.bib",
+            "SUPP": ""
+        }
+    },
+    "dickinson-2008-ad": {
+        "TITLE": "Ad Hoc Treebank Structures",
+        "AUTHORS": "Dickinson, Markus",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1042.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1042.bib",
+            "SUPP": ""
+        }
+    },
+    "goldberg-tsarfaty-2008-single": {
+        "TITLE": "A Single Generative Model for Joint Morphological Segmentation and Syntactic Parsing",
+        "AUTHORS": "Goldberg, Yoav  and Tsarfaty, Reut",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1043.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1043.bib",
+            "SUPP": ""
+        }
+    },
+    "goldwater-etal-2008-words": {
+        "TITLE": "Which Words Are Hard to Recognize? Prosodic, Lexical, and Disfluency Factors that Increase ASR Error Rates",
+        "AUTHORS": "Goldwater, Sharon  and Jurafsky, Dan  and Manning, Christopher D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1044.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1044.bib",
+            "SUPP": ""
+        }
+    },
+    "hermjakob-etal-2008-name": {
+        "TITLE": "Name Translation in Statistical Machine Translation - Learning When to Transliterate",
+        "AUTHORS": "Hermjakob, Ulf  and Knight, Kevin  and Daumé III, Hal",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1045.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1045.bib",
+            "SUPP": ""
+        }
+    },
+    "johnson-2008-using": {
+        "TITLE": "Using Adaptor Grammars to Identify Synergies in the Unsupervised Acquisition of Linguistic Structure",
+        "AUTHORS": "Johnson, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1046.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1046.bib",
+            "SUPP": ""
+        }
+    },
+    "kazama-torisawa-2008-inducing": {
+        "TITLE": "Inducing Gazetteers for Named Entity Recognition by Large-Scale Clustering of Dependency Relations",
+        "AUTHORS": "Kazama, Jun′ichi  and Torisawa, Kentaro",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1047.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1047.bib",
+            "SUPP": ""
+        }
+    },
+    "kennedy-szpakowicz-2008-evaluating": {
+        "TITLE": "Evaluating Roget\\textquotelefts Thesauri",
+        "AUTHORS": "Kennedy, Alistair  and Szpakowicz, Stan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1048.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1048.bib",
+            "SUPP": ""
+        }
+    },
+    "li-yarowsky-2008-unsupervised": {
+        "TITLE": "Unsupervised Translation Induction for Chinese Abbreviations using Monolingual Corpora",
+        "AUTHORS": "Li, Zhifei  and Yarowsky, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1049.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1049.bib",
+            "SUPP": ""
+        }
+    },
+    "li-brew-2008-best": {
+        "TITLE": "Which Are the Best Features for Automatic Verb Classification",
+        "AUTHORS": "Li, Jianguo  and Brew, Chris",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1050.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1050.bib",
+            "SUPP": ""
+        }
+    },
+    "mrozinski-etal-2008-collecting": {
+        "TITLE": "Collecting a Why-Question Corpus for Development and Evaluation of an Automatic QA-System",
+        "AUTHORS": "Mrozinski, Joanna  and Whittaker, Edward  and Furui, Sadaoki",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1051.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1051.bib",
+            "SUPP": ""
+        }
+    },
+    "nakov-hearst-2008-solving": {
+        "TITLE": "Solving Relational Similarity Problems Using the Web as a Corpus",
+        "AUTHORS": "Nakov, Preslav  and Hearst, Marti A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1052.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1052.bib",
+            "SUPP": ""
+        }
+    },
+    "olsson-oard-2008-combining": {
+        "TITLE": "Combining Speech Retrieval Results with Generalized Additive Models",
+        "AUTHORS": "Olsson, J. Scott  and Oard, Douglas W.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1053.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1053.bib",
+            "SUPP": ""
+        }
+    },
+    "penn-zhu-2008-critical": {
+        "TITLE": "A Critical Reassessment of Evaluation Baselines for Speech Summarization",
+        "AUTHORS": "Penn, Gerald  and Zhu, Xiaodan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1054.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1054.bib",
+            "SUPP": ""
+        }
+    },
+    "polifroni-walker-2008-intensional": {
+        "TITLE": "Intensional Summaries as Cooperative Responses in Dialogue: Automation and Evaluation",
+        "AUTHORS": "Polifroni, Joseph  and Walker, Marilyn",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1055.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1055.bib",
+            "SUPP": ""
+        }
+    },
+    "saha-etal-2008-word": {
+        "TITLE": "Word Clustering and Word Selection Based Feature Reduction for MaxEnt Based Hindi NER",
+        "AUTHORS": "Saha, Sujan Kumar  and Mitra, Pabitra  and Sarkar, Sudeshna",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1056.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1056.bib",
+            "SUPP": ""
+        }
+    },
+    "schulte-im-walde-etal-2008-combining": {
+        "TITLE": "Combining EM Training and the MDL Principle for an Automatic Verb Classification Incorporating Selectional Preferences",
+        "AUTHORS": "Schulte im Walde, Sabine  and Hying, Christian  and Scheible, Christian  and Schmid, Helmut",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1057.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1057.bib",
+            "SUPP": ""
+        }
+    },
+    "talbot-brants-2008-randomized": {
+        "TITLE": "Randomized Language Models via Perfect Hash Functions",
+        "AUTHORS": "Talbot, David  and Brants, Thorsten",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1058.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1058.bib",
+            "SUPP": ""
+        }
+    },
+    "toutanova-etal-2008-applying": {
+        "TITLE": "Applying Morphology Generation Models to Machine Translation",
+        "AUTHORS": "Toutanova, Kristina  and Suzuki, Hisami  and Ruopp, Achim",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1059.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1059.bib",
+            "SUPP": ""
+        }
+    },
+    "veale-etal-2008-multilingual": {
+        "TITLE": "Multilingual Harvesting of Cross-Cultural Stereotypes",
+        "AUTHORS": "Veale, Tony  and Hao, Yanfen  and Li, Guofu",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1060.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1060.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-etal-2008-semi": {
+        "TITLE": "Semi-Supervised Convex Training for Dependency Parsing",
+        "AUTHORS": "Wang, Qin Iris  and Schuurmans, Dale  and Lin, Dekang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1061.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1061.bib",
+            "SUPP": ""
+        }
+    },
+    "yang-etal-2008-chinese-english": {
+        "TITLE": "Chinese-English Backward Transliteration Assisted with Mining Monolingual Web Pages",
+        "AUTHORS": "Yang, Fan  and Zhao, Jun  and Zou, Bo  and Liu, Kang  and Liu, Feifan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1062.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1062.bib",
+            "SUPP": ""
+        }
+    },
+    "zapirain-etal-2008-robustness": {
+        "TITLE": "Robustness and Generalization of Role Sets: PropBank vs. VerbNet",
+        "AUTHORS": "Zapirain, Beñat  and Agirre, Eneko  and Màrquez, Lluís",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1063.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1063.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-etal-2008-tree": {
+        "TITLE": "A Tree Sequence Alignment-based Tree-to-Tree Translation Model",
+        "AUTHORS": "Zhang, Min  and Jiang, Hongfei  and Aw, Aiti  and Li, Haizhou  and Tan, Chew Lim  and Li, Sheng",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1064.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1064.bib",
+            "SUPP": ""
+        }
+    },
+    "bartlett-etal-2008-automatic": {
+        "TITLE": "Automatic Syllabification with Structured SVMs for Letter-to-Phoneme Conversion",
+        "AUTHORS": "Bartlett, Susan  and Kondrak, Grzegorz  and Cherry, Colin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1065.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1065.bib",
+            "SUPP": ""
+        }
+    },
+    "shen-etal-2008-new": {
+        "TITLE": "A New String-to-Dependency Machine Translation Algorithm with a Target Dependency Language Model",
+        "AUTHORS": "Shen, Libin  and Xu, Jinxi  and Weischedel, Ralph",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1066.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1066.bib",
+            "SUPP": ""
+        }
+    },
+    "huang-2008-forest": {
+        "TITLE": "Forest Reranking: Discriminative Parsing with Non-Local Features",
+        "AUTHORS": "Huang, Liang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1067.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1067.bib",
+            "SUPP": ""
+        }
+    },
+    "koo-etal-2008-simple": {
+        "TITLE": "Simple Semi-supervised Dependency Parsing",
+        "AUTHORS": "Koo, Terry  and Carreras, Xavier  and Collins, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1068.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1068.bib",
+            "SUPP": ""
+        }
+    },
+    "nesson-etal-2008-optimal": {
+        "TITLE": "Optimal $k$-arization of Synchronous Tree-Adjoining Grammar",
+        "AUTHORS": "Nesson, Rebecca  and Satta, Giorgio  and Shieber, Stuart M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1069.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1069.bib",
+            "SUPP": ""
+        }
+    },
+    "dridan-etal-2008-enhancing": {
+        "TITLE": "Enhancing Performance of Lexicalised Grammars",
+        "AUTHORS": "Dridan, Rebecca  and Kordoni, Valia  and Nicholson, Jeremy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1070.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1070.bib",
+            "SUPP": ""
+        }
+    },
+    "ai-litman-2008-assessing": {
+        "TITLE": "Assessing Dialog System User Simulation Evaluation Measures Using Human Judges",
+        "AUTHORS": "Ai, Hua  and Litman, Diane J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1071.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1071.bib",
+            "SUPP": ""
+        }
+    },
+    "lee-etal-2008-robust": {
+        "TITLE": "Robust Dialog Management with N-Best Hypotheses Using Dialog Examples and Agenda",
+        "AUTHORS": "Lee, Cheongjae  and Jung, Sangkeun  and Lee, Gary Geunbae",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1072.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1072.bib",
+            "SUPP": ""
+        }
+    },
+    "rieser-lemon-2008-learning": {
+        "TITLE": "Learning Effective Multimodal Dialogue Strategies from Wizard-of-Oz Data: Bootstrapping and Evaluation",
+        "AUTHORS": "Rieser, Verena  and Lemon, Oliver",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1073.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1073.bib",
+            "SUPP": ""
+        }
+    },
+    "milidiu-etal-2008-phrase": {
+        "TITLE": "Phrase Chunking Using Entropy Guided Transformation Learning",
+        "AUTHORS": "Milidiú, Ruy Luiz  and dos Santos, Cícero Nogueira  and Duarte, Julio C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1074.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1074.bib",
+            "SUPP": ""
+        }
+    },
+    "zhu-etal-2008-learning-bigrams": {
+        "TITLE": "Learning Bigrams from Unigrams",
+        "AUTHORS": "Zhu, Xiaojin  and Goldberg, Andrew B.  and Rabbat, Michael  and Nowak, Robert",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1075.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1075.bib",
+            "SUPP": ""
+        }
+    },
+    "suzuki-isozaki-2008-semi": {
+        "TITLE": "Semi-Supervised Sequential Labeling and Segmentation Using Giga-Word Scale Unlabeled Data",
+        "AUTHORS": "Suzuki, Jun  and Isozaki, Hideki",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1076.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1076.bib",
+            "SUPP": ""
+        }
+    },
+    "bhagat-ravichandran-2008-large": {
+        "TITLE": "Large Scale Acquisition of Paraphrases for Learning Surface Patterns",
+        "AUTHORS": "Bhagat, Rahul  and Ravichandran, Deepak",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1077.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1077.bib",
+            "SUPP": ""
+        }
+    },
+    "szpektor-etal-2008-contextual": {
+        "TITLE": "Contextual Preferences",
+        "AUTHORS": "Szpektor, Idan  and Dagan, Ido  and Bar-Haim, Roy  and Goldberger, Jacob",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1078.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1078.bib",
+            "SUPP": ""
+        }
+    },
+    "davidov-rappoport-2008-unsupervised": {
+        "TITLE": "Unsupervised Discovery of Generic Relationships Using Pattern Clusters and its Evaluation by Automatically Generated SAT Analogy Questions",
+        "AUTHORS": "Davidov, Dmitry  and Rappoport, Ari",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1079.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1079.bib",
+            "SUPP": ""
+        }
+    },
+    "kaisser-etal-2008-improving": {
+        "TITLE": "Improving Search Results Quality by Customizing Summary Lengths",
+        "AUTHORS": "Kaisser, Michael  and Hearst, Marti A.  and Lowe, John B.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1080.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1080.bib",
+            "SUPP": ""
+        }
+    },
+    "ding-etal-2008-using": {
+        "TITLE": "Using Conditional Random Fields to Extract Contexts and Answers of Questions from Online Forums",
+        "AUTHORS": "Ding, Shilin  and Cong, Gao  and Lin, Chin-Yew  and Zhu, Xiaoyan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1081.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1081.bib",
+            "SUPP": ""
+        }
+    },
+    "surdeanu-etal-2008-learning": {
+        "TITLE": "Learning to Rank Answers on Large Online QA Collections",
+        "AUTHORS": "Surdeanu, Mihai  and Ciaramita, Massimiliano  and Zaragoza, Hugo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1082.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1082.bib",
+            "SUPP": ""
+        }
+    },
+    "adler-etal-2008-unsupervised": {
+        "TITLE": "Unsupervised Lexicon-Based Resolution of Unknown Words for Full Morphological Analysis",
+        "AUTHORS": "Adler, Meni  and Goldberg, Yoav  and Gabay, David  and Elhadad, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1083.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1083.bib",
+            "SUPP": ""
+        }
+    },
+    "snyder-barzilay-2008-unsupervised": {
+        "TITLE": "Unsupervised Multilingual Learning for Morphological Segmentation",
+        "AUTHORS": "Snyder, Benjamin  and Barzilay, Regina",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1084.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1084.bib",
+            "SUPP": ""
+        }
+    },
+    "goldberg-etal-2008-em": {
+        "TITLE": "EM Can Find Pretty Good HMM POS-Taggers (When Given a Good Start)",
+        "AUTHORS": "Goldberg, Yoav  and Adler, Meni  and Elhadad, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1085.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1085.bib",
+            "SUPP": ""
+        }
+    },
+    "uszkoreit-brants-2008-distributed": {
+        "TITLE": "Distributed Word Clustering for Large Scale Class-Based Language Modeling in Machine Translation",
+        "AUTHORS": "Uszkoreit, Jakob  and Brants, Thorsten",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1086.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1086.bib",
+            "SUPP": ""
+        }
+    },
+    "avramidis-koehn-2008-enriching": {
+        "TITLE": "Enriching Morphologically Poor Languages for Statistical Machine Translation",
+        "AUTHORS": "Avramidis, Eleftherios  and Koehn, Philipp",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1087.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1087.bib",
+            "SUPP": ""
+        }
+    },
+    "haghighi-etal-2008-learning": {
+        "TITLE": "Learning Bilingual Lexicons from Monolingual Corpora",
+        "AUTHORS": "Haghighi, Aria  and Liang, Percy  and Berg-Kirkpatrick, Taylor  and Klein, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1088.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1088.bib",
+            "SUPP": ""
+        }
+    },
+    "zhao-etal-2008-pivot": {
+        "TITLE": "Pivot Approach for Extracting Paraphrase Patterns from Bilingual Corpora",
+        "AUTHORS": "Zhao, Shiqi  and Wang, Haifeng  and Liu, Ting  and Li, Sheng",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1089.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1089.bib",
+            "SUPP": ""
+        }
+    },
+    "chambers-jurafsky-2008-unsupervised": {
+        "TITLE": "Unsupervised Learning of Narrative Event Chains",
+        "AUTHORS": "Chambers, Nathanael  and Jurafsky, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1090.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1090.bib",
+            "SUPP": ""
+        }
+    },
+    "diab-etal-2008-semantic": {
+        "TITLE": "Semantic Role Labeling Systems for Arabic using Kernel Methods",
+        "AUTHORS": "Diab, Mona  and Moschitti, Alessandro  and Pighin, Daniele",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1091.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1091.bib",
+            "SUPP": ""
+        }
+    },
+    "biadsy-etal-2008-unsupervised": {
+        "TITLE": "An Unsupervised Approach to Biography Production Using Wikipedia",
+        "AUTHORS": "Biadsy, Fadi  and Hirschberg, Julia  and Filatova, Elena",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1092.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1092.bib",
+            "SUPP": ""
+        }
+    },
+    "mei-zhai-2008-generating": {
+        "TITLE": "Generating Impact-Based Summaries for Scientific Literature",
+        "AUTHORS": "Mei, Qiaozhu  and Zhai, ChengXiang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1093.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1093.bib",
+            "SUPP": ""
+        }
+    },
+    "nenkova-louis-2008-summarize": {
+        "TITLE": "Can You Summarize This? Identifying Correlates of Input Difficulty for Multi-Document Summarization",
+        "AUTHORS": "Nenkova, Ani  and Louis, Annie",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1094.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1094.bib",
+            "SUPP": ""
+        }
+    },
+    "elsner-charniak-2008-talking": {
+        "TITLE": "You Talking to Me? A Corpus and Algorithm for Conversation Disentanglement",
+        "AUTHORS": "Elsner, Micha  and Charniak, Eugene",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1095.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1095.bib",
+            "SUPP": ""
+        }
+    },
+    "yang-etal-2008-entity": {
+        "TITLE": "An Entity-Mention Model for Coreference Resolution with Inductive Logic Programming",
+        "AUTHORS": "Yang, Xiaofeng  and Su, Jian  and Lang, Jun  and Tan, Chew Lim  and Liu, Ting  and Li, Sheng",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1096.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1096.bib",
+            "SUPP": ""
+        }
+    },
+    "eisenstein-etal-2008-gestural": {
+        "TITLE": "Gestural Cohesion for Topic Segmentation",
+        "AUTHORS": "Eisenstein, Jacob  and Barzilay, Regina  and Davis, Randall",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1097.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1097.bib",
+            "SUPP": ""
+        }
+    },
+    "reichart-etal-2008-multi": {
+        "TITLE": "Multi-Task Active Learning for Linguistic Annotations",
+        "AUTHORS": "Reichart, Roi  and Tomanek, Katrin  and Hahn, Udo  and Rappoport, Ari",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1098.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1098.bib",
+            "SUPP": ""
+        }
+    },
+    "mann-mccallum-2008-generalized": {
+        "TITLE": "Generalized Expectation Criteria for Semi-Supervised Learning of Conditional Random Fields",
+        "AUTHORS": "Mann, Gideon S.  and McCallum, Andrew",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1099.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1099.bib",
+            "SUPP": ""
+        }
+    },
+    "liang-klein-2008-analyzing": {
+        "TITLE": "Analyzing the Errors of Unsupervised Learning",
+        "AUTHORS": "Liang, Percy  and Klein, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1100.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1100.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-clark-2008-joint": {
+        "TITLE": "Joint Word Segmentation and POS Tagging Using a Single Perceptron",
+        "AUTHORS": "Zhang, Yue  and Clark, Stephen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1101.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1101.bib",
+            "SUPP": ""
+        }
+    },
+    "jiang-etal-2008-cascaded": {
+        "TITLE": "A Cascaded Linear Model for Joint Chinese Word Segmentation and Part-of-Speech Tagging",
+        "AUTHORS": "Jiang, Wenbin  and Huang, Liang  and Liu, Qun  and Lü, Yajuan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1102.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1102.bib",
+            "SUPP": ""
+        }
+    },
+    "jiampojamarn-etal-2008-joint": {
+        "TITLE": "Joint Processing and Discriminative Training for Letter-to-Phoneme Conversion",
+        "AUTHORS": "Jiampojamarn, Sittichai  and Cherry, Colin  and Kondrak, Grzegorz",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1103.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1103.bib",
+            "SUPP": ""
+        }
+    },
+    "bao-etal-2008-probabilistic": {
+        "TITLE": "A Probabilistic Model for Fine-Grained Expert Search",
+        "AUTHORS": "Bao, Shenghua  and Duan, Huizhong  and Zhou, Qi  and Xiong, Miao  and Cao, Yunbo  and Yu, Yong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1104.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1104.bib",
+            "SUPP": ""
+        }
+    },
+    "weerkamp-de-rijke-2008-credibility": {
+        "TITLE": "Credibility Improves Topical Blog Post Retrieval",
+        "AUTHORS": "Weerkamp, Wouter  and de Rijke, Maarten",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1105.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1105.bib",
+            "SUPP": ""
+        }
+    },
+    "csomai-mihalcea-2008-linguistically": {
+        "TITLE": "Linguistically Motivated Features for Enhanced Back-of-the-Book Indexing",
+        "AUTHORS": "Csomai, Andras  and Mihalcea, Rada",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1106.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1106.bib",
+            "SUPP": ""
+        }
+    },
+    "elsayed-etal-2008-resolving": {
+        "TITLE": "Resolving Personal Names in Email Using Context Expansion",
+        "AUTHORS": "Elsayed, Tamer  and Oard, Douglas W.  and Namata, Galileo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1107.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1107.bib",
+            "SUPP": ""
+        }
+    },
+    "nivre-mcdonald-2008-integrating": {
+        "TITLE": "Integrating Graph-Based and Transition-Based Dependency Parsers",
+        "AUTHORS": "Nivre, Joakim  and McDonald, Ryan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1108.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1108.bib",
+            "SUPP": ""
+        }
+    },
+    "finkel-etal-2008-efficient": {
+        "TITLE": "Efficient, Feature-based, Conditional Random Field Parsing",
+        "AUTHORS": "Finkel, Jenny Rose  and Kleeman, Alex  and Manning, Christopher D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1109.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1109.bib",
+            "SUPP": ""
+        }
+    },
+    "gomez-rodriguez-etal-2008-deductive": {
+        "TITLE": "A Deductive Approach to Dependency Parsing",
+        "AUTHORS": "Gómez-Rodríguez, Carlos  and Carroll, John  and Weir, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1110.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1110.bib",
+            "SUPP": ""
+        }
+    },
+    "bender-2008-evaluating": {
+        "TITLE": "Evaluating a Crosslinguistic Grammar Resource: A Case Study of Wambaya",
+        "AUTHORS": "Bender, Emily M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1111.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1111.bib",
+            "SUPP": ""
+        }
+    },
+    "ganchev-etal-2008-better": {
+        "TITLE": "Better Alignments = Better Translations?",
+        "AUTHORS": "Ganchev, Kuzman  and Graça, João V.  and Taskar, Ben",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1112.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1112.bib",
+            "SUPP": ""
+        }
+    },
+    "lin-etal-2008-mining": {
+        "TITLE": "Mining Parenthetical Translations from the Web by Word Alignment",
+        "AUTHORS": "Lin, Dekang  and Zhao, Shaojun  and Van Durme, Benjamin  and Paşca, Marius",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1113.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1113.bib",
+            "SUPP": ""
+        }
+    },
+    "marton-resnik-2008-soft": {
+        "TITLE": "Soft Syntactic Constraints for Hierarchical Phrased-Based Translation",
+        "AUTHORS": "Marton, Yuval  and Resnik, Philip",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1114.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1114.bib",
+            "SUPP": ""
+        }
+    },
+    "dyer-etal-2008-generalizing": {
+        "TITLE": "Generalizing Word Lattice Translation",
+        "AUTHORS": "Dyer, Christopher  and Muresan, Smaranda  and Resnik, Philip",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1115.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1115.bib",
+            "SUPP": ""
+        }
+    },
+    "zhao-etal-2008-combining": {
+        "TITLE": "Combining Multiple Resources to Improve SMT-based Paraphrasing Model",
+        "AUTHORS": "Zhao, Shiqi  and Niu, Cheng  and Zhou, Ming  and Liu, Ting  and Li, Sheng",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1116.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1116.bib",
+            "SUPP": ""
+        }
+    },
+    "srikumar-etal-2008-extraction": {
+        "TITLE": "Extraction of Entailed Semantic Relations Through Syntax-Based Comma Resolution",
+        "AUTHORS": "Srikumar, Vivek  and Reichart, Roi  and Sammons, Mark  and Rappoport, Ari  and Roth, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1117.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1117.bib",
+            "SUPP": ""
+        }
+    },
+    "de-marneffe-etal-2008-finding": {
+        "TITLE": "Finding Contradictions in Text",
+        "AUTHORS": "de Marneffe, Marie-Catherine  and Rafferty, Anna N.  and Manning, Christopher D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1118.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1118.bib",
+            "SUPP": ""
+        }
+    },
+    "kozareva-etal-2008-semantic": {
+        "TITLE": "Semantic Class Learning from the Web with Hyponym Pattern Linkage Graphs",
+        "AUTHORS": "Kozareva, Zornitsa  and Riloff, Ellen  and Hovy, Eduard",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT",
+        "ABBR": "ACL",
+        "TRACK": "Long Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-1119.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-1119.bib",
+            "SUPP": ""
+        }
+    },
+    "batista-etal-2008-language": {
+        "TITLE": "Language Dynamics and Capitalization using Maximum Entropy",
+        "AUTHORS": "Batista, Fernando  and Mamede, Nuno  and Trancoso, Isabel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2001.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2001.bib",
+            "SUPP": ""
+        }
+    },
+    "boston-etal-2008-surprising": {
+        "TITLE": "Surprising Parser Actions and Reading Difficulty",
+        "AUTHORS": "Boston, Marisa Ferrara  and Hale, John T.  and Kliegl, Reinhold  and Vasishth, Shravan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2002.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2002.bib",
+            "SUPP": ""
+        }
+    },
+    "chali-joty-2008-improving": {
+        "TITLE": "Improving the Performance of the Random Walk Model for Answering Complex Questions",
+        "AUTHORS": "Chali, Yllias  and Joty, Shafiq",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2003.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2003.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-2008-dimensions": {
+        "TITLE": "Dimensions of Subjectivity in Natural Language",
+        "AUTHORS": "Chen, Wei",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2004.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2004.bib",
+            "SUPP": ""
+        }
+    },
+    "de-la-chica-etal-2008-extractive": {
+        "TITLE": "Extractive Summaries for Educational Science Content",
+        "AUTHORS": "de la Chica, Sebastian  and Ahmad, Faisal  and Martin, James H.  and Sumner, Tamara",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2005.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2005.bib",
+            "SUPP": ""
+        }
+    },
+    "chitturi-hansen-2008-dialect": {
+        "TITLE": "Dialect Classification for Online Podcasts Fusing Acoustic and Language Based Structural and Semantic Information",
+        "AUTHORS": "Chitturi, Rahul  and Hansen, John",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2006.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2006.bib",
+            "SUPP": ""
+        }
+    },
+    "denero-klein-2008-complexity": {
+        "TITLE": "The Complexity of Phrase Alignment Problems",
+        "AUTHORS": "DeNero, John  and Klein, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2007.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2007.bib",
+            "SUPP": ""
+        }
+    },
+    "dligach-palmer-2008-novel": {
+        "TITLE": "Novel Semantic Features for Verb Sense Disambiguation",
+        "AUTHORS": "Dligach, Dmitriy  and Palmer, Martha",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2008.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2008.bib",
+            "SUPP": ""
+        }
+    },
+    "dredze-wallenberg-2008-icelandic": {
+        "TITLE": "Icelandic Data Driven Part of Speech Tagging",
+        "AUTHORS": "Dredze, Mark  and Wallenberg, Joel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2009.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2009.bib",
+            "SUPP": ""
+        }
+    },
+    "duh-kirchhoff-2008-beyond": {
+        "TITLE": "Beyond Log-Linear Models: Boosted Minimum Error Rate Training for N-best Re-ranking",
+        "AUTHORS": "Duh, Kevin  and Kirchhoff, Katrin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2010.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2010.bib",
+            "SUPP": ""
+        }
+    },
+    "elsner-charniak-2008-coreference": {
+        "TITLE": "Coreference-inspired Coherence Modeling",
+        "AUTHORS": "Elsner, Micha  and Charniak, Eugene",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2011.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2011.bib",
+            "SUPP": ""
+        }
+    },
+    "finkel-manning-2008-enforcing": {
+        "TITLE": "Enforcing Transitivity in Coreference Resolution",
+        "AUTHORS": "Finkel, Jenny Rose  and Manning, Christopher D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2012.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2012.bib",
+            "SUPP": ""
+        }
+    },
+    "georgila-etal-2008-simulating": {
+        "TITLE": "Simulating the Behaviour of Older versus Younger Users when Interacting with Spoken Dialogue Systems",
+        "AUTHORS": "Georgila, Kallirroi  and Wolters, Maria  and Moore, Johanna",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2013.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2013.bib",
+            "SUPP": ""
+        }
+    },
+    "goldwasser-roth-2008-active": {
+        "TITLE": "Active Sample Selection for Named Entity Transliteration",
+        "AUTHORS": "Goldwasser, Dan  and Roth, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2014.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2014.bib",
+            "SUPP": ""
+        }
+    },
+    "habash-2008-four": {
+        "TITLE": "Four Techniques for Online Handling of Out-of-Vocabulary Words in Arabic-English Statistical Machine Translation",
+        "AUTHORS": "Habash, Nizar",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2015.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2015.bib",
+            "SUPP": ""
+        }
+    },
+    "hacohen-kerner-etal-2008-combined": {
+        "TITLE": "Combined One Sense Disambiguation of Abbreviations",
+        "AUTHORS": "HaCohen-Kerner, Yaakov  and Kass, Ariel  and Peretz, Ariel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2016.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2016.bib",
+            "SUPP": ""
+        }
+    },
+    "haertel-etal-2008-assessing": {
+        "TITLE": "Assessing the Costs of Sampling Methods in Active Learning for Annotation",
+        "AUTHORS": "Haertel, Robbie  and Ringger, Eric  and Seppi, Kevin  and Carroll, James  and McClanahan, Peter",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2017.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2017.bib",
+            "SUPP": ""
+        }
+    },
+    "hashimoto-kurohashi-2008-blog": {
+        "TITLE": "Blog Categorization Exploiting Domain Dictionary and Dynamically Estimated Domains of Unknown Words",
+        "AUTHORS": "Hashimoto, Chikara  and Kurohashi, Sadao",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2018.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2018.bib",
+            "SUPP": ""
+        }
+    },
+    "henderson-lemon-2008-mixture": {
+        "TITLE": "Mixture Model POMDPs for Efficient Handling of Uncertainty in Dialogue Management",
+        "AUTHORS": "Henderson, James  and Lemon, Oliver",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2019.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2019.bib",
+            "SUPP": ""
+        }
+    },
+    "hildebrand-etal-2008-recent": {
+        "TITLE": "Recent Improvements in the CMU Large Scale Chinese-English SMT System",
+        "AUTHORS": "Hildebrand, Almut Silja  and Rottmann, Kay  and Noamany, Mohamed  and Gao, Quin  and Hewavitharana, Sanjika  and Bach, Nguyen  and Vogel, Stephan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2020.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2020.bib",
+            "SUPP": ""
+        }
+    },
+    "karakos-etal-2008-machine": {
+        "TITLE": "Machine Translation System Combination using ITG-based Alignments",
+        "AUTHORS": "Karakos, Damianos  and Eisner, Jason  and Khudanpur, Sanjeev  and Dreyer, Markus",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2021.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2021.bib",
+            "SUPP": ""
+        }
+    },
+    "kulkarni-callan-2008-dictionary": {
+        "TITLE": "Dictionary Definitions based Homograph Identification using a Generative Hierarchical Model",
+        "AUTHORS": "Kulkarni, Anagha  and Callan, Jamie",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2022.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2022.bib",
+            "SUPP": ""
+        }
+    },
+    "li-etal-2008-novel": {
+        "TITLE": "A Novel Feature-based Approach to Chinese Entity Relation Extraction",
+        "AUTHORS": "Li, Wenjie  and Zhang, Peng  and Wei, Furu  and Hou, Yuexian  and Lu, Qin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2023.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2023.bib",
+            "SUPP": ""
+        }
+    },
+    "liu-lin-2008-using": {
+        "TITLE": "Using Structural Information for Identifying Similar Chinese Characters",
+        "AUTHORS": "Liu, Chao-Lin  and Lin, Jen-Hsiang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2024.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2024.bib",
+            "SUPP": ""
+        }
+    },
+    "liu-agichtein-2008-youve": {
+        "TITLE": "You`ve Got Answers: Towards Personalized Models for Predicting Success in Community Question Answering",
+        "AUTHORS": "Liu, Yandong  and Agichtein, Eugene",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2025.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2025.bib",
+            "SUPP": ""
+        }
+    },
+    "mcclosky-charniak-2008-self": {
+        "TITLE": "Self-Training for Biomedical Parsing",
+        "AUTHORS": "McClosky, David  and Charniak, Eugene",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2026.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2026.bib",
+            "SUPP": ""
+        }
+    },
+    "miller-schuler-2008-unified": {
+        "TITLE": "A Unified Syntactic Model for Parsing Fluent and Disfluent Speech",
+        "AUTHORS": "Miller, Tim  and Schuler, William",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2027.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2027.bib",
+            "SUPP": ""
+        }
+    },
+    "moilanen-pulman-2008-good": {
+        "TITLE": "The Good, the Bad, and the Unknown: Morphosyllabic Sentiment Tagging of Unseen Words",
+        "AUTHORS": "Moilanen, Karo  and Pulman, Stephen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2028.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2028.bib",
+            "SUPP": ""
+        }
+    },
+    "moschitti-quarteroni-2008-kernels": {
+        "TITLE": "Kernels on Linguistic Structures for Answer Extraction",
+        "AUTHORS": "Moschitti, Alessandro  and Quarteroni, Silvia",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2029.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2029.bib",
+            "SUPP": ""
+        }
+    },
+    "roth-etal-2008-arabic": {
+        "TITLE": "Arabic Morphological Tagging, Diacritization, and Lemmatization Using Lexeme Models and Feature Ranking",
+        "AUTHORS": "Roth, Ryan  and Rambow, Owen  and Habash, Nizar  and Diab, Mona  and Rudin, Cynthia",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2030.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2030.bib",
+            "SUPP": ""
+        }
+    },
+    "syed-williams-2008-using": {
+        "TITLE": "Using Automatically Transcribed Dialogs to Learn User Models in a Spoken Dialog System",
+        "AUTHORS": "Syed, Umar  and Williams, Jason",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2031.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2031.bib",
+            "SUPP": ""
+        }
+    },
+    "tsuchiya-etal-2008-robust": {
+        "TITLE": "Robust Extraction of Named Entity Including Unfamiliar Word",
+        "AUTHORS": "Tsuchiya, Masatoshi  and Hida, Shinya  and Nakagawa, Seiichi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2032.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2032.bib",
+            "SUPP": ""
+        }
+    },
+    "wan-paris-2008-browser": {
+        "TITLE": "In-Browser Summarisation: Generating Elaborative Summaries Biased Towards the Reading Context",
+        "AUTHORS": "Wan, Stephen  and Paris, Cécile",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2033.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2033.bib",
+            "SUPP": ""
+        }
+    },
+    "xia-etal-2008-lyric": {
+        "TITLE": "Lyric-based Song Sentiment Classification with Sentiment Vector Space Model",
+        "AUTHORS": "Xia, Yunqing  and Wang, Linlin  and Wong, Kam-Fai  and Xu, Mingxing",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2034.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2034.bib",
+            "SUPP": ""
+        }
+    },
+    "yamangil-nelken-2008-mining": {
+        "TITLE": "Mining Wikipedia Revision Histories for Improving Sentence Compression",
+        "AUTHORS": "Yamangil, Elif  and Nelken, Rani",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2035.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2035.bib",
+            "SUPP": ""
+        }
+    },
+    "yuret-2008-smoothing": {
+        "TITLE": "Smoothing a Tera-word Language Model",
+        "AUTHORS": "Yuret, Deniz",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2036.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2036.bib",
+            "SUPP": ""
+        }
+    },
+    "bikel-castelli-2008-event": {
+        "TITLE": "Event Matching Using the Transitive Closure of Dependency Relations",
+        "AUTHORS": "Bikel, Daniel M.  and Castelli, Vittorio",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2037.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2037.bib",
+            "SUPP": ""
+        }
+    },
+    "xiong-etal-2008-linguistically-annotated": {
+        "TITLE": "A Linguistically Annotated Reordering Model for BTG-based Statistical Machine Translation",
+        "AUTHORS": "Xiong, Deyi  and Zhang, Min  and Aw, Aiti  and Li, Haizhou",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2038.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2038.bib",
+            "SUPP": ""
+        }
+    },
+    "badr-etal-2008-segmentation": {
+        "TITLE": "Segmentation for English-to-Arabic Statistical Machine Translation",
+        "AUTHORS": "Badr, Ibrahim  and Zbib, Rabih  and Glass, James",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2039.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2039.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-etal-2008-exploiting": {
+        "TITLE": "Exploiting N-best Hypotheses for SMT Self-Enhancement",
+        "AUTHORS": "Chen, Boxing  and Zhang, Min  and Aw, Aiti  and Li, Haizhou",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2040.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2040.bib",
+            "SUPP": ""
+        }
+    },
+    "he-etal-2008-partial": {
+        "TITLE": "Partial Matching Strategy for Phrase-based Statistical Machine Translation",
+        "AUTHORS": "He, Zhongjun  and Liu, Qun  and Lin, Shouxun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2041.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2041.bib",
+            "SUPP": ""
+        }
+    },
+    "varadarajan-etal-2008-unsupervised": {
+        "TITLE": "Unsupervised Learning of Acoustic Sub-word Units",
+        "AUTHORS": "Varadarajan, Balakrishnan  and Khudanpur, Sanjeev  and Dupoux, Emmanuel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2042.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2042.bib",
+            "SUPP": ""
+        }
+    },
+    "nenkova-etal-2008-high": {
+        "TITLE": "High Frequency Word Entrainment in Spoken Dialogue",
+        "AUTHORS": "Nenkova, Ani  and Gravano, Agustín  and Hirschberg, Julia",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2043.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2043.bib",
+            "SUPP": ""
+        }
+    },
+    "mcmillian-gilbert-2008-distributed": {
+        "TITLE": "Distributed Listening: A Parallel Processing Approach to Automatic Speech Recognition",
+        "AUTHORS": "McMillian, Yolanda  and Gilbert, Juan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2044.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2044.bib",
+            "SUPP": ""
+        }
+    },
+    "bethard-martin-2008-learning": {
+        "TITLE": "Learning Semantic Links from a Corpus of Parallel Temporal and Causal Relations",
+        "AUTHORS": "Bethard, Steven  and Martin, James H.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2045.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2045.bib",
+            "SUPP": ""
+        }
+    },
+    "snajder-etal-2008-evolving": {
+        "TITLE": "Evolving New Lexical Association Measures Using Genetic Programming",
+        "AUTHORS": "Šnajder, Jan  and Dalbelo Bašić, Bojana  and Petrovi\\,́ Saša  and Sikiri\\' ́Ivan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2046.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2046.bib",
+            "SUPP": ""
+        }
+    },
+    "katrenko-adriaans-2008-semantic": {
+        "TITLE": "Semantic Types of Some Generic Relation Arguments: Detection and Evaluation",
+        "AUTHORS": "Katrenko, Sophia  and Adriaans, Pieter",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2047.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2047.bib",
+            "SUPP": ""
+        }
+    },
+    "roa-etal-2008-mapping": {
+        "TITLE": "Mapping between Compositional Semantic Representations and Lexical Semantic Resources: Towards Accurate Deep Semantic Parsing",
+        "AUTHORS": "Roa, Sergio  and Kordoni, Valia  and Zhang, Yi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2048.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2048.bib",
+            "SUPP": ""
+        }
+    },
+    "krahmer-etal-2008-query": {
+        "TITLE": "Query-based Sentence Fusion is Better Defined and Leads to More Preferred Results than Generic Sentence Fusion",
+        "AUTHORS": "Krahmer, Emiel  and Marsi, Erwin  and van Pelt, Paul",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2049.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2049.bib",
+            "SUPP": ""
+        }
+    },
+    "belz-gatt-2008-intrinsic": {
+        "TITLE": "Intrinsic vs. Extrinsic Evaluation Measures for Referring Expression Generation",
+        "AUTHORS": "Belz, Anja  and Gatt, Albert",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2050.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2050.bib",
+            "SUPP": ""
+        }
+    },
+    "liu-liu-2008-correlation": {
+        "TITLE": "Correlation between ROUGE and Human Evaluation of Extractive Meeting Summaries",
+        "AUTHORS": "Liu, Feifan  and Liu, Yang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2051.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2051.bib",
+            "SUPP": ""
+        }
+    },
+    "schilder-kondadadi-2008-fastsum": {
+        "TITLE": "FastSum: Fast and Accurate Query-based Multi-document Summarization",
+        "AUTHORS": "Schilder, Frank  and Kondadadi, Ravikumar",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2052.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2052.bib",
+            "SUPP": ""
+        }
+    },
+    "gabbard-kulick-2008-construct": {
+        "TITLE": "Construct State Modification in the Arabic Treebank",
+        "AUTHORS": "Gabbard, Ryan  and Kulick, Seth",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2053.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2053.bib",
+            "SUPP": ""
+        }
+    },
+    "musillo-merlo-2008-unlexicalised": {
+        "TITLE": "Unlexicalised Hidden Variable Models of Split Dependency Grammars",
+        "AUTHORS": "Musillo, Gabriele Antonio  and Merlo, Paola",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2054.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2054.bib",
+            "SUPP": ""
+        }
+    },
+    "lin-weng-2008-computing": {
+        "TITLE": "Computing Confidence Scores for All Sub Parse Trees",
+        "AUTHORS": "Lin, Feng  and Weng, Fuliang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2055.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2055.bib",
+            "SUPP": ""
+        }
+    },
+    "foster-etal-2008-adapting": {
+        "TITLE": "Adapting a WSJ-Trained Parser to Grammatically Noisy Text",
+        "AUTHORS": "Foster, Jennifer  and Wagner, Joachim  and van Genabith, Josef",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2056.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2056.bib",
+            "SUPP": ""
+        }
+    },
+    "rangarajan-sridhar-etal-2008-enriching": {
+        "TITLE": "Enriching Spoken Language Translation with Dialog Acts",
+        "AUTHORS": "Rangarajan Sridhar, Vivek Kumar  and Bangalore, Srinivas  and Narayanan, Shrikanth",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2057.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2057.bib",
+            "SUPP": ""
+        }
+    },
+    "kim-etal-2008-speakers": {
+        "TITLE": "Speakers' Intention Prediction Using Statistics of Multi-level Features in a Schedule Management Domain",
+        "AUTHORS": "Kim, Donghyun  and Lee, Hyunjung  and Seon, Choong-Nyoung  and Kim, Harksoo  and Seo, Jungyun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2058.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2058.bib",
+            "SUPP": ""
+        }
+    },
+    "dredze-crammer-2008-active": {
+        "TITLE": "Active Learning with Confidence",
+        "AUTHORS": "Dredze, Mark  and Crammer, Koby",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2059.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2059.bib",
+            "SUPP": ""
+        }
+    },
+    "goldberg-elhadad-2008-splitsvm": {
+        "TITLE": "splitSVM: Fast, Space-Efficient, non-Heuristic, Polynomial Kernel Computation for NLP Applications",
+        "AUTHORS": "Goldberg, Yoav  and Elhadad, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2060.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2060.bib",
+            "SUPP": ""
+        }
+    },
+    "nielsen-etal-2008-extracting": {
+        "TITLE": "Extracting a Representation from Text for Semantic Analysis",
+        "AUTHORS": "Nielsen, Rodney D.  and Ward, Wayne  and Martin, James H.  and Palmer, Martha",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2061.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2061.bib",
+            "SUPP": ""
+        }
+    },
+    "regneri-etal-2008-efficient": {
+        "TITLE": "Efficient Processing of Underspecified Discourse Representations",
+        "AUTHORS": "Regneri, Michaela  and Egg, Markus  and Koller, Alexander",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2062.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2062.bib",
+            "SUPP": ""
+        }
+    },
+    "brown-2008-choosing": {
+        "TITLE": "Choosing Sense Distinctions for WSD: Psycholinguistic Evidence",
+        "AUTHORS": "Brown, Susan Windisch",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2063.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2063.bib",
+            "SUPP": ""
+        }
+    },
+    "alfonseca-etal-2008-decompounding": {
+        "TITLE": "Decompounding query keywords from compounding languages",
+        "AUTHORS": "Alfonseca, Enrique  and Bilac, Slaven  and Pharies, Stefan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2064.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2064.bib",
+            "SUPP": ""
+        }
+    },
+    "li-zong-2008-multi": {
+        "TITLE": "Multi-domain Sentiment Classification",
+        "AUTHORS": "Li, Shoushan  and Zong, Chengqing",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2065.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2065.bib",
+            "SUPP": ""
+        }
+    },
+    "trnka-mccoy-2008-evaluating": {
+        "TITLE": "Evaluating Word Prediction: Framing Keystroke Savings",
+        "AUTHORS": "Trnka, Keith  and McCoy, Kathleen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2066.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2066.bib",
+            "SUPP": ""
+        }
+    },
+    "elsayed-etal-2008-pairwise": {
+        "TITLE": "Pairwise Document Similarity in Large Collections with MapReduce",
+        "AUTHORS": "Elsayed, Tamer  and Lin, Jimmy  and Oard, Douglas",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2067.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2067.bib",
+            "SUPP": ""
+        }
+    },
+    "sun-etal-2008-text": {
+        "TITLE": "Text Segmentation with LDA-Based Fisher Kernel",
+        "AUTHORS": "Sun, Qi  and Li, Runxin  and Luo, Dingsheng  and Wu, Xihong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of ACL-08: HLT, Short Papers",
+        "ABBR": "ACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P08-2068.pdf",
+            "BIBTEX": "https://aclanthology.org/P08-2068.bib",
+            "SUPP": ""
+        }
+    }
+}

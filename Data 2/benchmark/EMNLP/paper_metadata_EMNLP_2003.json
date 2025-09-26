@@ -1,0 +1,366 @@
+{
+    "tillmann-2003-projection": {
+        "TITLE": "A Projection Extension Algorithm for Statistical Machine Translation",
+        "AUTHORS": "Tillmann, Christoph",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "schafer-yarowsky-2003-statistical": {
+        "TITLE": "Statistical Machine Translation Using Coercive Two-Level Syntactic Transduction",
+        "AUTHORS": "Schafer, Charles  and Yarowsky, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "kim-khudanpur-2003-cross": {
+        "TITLE": "Cross-Lingual Lexical Triggers in Statistical Language Modeling",
+        "AUTHORS": "Kim, Woosung  and Khudanpur, Sanjeev",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "barzilay-elhadad-2003-sentence": {
+        "TITLE": "Sentence Alignment for Monolingual Comparable Corpora",
+        "AUTHORS": "Barzilay, Regina  and Elhadad, Noemie",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "dienes-dubey-2003-antecedent": {
+        "TITLE": "Antecedent Recovery: Experiments with a Trace Tagger",
+        "AUTHORS": "Dienes, Péter  and Dubey, Amit",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-rambow-2003-use": {
+        "TITLE": "Use of Deep Linguistic Features for the Recognition and Labeling of Semantic Arguments",
+        "AUTHORS": "Chen, John  and Rambow, Owen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "fleischman-etal-2003-maximum": {
+        "TITLE": "Maximum Entropy Models for FrameNet Classification",
+        "AUTHORS": "Fleischman, Michael  and Kwon, Namhee  and Hovy, Eduard",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "gildea-hockenmaier-2003-identifying": {
+        "TITLE": "Identifying Semantic Roles Using Combinatory Categorial Grammar",
+        "AUTHORS": "Gildea, Daniel  and Hockenmaier, Julia",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "genzel-charniak-2003-variation": {
+        "TITLE": "Variation of Entropy and Parse Trees of Sentences as a Function of the Sentence Number",
+        "AUTHORS": "Genzel, Dmitriy  and Charniak, Eugene",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "baldwin-bond-2003-plethora": {
+        "TITLE": "A Plethora of Methods for Learning English Countability",
+        "AUTHORS": "Baldwin, Timothy  and Bond, Francis",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "weeds-weir-2003-general": {
+        "TITLE": "A General Framework for Distributional Similarity",
+        "AUTHORS": "Weeds, Julie  and Weir, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "shen-etal-2003-using": {
+        "TITLE": "Using LTAG Based Features in Parse Reranking",
+        "AUTHORS": "Shen, Libin  and Sarkar, Anoop  and Joshi, Aravind",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "clark-curran-2003-log": {
+        "TITLE": "Log-Linear Models for Wide-Coverage CCG Parsing",
+        "AUTHORS": "Clark, Stephen  and Curran, James",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "riloff-wiebe-2003-learning": {
+        "TITLE": "Learning Extraction Patterns for Subjective Expressions",
+        "AUTHORS": "Riloff, Ellen  and Wiebe, Janyce",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "ng-cardie-2003-bootstrapping": {
+        "TITLE": "Bootstrapping Coreference Classifiers with Multiple Machine Learning Algorithms",
+        "AUTHORS": "Ng, Vincent  and Cardie, Claire",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "duboue-mckeown-2003-statistical": {
+        "TITLE": "Statistical Acquisition of Content Selection Rules for Natural Language Generation",
+        "AUTHORS": "Duboue, Pablo Ariel  and McKeown, Kathleen R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "yu-hatzivassiloglou-2003-towards": {
+        "TITLE": "Towards Answering Opinion Questions: Separating Facts from Opinions and Identifying the Polarity of Opinion Sentences",
+        "AUTHORS": "Yu, Hong  and Hatzivassiloglou, Vasileios",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "kazama-tsujii-2003-evaluation": {
+        "TITLE": "Evaluation and Extension of Maximum Entropy Models with Inequality Constraints",
+        "AUTHORS": "Kazama, Jun′ichi  and Tsujii, Jun′ichi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "altun-etal-2003-investigating": {
+        "TITLE": "Investigating Loss Functions and Optimization Methods for Discriminative Learning of Label Sequences",
+        "AUTHORS": "Altun, Yasemin  and Johnson, Mark  and Hofmann, Thomas",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "zhou-etal-2003-fast": {
+        "TITLE": "A Fast Algorithm for Feature Selection in Conditional Maximum Entropy Modeling",
+        "AUTHORS": "Zhou, Yaqian  and Weng, Fuliang  and Wu, Lide  and Schmidt, Hauke",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "xu-etal-2003-training": {
+        "TITLE": "Training Connectionist Models for the Structured Language Model",
+        "AUTHORS": "Xu, Peng  and Emami, Ahmad  and Jelinek, Frederick",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "ciaramita-johnson-2003-supersense": {
+        "TITLE": "Supersense Tagging of Unknown Nouns in WordNet",
+        "AUTHORS": "Ciaramita, Massimiliano  and Johnson, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "modjeska-etal-2003-using": {
+        "TITLE": "Using the Web in Machine Learning for Other-Anaphora Resolution",
+        "AUTHORS": "Modjeska, Natalia N.  and Markert, Katja  and Nissim, Malvina",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "isozaki-hirao-2003-japanese": {
+        "TITLE": "Japanese Zero Pronoun Resolution based on Ranking Rules and Machine Learning",
+        "AUTHORS": "Isozaki, Hideki  and Hirao, Tsutomu",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "luo-2003-maximum": {
+        "TITLE": "A Maximum Entropy Chinese Character-Based Parser",
+        "AUTHORS": "Luo, Xiaoqiang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "jing-etal-2003-howtogetachinesename": {
+        "TITLE": "HowtogetaChineseName(Entity): Segmentation and Combination Issues",
+        "AUTHORS": "Jing, Hongyan  and Florian, Radu  and Luo, Xiaoqiang  and Zhang, Tong  and Ittycheriah, Abraham",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "sassano-2003-virtual": {
+        "TITLE": "Virtual Examples for Text Classification with Support Vector Machines",
+        "AUTHORS": "Sassano, Manabu",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "hulth-2003-improved": {
+        "TITLE": "Improved Automatic Keyword Extraction Given More Linguistic Knowledge",
+        "AUTHORS": "Hulth, Anette",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2003 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W03-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/W03-1028.bib",
+            "SUPP": ""
+        }
+    }
+}

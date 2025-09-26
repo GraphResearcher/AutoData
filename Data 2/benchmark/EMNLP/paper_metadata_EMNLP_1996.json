@@ -1,0 +1,184 @@
+{
+    "melamed-1996-geometric": {
+        "TITLE": "A Geometric Approach to Mapping Bitext Correspondence",
+        "AUTHORS": "Melamed, I. Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W96-0201.pdf",
+            "BIBTEX": "https://aclanthology.org/W96-0201.bib",
+            "SUPP": ""
+        }
+    },
+    "xia-wu-1996-parsing": {
+        "TITLE": "Parsing Chinese With an Almost-Context-Free Grammar",
+        "AUTHORS": "Xia, Xuanyin  and Wu, Dekai",
+        "ABSTRACT": "",
+        "CONFERENCE": "Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W96-0202.pdf",
+            "BIBTEX": "https://aclanthology.org/W96-0202.bib",
+            "SUPP": ""
+        }
+    },
+    "basili-etal-1996-unsupervised": {
+        "TITLE": "Unsupervised Learning of Syntactic Knowledge: Methods and Measures",
+        "AUTHORS": "Basili, R.  and Marziali, A.  and Pazienza, M.T.  and Velardi, P.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W96-0203.pdf",
+            "BIBTEX": "https://aclanthology.org/W96-0203.bib",
+            "SUPP": ""
+        }
+    },
+    "meteer-iyer-1996-modeling": {
+        "TITLE": "Modeling Conversational Speech for Speech Recognition",
+        "AUTHORS": "Meteer, Marie  and Iyer, Rukmini",
+        "ABSTRACT": "",
+        "CONFERENCE": "Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W96-0204.pdf",
+            "BIBTEX": "https://aclanthology.org/W96-0204.bib",
+            "SUPP": ""
+        }
+    },
+    "nagata-1996-automatic": {
+        "TITLE": "Automatic Extraction of New Words from Japanese Texts using Generalized Forward-Backward Search",
+        "AUTHORS": "Nagata, Masaaki",
+        "ABSTRACT": "",
+        "CONFERENCE": "Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W96-0205.pdf",
+            "BIBTEX": "https://aclanthology.org/W96-0205.bib",
+            "SUPP": ""
+        }
+    },
+    "brants-1996-better": {
+        "TITLE": "Better Language Models with Model Merging",
+        "AUTHORS": "Brants, Thorsten",
+        "ABSTRACT": "",
+        "CONFERENCE": "Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W96-0206.pdf",
+            "BIBTEX": "https://aclanthology.org/W96-0206.bib",
+            "SUPP": ""
+        }
+    },
+    "oflazer-tur-1996-combining": {
+        "TITLE": "Combining Hand-crafted Rules and Unsupervised Learning in Constraint-based Morphological Disambiguation",
+        "AUTHORS": "Oflazer, Kemal  and Tur, Gokhan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W96-0207.pdf",
+            "BIBTEX": "https://aclanthology.org/W96-0207.bib",
+            "SUPP": ""
+        }
+    },
+    "mooney-1996-comparative": {
+        "TITLE": "Comparative Experiments on Disambiguating Word Senses: An Illustration of the Role of Bias in Machine Learning",
+        "AUTHORS": "Mooney, Raymond J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W96-0208.pdf",
+            "BIBTEX": "https://aclanthology.org/W96-0208.bib",
+            "SUPP": ""
+        }
+    },
+    "carroll-briscoe-1996-apportioning": {
+        "TITLE": "Apportioning Development Effort in a Probabilistic LR Parsing System Through Evaluation",
+        "AUTHORS": "Carroll, John  and Briscoe, Ted",
+        "ABSTRACT": "",
+        "CONFERENCE": "Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W96-0209.pdf",
+            "BIBTEX": "https://aclanthology.org/W96-0209.bib",
+            "SUPP": ""
+        }
+    },
+    "bruce-etal-1996-measure": {
+        "TITLE": "The Measure of a Model",
+        "AUTHORS": "Bruce, Rebecca  and Wiebe, Janyce  and Pedersen, Ted",
+        "ABSTRACT": "",
+        "CONFERENCE": "Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W96-0210.pdf",
+            "BIBTEX": "https://aclanthology.org/W96-0210.bib",
+            "SUPP": ""
+        }
+    },
+    "cardie-1996-automating": {
+        "TITLE": "Automating Feature Set Selection for Case-Based Learning of Linguistic Knowledge",
+        "AUTHORS": "Cardie, Claire",
+        "ABSTRACT": "",
+        "CONFERENCE": "Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W96-0211.pdf",
+            "BIBTEX": "https://aclanthology.org/W96-0211.bib",
+            "SUPP": ""
+        }
+    },
+    "caraballo-charniak-1996-figures": {
+        "TITLE": "Figures of Merit for Best-First Probabilistic Chart Parsing",
+        "AUTHORS": "Caraballo, Sharon A.  and Charniak, Eugene",
+        "ABSTRACT": "",
+        "CONFERENCE": "Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W96-0212.pdf",
+            "BIBTEX": "https://aclanthology.org/W96-0212.bib",
+            "SUPP": ""
+        }
+    },
+    "ratnaparkhi-1996-maximum": {
+        "TITLE": "A Maximum Entropy Model for Part-Of-Speech Tagging",
+        "AUTHORS": "Ratnaparkhi, Adwait",
+        "ABSTRACT": "",
+        "CONFERENCE": "Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W96-0213.pdf",
+            "BIBTEX": "https://aclanthology.org/W96-0213.bib",
+            "SUPP": ""
+        }
+    },
+    "goodman-1996-efficient": {
+        "TITLE": "Efficient Algorithms for Parsing the DOP Model",
+        "AUTHORS": "Goodman, Joshua",
+        "ABSTRACT": "",
+        "CONFERENCE": "Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W96-0214.pdf",
+            "BIBTEX": "https://aclanthology.org/W96-0214.bib",
+            "SUPP": ""
+        }
+    }
+}

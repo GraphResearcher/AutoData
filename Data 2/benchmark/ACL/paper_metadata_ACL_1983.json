@@ -1,0 +1,327 @@
+{
+    "pullum-1983-context": {
+        "TITLE": "Context-Freeness and the Computer Processing of Human Languages",
+        "AUTHORS": "Pullum, Geoffrey K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "joshi-1983-factoring": {
+        "TITLE": "Factoring Recursion and Dependencies: An Aspect of Tree Adjoining Grammars (TAG) and a Comparison of Some Formal Properties of TAGs, GPSGs, PLGs, and LPGs",
+        "AUTHORS": "Joshi, Aravind K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "thompson-1983-crossed": {
+        "TITLE": "Crossed Serial Dependencies: A low-power parseable extension to GPSG",
+        "AUTHORS": "Thompson, Henry",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "shieber-etal-1983-formal": {
+        "TITLE": "Formal Constraints on Metarules",
+        "AUTHORS": "Shieber, Stuart M.  and Stucky, Swan U.  and Uszkoreit, Hans  and Robinson, Jane J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "israel-1983-prolegomenon": {
+        "TITLE": "A Prolegomenon to Situation Semantics",
+        "AUTHORS": "Israel, David J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "mays-1983-modal": {
+        "TITLE": "A Modal Temporal Logic for Reasoning about Change",
+        "AUTHORS": "Mays, Eric",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "grosz-etal-1983-providing": {
+        "TITLE": "Providing a Unified Account of Definite Noun Phrases in Discourse",
+        "AUTHORS": "Grosz, Barbara J.  and Joshi, Aravind K.  and Weinstein, Scott",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "warren-1983-using": {
+        "TITLE": "Using \\ensuremathłambda-Calculus to Represent Meanings in Logic Grammars",
+        "AUTHORS": "Warren, David Scott",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "hobbs-1983-improper": {
+        "TITLE": "An Improper Treatment of Quantification in Ordinary English",
+        "AUTHORS": "Hobbs, Jerry R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "hirst-1983-foundation": {
+        "TITLE": "A Foundation for Semantic Interpretation",
+        "AUTHORS": "Hirst, Graeme",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "appelt-1983-telegram": {
+        "TITLE": "TELEGRAM: A Grammar Formalism for Language Planning",
+        "AUTHORS": "Appelt, Douglas E.",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "mann-1983-overview": {
+        "TITLE": "An Overview of the Nigel Text Generation Grammar",
+        "AUTHORS": "Mann, William C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "pierrehumbert-1983-automatic": {
+        "TITLE": "Automatic Recognition of Intonation Patterns",
+        "AUTHORS": "Pierrehumbert, Janet B.",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "church-1983-finite": {
+        "TITLE": "A Finite-State Parser for Use in Speech Recognition",
+        "AUTHORS": "Church, Kenneth W.",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "perrault-1983-mathematical": {
+        "TITLE": "On the Mathematical Properties of Linguistic Theories",
+        "AUTHORS": "Perrault, C. Raymond",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "uszkoreit-1983-framework": {
+        "TITLE": "A Framework for Processing Partially Free Word Order",
+        "AUTHORS": "Uszkoreit, Hans",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "shieber-1983-sentence": {
+        "TITLE": "Sentence Disambiguation by a Shift-Reduce Parsing Technique",
+        "AUTHORS": "Shieber, Stuart M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "berwick-weinberg-1983-syntactic": {
+        "TITLE": "Syntactic Constraints and Efficient Parsability",
+        "AUTHORS": "Berwick, Robert C.  and Weinberg, Amy S.",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "hindle-1983-deterministic": {
+        "TITLE": "Deterministic Parsing of Syntactic Non-fluencies",
+        "AUTHORS": "Hindle, Donald",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "marcus-etal-1983-theory": {
+        "TITLE": "D-Theory: Talking about Talking about Trees",
+        "AUTHORS": "Marcus, Mitchell P.  and Hindle, Donald  and Fleck, Margaret M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "pereira-warren-1983-parsing": {
+        "TITLE": "Parsing as Deduction",
+        "AUTHORS": "Pereira, Fernando C. N.  and Warren, David H. D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "kukich-1983-design": {
+        "TITLE": "Design of a Knowledge-Based Report Generator",
+        "AUTHORS": "Kukich, Karen",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "tennant-etal-1983-menu": {
+        "TITLE": "Menu-Based Natural Language Understanding",
+        "AUTHORS": "Tennant, Harry R.  and Ross, Kenneth M.  and Saenz, Richard M.  and Thompson, Craig W.  and Miller, James R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "chin-1983-knowledge": {
+        "TITLE": "Knowledge Structures in UC, the UNIX Consultant",
+        "AUTHORS": "Chin, David N.",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "carbonell-1983-discourse": {
+        "TITLE": "Discourse Pragmatics and Ellipsis Resolution in Task-Oriented Natural Language Interfaces",
+        "AUTHORS": "Carbonell, Jaime G.",
+        "ABSTRACT": "",
+        "CONFERENCE": "21st Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P83-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/P83-1025.bib",
+            "SUPP": ""
+        }
+    }
+}

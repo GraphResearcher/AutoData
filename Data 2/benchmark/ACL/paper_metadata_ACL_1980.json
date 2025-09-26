@@ -1,0 +1,574 @@
+{
+    "herskovits-1980-spatial": {
+        "TITLE": "On the Spatial Uses of Prepositions",
+        "AUTHORS": "Herskovits, Annette",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "waltz-1980-understanding": {
+        "TITLE": "Understanding Scene Descriptions as Event Simulations",
+        "AUTHORS": "Waltz, David L.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "salveter-1980-existence": {
+        "TITLE": "On the Existence of Primitive Meaning Units",
+        "AUTHORS": "Salveter, Sharon C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "carbonell-1980-metaphor": {
+        "TITLE": "Metaphor - A Key to Extensible Semantic Analysis",
+        "AUTHORS": "Carbonell, Jaime G.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "slack-1980-metaphor": {
+        "TITLE": "Metaphor Comprehension - A special mode of language processing? (Extended Abstract)",
+        "AUTHORS": "Slack, Jon M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "grosz-1980-interactive": {
+        "TITLE": "Interactive Discourse: Influence of Problem Context Panel Chair`s Introduction",
+        "AUTHORS": "Grosz, Barbara",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "chafe-1980-computers": {
+        "TITLE": "Should Computers Write Spoken Language?",
+        "AUTHORS": "Chafe, Wallace L.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "cohen-1980-signalling": {
+        "TITLE": "Signalling the Interpretation of Indirect Speech Acts",
+        "AUTHORS": "Cohen, Philip R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "joshi-1980-parasession": {
+        "TITLE": "Parasession on Topics in Interactive Discourse Influence of the Problem Context",
+        "AUTHORS": "Joshi, Aravind K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "linde-goguen-1980-independence": {
+        "TITLE": "On the Independence of Discourse Structure and Semantic Domain",
+        "AUTHORS": "Linde, Charlotte  and Goguen, J.A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "tannen-1980-parameters": {
+        "TITLE": "The Parameters of Conversational Style",
+        "AUTHORS": "Tannen, Deborah",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "joshi-levy-1980-phrase": {
+        "TITLE": "Phrase Structure Trees Bear More Fruit Than You Would Have Thought",
+        "AUTHORS": "Joshi, Aravind K.  and Levy, Leon S.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "konolige-1980-capturing": {
+        "TITLE": "Capturing Linguistic Generalizations With Metarules in an Annotated Phrase-Structure Grammar",
+        "AUTHORS": "Konolige, Kurt",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "berwick-1980-computational": {
+        "TITLE": "Computational Analogues of Constraints on Grammars: A Model of Syntactic Acquisition",
+        "AUTHORS": "Berwick, Robert Cregar",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "mcdonald-1980-linear": {
+        "TITLE": "A Linear-time Model of Language Production: some psychological implications (extended abstract)",
+        "AUTHORS": "McDonald, David D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "appelt-1980-problem": {
+        "TITLE": "Problem Solving Applied to Language Generation",
+        "AUTHORS": "Appelt, Douglas E.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "hobbs-1980-interactive": {
+        "TITLE": "Interactive Discourse: Influence of the Social Context: Panel Chair`s Introduction",
+        "AUTHORS": "Hobbs, Jerry R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "carey-1980-paralanguage": {
+        "TITLE": "Paralanguage in Computer Mediated Communication",
+        "AUTHORS": "Carey, John",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "hayes-1980-expanding": {
+        "TITLE": "Expanding the Horizons of Natural Language Interfaces",
+        "AUTHORS": "Hayes, Phil",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "hiltz-etal-1980-process": {
+        "TITLE": "The Process of Communication in Face to Face vs. Computerized Conferences; A Controlled Experiment Using Bales Interaction Process Analysis",
+        "AUTHORS": "Hiltz, Starr Roxanne  and Johnson, Kenneth  and Rabke, Ann Marie",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "schegloff-1980-type": {
+        "TITLE": "What Type of Interaction Is It to Be",
+        "AUTHORS": "Schegloff, Emanuel A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "thomas-1980-computer": {
+        "TITLE": "The Computer as an Active Communication Medium",
+        "AUTHORS": "Thomas, John C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "wynn-1980-discourse": {
+        "TITLE": "What Discourse Features Aren`t Needed in On-Line Dialogue",
+        "AUTHORS": "Wynn, Eleanor",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "martin-1980-parsing": {
+        "TITLE": "Parsing",
+        "AUTHORS": "Martin, W. A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "weischedel-black-1980-parser": {
+        "TITLE": "If The Parser Fails",
+        "AUTHORS": "Weischedel, Ralph M.  and Black, John E.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "hayes-mouradian-1980-flexible": {
+        "TITLE": "Flexible Parsing",
+        "AUTHORS": "Hayes, Phil  and Mouradian, Geroge",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "davidson-kaplan-1980-parsiug": {
+        "TITLE": "Parsiug in the Absence of a Complete Lexicon",
+        "AUTHORS": "Davidson, Jim  and Kaplan, S. Jerrold",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "church-1980-parsing": {
+        "TITLE": "On Parsing Strategies and Closure",
+        "AUTHORS": "Church, Kenneth",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "ferrari-stock-1980-strategie": {
+        "TITLE": "Strategie Selection for an ATN Syntactic Parser",
+        "AUTHORS": "Ferrari, Giacomo  and Stock, Oliviero",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "wilensky-arens-1980-phran": {
+        "TITLE": "PHRAN - A Knowledge-Based Natural Language Understander",
+        "AUTHORS": "Wilensky, Robert  and Arens, Yigal",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "kehler-woods-1980-atn": {
+        "TITLE": "ATN Grammar Modeling in Applied Linguistics",
+        "AUTHORS": "Kehler, T. P.  and Woods, R. C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "webber-1980-interactive": {
+        "TITLE": "Interactive Discourse: Looking to the Future: Panel Chair`s Introduction",
+        "AUTHORS": "Webber, Bonnie Lynn",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "harris-1980-prospects": {
+        "TITLE": "Prospects for Practical Natural Language Systems",
+        "AUTHORS": "Harris, Larry R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "hendrix-1980-future": {
+        "TITLE": "Future Prospects for Computational Linguistics",
+        "AUTHORS": "Hendrix, Gary G.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "noll-1980-natural": {
+        "TITLE": "Natural Language Interaction With Machines: A Passing Fad? Or the Way of the Future?",
+        "AUTHORS": "Noll, A. Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "shneiderman-1980-natural": {
+        "TITLE": "Natural vs. Precise Concise Languages for Human Operation of Computers: Research Issues and Experimental Approaches",
+        "AUTHORS": "Shneiderman, Ben",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1036.bib",
+            "SUPP": ""
+        }
+    },
+    "turoff-1980-natural": {
+        "TITLE": "Natural Language and Computer Interface Design",
+        "AUTHORS": "Turoff, Murray",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1037.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1037.bib",
+            "SUPP": ""
+        }
+    },
+    "simmons-1980-word": {
+        "TITLE": "Word, Phrase and Sentence",
+        "AUTHORS": "Simmons, Rob′t F.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1038.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1038.bib",
+            "SUPP": ""
+        }
+    },
+    "belkin-etal-1980-representation": {
+        "TITLE": "Representation of Texts for Information Retrieval",
+        "AUTHORS": "Belkin, N. J.  and Michell, B. G.  and Kuehner, D. G.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1039.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1039.bib",
+            "SUPP": ""
+        }
+    },
+    "blois-etal-1980-word": {
+        "TITLE": "Word and Object in Disease Descriptions",
+        "AUTHORS": "Blois, M. S.  and Sherertz, D. D.  and Tuttle, M. S.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1040.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1040.bib",
+            "SUPP": ""
+        }
+    },
+    "litkowski-1980-requirements": {
+        "TITLE": "Requirements of Text-Processing-Lexicons",
+        "AUTHORS": "Litkowski, Kenneth C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1041.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1041.bib",
+            "SUPP": ""
+        }
+    },
+    "seidenberg-tanenhaus-1980-chronometric": {
+        "TITLE": "Chronometric Studies of Lexical Ambiguity Resolution",
+        "AUTHORS": "Seidenberg, Mark S.  and Tanenhaus, Michael K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1042.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1042.bib",
+            "SUPP": ""
+        }
+    },
+    "thibadeau-etal-1980-real": {
+        "TITLE": "Real Reading Behavior",
+        "AUTHORS": "Thibadeau, Robert  and Just, Marcel  and Carpenter, Patricia",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1043.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1043.bib",
+            "SUPP": ""
+        }
+    },
+    "slocum-1980-experiment": {
+        "TITLE": "An Experiment in Machine Translation",
+        "AUTHORS": "Slocum, Jonathan",
+        "ABSTRACT": "",
+        "CONFERENCE": "18th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P80-1044.pdf",
+            "BIBTEX": "https://aclanthology.org/P80-1044.bib",
+            "SUPP": ""
+        }
+    }
+}

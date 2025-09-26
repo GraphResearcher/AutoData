@@ -1,0 +1,3434 @@
+{
+    "cross-huang-2016-span": {
+        "TITLE": "Span-Based Constituency Parsing with a Structure-Label System and Provably Optimal Dynamic Oracles",
+        "AUTHORS": "Cross, James  and Huang, Liang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "martinez-gomez-miyao-2016-rule": {
+        "TITLE": "Rule Extraction for Tree-to-Tree Transducers by Cost Minimization",
+        "AUTHORS": "Martínez-Gómez, Pascual  and Miyao, Yusuke",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "ficler-goldberg-2016-neural": {
+        "TITLE": "A Neural Network for Coordination Boundary Prediction",
+        "AUTHORS": "Ficler, Jessica  and Goldberg, Yoav",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "noji-etal-2016-using": {
+        "TITLE": "Using Left-corner Parsing to Encode Universal Structural Constraints in Grammar Induction",
+        "AUTHORS": "Noji, Hiroshi  and Miyao, Yusuke  and Johnson, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "huang-etal-2016-distinguishing": {
+        "TITLE": "Distinguishing Past, On-going, and Future Events: The EventStatus Corpus",
+        "AUTHORS": "Huang, Ruihong  and Cases, Ignacio  and Jurafsky, Dan  and Condoravdi, Cleo  and Riloff, Ellen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "bhutani-etal-2016-nested": {
+        "TITLE": "Nested Propositions in Open Information Extraction",
+        "AUTHORS": "Bhutani, Nikita  and Jagadish, H. V.  and Radev, Dragomir",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "yang-etal-2016-position": {
+        "TITLE": "A Position Encoding Convolutional Neural Network Based on Dependency Tree for Relation Classification",
+        "AUTHORS": "Yang, Yunlun  and Tong, Yunhai  and Ma, Shulei  and Deng, Zhi-Hong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "muis-lu-2016-learning": {
+        "TITLE": "Learning to Recognize Discontiguous Entities",
+        "AUTHORS": "Muis, Aldrian Obaja  and Lu, Wei",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "hahn-keller-2016-modeling": {
+        "TITLE": "Modeling Human Reading with Neural Attention",
+        "AUTHORS": "Hahn, Michael  and Keller, Frank",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "barak-etal-2016-comparing": {
+        "TITLE": "Comparing Computational Cognitive Models of Generalization in a Language Acquisition Task",
+        "AUTHORS": "Barak, Libby  and Goldberg, Adele E.  and Stevenson, Suzanne",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "lei-etal-2016-rationalizing": {
+        "TITLE": "Rationalizing Neural Predictions",
+        "AUTHORS": "Lei, Tao  and Barzilay, Regina  and Jaakkola, Tommi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "liu-etal-2016-deep-multi": {
+        "TITLE": "Deep Multi-Task Learning with Shared Memory for Text Classification",
+        "AUTHORS": "Liu, Pengfei  and Qiu, Xipeng  and Huang, Xuanjing",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "trischler-etal-2016-natural": {
+        "TITLE": "Natural Language Comprehension with the EpiReader",
+        "AUTHORS": "Trischler, Adam  and Ye, Zheng  and Yuan, Xingdi  and Bachman, Philip  and Sordoni, Alessandro  and Suleman, Kaheer",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "sharp-etal-2016-creating": {
+        "TITLE": "Creating Causal Embeddings for Question Answering with Minimal Supervision",
+        "AUTHORS": "Sharp, Rebecca  and Surdeanu, Mihai  and Jansen, Peter  and Clark, Peter  and Hammond, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "yavuz-etal-2016-improving": {
+        "TITLE": "Improving Semantic Parsing via Answer Type Inference",
+        "AUTHORS": "Yavuz, Semih  and Gur, Izzeddin  and Su, Yu  and Srivatsa, Mudhakar  and Yan, Xifeng",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "krishnamurthy-etal-2016-semantic": {
+        "TITLE": "Semantic Parsing to Probabilistic Programs for Situated Question Answering",
+        "AUTHORS": "Krishnamurthy, Jayant  and Tafjord, Oyvind  and Kembhavi, Aniruddha",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "tilk-etal-2016-event": {
+        "TITLE": "Event participant modelling with neural networks",
+        "AUTHORS": "Tilk, Ottokar  and Demberg, Vera  and Sayeed, Asad  and Klakow, Dietrich  and Thater, Stefan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "qiu-etal-2016-context": {
+        "TITLE": "Context-Dependent Sense Embedding",
+        "AUTHORS": "Qiu, Lin  and Tu, Kewei  and Yu, Yong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "guo-etal-2016-jointly": {
+        "TITLE": "Jointly Embedding Knowledge Graphs and Logical Rules",
+        "AUTHORS": "Guo, Shu  and Wang, Quan  and Wang, Lihong  and Wang, Bin  and Guo, Li",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "braud-denis-2016-learning": {
+        "TITLE": "Learning Connective-based Word Representations for Implicit Discourse Relation Identification",
+        "AUTHORS": "Braud, Chloé  and Denis, Pascal",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "tang-etal-2016-aspect": {
+        "TITLE": "Aspect Level Sentiment Classification with Deep Memory Network",
+        "AUTHORS": "Tang, Duyu  and Qin, Bing  and Liu, Ting",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "shu-etal-2016-lifelong": {
+        "TITLE": "Lifelong-RL: Lifelong Relaxation Labeling for Separating Entities and Aspects in Opinion Targets",
+        "AUTHORS": "Shu, Lei  and Liu, Bing  and Xu, Hu  and Kim, Annice",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "yu-jiang-2016-learning": {
+        "TITLE": "Learning Sentence Embeddings with Auxiliary Tasks for Cross-Domain Sentiment Classification",
+        "AUTHORS": "Yu, Jianfei  and Jiang, Jing",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "zhou-etal-2016-attention-based": {
+        "TITLE": "Attention-based LSTM Network for Cross-Lingual Sentiment Classification",
+        "AUTHORS": "Zhou, Xinjie  and Wan, Xiaojun  and Xiao, Jianguo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "bentivogli-etal-2016-neural": {
+        "TITLE": "Neural versus Phrase-Based Machine Translation Quality: a Case Study",
+        "AUTHORS": "Bentivogli, Luisa  and Bisazza, Arianna  and Cettolo, Mauro  and Federico, Marcello",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "firat-etal-2016-zero": {
+        "TITLE": "Zero-Resource Translation with Multi-Lingual Neural Machine Translation",
+        "AUTHORS": "Firat, Orhan  and Sankaran, Baskaran  and Al-onaizan, Yaser  and Yarman Vural, Fatos T.  and Cho, Kyunghyun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-etal-2016-memory": {
+        "TITLE": "Memory-enhanced Decoder for Neural Machine Translation",
+        "AUTHORS": "Wang, Mingxuan  and Lu, Zhengdong  and Li, Hang  and Liu, Qun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "marinho-etal-2016-semi": {
+        "TITLE": "Semi-Supervised Learning of Sequence Models with Method of Moments",
+        "AUTHORS": "Marinho, Zita  and Martins, André F. T.  and Cohen, Shay B.  and Smith, Noah A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "upadhyay-etal-2016-learning": {
+        "TITLE": "Learning from Explicit and Implicit Supervision Jointly For Algebra Word Problems",
+        "AUTHORS": "Upadhyay, Shyam  and Chang, Ming-Wei  and Chang, Kai-Wei  and Yih, Wen-tau",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "tabassum-etal-2016-tweetime": {
+        "TITLE": "TweeTime : A Minimally Supervised Method for Recognizing and Normalizing Time Expressions in Twitter",
+        "AUTHORS": "Tabassum, Jeniya  and Ritter, Alan  and Xu, Wei",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "miao-blunsom-2016-language": {
+        "TITLE": "Language as a Latent Variable: Discrete Generative Models for Sentence Compression",
+        "AUTHORS": "Miao, Yishu  and Blunsom, Phil",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "kiddon-etal-2016-globally": {
+        "TITLE": "Globally Coherent Text Generation with Neural Checklist Models",
+        "AUTHORS": "Kiddon, Chloé  and Zettlemoyer, Luke  and Choi, Yejin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "toutanova-etal-2016-dataset": {
+        "TITLE": "A Dataset and Evaluation Metrics for Abstractive Compression of Sentences and Short Paragraphs",
+        "AUTHORS": "Toutanova, Kristina  and Brockett, Chris  and Tran, Ke M.  and Amershi, Saleema",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "brunato-etal-2016-paccss": {
+        "TITLE": "PaCCSS-IT: A Parallel Corpus of Complex-Simple Sentences for Automatic Text Simplification",
+        "AUTHORS": "Brunato, Dominique  and Cimino, Andrea  and Dell′Orletta, Felice  and Venturi, Giulia",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "li-etal-2016-discourse": {
+        "TITLE": "Discourse Parsing with Attention-based Hierarchical Neural Networks",
+        "AUTHORS": "Li, Qi  and Li, Tianshi  and Chang, Baobao",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "zhou-etal-2016-multi": {
+        "TITLE": "Multi-view Response Selection for Human-Computer Conversation",
+        "AUTHORS": "Zhou, Xiangyang  and Dong, Daxiang  and Wu, Hua  and Zhao, Shiqi  and Yu, Dianhai  and Tian, Hao  and Liu, Xuan  and Yan, Rui",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1036.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-etal-2016-variational": {
+        "TITLE": "Variational Neural Discourse Relation Recognizer",
+        "AUTHORS": "Zhang, Biao  and Xiong, Deyi  and Su, Jinsong  and Liu, Qun  and Ji, Rongrong  and Duan, Hong  and Zhang, Min",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1037.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1037.bib",
+            "SUPP": ""
+        }
+    },
+    "peng-etal-2016-event": {
+        "TITLE": "Event Detection and Co-reference with Minimal Supervision",
+        "AUTHORS": "Peng, Haoruo  and Song, Yangqiu  and Roth, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1038.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1038.bib",
+            "SUPP": ""
+        }
+    },
+    "luu-etal-2016-learning": {
+        "TITLE": "Learning Term Embeddings for Taxonomic Relation Identification Using Dynamic Weighting Neural Network",
+        "AUTHORS": "Luu, Anh Tuan  and Tay, Yi  and Hui, Siu Cheung  and Ng, See Kiong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1039.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1039.bib",
+            "SUPP": ""
+        }
+    },
+    "nimishakavi-etal-2016-relation": {
+        "TITLE": "Relation Schema Induction using Tensor Factorization with Side Information",
+        "AUTHORS": "Nimishakavi, Madhav  and Saini, Uday Singh  and Talukdar, Partha",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1040.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1040.bib",
+            "SUPP": ""
+        }
+    },
+    "espinosa-anke-etal-2016-supervised": {
+        "TITLE": "Supervised Distributional Hypernym Discovery via Domain Adaptation",
+        "AUTHORS": "Espinosa-Anke, Luis  and Camacho-Collados, Jose  and Delli Bovi, Claudio  and Saggion, Horacio",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1041.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1041.bib",
+            "SUPP": ""
+        }
+    },
+    "brychcin-2016-latent": {
+        "TITLE": "Latent Tree Language Model",
+        "AUTHORS": "Brychcín, Tomáš",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1042.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1042.bib",
+            "SUPP": ""
+        }
+    },
+    "kiela-etal-2016-comparing": {
+        "TITLE": "Comparing Data Sources and Architectures for Deep Visual Representation Learning in Semantics",
+        "AUTHORS": "Kiela, Douwe  and Verő, Anita Lilla  and Clark, Stephen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1043.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1043.bib",
+            "SUPP": ""
+        }
+    },
+    "fukui-etal-2016-multimodal": {
+        "TITLE": "Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding",
+        "AUTHORS": "Fukui, Akira  and Park, Dong Huk  and Yang, Daylen  and Rohrbach, Anna  and Darrell, Trevor  and Rohrbach, Marcus",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1044.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1044.bib",
+            "SUPP": ""
+        }
+    },
+    "dror-reichart-2016-structured": {
+        "TITLE": "The Structured Weighted Violations Perceptron Algorithm",
+        "AUTHORS": "Dror, Rotem  and Reichart, Roi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1045.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1045.bib",
+            "SUPP": ""
+        }
+    },
+    "mou-etal-2016-transferable": {
+        "TITLE": "How Transferable are Neural Networks in NLP Applications?",
+        "AUTHORS": "Mou, Lili  and Meng, Zhao  and Yan, Rui  and Li, Ge  and Xu, Yan  and Zhang, Lu  and Jin, Zhi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1046.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1046.bib",
+            "SUPP": ""
+        }
+    },
+    "bhatia-etal-2016-morphological": {
+        "TITLE": "Morphological Priors for Probabilistic Neural Word Embeddings",
+        "AUTHORS": "Bhatia, Parminder  and Guthrie, Robert  and Eisenstein, Jacob",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1047.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1047.bib",
+            "SUPP": ""
+        }
+    },
+    "jiang-etal-2016-automatic": {
+        "TITLE": "Automatic Cross-Lingual Similarization of Dependency Grammars for Tree-based Machine Translation",
+        "AUTHORS": "Jiang, Wenbin  and Zhang, Wen  and Xu, Jinan  and Cai, Rangjia",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1048.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1048.bib",
+            "SUPP": ""
+        }
+    },
+    "otani-etal-2016-irt": {
+        "TITLE": "IRT-based Aggregation Model of Crowdsourced Pairwise Comparison for Evaluating Machine Translations",
+        "AUTHORS": "Otani, Naoki  and Nakazawa, Toshiaki  and Kawahara, Daisuke  and Kurohashi, Sadao",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1049.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1049.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-etal-2016-variational-neural": {
+        "TITLE": "Variational Neural Machine Translation",
+        "AUTHORS": "Zhang, Biao  and Xiong, Deyi  and Su, Jinsong  and Duan, Hong  and Zhang, Min",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1050.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1050.bib",
+            "SUPP": ""
+        }
+    },
+    "simion-etal-2016-towards": {
+        "TITLE": "Towards a Convex HMM Surrogate for Word Alignment",
+        "AUTHORS": "Simion, Andrei  and Collins, Michael  and Stein, Cliff",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1051.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1051.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-etal-2016-solving": {
+        "TITLE": "Solving Verbal Questions in IQ Test by Knowledge-Powered Word Embedding",
+        "AUTHORS": "Wang, Huazheng  and Tian, Fei  and Gao, Bin  and Zhu, Chengjieren  and Bian, Jiang  and Liu, Tie-Yan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1052.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1052.bib",
+            "SUPP": ""
+        }
+    },
+    "cheng-etal-2016-long": {
+        "TITLE": "Long Short-Term Memory-Networks for Machine Reading",
+        "AUTHORS": "Cheng, Jianpeng  and Dong, Li  and Lapata, Mirella",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1053.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1053.bib",
+            "SUPP": ""
+        }
+    },
+    "su-etal-2016-generating": {
+        "TITLE": "On Generating Characteristic-rich Question Sets for QA Evaluation",
+        "AUTHORS": "Su, Yu  and Sun, Huan  and Sadler, Brian  and Srivatsa, Mudhakar  and Gür, Izzeddin  and Yan, Zenghui  and Yan, Xifeng",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1054.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1054.bib",
+            "SUPP": ""
+        }
+    },
+    "ture-boschee-2016-learning": {
+        "TITLE": "Learning to Translate for Multilingual Question Answering",
+        "AUTHORS": "Ture, Ferhan  and Boschee, Elizabeth",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1055.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1055.bib",
+            "SUPP": ""
+        }
+    },
+    "abdelwahab-etal-2016-semiparametric": {
+        "TITLE": "A Semiparametric Model for Bayesian Reader Identification",
+        "AUTHORS": "Abdelwahab, Ahmed  and Kliegl, Reinhold  and Landwehr, Niels",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1056.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1056.bib",
+            "SUPP": ""
+        }
+    },
+    "hamilton-etal-2016-inducing": {
+        "TITLE": "Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora",
+        "AUTHORS": "Hamilton, William L.  and Clark, Kevin  and Leskovec, Jure  and Jurafsky, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1057.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1057.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-etal-2016-attention": {
+        "TITLE": "Attention-based LSTM for Aspect-level Sentiment Classification",
+        "AUTHORS": "Wang, Yequan  and Huang, Minlie  and Zhu, Xiaoyan  and Zhao, Li",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1058.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1058.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-etal-2016-recursive": {
+        "TITLE": "Recursive Neural Conditional Random Fields for Aspect-based Sentiment Analysis",
+        "AUTHORS": "Wang, Wenya  and Pan, Sinno Jialin  and Dahlmeier, Daniel  and Xiao, Xiaokui",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1059.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1059.bib",
+            "SUPP": ""
+        }
+    },
+    "laddha-mukherjee-2016-extracting": {
+        "TITLE": "Extracting Aspect Specific Opinion Expressions",
+        "AUTHORS": "Laddha, Abhishek  and Mukherjee, Arjun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1060.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1060.bib",
+            "SUPP": ""
+        }
+    },
+    "zhou-etal-2016-emotion": {
+        "TITLE": "Emotion Distribution Learning from Texts",
+        "AUTHORS": "Zhou, Deyu  and Zhang, Xuan  and Zhou, Yin  and Zhao, Quan  and Geng, Xin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1061.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1061.bib",
+            "SUPP": ""
+        }
+    },
+    "lalor-etal-2016-building": {
+        "TITLE": "Building an Evaluation Scale using Item Response Theory",
+        "AUTHORS": "Lalor, John P.  and Wu, Hao  and Yu, Hong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1062.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1062.bib",
+            "SUPP": ""
+        }
+    },
+    "ji-etal-2016-wordrank": {
+        "TITLE": "WordRank: Learning Word Embeddings via Robust Ranking",
+        "AUTHORS": "Ji, Shihao  and Yun, Hyokun  and Yanardag, Pinar  and Matsushima, Shin  and Vishwanathan, S. V. N.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1063.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1063.bib",
+            "SUPP": ""
+        }
+    },
+    "ruan-etal-2016-exploring": {
+        "TITLE": "Exploring Semantic Representation in Brain Activity Using Word Embeddings",
+        "AUTHORS": "Ruan, Yu-Ping  and Ling, Zhen-Hua  and Hu, Yu",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1064.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1064.bib",
+            "SUPP": ""
+        }
+    },
+    "zhou-etal-2016-amr": {
+        "TITLE": "AMR Parsing with an Incremental Joint Model",
+        "AUTHORS": "Zhou, Junsheng  and Xu, Feiyu  and Uszkoreit, Hans  and Qu, Weiguang  and Li, Ran  and Gu, Yanhui",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1065.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1065.bib",
+            "SUPP": ""
+        }
+    },
+    "fast-horvitz-2016-identifying": {
+        "TITLE": "Identifying Dogmatism in Social Media: Signals and Models",
+        "AUTHORS": "Fast, Ethan  and Horvitz, Eric",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1066.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1066.bib",
+            "SUPP": ""
+        }
+    },
+    "zhou-etal-2016-enhanced": {
+        "TITLE": "Enhanced Personalized Search using Social Data",
+        "AUTHORS": "Zhou, Dong  and Lawless, Séamus  and Wu, Xuan  and Zhao, Wenyu  and Liu, Jianxun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1067.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1067.bib",
+            "SUPP": ""
+        }
+    },
+    "tchernowitz-etal-2016-effective": {
+        "TITLE": "Effective Greedy Inference for Graph-based Non-Projective Dependency Parsing",
+        "AUTHORS": "Tchernowitz, Ilan  and Yedidsion, Liron  and Reichart, Roi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1068.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1068.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-etal-2016-generating": {
+        "TITLE": "Generating Abbreviations for Chinese Named Entities Using Recurrent Neural Network with Dynamic Dictionary",
+        "AUTHORS": "Zhang, Qi  and Qian, Jin  and Guo, Ya  and Zhou, Yaqian  and Huang, Xuanjing",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1069.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1069.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-etal-2016-neural": {
+        "TITLE": "Neural Network for Heterogeneous Annotations",
+        "AUTHORS": "Chen, Hongshen  and Zhang, Yue  and Liu, Qun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1070.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1070.bib",
+            "SUPP": ""
+        }
+    },
+    "ebert-etal-2016-lamb": {
+        "TITLE": "LAMB: A Good Shepherd of Morphologically Rich Languages",
+        "AUTHORS": "Ebert, Sebastian  and Müller, Thomas  and Schütze, Hinrich",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1071.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1071.bib",
+            "SUPP": ""
+        }
+    },
+    "li-etal-2016-fast": {
+        "TITLE": "Fast Coupled Sequence Labeling on Heterogeneous Annotations via Context-aware Pruning",
+        "AUTHORS": "Li, Zhenghua  and Chao, Jiayuan  and Zhang, Min  and Yang, Jiwen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1072.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1072.bib",
+            "SUPP": ""
+        }
+    },
+    "jiang-etal-2016-unsupervised": {
+        "TITLE": "Unsupervised Neural Dependency Parsing",
+        "AUTHORS": "Jiang, Yong  and Han, Wenjuan  and Tu, Kewei",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1073.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1073.bib",
+            "SUPP": ""
+        }
+    },
+    "parveen-etal-2016-generating": {
+        "TITLE": "Generating Coherent Summaries of Scientific Articles Using Coherence Patterns",
+        "AUTHORS": "Parveen, Daraksha  and Mesgar, Mohsen  and Strube, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1074.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1074.bib",
+            "SUPP": ""
+        }
+    },
+    "ge-etal-2016-news": {
+        "TITLE": "News Stream Summarization using Burst Information Networks",
+        "AUTHORS": "Ge, Tao  and Cui, Lei  and Chang, Baobao  and Li, Sujian  and Zhou, Ming  and Sui, Zhifang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1075.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1075.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-etal-2016-rationale": {
+        "TITLE": "Rationale-Augmented Convolutional Neural Networks for Text Classification",
+        "AUTHORS": "Zhang, Ye  and Marshall, Iain  and Wallace, Byron C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1076.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1076.bib",
+            "SUPP": ""
+        }
+    },
+    "huang-lin-2016-transferring": {
+        "TITLE": "Transferring User Interests Across Websites with Unstructured Text for Cold-Start Recommendation",
+        "AUTHORS": "Huang, Yu-Yang  and Lin, Shou-De",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1077.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1077.bib",
+            "SUPP": ""
+        }
+    },
+    "qian-etal-2016-speculation": {
+        "TITLE": "Speculation and Negation Scope Detection via Convolutional Neural Networks",
+        "AUTHORS": "Qian, Zhong  and Li, Peifeng  and Zhu, Qiaoming  and Zhou, Guodong  and Luo, Zhunchen  and Luo, Wei",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1078.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1078.bib",
+            "SUPP": ""
+        }
+    },
+    "qian-etal-2016-analyzing": {
+        "TITLE": "Analyzing Linguistic Knowledge in Sequential Model of Sentence",
+        "AUTHORS": "Qian, Peng  and Qiu, Xipeng  and Huang, Xuanjing",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1079.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1079.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-etal-2016-keyphrase": {
+        "TITLE": "Keyphrase Extraction Using Deep Recurrent Neural Networks on Twitter",
+        "AUTHORS": "Zhang, Qi  and Wang, Yang  and Gong, Yeyun  and Huang, Xuanjing",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1080.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1080.bib",
+            "SUPP": ""
+        }
+    },
+    "tan-etal-2016-solving": {
+        "TITLE": "Solving and Generating Chinese Character Riddles",
+        "AUTHORS": "Tan, Chuanqi  and Wei, Furu  and Dong, Li  and Lv, Weifeng  and Zhou, Ming",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1081.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1081.bib",
+            "SUPP": ""
+        }
+    },
+    "jagannatha-yu-2016-structured": {
+        "TITLE": "Structured prediction models for RNN based sequence labeling in clinical text",
+        "AUTHORS": "Jagannatha, Abhyuday  and Yu, Hong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1082.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1082.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-etal-2016-learning-represent": {
+        "TITLE": "Learning to Represent Review with Tensor Decomposition for Spam Detection",
+        "AUTHORS": "Wang, Xuepeng  and Liu, Kang  and He, Shizhu  and Zhao, Jun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1083.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1083.bib",
+            "SUPP": ""
+        }
+    },
+    "augenstein-etal-2016-stance": {
+        "TITLE": "Stance Detection with Bidirectional Conditional Encoding",
+        "AUTHORS": "Augenstein, Isabelle  and Rocktäschel, Tim  and Vlachos, Andreas  and Bontcheva, Kalina",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1084.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1084.bib",
+            "SUPP": ""
+        }
+    },
+    "nguyen-grishman-2016-modeling": {
+        "TITLE": "Modeling Skip-Grams for Event Detection with Convolutional Neural Networks",
+        "AUTHORS": "Nguyen, Thien Huu  and Grishman, Ralph",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1085.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1085.bib",
+            "SUPP": ""
+        }
+    },
+    "falke-etal-2016-porting": {
+        "TITLE": "Porting an Open Information Extraction System from English to German",
+        "AUTHORS": "Falke, Tobias  and Stanovsky, Gabriel  and Gurevych, Iryna  and Dagan, Ido",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1086.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1086.bib",
+            "SUPP": ""
+        }
+    },
+    "qu-etal-2016-named": {
+        "TITLE": "Named Entity Recognition for Novel Types by Transfer Learning",
+        "AUTHORS": "Qu, Lizhen  and Ferraro, Gabriela  and Zhou, Liyuan  and Hou, Weiwei  and Baldwin, Timothy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1087.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1087.bib",
+            "SUPP": ""
+        }
+    },
+    "badgett-huang-2016-extracting": {
+        "TITLE": "Extracting Subevents via an Effective Two-phase Approach",
+        "AUTHORS": "Badgett, Allison  and Huang, Ruihong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1088.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1088.bib",
+            "SUPP": ""
+        }
+    },
+    "mukherjee-hospedales-2016-gaussian": {
+        "TITLE": "Gaussian Visual-Linguistic Embedding for Zero-Shot Recognition",
+        "AUTHORS": "Mukherjee, Tanmoy  and Hospedales, Timothy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1089.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1089.bib",
+            "SUPP": ""
+        }
+    },
+    "ray-etal-2016-question": {
+        "TITLE": "Question Relevance in VQA: Identifying Non-Visual And False-Premise Questions",
+        "AUTHORS": "Ray, Arijit  and Christie, Gordon  and Bansal, Mohit  and Batra, Dhruv  and Parikh, Devi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1090.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1090.bib",
+            "SUPP": ""
+        }
+    },
+    "agrawal-etal-2016-sort": {
+        "TITLE": "Sort Story: Sorting Jumbled Images and Captions into Stories",
+        "AUTHORS": "Agrawal, Harsh  and Chandrasekaran, Arjun  and Batra, Dhruv  and Parikh, Devi  and Bansal, Mohit",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1091.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1091.bib",
+            "SUPP": ""
+        }
+    },
+    "das-etal-2016-human": {
+        "TITLE": "Human Attention in Visual Question Answering: Do Humans and Deep Networks look at the same regions?",
+        "AUTHORS": "Das, Abhishek  and Agrawal, Harsh  and Zitnick, Larry  and Parikh, Devi  and Batra, Dhruv",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1092.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1092.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-tian-2016-recurrent": {
+        "TITLE": "Recurrent Residual Learning for Sequence Classification",
+        "AUTHORS": "Wang, Yiren  and Tian, Fei",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1093.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1093.bib",
+            "SUPP": ""
+        }
+    },
+    "shareghi-etal-2016-richer": {
+        "TITLE": "Richer Interpolative Smoothing Based on Modified Kneser-Ney Language Modeling",
+        "AUTHORS": "Shareghi, Ehsan  and Cohn, Trevor  and Haffari, Gholamreza",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1094.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1094.bib",
+            "SUPP": ""
+        }
+    },
+    "lu-etal-2016-general": {
+        "TITLE": "A General Regularization Framework for Domain Adaptation",
+        "AUTHORS": "Lu, Wei  and Chieu, Hai Leong  and Löfgren, Jonathan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1095.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1095.bib",
+            "SUPP": ""
+        }
+    },
+    "mi-etal-2016-coverage": {
+        "TITLE": "Coverage Embedding Models for Neural Machine Translation",
+        "AUTHORS": "Mi, Haitao  and Sankaran, Baskaran  and Wang, Zhiguo  and Ittycheriah, Abe",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1096.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1096.bib",
+            "SUPP": ""
+        }
+    },
+    "kann-etal-2016-neural": {
+        "TITLE": "Neural Morphological Analysis: Encoding-Decoding Canonical Segments",
+        "AUTHORS": "Kann, Katharina  and Cotterell, Ryan  and Schütze, Hinrich",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1097.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1097.bib",
+            "SUPP": ""
+        }
+    },
+    "shi-etal-2016-exploiting": {
+        "TITLE": "Exploiting Mutual Benefits between Syntax and Semantic Roles using Neural Network",
+        "AUTHORS": "Shi, Peng  and Teng, Zhiyang  and Zhang, Yue",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1098.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1098.bib",
+            "SUPP": ""
+        }
+    },
+    "sahlgren-lenci-2016-effects": {
+        "TITLE": "The Effects of Data Size and Frequency Range on Distributional Semantic Models",
+        "AUTHORS": "Sahlgren, Magnus  and Lenci, Alessandro",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1099.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1099.bib",
+            "SUPP": ""
+        }
+    },
+    "yin-etal-2016-multi": {
+        "TITLE": "Multi-Granularity Chinese Word Embedding",
+        "AUTHORS": "Yin, Rongchao  and Wang, Quan  and Li, Peng  and Li, Rui  and Wang, Bin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1100.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1100.bib",
+            "SUPP": ""
+        }
+    },
+    "spithourakis-etal-2016-numerically": {
+        "TITLE": "Numerically Grounded Language Models for Semantic Error Correction",
+        "AUTHORS": "Spithourakis, Georgios  and Augenstein, Isabelle  and Riedel, Sebastian",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1101.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1101.bib",
+            "SUPP": ""
+        }
+    },
+    "akbik-etal-2016-towards": {
+        "TITLE": "Towards Semi-Automatic Generation of Proposition Banks for Low-Resource Languages",
+        "AUTHORS": "Akbik, Alan  and Kumar, Vishwajeet  and Li, Yunyao",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1102.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1102.bib",
+            "SUPP": ""
+        }
+    },
+    "ruder-etal-2016-hierarchical": {
+        "TITLE": "A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis",
+        "AUTHORS": "Ruder, Sebastian  and Ghaffari, Parsa  and Breslin, John G.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1103.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1103.bib",
+            "SUPP": ""
+        }
+    },
+    "joshi-etal-2016-word": {
+        "TITLE": "Are Word Embedding-based Features Useful for Sarcasm Detection?",
+        "AUTHORS": "Joshi, Aditya  and Tripathi, Vaibhav  and Patel, Kevin  and Bhattacharyya, Pushpak  and Carman, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1104.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1104.bib",
+            "SUPP": ""
+        }
+    },
+    "ebrahimi-etal-2016-weakly": {
+        "TITLE": "Weakly Supervised Tweet Stance Classification by Relational Bootstrapping",
+        "AUTHORS": "Ebrahimi, Javid  and Dou, Dejing  and Lowd, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1105.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1105.bib",
+            "SUPP": ""
+        }
+    },
+    "pavlick-etal-2016-gun": {
+        "TITLE": "The Gun Violence Database: A new task and data set for NLP",
+        "AUTHORS": "Pavlick, Ellie  and Ji, Heng  and Pan, Xiaoman  and Callison-Burch, Chris",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1106.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1106.bib",
+            "SUPP": ""
+        }
+    },
+    "lippincott-van-durme-2016-fluency": {
+        "TITLE": "Fluency detection on communication networks",
+        "AUTHORS": "Lippincott, Tom  and Van Durme, Benjamin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1107.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1107.bib",
+            "SUPP": ""
+        }
+    },
+    "tran-ostendorf-2016-characterizing": {
+        "TITLE": "Characterizing the Language of Online Communities and its Relation to Community Reception",
+        "AUTHORS": "Tran, Trang  and Ostendorf, Mari",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1108.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1108.bib",
+            "SUPP": ""
+        }
+    },
+    "yoshikawa-etal-2016-joint": {
+        "TITLE": "Joint Transition-based Dependency Parsing and Disfluency Detection for Automatic Speech Recognition Texts",
+        "AUTHORS": "Yoshikawa, Masashi  and Shindo, Hiroyuki  and Matsumoto, Yuji",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1109.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1109.bib",
+            "SUPP": ""
+        }
+    },
+    "bertero-etal-2016-real": {
+        "TITLE": "Real-Time Speech Emotion and Sentiment Recognition for Interactive Dialogue Systems",
+        "AUTHORS": "Bertero, Dario  and Siddique, Farhad Bin  and Wu, Chien-Sheng  and Wan, Yan  and Chan, Ricky Ho Yin  and Fung, Pascale",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1110.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1110.bib",
+            "SUPP": ""
+        }
+    },
+    "ballesteros-wanner-2016-neural": {
+        "TITLE": "A Neural Network Architecture for Multilingual Punctuation Generation",
+        "AUTHORS": "Ballesteros, Miguel  and Wanner, Leo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1111.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1111.bib",
+            "SUPP": ""
+        }
+    },
+    "takase-etal-2016-neural": {
+        "TITLE": "Neural Headline Generation on Abstract Meaning Representation",
+        "AUTHORS": "Takase, Sho  and Suzuki, Jun  and Okazaki, Naoaki  and Hirao, Tsutomu  and Nagata, Masaaki",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1112.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1112.bib",
+            "SUPP": ""
+        }
+    },
+    "kekec-tax-2016-robust": {
+        "TITLE": "Robust Gram Embeddings",
+        "AUTHORS": "Kekeç, Taygun  and Tax, David M. J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1113.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1113.bib",
+            "SUPP": ""
+        }
+    },
+    "kim-etal-2016-simplescience": {
+        "TITLE": "SimpleScience: Lexical Simplification of Scientific Terminology",
+        "AUTHORS": "Kim, Yea-Seul  and Hullman, Jessica  and Burgess, Matthew  and Adar, Eytan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1114.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1114.bib",
+            "SUPP": ""
+        }
+    },
+    "dong-zhang-2016-automatic": {
+        "TITLE": "Automatic Features for Essay Scoring -- An Empirical Study",
+        "AUTHORS": "Dong, Fei  and Zhang, Yue",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1115.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1115.bib",
+            "SUPP": ""
+        }
+    },
+    "kocisky-etal-2016-semantic": {
+        "TITLE": "Semantic Parsing with Semi-Supervised Sequential Autoencoders",
+        "AUTHORS": "Kočiský, Tomáš  and Melis, Gábor  and Grefenstette, Edward  and Dyer, Chris  and Ling, Wang  and Blunsom, Phil  and Hermann, Karl Moritz",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1116.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1116.bib",
+            "SUPP": ""
+        }
+    },
+    "roy-etal-2016-equation": {
+        "TITLE": "Equation Parsing : Mapping Sentences to Grounded Equations",
+        "AUTHORS": "Roy, Subhro  and Upadhyay, Shyam  and Roth, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1117.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1117.bib",
+            "SUPP": ""
+        }
+    },
+    "sanders-blanco-2016-automatic": {
+        "TITLE": "Automatic Extraction of Implicit Interpretations from Modal Constructions",
+        "AUTHORS": "Sanders, Jordan  and Blanco, Eduardo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1118.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1118.bib",
+            "SUPP": ""
+        }
+    },
+    "sarabi-blanco-2016-understanding": {
+        "TITLE": "Understanding Negation in Positive Terms Using Syntactic Dependencies",
+        "AUTHORS": "Sarabi, Zahra  and Blanco, Eduardo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1119.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1119.bib",
+            "SUPP": ""
+        }
+    },
+    "blodgett-etal-2016-demographic": {
+        "TITLE": "Demographic Dialectal Variation in Social Media: A Case Study of African-American English",
+        "AUTHORS": "Blodgett, Su Lin  and Green, Lisa  and O′Connor, Brendan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1120.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1120.bib",
+            "SUPP": ""
+        }
+    },
+    "rudra-etal-2016-understanding": {
+        "TITLE": "Understanding Language Preference for Expression of Opinion and Sentiment: What do Hindi-English Speakers do on Twitter?",
+        "AUTHORS": "Rudra, Koustav  and Rijhwani, Shruti  and Begum, Rafiya  and Bali, Kalika  and Choudhury, Monojit  and Ganguly, Niloy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1121.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1121.bib",
+            "SUPP": ""
+        }
+    },
+    "chaney-etal-2016-detecting": {
+        "TITLE": "Detecting and Characterizing Events",
+        "AUTHORS": "Chaney, Allison  and Wallach, Hanna  and Connelly, Matthew  and Blei, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1122.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1122.bib",
+            "SUPP": ""
+        }
+    },
+    "pham-etal-2016-convolutional": {
+        "TITLE": "Convolutional Neural Network Language Models",
+        "AUTHORS": "Pham, Ngoc-Quan  and Kruszewski, German  and Boleda, Gemma",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1123.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1123.bib",
+            "SUPP": ""
+        }
+    },
+    "neubig-dyer-2016-generalizing": {
+        "TITLE": "Generalizing and Hybridizing Count-based and Neural Language Models",
+        "AUTHORS": "Neubig, Graham  and Dyer, Chris",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1124.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1124.bib",
+            "SUPP": ""
+        }
+    },
+    "andreas-klein-2016-reasoning": {
+        "TITLE": "Reasoning about Pragmatics with Neural Listeners and Speakers",
+        "AUTHORS": "Andreas, Jacob  and Klein, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1125.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1125.bib",
+            "SUPP": ""
+        }
+    },
+    "ghazvininejad-etal-2016-generating": {
+        "TITLE": "Generating Topical Poetry",
+        "AUTHORS": "Ghazvininejad, Marjan  and Shi, Xing  and Choi, Yejin  and Knight, Kevin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1126.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1126.bib",
+            "SUPP": ""
+        }
+    },
+    "li-etal-2016-deep": {
+        "TITLE": "Deep Reinforcement Learning for Dialogue Generation",
+        "AUTHORS": "Li, Jiwei  and Monroe, Will  and Ritter, Alan  and Jurafsky, Dan  and Galley, Michel  and Gao, Jianfeng",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1127.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1127.bib",
+            "SUPP": ""
+        }
+    },
+    "lebret-etal-2016-neural": {
+        "TITLE": "Neural Text Generation from Structured Data with Application to the Biography Domain",
+        "AUTHORS": "Lebret, Rémi  and Grangier, David  and Auli, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1128.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1128.bib",
+            "SUPP": ""
+        }
+    },
+    "habernal-gurevych-2016-makes": {
+        "TITLE": "What makes a convincing argument? Empirical analysis and detecting attributes of convincingness in Web argumentation",
+        "AUTHORS": "Habernal, Ivan  and Gurevych, Iryna",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1129.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1129.bib",
+            "SUPP": ""
+        }
+    },
+    "liu-li-2016-recognizing": {
+        "TITLE": "Recognizing Implicit Discourse Relations via Repeated Reading: Neural Networks with Multi-Level Attention",
+        "AUTHORS": "Liu, Yang  and Li, Sujian",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1130.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1130.bib",
+            "SUPP": ""
+        }
+    },
+    "anand-hardt-2016-antecedent": {
+        "TITLE": "Antecedent Selection for Sluicing: Structure and Content",
+        "AUTHORS": "Anand, Pranav  and Hardt, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1131.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1131.bib",
+            "SUPP": ""
+        }
+    },
+    "iida-etal-2016-intra": {
+        "TITLE": "Intra-Sentential Subject Zero Anaphora Resolution using Multi-Column Convolutional Neural Network",
+        "AUTHORS": "Iida, Ryu  and Torisawa, Kentaro  and Oh, Jong-Hoon  and Kruengkrai, Canasai  and Kloetzer, Julien",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1132.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1132.bib",
+            "SUPP": ""
+        }
+    },
+    "anastasopoulos-etal-2016-unsupervised": {
+        "TITLE": "An Unsupervised Probability Model for Speech-to-Translation Alignment of Low-Resource Languages",
+        "AUTHORS": "Anastasopoulos, Antonios  and Chiang, David  and Duong, Long",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1133.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1133.bib",
+            "SUPP": ""
+        }
+    },
+    "birch-etal-2016-hume": {
+        "TITLE": "HUME: Human UCCA-Based Evaluation of Machine Translation",
+        "AUTHORS": "Birch, Alexandra  and Abend, Omri  and Bojar, Ondřej  and Haddow, Barry",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1134.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1134.bib",
+            "SUPP": ""
+        }
+    },
+    "ni-florian-2016-improving": {
+        "TITLE": "Improving Multilingual Named Entity Recognition with Wikipedia Entity Type Mapping",
+        "AUTHORS": "Ni, Jian  and Florian, Radu",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1135.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1135.bib",
+            "SUPP": ""
+        }
+    },
+    "duong-etal-2016-learning": {
+        "TITLE": "Learning Crosslingual Word Embeddings without Bilingual Corpora",
+        "AUTHORS": "Duong, Long  and Kanayama, Hiroshi  and Ma, Tengfei  and Bird, Steven  and Cohn, Trevor",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1136.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1136.bib",
+            "SUPP": ""
+        }
+    },
+    "wiseman-rush-2016-sequence": {
+        "TITLE": "Sequence-to-Sequence Learning as Beam-Search Optimization",
+        "AUTHORS": "Wiseman, Sam  and Rush, Alexander M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1137.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1137.bib",
+            "SUPP": ""
+        }
+    },
+    "yu-etal-2016-online": {
+        "TITLE": "Online Segment to Segment Neural Transduction",
+        "AUTHORS": "Yu, Lei  and Buys, Jan  and Blunsom, Phil",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1138.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1138.bib",
+            "SUPP": ""
+        }
+    },
+    "kim-rush-2016-sequence": {
+        "TITLE": "Sequence-Level Knowledge Distillation",
+        "AUTHORS": "Kim, Yoon  and Rush, Alexander M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1139.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1139.bib",
+            "SUPP": ""
+        }
+    },
+    "kikuchi-etal-2016-controlling": {
+        "TITLE": "Controlling Output Length in Neural Encoder-Decoders",
+        "AUTHORS": "Kikuchi, Yuta  and Neubig, Graham  and Sasano, Ryohei  and Takamura, Hiroya  and Okumura, Manabu",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1140.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1140.bib",
+            "SUPP": ""
+        }
+    },
+    "peterson-fyshe-2016-poet": {
+        "TITLE": "Poet Admits // Mute Cypher: Beam Search to find Mutually Enciphering Poetic Texts",
+        "AUTHORS": "Peterson, Cole  and Fyshe, Alona",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1141.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1141.bib",
+            "SUPP": ""
+        }
+    },
+    "chakraborty-narayanam-2016-fingers": {
+        "TITLE": "All Fingers are not Equal: Intensity of References in Scientific Articles",
+        "AUTHORS": "Chakraborty, Tanmoy  and Narayanam, Ramasuri",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1142.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1142.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-etal-2016-improving": {
+        "TITLE": "Improving Users' Demographic Prediction via the Videos They Talk about",
+        "AUTHORS": "Wang, Yuan  and Xiao, Yang  and Ma, Chao  and Xiao, Zhen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1143.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1143.bib",
+            "SUPP": ""
+        }
+    },
+    "ren-etal-2016-afet": {
+        "TITLE": "AFET: Automatic Fine-Grained Entity Typing by Hierarchical Partial-Label Embedding",
+        "AUTHORS": "Ren, Xiang  and He, Wenqi  and Qu, Meng  and Huang, Lifu  and Ji, Heng  and Han, Jiawei",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1144.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1144.bib",
+            "SUPP": ""
+        }
+    },
+    "wei-etal-2016-mining": {
+        "TITLE": "Mining Inference Formulas by Goal-Directed Random Walks",
+        "AUTHORS": "Wei, Zhuoyu  and Zhao, Jun  and Liu, Kang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1145.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1145.bib",
+            "SUPP": ""
+        }
+    },
+    "demeester-etal-2016-lifted": {
+        "TITLE": "Lifted Rule Injection for Relation Embeddings",
+        "AUTHORS": "Demeester, Thomas  and Rocktäschel, Tim  and Riedel, Sebastian",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1146.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1146.bib",
+            "SUPP": ""
+        }
+    },
+    "miller-etal-2016-key": {
+        "TITLE": "Key-Value Memory Networks for Directly Reading Documents",
+        "AUTHORS": "Miller, Alexander  and Fisch, Adam  and Dodge, Jesse  and Karimi, Amir-Hossein  and Bordes, Antoine  and Weston, Jason",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1147.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1147.bib",
+            "SUPP": ""
+        }
+    },
+    "card-etal-2016-analyzing": {
+        "TITLE": "Analyzing Framing through the Casts of Characters in the News",
+        "AUTHORS": "Card, Dallas  and Gross, Justin  and Boydstun, Amber  and Smith, Noah A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1148.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1148.bib",
+            "SUPP": ""
+        }
+    },
+    "litman-etal-2016-teams": {
+        "TITLE": "The Teams Corpus and Entrainment in Multi-Party Spoken Dialogues",
+        "AUTHORS": "Litman, Diane  and Paletz, Susannah  and Rahimi, Zahra  and Allegretti, Stefani  and Rice, Caitlin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1149.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1149.bib",
+            "SUPP": ""
+        }
+    },
+    "ding-pan-2016-personalized": {
+        "TITLE": "Personalized Emphasis Framing for Persuasive Message Generation",
+        "AUTHORS": "Ding, Tao  and Pan, Shimei",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1150.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1150.bib",
+            "SUPP": ""
+        }
+    },
+    "louvan-etal-2016-cross": {
+        "TITLE": "Cross Sentence Inference for Process Knowledge",
+        "AUTHORS": "Louvan, Samuel  and Naik, Chetan  and Kumaravel, Sadhana  and Kwon, Heeyoung  and Balasubramanian, Niranjan  and Clark, Peter",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1151.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1151.bib",
+            "SUPP": ""
+        }
+    },
+    "yang-etal-2016-toward": {
+        "TITLE": "Toward Socially-Infused Information Extraction: Embedding Authors, Mentions, and Entities",
+        "AUTHORS": "Yang, Yi  and Chang, Ming-Wei  and Eisenstein, Jacob",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1152.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1152.bib",
+            "SUPP": ""
+        }
+    },
+    "bharadwaj-etal-2016-phonologically": {
+        "TITLE": "Phonologically Aware Neural Model for Named Entity Recognition in Low Resource Transfer Settings",
+        "AUTHORS": "Bharadwaj, Akash  and Mortensen, David  and Dyer, Chris  and Carbonell, Jaime",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1153.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1153.bib",
+            "SUPP": ""
+        }
+    },
+    "oualil-etal-2016-long": {
+        "TITLE": "Long-Short Range Context Neural Networks for Language Modeling",
+        "AUTHORS": "Oualil, Youssef  and Singh, Mittul  and Greenberg, Clayton  and Klakow, Dietrich",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1154.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1154.bib",
+            "SUPP": ""
+        }
+    },
+    "liu-etal-2016-jointly": {
+        "TITLE": "Jointly Learning Grounded Task Structures from Language Instruction and Visual Demonstration",
+        "AUTHORS": "Liu, Changsong  and Yang, Shaohua  and Saba-Sadiya, Sari  and Shukla, Nishant  and He, Yunzhong  and Zhu, Song-Chun  and Chai, Joyce",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1155.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1155.bib",
+            "SUPP": ""
+        }
+    },
+    "christie-etal-2016-resolving": {
+        "TITLE": "Resolving Language and Vision Ambiguities Together: Joint Segmentation & Prepositional Attachment Resolution in Captioned Scenes",
+        "AUTHORS": "Christie, Gordon  and Laddha, Ankit  and Agrawal, Aishwarya  and Antol, Stanislaw  and Goyal, Yash  and Kochersberger, Kevin  and Batra, Dhruv",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1156.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1156.bib",
+            "SUPP": ""
+        }
+    },
+    "wieting-etal-2016-charagram": {
+        "TITLE": "Charagram: Embedding Words and Sentences via Character n-grams",
+        "AUTHORS": "Wieting, John  and Bansal, Mohit  and Gimpel, Kevin  and Livescu, Karen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1157.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1157.bib",
+            "SUPP": ""
+        }
+    },
+    "sountsov-sarawagi-2016-length": {
+        "TITLE": "Length bias in Encoder Decoder Models and a Case for Global Conditioning",
+        "AUTHORS": "Sountsov, Pavel  and Sarawagi, Sunita",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1158.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1158.bib",
+            "SUPP": ""
+        }
+    },
+    "shi-etal-2016-string": {
+        "TITLE": "Does String-Based Neural MT Learn Source Syntax?",
+        "AUTHORS": "Shi, Xing  and Padhi, Inkit  and Knight, Kevin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1159.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1159.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-zong-2016-exploiting": {
+        "TITLE": "Exploiting Source-side Monolingual Data in Neural Machine Translation",
+        "AUTHORS": "Zhang, Jiajun  and Zong, Chengqing",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1160.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1160.bib",
+            "SUPP": ""
+        }
+    },
+    "junczys-dowmunt-grundkiewicz-2016-phrase": {
+        "TITLE": "Phrase-based Machine Translation is State-of-the-Art for Automatic Grammatical Error Correction",
+        "AUTHORS": "Junczys-Dowmunt, Marcin  and Grundkiewicz, Roman",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1161.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1161.bib",
+            "SUPP": ""
+        }
+    },
+    "arthur-etal-2016-incorporating": {
+        "TITLE": "Incorporating Discrete Translation Lexicons into Neural Machine Translation",
+        "AUTHORS": "Arthur, Philip  and Neubig, Graham  and Nakamura, Satoshi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1162.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1162.bib",
+            "SUPP": ""
+        }
+    },
+    "zoph-etal-2016-transfer": {
+        "TITLE": "Transfer Learning for Low-Resource Neural Machine Translation",
+        "AUTHORS": "Zoph, Barret  and Yuret, Deniz  and May, Jonathan  and Knight, Kevin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1163.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1163.bib",
+            "SUPP": ""
+        }
+    },
+    "p-2016-mixkmeans": {
+        "TITLE": "MixKMeans: Clustering Question-Answer Archives",
+        "AUTHORS": "P, Deepak",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1164.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1164.bib",
+            "SUPP": ""
+        }
+    },
+    "nakov-etal-2016-takes": {
+        "TITLE": "It Takes Three to Tango: Triangulation Approach to Answer Ranking in Community Question Answering",
+        "AUTHORS": "Nakov, Preslav  and Màrquez, Lluís  and Guzmán, Francisco",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1165.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1165.bib",
+            "SUPP": ""
+        }
+    },
+    "he-golub-2016-character": {
+        "TITLE": "Character-Level Question Answering with Attention",
+        "AUTHORS": "He, Xiaodong  and Golub, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1166.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1166.bib",
+            "SUPP": ""
+        }
+    },
+    "bouchard-etal-2016-learning": {
+        "TITLE": "Learning to Generate Textual Data",
+        "AUTHORS": "Bouchard, Guillaume  and Stenetorp, Pontus  and Riedel, Sebastian",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1167.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1167.bib",
+            "SUPP": ""
+        }
+    },
+    "koncel-kedziorski-etal-2016-theme": {
+        "TITLE": "A Theme-Rewriting Approach for Generating Algebra Word Problems",
+        "AUTHORS": "Koncel-Kedziorski, Rik  and Konstas, Ioannis  and Zettlemoyer, Luke  and Hajishirzi, Hannaneh",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1168.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1168.bib",
+            "SUPP": ""
+        }
+    },
+    "teng-etal-2016-context": {
+        "TITLE": "Context-Sensitive Lexicon Features for Neural Sentiment Analysis",
+        "AUTHORS": "Teng, Zhiyang  and Vo, Duy-Tin  and Zhang, Yue",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1169.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1169.bib",
+            "SUPP": ""
+        }
+    },
+    "gui-etal-2016-event": {
+        "TITLE": "Event-Driven Emotion Cause Extraction with Corpus Construction",
+        "AUTHORS": "Gui, Lin  and Wu, Dongyin  and Xu, Ruifeng  and Lu, Qin  and Zhou, Yu",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1170.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1170.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-etal-2016-neural-sentiment": {
+        "TITLE": "Neural Sentiment Classification with User and Product Attention",
+        "AUTHORS": "Chen, Huimin  and Sun, Maosong  and Tu, Cunchao  and Lin, Yankai  and Liu, Zhiyuan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1171.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1171.bib",
+            "SUPP": ""
+        }
+    },
+    "xu-etal-2016-cached": {
+        "TITLE": "Cached Long Short-Term Memory Neural Networks for Document-Level Sentiment Classification",
+        "AUTHORS": "Xu, Jiacheng  and Chen, Danlu  and Qiu, Xipeng  and Huang, Xuanjing",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1172.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1172.bib",
+            "SUPP": ""
+        }
+    },
+    "hu-etal-2016-deep": {
+        "TITLE": "Deep Neural Networks with Massive Learned Knowledge",
+        "AUTHORS": "Hu, Zhiting  and Yang, Zichao  and Salakhutdinov, Ruslan  and Xing, Eric",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1173.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1173.bib",
+            "SUPP": ""
+        }
+    },
+    "pilehvar-collier-2016-de": {
+        "TITLE": "De-Conflated Semantic Representations",
+        "AUTHORS": "Pilehvar, Mohammad Taher  and Collier, Nigel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1174.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1174.bib",
+            "SUPP": ""
+        }
+    },
+    "kober-etal-2016-improving": {
+        "TITLE": "Improving Sparse Word Representations with Distributional Inference for Semantic Composition",
+        "AUTHORS": "Kober, Thomas  and Weeds, Julie  and Reffin, Jeremy  and Weir, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1175.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1175.bib",
+            "SUPP": ""
+        }
+    },
+    "liu-etal-2016-modelling": {
+        "TITLE": "Modelling Interaction of Sentence Pair with Coupled-LSTMs",
+        "AUTHORS": "Liu, Pengfei  and Qiu, Xipeng  and Zhou, Yaqian  and Chen, Jifan  and Huang, Xuanjing",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1176.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1176.bib",
+            "SUPP": ""
+        }
+    },
+    "white-etal-2016-universal": {
+        "TITLE": "Universal Decompositional Semantics on Universal Dependencies",
+        "AUTHORS": "White, Aaron Steven  and Reisinger, Drew  and Sakaguchi, Keisuke  and Vieira, Tim  and Zhang, Sheng  and Rudinger, Rachel  and Rawlins, Kyle  and Van Durme, Benjamin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1177.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1177.bib",
+            "SUPP": ""
+        }
+    },
+    "sim-etal-2016-friends": {
+        "TITLE": "Friends with Motives: Using Text to Infer Influence on SCOTUS",
+        "AUTHORS": "Sim, Yanchuan  and Routledge, Bryan  and Smith, Noah A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1178.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1178.bib",
+            "SUPP": ""
+        }
+    },
+    "kenyon-dean-etal-2016-verb": {
+        "TITLE": "Verb Phrase Ellipsis Resolution Using Discriminative and Margin-Infused Algorithms",
+        "AUTHORS": "Kenyon-Dean, Kian  and Cheung, Jackie Chi Kit  and Precup, Doina",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1179.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1179.bib",
+            "SUPP": ""
+        }
+    },
+    "kuncoro-etal-2016-distilling": {
+        "TITLE": "Distilling an Ensemble of Greedy Dependency Parsers into One MST Parser",
+        "AUTHORS": "Kuncoro, Adhiguna  and Ballesteros, Miguel  and Kong, Lingpeng  and Dyer, Chris  and Smith, Noah A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1180.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1180.bib",
+            "SUPP": ""
+        }
+    },
+    "xu-2016-lstm": {
+        "TITLE": "LSTM Shift-Reduce CCG Parsing",
+        "AUTHORS": "Xu, Wenduan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1181.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1181.bib",
+            "SUPP": ""
+        }
+    },
+    "hashemi-hwa-2016-evaluation": {
+        "TITLE": "An Evaluation of Parser Robustness for Ungrammatical Sentences",
+        "AUTHORS": "Hashemi, Homa B.  and Hwa, Rebecca",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1182.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1182.bib",
+            "SUPP": ""
+        }
+    },
+    "misra-artzi-2016-neural": {
+        "TITLE": "Neural Shift-Reduce CCG Semantic Parsing",
+        "AUTHORS": "Misra, Dipendra Kumar  and Artzi, Yoav",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1183.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1183.bib",
+            "SUPP": ""
+        }
+    },
+    "sun-etal-2016-syntactic": {
+        "TITLE": "Syntactic Parsing of Web Queries",
+        "AUTHORS": "Sun, Xiangyan  and Wang, Haixun  and Xiao, Yanghua  and Wang, Zhongyuan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1184.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1184.bib",
+            "SUPP": ""
+        }
+    },
+    "yu-etal-2016-unsupervised": {
+        "TITLE": "Unsupervised Text Recap Extraction for TV Series",
+        "AUTHORS": "Yu, Hongliang  and Zhang, Shikun  and Morency, Louis-Philippe",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1185.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1185.bib",
+            "SUPP": ""
+        }
+    },
+    "dollmann-geierhos-2016-topic": {
+        "TITLE": "On- and Off-Topic Classification and Semantic Annotation of User-Generated Software Requirements",
+        "AUTHORS": "Dollmann, Markus  and Geierhos, Michaela",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1186.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1186.bib",
+            "SUPP": ""
+        }
+    },
+    "hai-etal-2016-deceptive": {
+        "TITLE": "Deceptive Review Spam Detection via Exploiting Task Relatedness and Unlabeled Data",
+        "AUTHORS": "Hai, Zhen  and Zhao, Peilin  and Cheng, Peng  and Yang, Peng  and Li, Xiao-Li  and Li, Guangxia",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1187.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1187.bib",
+            "SUPP": ""
+        }
+    },
+    "skianis-etal-2016-regularizing": {
+        "TITLE": "Regularizing Text Categorization with Clusters of Words",
+        "AUTHORS": "Skianis, Konstantinos  and Rousseau, François  and Vazirgiannis, Michalis",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1188.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1188.bib",
+            "SUPP": ""
+        }
+    },
+    "he-etal-2016-deep-reinforcement": {
+        "TITLE": "Deep Reinforcement Learning with a Combinatorial Action Space for Predicting Popular Reddit Threads",
+        "AUTHORS": "He, Ji  and Ostendorf, Mari  and He, Xiaodong  and Chen, Jianshu  and Gao, Jianfeng  and Li, Lihong  and Deng, Li",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1189.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1189.bib",
+            "SUPP": ""
+        }
+    },
+    "moritz-etal-2016-non": {
+        "TITLE": "Non-Literal Text Reuse in Historical Texts: An Approach to Identify Reuse Transformations and its Application to Bible Reuse",
+        "AUTHORS": "Moritz, Maria  and Wiederhold, Andreas  and Pavlek, Barbara  and Bizzoni, Yuri  and Büchler, Marco",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1190.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1190.bib",
+            "SUPP": ""
+        }
+    },
+    "tixier-etal-2016-graph": {
+        "TITLE": "A Graph Degeneracy-based Approach to Keyword Extraction",
+        "AUTHORS": "Tixier, Antoine  and Malliaros, Fragkiskos  and Vazirgiannis, Michalis",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1191.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1191.bib",
+            "SUPP": ""
+        }
+    },
+    "schumacher-etal-2016-predicting": {
+        "TITLE": "Predicting the Relative Difficulty of Single Sentences With and Without Surrounding Context",
+        "AUTHORS": "Schumacher, Elliot  and Eskenazi, Maxine  and Frishkoff, Gwen  and Collins-Thompson, Kevyn",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1192.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1192.bib",
+            "SUPP": ""
+        }
+    },
+    "taghipour-ng-2016-neural": {
+        "TITLE": "A Neural Approach to Automated Essay Scoring",
+        "AUTHORS": "Taghipour, Kaveh  and Ng, Hwee Tou",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1193.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1193.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-etal-2016-non": {
+        "TITLE": "Non-uniform Language Detection in Technical Writing",
+        "AUTHORS": "Wang, Weibo  and Moh′d, Abidalrahman  and Islam, Aminul  and Soto, Axel  and Milios, Evangelos",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1194.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1194.bib",
+            "SUPP": ""
+        }
+    },
+    "chollampatt-etal-2016-adapting": {
+        "TITLE": "Adapting Grammatical Error Correction Based on the Native Language of Writers with Neural Network Joint Models",
+        "AUTHORS": "Chollampatt, Shamil  and Hoang, Duc Tam  and Ng, Hwee Tou",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1195.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1195.bib",
+            "SUPP": ""
+        }
+    },
+    "kunchukuttan-bhattacharyya-2016-orthographic": {
+        "TITLE": "Orthographic Syllable as basic unit for SMT between Related Languages",
+        "AUTHORS": "Kunchukuttan, Anoop  and Bhattacharyya, Pushpak",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1196.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1196.bib",
+            "SUPP": ""
+        }
+    },
+    "locascio-etal-2016-neural": {
+        "TITLE": "Neural Generation of Regular Expressions from Natural Language with Minimal Domain Knowledge",
+        "AUTHORS": "Locascio, Nicholas  and Narasimhan, Karthik  and DeLeon, Eduardo  and Kushman, Nate  and Barzilay, Regina",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1197.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1197.bib",
+            "SUPP": ""
+        }
+    },
+    "sterckx-etal-2016-supervised": {
+        "TITLE": "Supervised Keyphrase Extraction as Positive Unlabeled Learning",
+        "AUTHORS": "Sterckx, Lucas  and Caragea, Cornelia  and Demeester, Thomas  and Develder, Chris",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1198.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1198.bib",
+            "SUPP": ""
+        }
+    },
+    "morales-etal-2016-learning": {
+        "TITLE": "Learning to Answer Questions from Wikipedia Infoboxes",
+        "AUTHORS": "Morales, Alvaro  and Premtoon, Varot  and Avery, Cordelia  and Felshin, Sue  and Katz, Boris",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1199.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1199.bib",
+            "SUPP": ""
+        }
+    },
+    "cornegruta-vlachos-2016-timeline": {
+        "TITLE": "Timeline extraction using distant supervision and joint inference",
+        "AUTHORS": "Cornegruta, Savelie  and Vlachos, Andreas",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1200.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1200.bib",
+            "SUPP": ""
+        }
+    },
+    "rajani-mooney-2016-combining": {
+        "TITLE": "Combining Supervised and Unsupervised Enembles for Knowledge Base Population",
+        "AUTHORS": "Rajani, Nazneen Fatema  and Mooney, Raymond",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1201.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1201.bib",
+            "SUPP": ""
+        }
+    },
+    "kawakami-etal-2016-character": {
+        "TITLE": "Character Sequence Models for Colorful Words",
+        "AUTHORS": "Kawakami, Kazuya  and Dyer, Chris  and Routledge, Bryan  and Smith, Noah A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1202.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1202.bib",
+            "SUPP": ""
+        }
+    },
+    "agrawal-etal-2016-analyzing": {
+        "TITLE": "Analyzing the Behavior of Visual Question Answering Models",
+        "AUTHORS": "Agrawal, Aishwarya  and Batra, Dhruv  and Parikh, Devi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1203.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1203.bib",
+            "SUPP": ""
+        }
+    },
+    "venugopalan-etal-2016-improving": {
+        "TITLE": "Improving LSTM-based Video Description with Linguistic Knowledge Mined from Text",
+        "AUTHORS": "Venugopalan, Subhashini  and Hendricks, Lisa Anne  and Mooney, Raymond  and Saenko, Kate",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1204.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1204.bib",
+            "SUPP": ""
+        }
+    },
+    "chersoni-etal-2016-representing": {
+        "TITLE": "Representing Verbs with Rich Contexts: an Evaluation on Verb Similarity",
+        "AUTHORS": "Chersoni, Emmanuele  and Santus, Enrico  and Lenci, Alessandro  and Blache, Philippe  and Huang, Chu-Ren",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1205.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1205.bib",
+            "SUPP": ""
+        }
+    },
+    "vieira-etal-2016-speed": {
+        "TITLE": "Speed-Accuracy Tradeoffs in Tagging with Variable-Order CRFs and Structured Sparsity",
+        "AUTHORS": "Vieira, Tim  and Cotterell, Ryan  and Eisner, Jason",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1206.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1206.bib",
+            "SUPP": ""
+        }
+    },
+    "li-etal-2016-learning-robust": {
+        "TITLE": "Learning Robust Representations of Text",
+        "AUTHORS": "Li, Yitong  and Cohn, Trevor  and Baldwin, Timothy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1207.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1207.bib",
+            "SUPP": ""
+        }
+    },
+    "tu-2016-modified": {
+        "TITLE": "Modified Dirichlet Distribution: Allowing Negative Parameters to Induce Stronger Sparsity",
+        "AUTHORS": "Tu, Kewei",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1208.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1208.bib",
+            "SUPP": ""
+        }
+    },
+    "miyamoto-cho-2016-gated": {
+        "TITLE": "Gated Word-Character Recurrent Language Model",
+        "AUTHORS": "Miyamoto, Yasumasa  and Cho, Kyunghyun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1209.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1209.bib",
+            "SUPP": ""
+        }
+    },
+    "kamigaito-etal-2016-unsupervised": {
+        "TITLE": "Unsupervised Word Alignment by Agreement Under ITG Constraint",
+        "AUTHORS": "Kamigaito, Hidetaka  and Tamura, Akihiro  and Takamura, Hiroya  and Okumura, Manabu  and Sumita, Eiichiro",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1210.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1210.bib",
+            "SUPP": ""
+        }
+    },
+    "ballesteros-etal-2016-training": {
+        "TITLE": "Training with Exploration Improves a Greedy Stack LSTM Parser",
+        "AUTHORS": "Ballesteros, Miguel  and Goldberg, Yoav  and Dyer, Chris  and Smith, Noah A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1211.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1211.bib",
+            "SUPP": ""
+        }
+    },
+    "sha-etal-2016-capturing": {
+        "TITLE": "Capturing Argument Relationship for Chinese Semantic Role Labeling",
+        "AUTHORS": "Sha, Lei  and Li, Sujian  and Chang, Baobao  and Sui, Zhifang  and Jiang, Tingsong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1212.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1212.bib",
+            "SUPP": ""
+        }
+    },
+    "xu-etal-2016-brainbench": {
+        "TITLE": "BrainBench: A Brain-Image Test Suite for Distributional Semantic Models",
+        "AUTHORS": "Xu, Haoyan  and Murphy, Brian  and Fyshe, Alona",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1213.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1213.bib",
+            "SUPP": ""
+        }
+    },
+    "bisk-etal-2016-evaluating": {
+        "TITLE": "Evaluating Induced CCG Parsers on Grounded Semantic Parsing",
+        "AUTHORS": "Bisk, Yonatan  and Reddy, Siva  and Blitzer, John  and Hockenmaier, Julia  and Steedman, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1214.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1214.bib",
+            "SUPP": ""
+        }
+    },
+    "apidianaki-2016-vector": {
+        "TITLE": "Vector-space models for PPDB paraphrase ranking in context",
+        "AUTHORS": "Apidianaki, Marianna",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1215.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1215.bib",
+            "SUPP": ""
+        }
+    },
+    "aubakirova-bansal-2016-interpreting": {
+        "TITLE": "Interpreting Neural Networks to Improve Politeness Comprehension",
+        "AUTHORS": "Aubakirova, Malika  and Bansal, Mohit",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1216.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1216.bib",
+            "SUPP": ""
+        }
+    },
+    "smith-etal-2016-well": {
+        "TITLE": "Does \\textquoteleftwell-being' translate on Twitter?",
+        "AUTHORS": "Smith, Laura  and Giorgi, Salvatore  and Solanki, Rishi  and Eichstaedt, Johannes  and Schwartz, H. Andrew  and Abdul-Mageed, Muhammad  and Buffone, Anneke  and Ungar, Lyle",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1217.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1217.bib",
+            "SUPP": ""
+        }
+    },
+    "milli-bamman-2016-beyond": {
+        "TITLE": "Beyond Canonical Texts: A Computational Analysis of Fanfiction",
+        "AUTHORS": "Milli, Smitha  and Bamman, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1218.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1218.bib",
+            "SUPP": ""
+        }
+    },
+    "rouhizadeh-etal-2016-using": {
+        "TITLE": "Using Syntactic and Semantic Context to Explore Psychodemographic Differences in Self-reference",
+        "AUTHORS": "Rouhizadeh, Masoud  and Ungar, Lyle  and Buffone, Anneke  and Schwartz, H Andrew",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1219.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1219.bib",
+            "SUPP": ""
+        }
+    },
+    "ozbal-etal-2016-learning": {
+        "TITLE": "Learning to Identify Metaphors from a Corpus of Proverbs",
+        "AUTHORS": "Özbal, Gözde  and Strapparava, Carlo  and Tekiroğlu, Serra Sinem  and Pighin, Daniele",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1220.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1220.bib",
+            "SUPP": ""
+        }
+    },
+    "kraft-etal-2016-embedding": {
+        "TITLE": "An Embedding Model for Predicting Roll-Call Votes",
+        "AUTHORS": "Kraft, Peter  and Jain, Hirsh  and Rush, Alexander M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1221.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1221.bib",
+            "SUPP": ""
+        }
+    },
+    "kim-etal-2016-natural": {
+        "TITLE": "Natural Language Model Re-usability for Scaling to Different Domains",
+        "AUTHORS": "Kim, Young-Bum  and Rochette, Alexandre  and Sarikaya, Ruhi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1222.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1222.bib",
+            "SUPP": ""
+        }
+    },
+    "kurata-etal-2016-leveraging": {
+        "TITLE": "Leveraging Sentence-level Information with Encoder LSTM for Semantic Slot Filling",
+        "AUTHORS": "Kurata, Gakuto  and Xiang, Bing  and Zhou, Bowen  and Yu, Mo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1223.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1223.bib",
+            "SUPP": ""
+        }
+    },
+    "song-etal-2016-amr": {
+        "TITLE": "AMR-to-text generation as a Traveling Salesman Problem",
+        "AUTHORS": "Song, Linfeng  and Zhang, Yue  and Peng, Xiaochang  and Wang, Zhiguo  and Gildea, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1224.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1224.bib",
+            "SUPP": ""
+        }
+    },
+    "susanto-etal-2016-learning": {
+        "TITLE": "Learning to Capitalize with Character-Level Recurrent Neural Networks: An Empirical Study",
+        "AUTHORS": "Susanto, Raymond Hendy  and Chieu, Hai Leong  and Lu, Wei",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1225.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1225.bib",
+            "SUPP": ""
+        }
+    },
+    "rohlfs-etal-2016-effects": {
+        "TITLE": "The Effects of the Content of FOMC Communications on US Treasury Rates",
+        "AUTHORS": "Rohlfs, Christopher  and Chakraborty, Sunandan  and Subramanian, Lakshminarayanan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1226.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1226.bib",
+            "SUPP": ""
+        }
+    },
+    "gu-etal-2016-learning": {
+        "TITLE": "Learning to refine text based recommendations",
+        "AUTHORS": "Gu, Youyang  and Lei, Tao  and Barzilay, Regina  and Jaakkola, Tommi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1227.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1227.bib",
+            "SUPP": ""
+        }
+    },
+    "napoles-etal-2016-theres": {
+        "TITLE": "There`s No Comparison: Reference-less Evaluation Metrics in Grammatical Error Correction",
+        "AUTHORS": "Napoles, Courtney  and Sakaguchi, Keisuke  and Tetreault, Joel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1228.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1228.bib",
+            "SUPP": ""
+        }
+    },
+    "hamilton-etal-2016-cultural": {
+        "TITLE": "Cultural Shift or Linguistic Drift? Comparing Two Computational Measures of Semantic Change",
+        "AUTHORS": "Hamilton, William L.  and Leskovec, Jure  and Jurafsky, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1229.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1229.bib",
+            "SUPP": ""
+        }
+    },
+    "liu-etal-2016-evaluate": {
+        "TITLE": "How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation",
+        "AUTHORS": "Liu, Chia-Wei  and Lowe, Ryan  and Serban, Iulian  and Noseworthy, Mike  and Charlin, Laurent  and Pineau, Joelle",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1230.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1230.bib",
+            "SUPP": ""
+        }
+    },
+    "ouchi-tsuboi-2016-addressee": {
+        "TITLE": "Addressee and Response Selection for Multi-Party Conversation",
+        "AUTHORS": "Ouchi, Hiroki  and Tsuboi, Yuta",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1231.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1231.bib",
+            "SUPP": ""
+        }
+    },
+    "wakabayashi-etal-2016-nonparametric": {
+        "TITLE": "Nonparametric Bayesian Models for Spoken Language Understanding",
+        "AUTHORS": "Wakabayashi, Kei  and Takeuchi, Johane  and Funakoshi, Kotaro  and Nakano, Mikio",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1232.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1232.bib",
+            "SUPP": ""
+        }
+    },
+    "wen-etal-2016-conditional": {
+        "TITLE": "Conditional Generation and Snapshot Learning in Neural Dialogue Systems",
+        "AUTHORS": "Wen, Tsung-Hsien  and Gašić, Milica  and Mrkši\\,́ Nikola  and Rojas-Barahona, Lina M.  and Su, Pei-Hao  and Ultes, Stefan  and Vandyke, David  and Young, Steve",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1233.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1233.bib",
+            "SUPP": ""
+        }
+    },
+    "roller-erk-2016-relations": {
+        "TITLE": "Relations such as Hypernymy: Identifying and Exploiting Hearst Patterns in Distributional Vectors for Lexical Entailment",
+        "AUTHORS": "Roller, Stephen  and Erk, Katrin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1234.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1234.bib",
+            "SUPP": ""
+        }
+    },
+    "gerz-etal-2016-simverb": {
+        "TITLE": "SimVerb-3500: A Large-Scale Evaluation Set of Verb Similarity",
+        "AUTHORS": "Gerz, Daniela  and Vulić, Ivan  and Hill, Felix  and Reichart, Roi  and Korhonen, Anna",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1235.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1235.bib",
+            "SUPP": ""
+        }
+    },
+    "grycner-weikum-2016-poly": {
+        "TITLE": "POLY: Mining Relational Paraphrases from Multilingual Sentences",
+        "AUTHORS": "Grycner, Adam  and Weikum, Gerhard",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1236.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1236.bib",
+            "SUPP": ""
+        }
+    },
+    "li-srikumar-2016-exploiting": {
+        "TITLE": "Exploiting Sentence Similarities for Better Alignments",
+        "AUTHORS": "Li, Tao  and Srikumar, Vivek",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1237.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1237.bib",
+            "SUPP": ""
+        }
+    },
+    "cheng-etal-2016-bi": {
+        "TITLE": "Bi-directional Attention with Agreement for Dependency Parsing",
+        "AUTHORS": "Cheng, Hao  and Fang, Hao  and He, Xiaodong  and Gao, Jianfeng  and Deng, Li",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1238.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1238.bib",
+            "SUPP": ""
+        }
+    },
+    "berzak-etal-2016-anchoring": {
+        "TITLE": "Anchoring and Agreement in Syntactic Annotations",
+        "AUTHORS": "Berzak, Yevgeni  and Huang, Yan  and Barbu, Andrei  and Korhonen, Anna  and Katz, Boris",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1239.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1239.bib",
+            "SUPP": ""
+        }
+    },
+    "pavlick-callison-burch-2016-tense": {
+        "TITLE": "Tense Manages to Predict Implicative Behavior in Verbs",
+        "AUTHORS": "Pavlick, Ellie  and Callison-Burch, Chris",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1240.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1240.bib",
+            "SUPP": ""
+        }
+    },
+    "onishi-etal-2016-large": {
+        "TITLE": "Who did What: A Large-Scale Person-Centered Cloze Dataset",
+        "AUTHORS": "Onishi, Takeshi  and Wang, Hai  and Bansal, Mohit  and Gimpel, Kevin  and McAllester, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1241.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1241.bib",
+            "SUPP": ""
+        }
+    },
+    "mineshima-etal-2016-building": {
+        "TITLE": "Building compositional semantics and higher-order inference system for a wide-coverage Japanese CCG parser",
+        "AUTHORS": "Mineshima, Koji  and Tanaka, Ribeka  and Martínez-Gómez, Pascual  and Miyao, Yusuke  and Bekki, Daisuke",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1242.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1242.bib",
+            "SUPP": ""
+        }
+    },
+    "monroe-etal-2016-learning": {
+        "TITLE": "Learning to Generate Compositional Color Descriptions",
+        "AUTHORS": "Monroe, Will  and Goodman, Noah D.  and Potts, Christopher",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1243.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1243.bib",
+            "SUPP": ""
+        }
+    },
+    "parikh-etal-2016-decomposable": {
+        "TITLE": "A Decomposable Attention Model for Natural Language Inference",
+        "AUTHORS": "Parikh, Ankur  and Täckström, Oscar  and Das, Dipanjan  and Uszkoreit, Jakob",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1244.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1244.bib",
+            "SUPP": ""
+        }
+    },
+    "clark-manning-2016-deep": {
+        "TITLE": "Deep Reinforcement Learning for Mention-Ranking Coreference Models",
+        "AUTHORS": "Clark, Kevin  and Manning, Christopher D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1245.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1245.bib",
+            "SUPP": ""
+        }
+    },
+    "qin-etal-2016-stacking": {
+        "TITLE": "A Stacking Gated Neural Architecture for Implicit Discourse Relation Classification",
+        "AUTHORS": "Qin, Lianhui  and Zhang, Zhisong  and Zhao, Hai",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1246.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1246.bib",
+            "SUPP": ""
+        }
+    },
+    "nakazawa-etal-2016-insertion": {
+        "TITLE": "Insertion Position Selection Model for Flexible Non-Terminals in Dependency Tree-to-Tree Machine Translation",
+        "AUTHORS": "Nakazawa, Toshiaki  and Richardson, John  and Kurohashi, Sadao",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1247.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1247.bib",
+            "SUPP": ""
+        }
+    },
+    "shi-etal-2016-neural": {
+        "TITLE": "Why Neural Translations are the Right Length",
+        "AUTHORS": "Shi, Xing  and Knight, Kevin  and Yuret, Deniz",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1248.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1248.bib",
+            "SUPP": ""
+        }
+    },
+    "mi-etal-2016-supervised": {
+        "TITLE": "Supervised Attentions for Neural Machine Translation",
+        "AUTHORS": "Mi, Haitao  and Wang, Zhiguo  and Ittycheriah, Abe",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1249.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1249.bib",
+            "SUPP": ""
+        }
+    },
+    "artetxe-etal-2016-learning": {
+        "TITLE": "Learning principled bilingual mappings of word embeddings while preserving monolingual invariance",
+        "AUTHORS": "Artetxe, Mikel  and Labaka, Gorka  and Agirre, Eneko",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1250.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1250.bib",
+            "SUPP": ""
+        }
+    },
+    "russell-gillespie-2016-measuring": {
+        "TITLE": "Measuring the behavioral impact of machine translation quality improvements with A/B testing",
+        "AUTHORS": "Russell, Ben  and Gillespie, Duncan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1251.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1251.bib",
+            "SUPP": ""
+        }
+    },
+    "stanovsky-dagan-2016-creating": {
+        "TITLE": "Creating a Large Benchmark for Open Information Extraction",
+        "AUTHORS": "Stanovsky, Gabriel  and Dagan, Ido",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1252.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1252.bib",
+            "SUPP": ""
+        }
+    },
+    "wu-etal-2016-bilingually": {
+        "TITLE": "Bilingually-constrained Synthetic Data for Implicit Discourse Relation Recognition",
+        "AUTHORS": "Wu, Changxing  and Shi, Xiaodong  and Chen, Yidong  and Huang, Yanzhou  and Su, Jinsong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1253.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1253.bib",
+            "SUPP": ""
+        }
+    },
+    "buckman-etal-2016-transition": {
+        "TITLE": "Transition-Based Dependency Parsing with Heuristic Backtracking",
+        "AUTHORS": "Buckman, Jacob  and Ballesteros, Miguel  and Dyer, Chris",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1254.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1254.bib",
+            "SUPP": ""
+        }
+    },
+    "schmaltz-etal-2016-word": {
+        "TITLE": "Word Ordering Without Syntax",
+        "AUTHORS": "Schmaltz, Allen  and Rush, Alexander M.  and Shieber, Stuart",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1255.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1255.bib",
+            "SUPP": ""
+        }
+    },
+    "cotterell-etal-2016-morphological-segmentation": {
+        "TITLE": "Morphological Segmentation Inside-Out",
+        "AUTHORS": "Cotterell, Ryan  and Kumar, Arun  and Schütze, Hinrich",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1256.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1256.bib",
+            "SUPP": ""
+        }
+    },
+    "choe-charniak-2016-parsing": {
+        "TITLE": "Parsing as Language Modeling",
+        "AUTHORS": "Choe, Do Kook  and Charniak, Eugene",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1257.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1257.bib",
+            "SUPP": ""
+        }
+    },
+    "he-etal-2016-human": {
+        "TITLE": "Human-in-the-Loop Parsing",
+        "AUTHORS": "He, Luheng  and Michael, Julian  and Lewis, Mike  and Zettlemoyer, Luke",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1258.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1258.bib",
+            "SUPP": ""
+        }
+    },
+    "bauer-teufel-2016-unsupervised": {
+        "TITLE": "Unsupervised Timeline Generation for Wikipedia History Articles",
+        "AUTHORS": "Bauer, Sandro  and Teufel, Simone",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1259.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1259.bib",
+            "SUPP": ""
+        }
+    },
+    "jiang-etal-2016-encoding": {
+        "TITLE": "Encoding Temporal Information for Time-Aware Link Prediction",
+        "AUTHORS": "Jiang, Tingsong  and Liu, Tianyu  and Ge, Tao  and Sha, Lei  and Li, Sujian  and Chang, Baobao  and Sui, Zhifang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1260.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1260.bib",
+            "SUPP": ""
+        }
+    },
+    "narasimhan-etal-2016-improving": {
+        "TITLE": "Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning",
+        "AUTHORS": "Narasimhan, Karthik  and Yala, Adam  and Barzilay, Regina",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1261.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1261.bib",
+            "SUPP": ""
+        }
+    },
+    "lee-etal-2016-global": {
+        "TITLE": "Global Neural CCG Parsing with Optimality Guarantees",
+        "AUTHORS": "Lee, Kenton  and Lewis, Mike  and Zettlemoyer, Luke",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1262.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1262.bib",
+            "SUPP": ""
+        }
+    },
+    "adams-etal-2016-learning": {
+        "TITLE": "Learning a Lexicon and Translation Model from Phoneme Lattices",
+        "AUTHORS": "Adams, Oliver  and Neubig, Graham  and Cohn, Trevor  and Bird, Steven  and Do, Quoc Truong  and Nakamura, Satoshi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1263.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1263.bib",
+            "SUPP": ""
+        }
+    },
+    "rajpurkar-etal-2016-squad": {
+        "TITLE": "SQuAD: 100,000+ Questions for Machine Comprehension of Text",
+        "AUTHORS": "Rajpurkar, Pranav  and Zhang, Jian  and Lopyrev, Konstantin  and Liang, Percy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D16-1264.pdf",
+            "BIBTEX": "https://aclanthology.org/D16-1264.bib",
+            "SUPP": ""
+        }
+    }
+}

@@ -1,0 +1,405 @@
+{
+    "varges-mellish-2001-instance": {
+        "TITLE": "Instance-Based Natural Language Generation",
+        "AUTHORS": "Varges, Sebastian  and Mellish, Chris",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "cheng-etal-2001-corpus": {
+        "TITLE": "Corpus-based NP Modifier Generation",
+        "AUTHORS": "Cheng, Hua  and Poesio, Massimo  and Henschel, Renate  and Mellish, Chris",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "walker-etal-2001-spot": {
+        "TITLE": "SPoT: A Trainable Sentence Planner",
+        "AUTHORS": "Walker, Marilyn A.  and Rambow, Owen  and Rogati, Monica",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "papineni-2001-inverse": {
+        "TITLE": "Why Inverse Document Frequency?",
+        "AUTHORS": "Papineni, Kishore",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "ittycheriah-etal-2001-question": {
+        "TITLE": "Question Answering Using Maximum-Entropy Components",
+        "AUTHORS": "Ittycheriah, Abraham  and Franz, Martin  and Zhu, Wei-Jing  and Ratnaparkhi, Adwait",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "ngai-florian-2001-transformation": {
+        "TITLE": "Transformation Based Learning in the Fast Lane",
+        "AUTHORS": "Ngai, Grace  and Florian, Radu",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "charniak-2001-unsupervised": {
+        "TITLE": "Unsupervised Learning of Name Structure From Coreference Data",
+        "AUTHORS": "Charniak, Eugene",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "harabagiu-etal-2001-text": {
+        "TITLE": "Text and Knowledge Mining for Coreference Resolution",
+        "AUTHORS": "Harabagiu, Sanda M.  and Bunescu, Razvan C.  and Maiorano, Steven J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "lapata-2001-corpus": {
+        "TITLE": "A Corpus-based Account of Regular Polysemy: The Case of Context-sensitive Adjectives",
+        "AUTHORS": "Lapata, Maria",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "tomuro-2001-tree": {
+        "TITLE": "Tree-Cut and a Lexicon Based on Systematic Polysemy",
+        "AUTHORS": "Tomuro, Noriko",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "pedersen-2001-decision": {
+        "TITLE": "A Decision Tree of Bigrams is an Accurate Predictor of Word Sense",
+        "AUTHORS": "Pedersen, Ted",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "gomez-2001-algorithm": {
+        "TITLE": "An Algorithm for Aspects of Semantic Interpretation Using an Enhanced WordNet",
+        "AUTHORS": "Gomez, Fernando",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "clark-weir-2001-class": {
+        "TITLE": "Class-Based Probability Estimation Using a Semantic Hierarchy",
+        "AUTHORS": "Clark, Stephen  and Weir, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "kondrak-2001-identifying": {
+        "TITLE": "Identifying Cognates by Phonetic and Semantic Similarity",
+        "AUTHORS": "Kondrak, Grzegorz",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "jansche-2001-engineering": {
+        "TITLE": "Re-Engineering Letter-to-Sound Rules",
+        "AUTHORS": "Jansche, Martin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "charniak-johnson-2001-edit": {
+        "TITLE": "Edit Detection and Parsing for Transcribed Speech",
+        "AUTHORS": "Charniak, Eugene  and Johnson, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "pakhomov-etal-2001-generating": {
+        "TITLE": "Generating Training Data for Medical Dictations",
+        "AUTHORS": "Pakhomov, Sergey  and Schonwetter, Michael  and Bachenko, Joan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "bangalore-riccardi-2001-finite": {
+        "TITLE": "A Finite-State Approach to Machine Translation",
+        "AUTHORS": "Bangalore, Srinivas  and Riccardi, Giuseppe",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "horiguchi-2001-information": {
+        "TITLE": "Information-Based Machine Translation",
+        "AUTHORS": "Horiguchi, Keiko",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "mann-yarowsky-2001-multipath": {
+        "TITLE": "Multipath Translation Lexicon Induction via Bridge Languages",
+        "AUTHORS": "Mann, Gideon S.  and Yarowsky, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "hale-2001-probabilistic": {
+        "TITLE": "A Probabilistic Earley Parser as a Psycholinguistic Model",
+        "AUTHORS": "Hale, John",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "villemonte-de-la-clergerie-2001-refining": {
+        "TITLE": "Refining Tabular Parsers for TAGs",
+        "AUTHORS": "Villemonte de la Clergerie, Éric",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "sarkar-2001-applying": {
+        "TITLE": "Applying Co-Training Methods to Statistical Parsing",
+        "AUTHORS": "Sarkar, Anoop",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "schone-jurafsky-2001-knowledge": {
+        "TITLE": "Knowledge-Free Induction of Inflectional Morphologies",
+        "AUTHORS": "Schone, Patrick  and Jurafsky, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "kudo-matsumoto-2001-chunking": {
+        "TITLE": "Chunking with Support Vector Machines",
+        "AUTHORS": "Kudo, Taku  and Matsumoto, Yuji",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "yarowsky-ngai-2001-inducing": {
+        "TITLE": "Inducing Multilingual POS Taggers and NP Bracketers via Robust Projection Across Aligned Corpora",
+        "AUTHORS": "Yarowsky, David  and Ngai, Grace",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "hirschberg-etal-2001-identifying": {
+        "TITLE": "Identifying User Corrections Automatically in Spoken Dialogue Systems",
+        "AUTHORS": "Hirschberg, Julia  and Litman, Diane  and Swerts, Marc",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "lecoeuche-2001-learning": {
+        "TITLE": "Learning Optimal Dialogue Management Rules by Using Reinforcement Learning and Inductive Logic Programming",
+        "AUTHORS": "Lecoeuche, Renaud",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "van-uytsel-etal-2001-structured": {
+        "TITLE": "A Structured Language Model Based on Context-Sensitive Probabilistic Left-Corner Parsing",
+        "AUTHORS": "Van Uytsel, Dong Hoon  and Van Aelten, Filip  and Van Compernolle, Dirk",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "rayner-etal-2001-cfg": {
+        "TITLE": "Do CFG-Based Language Models Need Agreement Constraints?",
+        "AUTHORS": "Rayner, Manny  and Gorrell, Genevieve  and Hockey, Beth Ann  and Dowding, John  and Boye, Johan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "tomokiyo-jones-2001-youre": {
+        "TITLE": "You`re Not From `Round Here, Are You? Naive Bayes Detection of Non-Native Utterances",
+        "AUTHORS": "Tomokiyo, Laura Mayfield  and Jones, Rosie",
+        "ABSTRACT": "",
+        "CONFERENCE": "Second Meeting of the North American Chapter of the Association for Computational Linguistics",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N01-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/N01-1031.bib",
+            "SUPP": ""
+        }
+    }
+}

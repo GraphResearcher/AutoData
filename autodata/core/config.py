@@ -110,7 +110,6 @@ except ValidationError as exc:
             "api_key": self.api_key,  # Nếu có
         }
 
-
 class WebConfig(BaseModel):
     """Configuration for web browsing."""
 

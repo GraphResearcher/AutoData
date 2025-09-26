@@ -1,0 +1,730 @@
+{
+    "tajchman-etal-1995-learning": {
+        "TITLE": "Learning Phonological Rule Probabilities from Speech Corpora with Exploratory Computational Phonology",
+        "AUTHORS": "Tajchman, Gary  and Jurafsky, Daniel  and Fosler, Eric",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "gildea-jurafsky-1995-automatic": {
+        "TITLE": "Automatic Induction of Finite State Transducers for Simple Phonological Rules",
+        "AUTHORS": "Gildea, Daniel  and Jurafsky, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "karttunen-1995-replace": {
+        "TITLE": "The Replace Operator",
+        "AUTHORS": "Karttunen, Lauri",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "bowden-kiraz-1995-morphographemic": {
+        "TITLE": "A Morphographemic Model for Error Correction in Nonconcatenative Strings",
+        "AUTHORS": "Bowden, Tanya  and Kiraz, George Anton",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "rose-etal-1995-discourse": {
+        "TITLE": "Discourse Processing of Dialogues with Multiple Threads",
+        "AUTHORS": "Rosé, Carolyn Penstein  and Di Eugenio, Barbara  and Levin, Lori S.  and Van Ess-Dykema, Carol",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "nasukawa-1995-robust": {
+        "TITLE": "Robust Parsing Based on Discourse Information: Completing partial parses of ill-formed sentences on the basis of discourse information",
+        "AUTHORS": "Nasukawa, Tetsuya",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "lauer-1995-corpus": {
+        "TITLE": "Corpus Statistics Meet the Noun Compound: Some Empirical Results",
+        "AUTHORS": "Lauer, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "keller-1995-datr": {
+        "TITLE": "DATR Theories and DATR Models",
+        "AUTHORS": "Keller, Bill",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "stromback-1995-user": {
+        "TITLE": "User-Defined Nonmonotonicity in Unification-Based Formalisms",
+        "AUTHORS": "Stromback, Lena",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "bayer-johnson-1995-features": {
+        "TITLE": "Features and Agreement",
+        "AUTHORS": "Bayer, Sam  and Johnson, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "evans-etal-1995-encoding": {
+        "TITLE": "Encoding Lexicalized Tree Adjoining Grammars with a Nonmonotonic Inheritance Hierarchy",
+        "AUTHORS": "Evans, Roger  and Gazdar, Gerald  and Weir, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "gotz-meurers-1995-compiling": {
+        "TITLE": "Compiling HPSG type constraints into definite clause programs",
+        "AUTHORS": "Gotz, Thilo  and Meurers, Walt Detmar",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "kasper-etal-1995-compilation": {
+        "TITLE": "Compilation of HPSG to TAG",
+        "AUTHORS": "Kasper, Robert  and Kiefer, Bernd  and Netter, Klaus  and Vijay-Shanker, K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "johnson-dorre-1995-memoization": {
+        "TITLE": "Memoization of Coroutined Constraints",
+        "AUTHORS": "Johnson, Mark  and Dorre, Jochen",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "litman-passonneau-1995-combining": {
+        "TITLE": "Combining Multiple Knowledge Sources for Discourse Segmentation",
+        "AUTHORS": "Litman, Diane J.  and Passonneau, Rebecca J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "reithinger-maier-1995-utilizing": {
+        "TITLE": "Utilizing Statistical Dialogue Act Processing in Verbrnobil",
+        "AUTHORS": "Reithinger, Norbert  and Maier, Elisabeth",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "aone-william-1995-evaluating": {
+        "TITLE": "Evaluating Automated and Manual Acquisition of Anaphora Resolution Strategies",
+        "AUTHORS": "Aone, Chinatsu  and William, Scott",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "moser-moore-1995-investigating": {
+        "TITLE": "Investigating Cue Selection and Placement in Tutorial Discourse",
+        "AUTHORS": "Moser, Megan  and Moore, Johanna D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "chu-carroll-carberry-1995-response": {
+        "TITLE": "Response Generation in Collaborative Negotiation",
+        "AUTHORS": "Chu-Carroll, Jennifer  and Carberry, Sandra",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "marcu-hirst-1995-uniform": {
+        "TITLE": "A Uniform Treatment of Pragmatic Inferences in Simple and Complex Utterances and Sequences of Utterances",
+        "AUTHORS": "Marcu, Daniel  and Hirst, Graeme",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "rambow-etal-1995-tree": {
+        "TITLE": "D-Tree Grammars",
+        "AUTHORS": "Rambow, Owen  and Vijay-Shanker, K.  and Weir, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "van-noord-1995-intersection": {
+        "TITLE": "The intersection of Finite State Automata and Definite Clause Grammars",
+        "AUTHORS": "van Noord, Gertjan",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "rajasekaran-yooseph-1995-tal": {
+        "TITLE": "TAL Recognition in $O(M(n^2))$ Time",
+        "AUTHORS": "Rajasekaran, Sanguthevar  and Yooseph, Shibu",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "kathol-pollard-1995-extraposition": {
+        "TITLE": "Extraposition via Complex Domain Formation",
+        "AUTHORS": "Kathol, Andreas  and Pollard, Carl",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "luk-1995-statistical": {
+        "TITLE": "Statistical Sense Disambiguation with Relatively Small Corpora Using Dictionary Definitions",
+        "AUTHORS": "Luk, Alpha K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "yarowsky-1995-unsupervised": {
+        "TITLE": "Unsupervised Word Sense Disambiguation Rivaling Supervised Methods",
+        "AUTHORS": "Yarowsky, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "hatzivassiloglou-mckeown-1995-quantitative": {
+        "TITLE": "A Quantitative Evaluation of Linguistic Tests for the Automatic Prediction of Semantic Markedness",
+        "AUTHORS": "Hatzivassiloglou, Vasileios  and McKeown, Kathleen",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "park-1995-quantifier": {
+        "TITLE": "Quantifier Scope and Constituency",
+        "AUTHORS": "Park, Jong C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "kulick-1995-using": {
+        "TITLE": "Using Higher-Order Logic Programming for Semantic Interpretation of Coordinate Constructs",
+        "AUTHORS": "Kulick, Seth",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "ristad-thomas-1995-new": {
+        "TITLE": "New Techniques for Context Modeling",
+        "AUTHORS": "Ristad, Eric Sven  and Thomas, Robert G.",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-1995-bayesian": {
+        "TITLE": "Bayesian Grammar Induction for Language Modeling",
+        "AUTHORS": "Chen, Stanley F.",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "fung-1995-pattern": {
+        "TITLE": "A Pattern Matching Method for Finding Noun and Proper Noun Translations from Noisy Parallel Corpora",
+        "AUTHORS": "Fung, Pascale",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "wu-1995-algorithm": {
+        "TITLE": "An Algorithm for Simultaneously Bracketing Parallel Texts by Aligning Words",
+        "AUTHORS": "Wu, Dekai",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "knight-hatzivassiloglou-1995-two": {
+        "TITLE": "Two-Level, Many-Paths Generation",
+        "AUTHORS": "Knight, Kevin  and Hatzivassiloglou, Vasileios",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "poznanski-etal-1995-efficient": {
+        "TITLE": "An Efficient Generation Algorithm for Lexicalist MT",
+        "AUTHORS": "Poznanski, Victor  and Beaven, John L.  and Whitelock, Pete",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "srinivas-joshi-1995-novel": {
+        "TITLE": "Some Novel Applications of Explanation-Based Learning to Parsing Lexicalized Tree-Adjoining Grammars",
+        "AUTHORS": "Srinivas, B.  and Joshi, Aravind K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1036.bib",
+            "SUPP": ""
+        }
+    },
+    "magerman-1995-statistical": {
+        "TITLE": "Statistical Decision-Tree Models for Parsing",
+        "AUTHORS": "Magerman, David M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1037.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1037.bib",
+            "SUPP": ""
+        }
+    },
+    "agarwal-1995-evaluation": {
+        "TITLE": "Evaluation of Semantic Clusters",
+        "AUTHORS": "Agarwal, Rajeev",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1038.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1038.bib",
+            "SUPP": ""
+        }
+    },
+    "brants-1995-tagset": {
+        "TITLE": "Tagset Reduction Without Information Loss",
+        "AUTHORS": "Brants, Thorsten",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1039.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1039.bib",
+            "SUPP": ""
+        }
+    },
+    "cahn-1995-effect": {
+        "TITLE": "The Effect of Pitch Accenting on Pronoun Referent Resolution",
+        "AUTHORS": "Cahn, Janet",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1040.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1040.bib",
+            "SUPP": ""
+        }
+    },
+    "chakravarthy-1995-sense": {
+        "TITLE": "Sense Disambiguation Using Semantic Relations and Adjacency Information",
+        "AUTHORS": "Chakravarthy, Anil S.",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1041.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1041.bib",
+            "SUPP": ""
+        }
+    },
+    "crowe-1995-constraint": {
+        "TITLE": "Constraint-Based Event Recognition for Information Extraction",
+        "AUTHORS": "Crowe, Jeremy",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1042.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1042.bib",
+            "SUPP": ""
+        }
+    },
+    "praczak-1995-route": {
+        "TITLE": "From route descriptions to sketches: a model for a text-to-image translator",
+        "AUTHORS": "Praczak, Lidia",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1043.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1043.bib",
+            "SUPP": ""
+        }
+    },
+    "gocmen-1995-computational": {
+        "TITLE": "A Computational Framework for Composition in Multiple Linguistic Domains",
+        "AUTHORS": "Gocmen, Elvan",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1044.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1044.bib",
+            "SUPP": ""
+        }
+    },
+    "grandchamp-1995-polyphony": {
+        "TITLE": "Polyphony and Argumentative Semantics",
+        "AUTHORS": "Grandchamp, Jean-Michel",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1045.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1045.bib",
+            "SUPP": ""
+        }
+    },
+    "lin-1995-knowledge": {
+        "TITLE": "Knowledge-based Automatic Topic Identification",
+        "AUTHORS": "Lin, Chin-Yew",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1046.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1046.bib",
+            "SUPP": ""
+        }
+    },
+    "de-marcken-1995-acquiring": {
+        "TITLE": "Acquiring a Lexicon from Unsegmented Speech",
+        "AUTHORS": "de Marcken, Carl",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1047.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1047.bib",
+            "SUPP": ""
+        }
+    },
+    "mosny-fraser-1995-semantic": {
+        "TITLE": "Semantic Information Preprocessing for Natural Language Interfaces to Databases",
+        "AUTHORS": "Mosny, Milan  and Fraser, Simon",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1048.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1048.bib",
+            "SUPP": ""
+        }
+    },
+    "park-1995-mapping": {
+        "TITLE": "Mapping Scrambled Korean Sentences into English Using Synchronous TAGs",
+        "AUTHORS": "Park, Hyun S.",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1049.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1049.bib",
+            "SUPP": ""
+        }
+    },
+    "rapp-1995-identifying": {
+        "TITLE": "Identifying Word Translations in Non-Parallel Texts",
+        "AUTHORS": "Rapp, Reinhard",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1050.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1050.bib",
+            "SUPP": ""
+        }
+    },
+    "saba-1995-towards": {
+        "TITLE": "Towards a Cognitively Plausible Model for Quantification",
+        "AUTHORS": "Saba, Walid S.",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1051.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1051.bib",
+            "SUPP": ""
+        }
+    },
+    "schilder-1995-aspect": {
+        "TITLE": "Aspect and Discourse Structure: Is a Neutral Viewpoint Required?",
+        "AUTHORS": "Schilder, Frank",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1052.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1052.bib",
+            "SUPP": ""
+        }
+    },
+    "shaw-1995-conciseness": {
+        "TITLE": "Conciseness through Aggregation in Text Generation",
+        "AUTHORS": "Shaw, James",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1053.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1053.bib",
+            "SUPP": ""
+        }
+    },
+    "kripasundar-1995-quantifying": {
+        "TITLE": "Quantifying lexical influence: Giving direction to context",
+        "AUTHORS": "Kripȧsundar, V",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1054.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1054.bib",
+            "SUPP": ""
+        }
+    },
+    "thompson-1995-acquisition": {
+        "TITLE": "Acquisition of a Lexicon from Semantic Representations of Sentences",
+        "AUTHORS": "Thompson, Cynthia A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1055.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1055.bib",
+            "SUPP": ""
+        }
+    },
+    "veenstra-1995-minimalist": {
+        "TITLE": "A Minimalist Head-Corner Parser",
+        "AUTHORS": "Veenstra, Mettina",
+        "ABSTRACT": "",
+        "CONFERENCE": "33rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P95-1056.pdf",
+            "BIBTEX": "https://aclanthology.org/P95-1056.bib",
+            "SUPP": ""
+        }
+    }
+}

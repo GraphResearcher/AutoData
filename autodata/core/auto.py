@@ -72,7 +72,7 @@ class AutoData:
         """Initialize the language model with proper configuration."""
         try:
             llm = globals()[self.config.LLM_Config.ModelClass](
-                **self.config.LLM_Config._get_llm_additional_kwargs()
+                **self.config.LLM_Config._get_additional_kwargs()
             )
             logger.info(f"✅ Initialized LLM: {self.config.LLM_Config.ModelClass}")
             return llm

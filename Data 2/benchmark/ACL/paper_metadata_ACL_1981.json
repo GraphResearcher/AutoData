@@ -1,0 +1,470 @@
+{
+    "slocum-1981-practical": {
+        "TITLE": "A Practical Comparison of Parsing Strategies",
+        "AUTHORS": "Slocum, Jonathan",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "berwick-1981-computational": {
+        "TITLE": "Computational Complexity and Lexical Functional Grammar",
+        "AUTHORS": "Berwick, Robert C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "ryan-1981-corepresentational": {
+        "TITLE": "Corepresentational Grammar and Parsing English Comparatives",
+        "AUTHORS": "Ryan, Karen",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "bernstein-nessly-1981-performance": {
+        "TITLE": "Performance Comparison of Component Algorithms for the Phonemicization of Orthography",
+        "AUTHORS": "Bernstein, Jared  and Nessly, Larry",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "becker-1981-phony": {
+        "TITLE": "PHONY: A Heuristic Phonological Analyzer",
+        "AUTHORS": "Becker, Lee A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "sondheimer-1981-evaluation": {
+        "TITLE": "Evaluation of Natural Language Interfaces to Database Systems: A Panel Discussion",
+        "AUTHORS": "Sondheimer, Norman K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "crout-1981-artificial": {
+        "TITLE": "Artificial Intelligence Corporation",
+        "AUTHORS": "Crout, J. Norwood",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "mann-1981-selective": {
+        "TITLE": "Selective Planning of Interface Evaluations",
+        "AUTHORS": "Mann, William C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "petrick-1981-field": {
+        "TITLE": "Field Testing the Transformational Question Answering (TQA) System",
+        "AUTHORS": "Petrick, S. R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "tennant-1981-makes": {
+        "TITLE": "What Makes Evaluation Hard?",
+        "AUTHORS": "Tennant, Harry",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "thompson-1981-evaluation": {
+        "TITLE": "Evaluation of Natural Language Interfaces to Data Base Systems",
+        "AUTHORS": "Thompson, Bozena Henisz",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "mann-1981-two": {
+        "TITLE": "Two Discourse Generators",
+        "AUTHORS": "Mann, William C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "matthiessen-1981-grammar": {
+        "TITLE": "A Grammar and a Lexicon for a Text-Production System",
+        "AUTHORS": "Matthiessen, Christian M.I.M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "mcdonald-1981-language": {
+        "TITLE": "Language Production: the Source of the Dictionary",
+        "AUTHORS": "McDonald, David D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "reichman-1981-analogies": {
+        "TITLE": "Analogies in Spontaneous Discourse",
+        "AUTHORS": "Reichman, Rachel",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "cohen-1981-investigation": {
+        "TITLE": "Investigation of Processing Strategies for the Structural Analysis of Arguments",
+        "AUTHORS": "Cohen, Robin",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "allen-1981-whats": {
+        "TITLE": "What`s Necessary to Hide?: Modeling Action Verbs",
+        "AUTHORS": "Allen, James F.",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "frederking-1981-rule": {
+        "TITLE": "A Rule-based Conversation Participant",
+        "AUTHORS": "Frederking, Robert E.",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "ehrlich-1981-search": {
+        "TITLE": "Search and Inference Strategies in Pronoun Resolution: An Experimental Study",
+        "AUTHORS": "Ehrlich, Kate",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "robinson-1981-perspectives": {
+        "TITLE": "Perspectives on Parsing Issues",
+        "AUTHORS": "Robinson, Jane J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "bobrow-webber-1981-issues": {
+        "TITLE": "Some Issues in Parsing and Natural Language Understanding",
+        "AUTHORS": "Bobrow, Robert J.  and Webber, Bonnie L.",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "grishman-1981-parsing": {
+        "TITLE": "Parsing",
+        "AUTHORS": "Grishman, Ralph",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "kaplan-1981-view": {
+        "TITLE": "A View of Parsing",
+        "AUTHORS": "Kaplan, Ronald M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "riesbeck-1981-perspectives": {
+        "TITLE": "Perspectives on Parsing Issues",
+        "AUTHORS": "Riesbeck, Christopher K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "moran-1981-presupposition": {
+        "TITLE": "Presupposition and Implicature in Model-Theoretic Pragmatics",
+        "AUTHORS": "Moran, Douglas B.",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "barwise-1981-computational": {
+        "TITLE": "Some Computational Aspects of Situation Semantics",
+        "AUTHORS": "Barwise, Jon",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "evans-1981-situation": {
+        "TITLE": "A Situation Semantics Approach to the Analysis of Speech Acts",
+        "AUTHORS": "Evans, David Andreoff",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "moore-1981-problems": {
+        "TITLE": "Problems in Logical Form",
+        "AUTHORS": "Moore, Robert C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "palmer-1981-case": {
+        "TITLE": "A Case for Rule-Driven Semantic Processing",
+        "AUTHORS": "Palmer, Martha",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "amsler-1981-taxonomy": {
+        "TITLE": "A Taxonomy for English Nouns and Verbs",
+        "AUTHORS": "Amsler, Robert A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "kaplan-davidson-1981-interpreting": {
+        "TITLE": "Interpreting Natural Language Database Updates",
+        "AUTHORS": "Kaplan, S. Jerrold  and Davidson, Jim",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "carbonell-hayes-1981-dynamic": {
+        "TITLE": "Dynamic Strategy Selection in Flexible Parsing",
+        "AUTHORS": "Carbonell, Jaime G.  and Hayes, Philip J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "hayes-1981-construction": {
+        "TITLE": "A Construction-Specific approach to Focused Interaction in Flexible Parsing",
+        "AUTHORS": "Hayes, Philip J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "bates-ingria-1981-controlled": {
+        "TITLE": "Controlled Transformational Sentence Generation",
+        "AUTHORS": "Bates, Madeleine  and Ingria, Robert",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "hendrix-lewis-1981-transportable": {
+        "TITLE": "Transportable Natural-Language Interfaces to Databases",
+        "AUTHORS": "Hendrix, Gary G.  and Lewis, William H.",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "thompson-1981-chart": {
+        "TITLE": "Chart Parsing and Rule Schemata in PSG",
+        "AUTHORS": "Thompson, Henry",
+        "ABSTRACT": "",
+        "CONFERENCE": "19th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P81-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/P81-1036.bib",
+            "SUPP": ""
+        }
+    }
+}

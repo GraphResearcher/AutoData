@@ -1,0 +1,535 @@
+{
+    "collins-2002-discriminative": {
+        "TITLE": "Discriminative Training Methods for Hidden Markov Models: Theory and Experiments with Perceptron Algorithms",
+        "AUTHORS": "Collins, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "klein-manning-2002-conditional": {
+        "TITLE": "Conditional Structure versus Conditional Estimation in NLP Models",
+        "AUTHORS": "Klein, Dan  and Manning, Christopher D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "goodman-2002-incremental": {
+        "TITLE": "An Incremental Decision List Learner",
+        "AUTHORS": "Goodman, Joshua",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "florian-yarowsky-2002-modeling": {
+        "TITLE": "Modeling Consensus: Classifier Combination for Word Sense Disambiguation",
+        "AUTHORS": "Florian, Radu  and Yarowsky, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "cucerzan-yarowsky-2002-augmented": {
+        "TITLE": "Augmented Mixture Models for Lexical Disambiguation",
+        "AUTHORS": "Cucerzan, Silviu  and Yarowsky, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "lee-ng-2002-empirical": {
+        "TITLE": "An Empirical Evaluation of Knowledge Sources and Learning Algorithms for Word Sense Disambiguation",
+        "AUTHORS": "Lee, Yoong Keok  and Ng, Hwee Tou",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "engel-etal-2002-parsing": {
+        "TITLE": "Parsing and Disfluency Placement",
+        "AUTHORS": "Engel, Donald  and Charniak, Eugene  and Johnson, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "ng-cardie-2002-combining": {
+        "TITLE": "Combining Sample Selection and Error-Driven Pruning for Machine Learning of Coreference Rules",
+        "AUTHORS": "Ng, Vincent  and Cardie, Claire",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "eisner-2002-transformational": {
+        "TITLE": "Transformational Priors Over Grammars",
+        "AUTHORS": "Eisner, Jason",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "zelenko-etal-2002-kernel": {
+        "TITLE": "Kernel Methods for Relation Extraction",
+        "AUTHORS": "Zelenko, Dmitry  and Aone, Chinatsu  and Richardella, Anthony",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "pang-etal-2002-thumbs": {
+        "TITLE": "Thumbs up? Sentiment Classification using Machine Learning Techniques",
+        "AUTHORS": "Pang, Bo  and Lee, Lillian  and Vaithyanathan, Shivakumar",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "toutanova-etal-2002-extentions": {
+        "TITLE": "Extensions to HMM-based Statistical Word Alignment Models",
+        "AUTHORS": "Toutanova, Kristina  and Ilhan, H. Tolga  and Manning, Christopher",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "smith-2002-words": {
+        "TITLE": "From Words to Corpora: Recognizing Translation",
+        "AUTHORS": "Smith, Noah A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "prolo-2002-fast": {
+        "TITLE": "Fast LR parsing Using Rich (Tree Adjoining) Grammars",
+        "AUTHORS": "Prolo, Carlos A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "blaheta-2002-handling": {
+        "TITLE": "Handling Noisy Training and Testing Data",
+        "AUTHORS": "Blaheta, Don",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "brew-schulte-im-walde-2002-spectral": {
+        "TITLE": "Spectral Clustering for German Verbs",
+        "AUTHORS": "Brew, Chris  and Schulte im Walde, Sabine",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "phillips-riloff-2002-exploiting": {
+        "TITLE": "Exploiting Strong Syntactic Heuristics and Co-Training to Learn Semantic Lexicons",
+        "AUTHORS": "Phillips, William  and Riloff, Ellen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "marcu-wong-2002-phrase": {
+        "TITLE": "A Phrase-Based,Joint Probability Model for Statistical Machine Translation",
+        "AUTHORS": "Marcu, Daniel  and Wong, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "kumar-byrne-2002-minimum": {
+        "TITLE": "Minimum Bayes-Risk Word Alignments of Bilingual Texts",
+        "AUTHORS": "Kumar, Shankar  and Byrne, William",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "foster-etal-2002-user": {
+        "TITLE": "User-Friendly Text Prediction For Translators",
+        "AUTHORS": "Foster, George  and Langlais, Philippe  and Lapalme, Guy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "ueffing-etal-2002-generation": {
+        "TITLE": "Generation of Word Graphs in Statistical Machine Translation",
+        "AUTHORS": "Ueffing, Nicola  and Och, Franz Josef  and Ney, Hermann",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "barzilay-lee-2002-bootstrapping": {
+        "TITLE": "Bootstrapping Lexical Choice via Multiple-Sequence Alignment",
+        "AUTHORS": "Barzilay, Regina  and Lee, Lillian",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "sable-etal-2002-nlp": {
+        "TITLE": "NLP Found Helpful (at least for one Text Categorization Task)",
+        "AUTHORS": "Sable, Carl  and McKeown, Kathleen  and Church, Kenneth",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "chu-carroll-etal-2002-hybrid": {
+        "TITLE": "A Hybrid Approach to Natural Language Web Search",
+        "AUTHORS": "Chu-Carroll, Jennifer  and Prager, John  and Ravin, Yael  and Cesar, Christian",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "fujii-etal-2002-method": {
+        "TITLE": "A Method for Open-Vocabulary Speech-Driven Text Retrieval",
+        "AUTHORS": "Fujii, Atsushi  and Itou, Katunobu  and Ishikawa, Tetsuya",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "fukumoto-suzuki-2002-manipulating": {
+        "TITLE": "Manipulating Large Corpora for Text Classification",
+        "AUTHORS": "Fukumoto, Fumiyo  and Suzuki, Yoshimi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "markert-nissim-2002-metonymy": {
+        "TITLE": "Metonymy Resolution as a Classification Task",
+        "AUTHORS": "Markert, Katja  and Nissim, Malvina",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "thelen-riloff-2002-bootstrapping": {
+        "TITLE": "A Bootstrapping Method for Learning Semantic Lexicons using Extraction Pattern Contexts",
+        "AUTHORS": "Thelen, Michael  and Riloff, Ellen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "curran-2002-ensemble": {
+        "TITLE": "Ensemble Methods for Automatic Thesaurus Extraction",
+        "AUTHORS": "Curran, James",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "keller-etal-2002-using": {
+        "TITLE": "Using the Web to Overcome Data Sparseness",
+        "AUTHORS": "Keller, Frank  and Lapata, Maria  and Ourioupina, Olga",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-harper-2002-superarv": {
+        "TITLE": "The SuperARV Language Model: Investigating the Effectiveness of Tightly Integrating Multiple Knowledge Sources",
+        "AUTHORS": "Wang, Wen  and Harper, Mary P.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "gao-etal-2002-exploiting": {
+        "TITLE": "Exploiting Headword Dependency and Predictive Clustering for Language Modeling",
+        "AUTHORS": "Gao, Jianfeng  and Suzuki, Hisami  and Wen, Yang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "brill-etal-2002-analysis": {
+        "TITLE": "An Analysis of the AskMSR Question-Answering System",
+        "AUTHORS": "Brill, Eric  and Dumais, Susan  and Banko, Michele",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "czuba-etal-2002-machine": {
+        "TITLE": "A Machine-Learning Approach to Introspection in a Question Answering System",
+        "AUTHORS": "Czuba, Krzysztof  and Prager, John  and Chu-Carroll, Jennifer",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "gupta-bangalore-2002-extracting": {
+        "TITLE": "Extracting Clauses for Spoken Language Understanding in Conversational Systems",
+        "AUTHORS": "Gupta, Narendra  and Bangalore, Srinivas",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "utsuro-etal-2002-combining": {
+        "TITLE": "Combining Outputs of Multiple Japanese Named Entity Chunkers by Stacking",
+        "AUTHORS": "Utsuro, Takehito  and Sassano, Manabu  and Uchimoto, Kiyotaka",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1036.bib",
+            "SUPP": ""
+        }
+    },
+    "munteanu-marcu-2002-processing": {
+        "TITLE": "Processing Comparable Corpora With Bilingual Suffix Trees",
+        "AUTHORS": "Munteanu, Dragos Stefan  and Marcu, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1037.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1037.bib",
+            "SUPP": ""
+        }
+    },
+    "federico-etal-2002-bootstrapping": {
+        "TITLE": "Bootstrapping Named Entity Recognition for Italian Broadcast News",
+        "AUTHORS": "Federico, Marcello  and Bertoldi, Nicola  and Sandrini, Vanessa",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1038.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1038.bib",
+            "SUPP": ""
+        }
+    },
+    "fox-2002-phrasal": {
+        "TITLE": "Phrasal Cohesion and Statistical Machine Translation",
+        "AUTHORS": "Fox, Heidi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1039.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1039.bib",
+            "SUPP": ""
+        }
+    },
+    "strube-etal-2002-influence": {
+        "TITLE": "The Influence of Minimum Edit Distance on Reference Resolution",
+        "AUTHORS": "Strube, Michael  and Rapp, Stefan  and Müller, Christoph",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1040.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1040.bib",
+            "SUPP": ""
+        }
+    },
+    "jansche-abney-2002-information": {
+        "TITLE": "Information Extraction from Voicemail Transcripts",
+        "AUTHORS": "Jansche, Martin  and Abney, Steven",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP 2002)",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W02-1041.pdf",
+            "BIBTEX": "https://aclanthology.org/W02-1041.bib",
+            "SUPP": ""
+        }
+    }
+}

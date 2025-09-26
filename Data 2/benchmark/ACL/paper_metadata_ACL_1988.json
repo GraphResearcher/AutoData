@@ -1,0 +1,457 @@
+{
+    "byrd-tzoukermann-1988-adapting": {
+        "TITLE": "Adapting an English Morphological Analyzer for French",
+        "AUTHORS": "Byrd, Roy J.  and Tzoukermann, Evelyne",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "linebarger-etal-1988-sentence": {
+        "TITLE": "Sentence Fragments Regular Structures",
+        "AUTHORS": "Linebarger, Marcia C.  and Dahl, Deborah A.  and Hirschman, Lynette  and Passonneau, Rebecca J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "scha-stallard-1988-multi": {
+        "TITLE": "Multi-Level Plurals and Distributivity",
+        "AUTHORS": "Scha, Remko  and Stallard, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "de-bruin-scha-1988-interpretation": {
+        "TITLE": "The Interpretation of Relational Nouns",
+        "AUTHORS": "de Bruin, Jos  and Scha, Remko",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "moran-1988-quantifier": {
+        "TITLE": "Quantifier Scoping in the SRI Core Language Engine",
+        "AUTHORS": "Moran, Douglas B.",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "ballard-1988-general": {
+        "TITLE": "A General Computational Treatment of Comparatives for Natural Language Question Answering",
+        "AUTHORS": "Ballard, Bruce W.",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "rayner-banks-1988-parsing": {
+        "TITLE": "Parsing and Interpreting Comparatives",
+        "AUTHORS": "Rayner, Manny  and Banks, Amelie",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "karlin-1988-defining": {
+        "TITLE": "Defining the Semantics of Verbal Modifiers in the Domain of Cooking Tasks",
+        "AUTHORS": "Karlin, Robin F.",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "dalrymple-1988-interpretation": {
+        "TITLE": "The Interpretation of Tense and Aspect in English",
+        "AUTHORS": "Dalrymple, Mary",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "pollack-pereira-1988-integrated": {
+        "TITLE": "An Integrated Framework for Semantic and Pragmatic Interpretation",
+        "AUTHORS": "Pollack, Martha E.  and Pereira, Fernando C.N.",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "charniak-goldman-1988-logic": {
+        "TITLE": "A Logic for Semantic Interpretation",
+        "AUTHORS": "Charniak, Eugene  and Goldman, Robert",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "hobbs-etal-1988-interpretation": {
+        "TITLE": "Interpretation as Abduction",
+        "AUTHORS": "Hobbs, Jerry R.  and Stickel, Mark  and Martin, Paul  and Edwards, Douglas",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "haigh-etal-1988-project": {
+        "TITLE": "Project April --- A Progress Report",
+        "AUTHORS": "Haigh, Robin  and Sampson, Geoffrey  and Atwell, Eric",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "webber-1988-discourse": {
+        "TITLE": "Discourse Deixis: Reference to Discourse Segments",
+        "AUTHORS": "Webber, Bonnie Lynn",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "whittaker-stenton-1988-cues": {
+        "TITLE": "Cues and control in Expert-Client Dialogues",
+        "AUTHORS": "Whittaker, Steve  and Stenton, Phil",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "wiebe-rapaport-1988-computational": {
+        "TITLE": "A Computational Theory of Perspective and Reference in Narrative",
+        "AUTHORS": "Wiebe, Janyce M.  and Rapaport, William J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "maeda-etal-1988-parsing": {
+        "TITLE": "Parsing Japanese Honorifics in Unification-Based Grammar",
+        "AUTHORS": "Maeda, Hiroyuki  and Kato, Susumu  and Kogure, Kiyoshi  and Iida, Hitoshi",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "bateman-1988-aspects": {
+        "TITLE": "Aspects of Clause Politeness in Japanese: An Extended Inquiry Semantics Treatment",
+        "AUTHORS": "Bateman, John A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "miike-etal-1988-experiences": {
+        "TITLE": "Experiences With an On-Line Translating Dialogue System",
+        "AUTHORS": "Miike, Seiji  and Hasebe, Koichi  and Somers, Harold  and Amano, Shin-ya",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "hovy-1988-planning": {
+        "TITLE": "Planning Coherent Multisentential Text",
+        "AUTHORS": "Hovy, Eduard H.",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "appelt-konolige-1988-practical": {
+        "TITLE": "A Practical Nonmonotonic Theory for Reasoning about Speech Acts",
+        "AUTHORS": "Appelt, Douglas  and Konolige, Kurt",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "hovy-1988-two": {
+        "TITLE": "Two Types of Planning in Language Generation",
+        "AUTHORS": "Hovy, Eduard H.",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "davis-hirschberg-1988-assigning": {
+        "TITLE": "Assigning Intonational Features in Synthesized Spoken Directions",
+        "AUTHORS": "Davis, James Raymond  and Hirschberg, Julia",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "kameyama-1988-atomization": {
+        "TITLE": "Atomization in Grammar Sharing",
+        "AUTHORS": "Kameyama, Megumi",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "salton-1988-syntactic": {
+        "TITLE": "Syntactic Approaches to Automatic Book Indexing",
+        "AUTHORS": "Salton, Gerard",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "beale-1988-lexicon": {
+        "TITLE": "Lexicon and grammar in probabilistic tagging of written English.",
+        "AUTHORS": "Beale, Andrew David",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "ahlswede-evens-1988-parsing": {
+        "TITLE": "Parsing vs. Text Processing in the Analysis of Dictionary Definitions",
+        "AUTHORS": "Ahlswede, Thomas  and Evens, Martha",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "abe-1988-polynomial": {
+        "TITLE": "Polynomial Learnability and Locality of Formal Grammars",
+        "AUTHORS": "Abe, Naoki",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "kasper-1988-conditional": {
+        "TITLE": "Conditional Descriptions in Functional Unification Grammar",
+        "AUTHORS": "Kasper, Robert T.",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "johnson-1988-deductive": {
+        "TITLE": "Deductive Parsing With Multiple Levels of Representation.",
+        "AUTHORS": "Johnson, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "tomita-1988-graph": {
+        "TITLE": "Graph-structured Stack and Natural Language Parsing",
+        "AUTHORS": "Tomita, Masaru",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "schabes-joshi-1988-earley": {
+        "TITLE": "An Earley-Type Parsing Algorithm for Tree Adjoining Grammars",
+        "AUTHORS": "Schabes, Yves  and Joshi, Aravind K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "pareschi-1988-definite": {
+        "TITLE": "A Definite Clause Version of Categorial Grammar",
+        "AUTHORS": "Pareschi, Remo",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "weir-joshi-1988-combinatory": {
+        "TITLE": "Combinatory Categorial Grammars: Generative Power and Relationship to Linear Context-Free Rewriting Systems",
+        "AUTHORS": "Weir, David J.  and Joshi, Aravind K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "eisele-dorre-1988-unification": {
+        "TITLE": "Unification of Disjunctive Feature Descriptions",
+        "AUTHORS": "Eisele, Andreas  and Dorre, Jochen",
+        "ABSTRACT": "",
+        "CONFERENCE": "26th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P88-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/P88-1035.bib",
+            "SUPP": ""
+        }
+    }
+}

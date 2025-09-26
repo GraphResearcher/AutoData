@@ -1,0 +1,1003 @@
+{
+    "ando-zhang-2005-high": {
+        "TITLE": "A High-Performance Semi-Supervised Learning Method for Text Chunking",
+        "AUTHORS": "Ando, Rie  and Zhang, Tong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "cohn-etal-2005-scaling": {
+        "TITLE": "Scaling Conditional Random Fields Using Error-Correcting Codes",
+        "AUTHORS": "Cohn, Trevor  and Smith, Andrew  and Osborne, Miles",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "smith-etal-2005-logarithmic": {
+        "TITLE": "Logarithmic Opinion Pools for Conditional Random Fields",
+        "AUTHORS": "Smith, Andrew  and Cohn, Trevor  and Osborne, Miles",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "curran-2005-supersense": {
+        "TITLE": "Supersense Tagging of Unknown Nouns Using Semantic Similarity",
+        "AUTHORS": "Curran, James",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "kohomban-lee-2005-learning": {
+        "TITLE": "Learning Semantic Classes for Word Sense Disambiguation",
+        "AUTHORS": "Kohomban, Upali Sathyajith  and Lee, Wee Sun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "dang-palmer-2005-role": {
+        "TITLE": "The Role of Semantic Roles in Disambiguating Verb Senses",
+        "AUTHORS": "Dang, Hoa Trang  and Palmer, Martha",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "di-eugenio-etal-2005-aggregation": {
+        "TITLE": "Aggregation Improves Learning: Experiments in Natural Language Generation for Intelligent Tutoring Systems",
+        "AUTHORS": "Di Eugenio, Barbara  and Fossati, Davide  and Yu, Dan  and Haller, Susan  and Glass, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "paiva-evans-2005-empirically": {
+        "TITLE": "Empirically-based Control of Natural Language Generation",
+        "AUTHORS": "Paiva, Daniel S.  and Evans, Roger",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "soricut-marcu-2005-towards": {
+        "TITLE": "Towards Developing Generation Algorithms for Text-to-Text Applications",
+        "AUTHORS": "Soricut, Radu  and Marcu, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "matsuzaki-etal-2005-probabilistic": {
+        "TITLE": "Probabilistic CFG with Latent Annotations",
+        "AUTHORS": "Matsuzaki, Takuya  and Miyao, Yusuke  and Tsujii, Jun′ichi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "miyao-tsujii-2005-probabilistic": {
+        "TITLE": "Probabilistic Disambiguation Models for Wide-Coverage HPSG Parsing",
+        "AUTHORS": "Miyao, Yusuke  and Tsujii, Jun′ichi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "mcdonald-etal-2005-online": {
+        "TITLE": "Online Large-Margin Training of Dependency Parsers",
+        "AUTHORS": "McDonald, Ryan  and Crammer, Koby  and Pereira, Fernando",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "nivre-nilsson-2005-pseudo": {
+        "TITLE": "Pseudo-Projective Dependency Parsing",
+        "AUTHORS": "Nivre, Joakim  and Nilsson, Jens",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "geffet-dagan-2005-distributional": {
+        "TITLE": "The Distributional Inclusion Hypotheses and Lexical Entailment",
+        "AUTHORS": "Geffet, Maayan  and Dagan, Ido",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "pang-lee-2005-seeing": {
+        "TITLE": "Seeing Stars: Exploiting Class Relationships for Sentiment Categorization with Respect to Rating Scales",
+        "AUTHORS": "Pang, Bo  and Lee, Lillian",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "pantel-2005-inducing": {
+        "TITLE": "Inducing Ontological Co-occurrence Vectors",
+        "AUTHORS": "Pantel, Patrick",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "takamura-etal-2005-extracting": {
+        "TITLE": "Extracting Semantic Orientations of Words using Spin Model",
+        "AUTHORS": "Takamura, Hiroya  and Inui, Takashi  and Okumura, Manabu",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "barzilay-lapata-2005-modeling": {
+        "TITLE": "Modeling Local Coherence: An Entity-Based Approach",
+        "AUTHORS": "Barzilay, Regina  and Lapata, Mirella",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "hutchinson-2005-modelling": {
+        "TITLE": "Modelling the Substitutability of Discourse Connectives",
+        "AUTHORS": "Hutchinson, Ben",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "ng-2005-machine": {
+        "TITLE": "Machine Learning for Coreference Resolution: From Local Classification to Global Ranking",
+        "AUTHORS": "Ng, Vincent",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "yang-etal-2005-improving": {
+        "TITLE": "Improving Pronoun Resolution Using Statistics-Based Semantic Compatibility Information",
+        "AUTHORS": "Yang, Xiaofeng  and Su, Jian  and Tan, Chew Lim",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "charniak-johnson-2005-coarse": {
+        "TITLE": "Coarse-to-Fine n-Best Parsing and MaxEnt Discriminative Reranking",
+        "AUTHORS": "Charniak, Eugene  and Johnson, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "henderson-titov-2005-data": {
+        "TITLE": "Data-Defined Kernels for Parse Reranking Derived from Probabilistic Models",
+        "AUTHORS": "Henderson, James  and Titov, Ivan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "kudo-etal-2005-boosting": {
+        "TITLE": "Boosting-based Parse Reranking with Subtree Features",
+        "AUTHORS": "Kudo, Taku  and Suzuki, Jun  and Isozaki, Hideki",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "sagae-etal-2005-automatic": {
+        "TITLE": "Automatic Measurement of Syntactic Development in Child Language",
+        "AUTHORS": "Sagae, Kenji  and Lavie, Alon  and MacWhinney, Brian",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "harabagiu-etal-2005-experiments": {
+        "TITLE": "Experiments with Interactive Question-Answering",
+        "AUTHORS": "Harabagiu, Sanda  and Hickl, Andrew  and Lehmann, John  and Moldovan, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "sasaki-2005-question": {
+        "TITLE": "Question Answering as Question-Biased Term Extraction: A New Approach toward Multilingual QA",
+        "AUTHORS": "Sasaki, Yutaka",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "elzer-etal-2005-exploring": {
+        "TITLE": "Exploring and Exploiting the Limited Utility of Captions in Recognizing Intention in Information Graphics",
+        "AUTHORS": "Elzer, Stephanie  and Carberry, Sandra  and Chester, Daniel  and Demir, Seniz  and Green, Nancy  and Zukerman, Ingrid  and Trnka, Keith",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "ginzburg-fernandez-2005-scaling": {
+        "TITLE": "Scaling up from Dialogue to Multilogue: Some Principles and Benchmarks",
+        "AUTHORS": "Ginzburg, Jonathan  and Fernández, Raquel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "rieser-moore-2005-implications": {
+        "TITLE": "Implications for Generating Clarification Requests in Task-Oriented Dialogues",
+        "AUTHORS": "Rieser, Verena  and Moore, Johanna",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "schlangen-2005-towards": {
+        "TITLE": "Towards Finding and Fixing Fragments---Using ML to Identify Non-Sentential Utterances and their Antecedents in Multi-Party Dialogue",
+        "AUTHORS": "Schlangen, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "callison-burch-etal-2005-scaling": {
+        "TITLE": "Scaling Phrase-Based Statistical Machine Translation to Larger Corpora and Longer Phrases",
+        "AUTHORS": "Callison-Burch, Chris  and Bannard, Colin  and Schroeder, Josh",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "chiang-2005-hierarchical": {
+        "TITLE": "A Hierarchical Phrase-Based Model for Statistical Machine Translation",
+        "AUTHORS": "Chiang, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "quirk-etal-2005-dependency": {
+        "TITLE": "Dependency Treelet Translation: Syntactically Informed Phrasal SMT",
+        "AUTHORS": "Quirk, Chris  and Menezes, Arul  and Cherry, Colin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "amigo-etal-2005-qarla": {
+        "TITLE": "QARLA: A Framework for the Evaluation of Text Summarization Systems",
+        "AUTHORS": "Amigó, Enrique  and Gonzalo, Julio  and Peñas, Anselmo  and Verdejo, Felisa",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "turner-charniak-2005-supervised": {
+        "TITLE": "Supervised and Unsupervised Learning for Sentence Compression",
+        "AUTHORS": "Turner, Jenine  and Charniak, Eugene",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1036.bib",
+            "SUPP": ""
+        }
+    },
+    "zhou-hovy-2005-digesting": {
+        "TITLE": "Digesting Virtual “Geek” Culture: The Summarization of Technical Internet Relay Chats",
+        "AUTHORS": "Zhou, Liang  and Hovy, Eduard",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1037.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1037.bib",
+            "SUPP": ""
+        }
+    },
+    "arun-keller-2005-lexicalization": {
+        "TITLE": "Lexicalization in Crosslinguistic Probabilistic Parsing: The Case of French",
+        "AUTHORS": "Arun, Abhishek  and Keller, Frank",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1038.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1038.bib",
+            "SUPP": ""
+        }
+    },
+    "dubey-2005-lexicalization": {
+        "TITLE": "What to Do When Lexicalization Fails: Parsing German with Suffix Analysis and Smoothing",
+        "AUTHORS": "Dubey, Amit",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1039.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1039.bib",
+            "SUPP": ""
+        }
+    },
+    "dickinson-meurers-2005-detecting": {
+        "TITLE": "Detecting Errors in Discontinuous Structural Annotation",
+        "AUTHORS": "Dickinson, Markus  and Meurers, W. Detmar",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1040.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1040.bib",
+            "SUPP": ""
+        }
+    },
+    "tanaka-etal-2005-high": {
+        "TITLE": "High Precision Treebanking---Blazing Useful Trees Using POS Information",
+        "AUTHORS": "Tanaka, Takaaki  and Bond, Francis  and Oepen, Stephan  and Fujita, Sanae",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1041.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1041.bib",
+            "SUPP": ""
+        }
+    },
+    "filali-bilmes-2005-dynamic": {
+        "TITLE": "A Dynamic Bayesian Framework to Model Context and Memory in Edit Distance Learning: An Application to Pronunciation Classification",
+        "AUTHORS": "Filali, Karim  and Bilmes, Jeff",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1042.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1042.bib",
+            "SUPP": ""
+        }
+    },
+    "lin-2005-learning": {
+        "TITLE": "Learning Stochastic OT Grammars: A Bayesian Approach using Data Augmentation and Gibbs Sampling",
+        "AUTHORS": "Lin, Ying",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1043.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1043.bib",
+            "SUPP": ""
+        }
+    },
+    "smith-eisner-2005-contrastive": {
+        "TITLE": "Contrastive Estimation: Training Log-Linear Models on Unlabeled Data",
+        "AUTHORS": "Smith, Noah A.  and Eisner, Jason",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1044.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1044.bib",
+            "SUPP": ""
+        }
+    },
+    "finkel-etal-2005-incorporating": {
+        "TITLE": "Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling",
+        "AUTHORS": "Finkel, Jenny Rose  and Grenager, Trond  and Manning, Christopher",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1045.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1045.bib",
+            "SUPP": ""
+        }
+    },
+    "grenager-etal-2005-unsupervised": {
+        "TITLE": "Unsupervised Learning of Field Segmentation Models for Information Extraction",
+        "AUTHORS": "Grenager, Trond  and Klein, Dan  and Manning, Christopher",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1046.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1046.bib",
+            "SUPP": ""
+        }
+    },
+    "stevenson-greenwood-2005-semantic": {
+        "TITLE": "A Semantic Approach to IE Pattern Induction",
+        "AUTHORS": "Stevenson, Mark  and Greenwood, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1047.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1047.bib",
+            "SUPP": ""
+        }
+    },
+    "carpuat-wu-2005-word": {
+        "TITLE": "Word Sense Disambiguation vs. Statistical Machine Translation",
+        "AUTHORS": "Carpuat, Marine  and Wu, Dekai",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1048.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1048.bib",
+            "SUPP": ""
+        }
+    },
+    "niu-etal-2005-word-sense": {
+        "TITLE": "Word Sense Disambiguation Using Label Propagation Based Semi-Supervised Learning",
+        "AUTHORS": "Niu, Zheng-Yu  and Ji, Dong-Hong  and Tan, Chew Lim",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1049.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1049.bib",
+            "SUPP": ""
+        }
+    },
+    "gliozzo-etal-2005-domain": {
+        "TITLE": "Domain Kernels for Word Sense Disambiguation",
+        "AUTHORS": "Gliozzo, Alfio  and Giuliano, Claudio  and Strapparava, Carlo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1050.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1050.bib",
+            "SUPP": ""
+        }
+    },
+    "ji-grishman-2005-improving": {
+        "TITLE": "Improving Name Tagging by Reference Resolution and Relation Detection",
+        "AUTHORS": "Ji, Heng  and Grishman, Ralph",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1051.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1051.bib",
+            "SUPP": ""
+        }
+    },
+    "zhao-grishman-2005-extracting": {
+        "TITLE": "Extracting Relations with Integrated Information Using Kernel Methods",
+        "AUTHORS": "Zhao, Shubin  and Grishman, Ralph",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1052.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1052.bib",
+            "SUPP": ""
+        }
+    },
+    "zhou-etal-2005-exploring": {
+        "TITLE": "Exploring Various Knowledge in Relation Extraction",
+        "AUTHORS": "Zhou, GuoDong  and Su, Jian  and Zhang, Jie  and Zhang, Min",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1053.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1053.bib",
+            "SUPP": ""
+        }
+    },
+    "boulis-ostendorf-2005-quantitative": {
+        "TITLE": "A Quantitative Analysis of Lexical Differences Between Genders in Telephone Conversations",
+        "AUTHORS": "Boulis, Constantinos  and Ostendorf, Mari",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1054.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1054.bib",
+            "SUPP": ""
+        }
+    },
+    "chelba-acero-2005-position": {
+        "TITLE": "Position Specific Posterior Lattices for Indexing Speech",
+        "AUTHORS": "Chelba, Ciprian  and Acero, Alex",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1055.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1055.bib",
+            "SUPP": ""
+        }
+    },
+    "liu-etal-2005-using-conditional": {
+        "TITLE": "Using Conditional Random Fields for Sentence Boundary Detection in Speech",
+        "AUTHORS": "Liu, Yang  and Stolcke, Andreas  and Shriberg, Elizabeth  and Harper, Mary",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1056.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1056.bib",
+            "SUPP": ""
+        }
+    },
+    "liu-etal-2005-log": {
+        "TITLE": "Log-Linear Models for Word Alignment",
+        "AUTHORS": "Liu, Yang  and Liu, Qun  and Lin, Shouxun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1057.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1057.bib",
+            "SUPP": ""
+        }
+    },
+    "wu-etal-2005-alignment": {
+        "TITLE": "Alignment Model Adaptation for Domain-Specific Word Alignment",
+        "AUTHORS": "Wu, Hua  and Wang, Haifeng  and Liu, Zhanyi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1058.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1058.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-gildea-2005-stochastic": {
+        "TITLE": "Stochastic Lexicalized Inversion Transduction Grammar for Alignment",
+        "AUTHORS": "Zhang, Hao  and Gildea, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1059.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1059.bib",
+            "SUPP": ""
+        }
+    },
+    "mann-yarowsky-2005-multi": {
+        "TITLE": "Multi-Field Information Extraction and Cross-Document Fusion",
+        "AUTHORS": "Mann, Gideon  and Yarowsky, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1060.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1060.bib",
+            "SUPP": ""
+        }
+    },
+    "mcdonald-etal-2005-simple": {
+        "TITLE": "Simple Algorithms for Complex Relation Extraction with Applications to Biomedical IE",
+        "AUTHORS": "McDonald, Ryan  and Pereira, Fernando  and Kulick, Seth  and Winters, Scott  and Jin, Yang  and White, Pete",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1061.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1061.bib",
+            "SUPP": ""
+        }
+    },
+    "yu-etal-2005-resume": {
+        "TITLE": "Resume Information Extraction with Cascaded Hybrid Model",
+        "AUTHORS": "Yu, Kun  and Guan, Gang  and Zhou, Ming",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1062.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1062.bib",
+            "SUPP": ""
+        }
+    },
+    "collins-etal-2005-discriminative": {
+        "TITLE": "Discriminative Syntactic Language Modeling for Speech Recognition",
+        "AUTHORS": "Collins, Michael  and Roark, Brian  and Saraclar, Murat",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1063.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1063.bib",
+            "SUPP": ""
+        }
+    },
+    "li-ma-2005-phonotactic": {
+        "TITLE": "A Phonotactic Language Model for Spoken Language Identification",
+        "AUTHORS": "Li, Haizhou  and Ma, Bin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1064.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1064.bib",
+            "SUPP": ""
+        }
+    },
+    "schwarm-ostendorf-2005-reading": {
+        "TITLE": "Reading Level Assessment Using Support Vector Machines and Statistical Language Models",
+        "AUTHORS": "Schwarm, Sarah  and Ostendorf, Mari",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1065.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1065.bib",
+            "SUPP": ""
+        }
+    },
+    "collins-etal-2005-clause": {
+        "TITLE": "Clause Restructuring for Statistical Machine Translation",
+        "AUTHORS": "Collins, Michael  and Koehn, Philipp  and Kučerová, Ivona",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1066.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1066.bib",
+            "SUPP": ""
+        }
+    },
+    "ding-palmer-2005-machine": {
+        "TITLE": "Machine Translation Using Probabilistic Synchronous Dependency Insertion Grammars",
+        "AUTHORS": "Ding, Yuan  and Palmer, Martha",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1067.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1067.bib",
+            "SUPP": ""
+        }
+    },
+    "hwang-sasaki-2005-context": {
+        "TITLE": "Context-Dependent SMT Model using Bilingual Verb-Noun Collocation",
+        "AUTHORS": "Hwang, Young-Sook  and Sasaki, Yutaka",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1068.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1068.bib",
+            "SUPP": ""
+        }
+    },
+    "tillmann-zhang-2005-localized": {
+        "TITLE": "A Localized Prediction Model for Statistical Machine Translation",
+        "AUTHORS": "Tillmann, Christoph  and Zhang, Tong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1069.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1069.bib",
+            "SUPP": ""
+        }
+    },
+    "pan-shaw-2005-instance": {
+        "TITLE": "Instance-based Sentence Boundary Determination by Optimization for Natural Language Generation",
+        "AUTHORS": "Pan, Shimei  and Shaw, James",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1070.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1070.bib",
+            "SUPP": ""
+        }
+    },
+    "habash-rambow-2005-arabic": {
+        "TITLE": "Arabic Tokenization, Part-of-Speech Tagging and Morphological Disambiguation in One Fell Swoop",
+        "AUTHORS": "Habash, Nizar  and Rambow, Owen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1071.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1071.bib",
+            "SUPP": ""
+        }
+    },
+    "pradhan-etal-2005-semantic-role": {
+        "TITLE": "Semantic Role Labeling Using Different Syntactic Views",
+        "AUTHORS": "Pradhan, Sameer  and Ward, Wayne  and Hacioglu, Kadri  and Martin, James  and Jurafsky, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1072.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1072.bib",
+            "SUPP": ""
+        }
+    },
+    "toutanova-etal-2005-joint": {
+        "TITLE": "Joint Learning Improves Semantic Role Labeling",
+        "AUTHORS": "Toutanova, Kristina  and Haghighi, Aria  and Manning, Christopher",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1073.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1073.bib",
+            "SUPP": ""
+        }
+    },
+    "bannard-callison-burch-2005-paraphrasing": {
+        "TITLE": "Paraphrasing with Bilingual Parallel Corpora",
+        "AUTHORS": "Bannard, Colin  and Callison-Burch, Chris",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1074.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1074.bib",
+            "SUPP": ""
+        }
+    },
+    "deane-2005-nonparametric": {
+        "TITLE": "A Nonparametric Method for Extraction of Candidate Phrasal Terms",
+        "AUTHORS": "Deane, Paul",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1075.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1075.bib",
+            "SUPP": ""
+        }
+    },
+    "yallop-etal-2005-automatic": {
+        "TITLE": "Automatic Acquisition of Adjectival Subcategorization from Corpora",
+        "AUTHORS": "Yallop, Jeremy  and Korhonen, Anna  and Briscoe, Ted",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1076.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1076.bib",
+            "SUPP": ""
+        }
+    },
+    "ravichandran-etal-2005-randomized": {
+        "TITLE": "Randomized Algorithms and NLP: Using Locality Sensitive Hash Functions for High Speed Noun Clustering",
+        "AUTHORS": "Ravichandran, Deepak  and Pantel, Patrick  and Hovy, Eduard",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL`05)",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P05-1077.pdf",
+            "BIBTEX": "https://aclanthology.org/P05-1077.bib",
+            "SUPP": ""
+        }
+    }
+}

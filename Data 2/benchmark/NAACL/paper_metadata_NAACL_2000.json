@@ -1,0 +1,600 @@
+{
+    "amble-2000-bustuc": {
+        "TITLE": "BusTUC - A natural language bus route oracle",
+        "AUTHORS": "Amble, Tore",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "hajic-2000-machine": {
+        "TITLE": "Machine Translation of Very Close Languages",
+        "AUTHORS": "Hajic, Jan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "flank-2000-cross": {
+        "TITLE": "Cross-Language Multimedia Information Retrieval",
+        "AUTHORS": "Flank, Sharon",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-nie-2000-automatic": {
+        "TITLE": "Automatic construction of parallel English-Chinese corpus for cross-language information retrieval",
+        "AUTHORS": "Chen, Jiang  and Nie, Jian-Yun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "bagga-etal-2000-partsid": {
+        "TITLE": "PartsID: A Dialogue-Based System for Identifying Parts for Medical Systems",
+        "AUTHORS": "Bagga, Amit  and Strzalkowski, Tomek  and Wise, G. Bowden",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "yamada-etal-2000-translation": {
+        "TITLE": "Translation using Information on Dialogue Participants",
+        "AUTHORS": "Yamada, Setsuo  and Sumita, Eiichiro  and Kashioka, Hideki",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "jonsson-dahlback-2000-distilling": {
+        "TITLE": "Distilling dialogues - A method using natural dialogue corpora for dialogue systems development",
+        "AUTHORS": "Jonsson, Arne  and Dahlback, Nils",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "freedman-2000-plan": {
+        "TITLE": "Plan-Based Dialogue Management in a Physics Tutor",
+        "AUTHORS": "Freedman, Reva",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "lavoie-etal-2000-framework": {
+        "TITLE": "A Framework for MT and Multilingual NLG Systems Based on Uniform Lexico-Structural Processing",
+        "AUTHORS": "Lavoie, Benoit  and Kittredge, Richard  and Korelsky, Tanya  and Rambow, Owen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "stallard-2000-talkntravel": {
+        "TITLE": "Talk`n'Travel: A Conversational System for Air Travel Planning",
+        "AUTHORS": "Stallard, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "aone-ramos-santacruz-2000-rees": {
+        "TITLE": "REES: A Large-Scale Relation and Event Extraction System",
+        "AUTHORS": "Aone, Chinatsu  and Ramos-Santacruz, Mila",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "stevenson-gaizauskas-2000-experiments": {
+        "TITLE": "Experiments on Sentence Boundary Detection",
+        "AUTHORS": "Stevenson, Mark  and Gaizauskas, Robert",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "wiemer-hastings-etal-2000-dp": {
+        "TITLE": "DP: A Detector for Presuppositions in survey questions",
+        "AUTHORS": "Wiemer-Hastings, Katja  and Wiemer-Hastings, Peter  and Rajah, Sonya",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "chu-carroll-2000-mimic": {
+        "TITLE": "MIMIC: An Adaptive Mixed Initiative Spoken Dialogue System for Information Queries",
+        "AUTHORS": "Chu-Carroll, Jennifer",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "fulkerson-biermann-2000-javox": {
+        "TITLE": "Javox: A Toolkit for Building Speech-Enabled Applications",
+        "AUTHORS": "Fulkerson, Michael S.  and Biermann, Alan W.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "rayner-etal-2000-compact": {
+        "TITLE": "A Compact Architecture for Dialogue Management Based on Scripts and Meta-Outputs",
+        "AUTHORS": "Rayner, Manny  and Hockey, Beth Ann  and James, Frankie",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "mellish-etal-2000-representation": {
+        "TITLE": "A Representation for Complex and Evolving Data Dependencies in Generation",
+        "AUTHORS": "Mellish, C  and Evans, R  and Cahill, L  and Doran, C  and Paiva, D  and Reape, M  and Scott, D  and Tipper, N",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "rali-2000-automatic": {
+        "TITLE": "An Automatic Reviser: The TransCheck System",
+        "AUTHORS": "Rali, Jean-Marc Jutras",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "langlais-etal-2000-unit": {
+        "TITLE": "Unit Completion for a Computer-aided Translation Typing System",
+        "AUTHORS": "Langlais, Philippe  and Foster, George  and Lapalme, Guy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "harabagiu-maiorano-2000-multilingual": {
+        "TITLE": "Multilingual Coreference Resolution",
+        "AUTHORS": "Harabagiu, Sanda M.  and Maiorano, Steven J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "radev-etal-2000-ranking": {
+        "TITLE": "Ranking suspected answers to natural language questions using predictive annotation",
+        "AUTHORS": "Radev, Dragomir R.  and Prager, John  and Samn, Valerie",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "busemann-etal-2000-message": {
+        "TITLE": "Message Classification in the Call Center",
+        "AUTHORS": "Busemann, Stephan  and Schmeier, Sven  and Arens, Roman G.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "srihari-li-2000-question": {
+        "TITLE": "A Question Answering System Supported by Information Extraction",
+        "AUTHORS": "Srihari, Rohini  and Li, Wei",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "toole-2000-categorizing": {
+        "TITLE": "Categorizing Unknown Words: Using Decision Trees to Identify Names and Misspellings",
+        "AUTHORS": "Toole, Janine",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "cardie-etal-2000-examining": {
+        "TITLE": "Examining the Role of Statistical and Linguistic Knowledge Sources in a General-Knowledge Question-Answering System",
+        "AUTHORS": "Cardie, Claire  and Ng, Vincent  and Pierce, David  and Buckley, Chris",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "rindflesch-etal-2000-extracting": {
+        "TITLE": "Extracting Molecular Binding Relationships from Biomedical Text",
+        "AUTHORS": "Rindflesch, Thomas C.  and Rajan, Jayant V.  and Hunter, Lawrence",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "yoon-2000-compound": {
+        "TITLE": "Compound Noun Segmentation Based on Lexical Data Extracted from Corpus",
+        "AUTHORS": "Yoon, Juntae",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "cancedda-samuelsson-2000-experiments": {
+        "TITLE": "Experiments with Corpus-based LFG Specialization",
+        "AUTHORS": "Cancedda, Nicola  and Samuelsson, Christer",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "kambhatla-zadrozny-2000-tool": {
+        "TITLE": "A Tool for Automated Revision of Grammars for NLP Systems",
+        "AUTHORS": "Kambhatla, Nanda  and Zadrozny, Wlodek",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "woods-2000-aggressive": {
+        "TITLE": "Aggressive Morphology for Robust Lexical Coverage",
+        "AUTHORS": "Woods, William A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "brants-2000-tnt": {
+        "TITLE": "TnT -- A Statistical Part-of-Speech Tagger",
+        "AUTHORS": "Brants, Thorsten",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "yamashita-matsumoto-2000-language": {
+        "TITLE": "Language Independent Morphological Analysis",
+        "AUTHORS": "Yamashita, Tatsuo  and Matsumoto, Yuji",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "neumann-etal-2000-divide": {
+        "TITLE": "A Divide-and-Conquer Strategy for Shallow Parsing of German Free Texts",
+        "AUTHORS": "Neumann, Gunter  and Braun, Christian  and Piskorski, Jakub",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "srihari-2000-hybrid": {
+        "TITLE": "A Hybrid Approach for Named Entity and Sub-Type Tagging",
+        "AUTHORS": "Srihari, Rohini",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "paggio-2000-spelling": {
+        "TITLE": "Spelling and Grammar Correction for Danish in SCARRIE",
+        "AUTHORS": "Paggio, Patrizia",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "woods-etal-2000-linguistic": {
+        "TITLE": "Linguistic Knowledge can Improve Information Retrieval",
+        "AUTHORS": "Woods, William A.  and Bookman, Lawrence A.  and Houston, Ann  and Kuhns, Robert J.  and Martin, Paul  and Green, Stephen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1036.bib",
+            "SUPP": ""
+        }
+    },
+    "moldovan-etal-2000-domain": {
+        "TITLE": "Domain-Specific Knowledge Acquisition from Text",
+        "AUTHORS": "Moldovan, Dan  and Girju, Roxana  and Rus, Vasile",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1037.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1037.bib",
+            "SUPP": ""
+        }
+    },
+    "wasson-2000-large": {
+        "TITLE": "Large-scale Controlled Vocabulary Indexing for Named Entities",
+        "AUTHORS": "Wasson, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1038.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1038.bib",
+            "SUPP": ""
+        }
+    },
+    "yangarber-etal-2000-unsupervised": {
+        "TITLE": "Unsupervised Discovery of Scenario-Level Patterns for Information Extraction",
+        "AUTHORS": "Yangarber, Roman  and Grishman, Ralph  and Tapanainen, Pasi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1039.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1039.bib",
+            "SUPP": ""
+        }
+    },
+    "stevenson-gaizauskas-2000-using": {
+        "TITLE": "Using Corpus-derived Name Lists for Named Entity Recognition",
+        "AUTHORS": "Stevenson, Mark  and Gaizauskas, Robert",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1040.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1040.bib",
+            "SUPP": ""
+        }
+    },
+    "abney-etal-2000-answer": {
+        "TITLE": "Answer Extraction",
+        "AUTHORS": "Abney, Steven  and Collins, Michael  and Singhal, Amit",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1041.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1041.bib",
+            "SUPP": ""
+        }
+    },
+    "wacholder-etal-2000-evaluation": {
+        "TITLE": "Evaluation of Automatically Identified Index Terms for Browsing Electronic Documents",
+        "AUTHORS": "Wacholder, Nina  and Klavans, Judith L.  and Evans, David K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1042.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1042.bib",
+            "SUPP": ""
+        }
+    },
+    "jing-2000-sentence": {
+        "TITLE": "Sentence Reduction for Automatic Text Summarization",
+        "AUTHORS": "Jing, Hongyan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1043.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1043.bib",
+            "SUPP": ""
+        }
+    },
+    "miller-etal-2000-named": {
+        "TITLE": "Named Entity Extraction from Noisy Input: Speech and OCR",
+        "AUTHORS": "Miller, David  and Boisen, Sean  and Schwartz, Richard  and Stone, Rebecca  and Weischedel, Ralph",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1044.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1044.bib",
+            "SUPP": ""
+        }
+    },
+    "broker-2000-improving": {
+        "TITLE": "Improving Testsuites via Instrumentation",
+        "AUTHORS": "Broker, Norbert",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1045.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1045.bib",
+            "SUPP": ""
+        }
+    },
+    "cohen-etal-2000-efficiency": {
+        "TITLE": "The Efficiency of Multimodal Interaction for a Map-based Task",
+        "AUTHORS": "Cohen, Philip  and McGee, David  and Clow, Josh",
+        "ABSTRACT": "",
+        "CONFERENCE": "Sixth Applied Natural Language Processing Conference",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/A00-1046.pdf",
+            "BIBTEX": "https://aclanthology.org/A00-1046.bib",
+            "SUPP": ""
+        }
+    }
+}

@@ -1,0 +1,730 @@
+{
+    "aone-1991-resolution": {
+        "TITLE": "Resolution of Collective-Distributive Ambiguity Using Model-Based Reasoning",
+        "AUTHORS": "Aone, Chinatsu",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "carpenter-pollard-1991-inclusion": {
+        "TITLE": "Inclusion, Disjointness and Choice: The Logic of Linguistic Classification",
+        "AUTHORS": "Carpenter, Bob  and Pollard, Carl",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "whittemore-etal-1991-event": {
+        "TITLE": "Event-building through Role-filling and Anaphora Resolution",
+        "AUTHORS": "Whittemore, Greg  and Macpherson, Melissa  and Carlson, Greg",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "kitano-van-ess-dykema-1991-toward": {
+        "TITLE": "Toward a Plan-Based Understanding Model for Mixed-Initiative Dialogues",
+        "AUTHORS": "Kitano, Hiroaki  and Van Ess-Dykema, Carol",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "lochbaum-1991-algorithm": {
+        "TITLE": "An Algorithm for Plan Recognition in Collaborative Discourse",
+        "AUTHORS": "Lochbaum, Karen E.",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "ramshaw-1991-three": {
+        "TITLE": "A Three-Level Model for Plan Exploration",
+        "AUTHORS": "Ramshaw, Lance A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "lambert-carberry-1991-tripartite": {
+        "TITLE": "A Tripartite Plan-Based Model of Dialogue",
+        "AUTHORS": "Lambert, Lynn  and Carberry, Sandra",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "lascarides-asher-1991-discourse": {
+        "TITLE": "Discourse Relations and Defeasible Knowledge",
+        "AUTHORS": "Lascarides, Alex  and Asher, Nicholas",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "passonneau-1991-facts": {
+        "TITLE": "Some Facts About Centers, Indexicals, and Demonstratives",
+        "AUTHORS": "Passonneau, Rebecca J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "steedman-1991-type": {
+        "TITLE": "Type-Raising and Directionality in Combinatory Grammar",
+        "AUTHORS": "Steedman, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "hepple-1991-efficient": {
+        "TITLE": "Efficient Incremental Processing With Categorial Grammar",
+        "AUTHORS": "Hepple, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "thompson-etal-1991-compose": {
+        "TITLE": "Compose-Reduce Parsing",
+        "AUTHORS": "Thompson, Henry S.  and Dixon, Mike  and Lamping, John",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "perlin-1991-lr": {
+        "TITLE": "LR Recursive Transition Networks for Earley and Tomita Parsing",
+        "AUTHORS": "Perlin, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "schabes-1991-polynomial": {
+        "TITLE": "Polynomial Time and Space Shift-Reduce Parsing of Arbitrary Context-free Grammars.",
+        "AUTHORS": "Schabes, Yves",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "van-noord-1991-head": {
+        "TITLE": "Head Corner Parsing for Discontinuous Constituency",
+        "AUTHORS": "van Noord, Gertjan",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "simmons-yu-1991-acquisition": {
+        "TITLE": "The Acquisition and Application of Context Sensitive Grammar for English",
+        "AUTHORS": "Simmons, Robert F.  and Yu, Yeong-Ho",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "dagan-etal-1991-two": {
+        "TITLE": "Two Languages Are More Informative Than One",
+        "AUTHORS": "Dagan, Ido  and Itai, Alon  and Schwall, Ulrike",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "regier-1991-learning": {
+        "TITLE": "Learning Perceptually-Grounded Semantics in the \\textitL₀ Project",
+        "AUTHORS": "Regier, Terry",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "guthriee-etal-1991-subject": {
+        "TITLE": "Subject-Dependent Co-Occurrence and Word Sense Disambiguation",
+        "AUTHORS": "Guthriee, Joe A.  and Guthrie, Louise  and Aidinejad, Homa  and Wilks, Yorick",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "japkowicz-wiebe-1991-system": {
+        "TITLE": "A System for Translating Locative Prepositions From English Into French",
+        "AUTHORS": "Japkowicz, Nathalie  and Wiebe, Janyce M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "alshawi-etal-1991-translation": {
+        "TITLE": "Translation by Quasi Logical Form Transfer",
+        "AUTHORS": "Alshawi, Hiyan  and Carter, David  and Rayner, Manny  and Gamback, Bjorn",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "brown-etal-1991-aligning": {
+        "TITLE": "Aligning Sentences in Parallel Corpora",
+        "AUTHORS": "Brown, Peter F.  and Lai, Jennifer C.  and Mercer, Robert L.",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "gale-church-1991-program": {
+        "TITLE": "A Program for Aligning Sentences in Bilingual Corpora",
+        "AUTHORS": "Gale, William A.  and Church, Kenneth W.",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "sumita-iida-1991-experiments": {
+        "TITLE": "Experiments and Prospects of Example-Based Machine Translation",
+        "AUTHORS": "Sumita, Eiichiro  and Iida, Hitoshi",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "kameyama-etal-1991-resolving": {
+        "TITLE": "Resolving Translation Mismatches With Information Flow",
+        "AUTHORS": "Kameyama, Megumi  and Ochitani, Ryo  and Peters, Stanley",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "inoue-1991-automatic": {
+        "TITLE": "Automatic Noun Classification by Using Japanese-English Word Pairs",
+        "AUTHORS": "Inoue, Naomi",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "brent-1991-automatic-acquisition": {
+        "TITLE": "Automatic Acquisition of Subcategorization Frames From Untagged Text",
+        "AUTHORS": "Brent, Michael R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "russell-etal-1991-multiple": {
+        "TITLE": "Multiple Default Inheritance in a Unification-Based Lexicon",
+        "AUTHORS": "Russell, Graham  and Carroll, John  and Warwick-Armstrong, Susan",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "hays-1991-metaphoric": {
+        "TITLE": "Metaphoric Generalization Through Sort Coercion",
+        "AUTHORS": "Hays, Ellen",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "hindle-rooth-1991-structural": {
+        "TITLE": "Structural Ambiguity and Lexical Relations",
+        "AUTHORS": "Hindle, Donald  and Rooth, Mats",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "uszkoreit-1991-strategies": {
+        "TITLE": "Strategies for Adding Control Information to Declarative Grammars",
+        "AUTHORS": "Uszkoreit, Hans",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "pereira-1991-finite": {
+        "TITLE": "Finite-State Approximation of Phrase Structure Grammars",
+        "AUTHORS": "Pereira, Fernando C. N.",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "dorre-1991-feature": {
+        "TITLE": "Feature Logic With Weak Subsumption Constraints",
+        "AUTHORS": "Dorre, Jochen",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "brown-etal-1991-word": {
+        "TITLE": "Word-Sense Disambiguation Using Statistical Methods",
+        "AUTHORS": "Brown, Peter F.  and Della Pietra, Stephen A.  and Della Pietra, Vincent J.  and Mercer, Robert L.",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "baayen-1991-stochastic": {
+        "TITLE": "A Stochastic Process for Word Frequency Distributions",
+        "AUTHORS": "Baayen, Harald",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "smadja-1991-n": {
+        "TITLE": "From N-Grams to Collocations: An Evaluation of Xtract",
+        "AUTHORS": "Smadja, Frank A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1036.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-1991-predicting": {
+        "TITLE": "Predicting Intonational Phrasing From Text",
+        "AUTHORS": "Wang, Michelle Q.",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1037.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1037.bib",
+            "SUPP": ""
+        }
+    },
+    "chien-etal-1991-preference": {
+        "TITLE": "A Preference-first Language Processor: Integrating the Unification Grammar and Markov Language Model for Speech Recognition Applications",
+        "AUTHORS": "Chien, Lee-Feng  and Chen, K. J.  and Lee, Lin-Shan",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1038.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1038.bib",
+            "SUPP": ""
+        }
+    },
+    "pieraccini-lee-1991-factorization": {
+        "TITLE": "Factorization of Language Constraints in Speech Recognition",
+        "AUTHORS": "Pieraccini, Roberto  and Lee, Chin-Hui",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1039.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1039.bib",
+            "SUPP": ""
+        }
+    },
+    "nakano-1991-constraint": {
+        "TITLE": "Constraint Projection: An Efficient Treatment of Disjunctive Feature Descriptions",
+        "AUTHORS": "Nakano, Mikio",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1040.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1040.bib",
+            "SUPP": ""
+        }
+    },
+    "tomabechi-1991-quasi-destructive": {
+        "TITLE": "Quasi-Destructive Graph Unification",
+        "AUTHORS": "Tomabechi, Hideto",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1041.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1041.bib",
+            "SUPP": ""
+        }
+    },
+    "emele-1991-unification": {
+        "TITLE": "Unification With Lazy Non-Redundant Copying",
+        "AUTHORS": "Emele, Martin C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1042.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1042.bib",
+            "SUPP": ""
+        }
+    },
+    "balkanski-1991-logical": {
+        "TITLE": "Logical Form of Complex Sentences in Task-Oriented Dialogues",
+        "AUTHORS": "Balkanski, Cecile T.",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1043.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1043.bib",
+            "SUPP": ""
+        }
+    },
+    "di-eugenio-1991-action": {
+        "TITLE": "Action representation for NL instructions",
+        "AUTHORS": "Di Eugenio, Barbara",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1044.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1044.bib",
+            "SUPP": ""
+        }
+    },
+    "ratte-1991-extracting": {
+        "TITLE": "Extracting Semantic Roles from a Model of Eventualities",
+        "AUTHORS": "Ratté, Sylvie",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1045.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1045.bib",
+            "SUPP": ""
+        }
+    },
+    "weng-1991-case": {
+        "TITLE": "Case Revisited: in the Shadow of Automatic Processing of Machine-Readable Dictionaries",
+        "AUTHORS": "Weng, Fuliang",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1046.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1046.bib",
+            "SUPP": ""
+        }
+    },
+    "brill-1991-discovering": {
+        "TITLE": "Discovering the Lexical Features of a Language",
+        "AUTHORS": "Brill, Eric",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1047.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1047.bib",
+            "SUPP": ""
+        }
+    },
+    "dagan-1991-lexical": {
+        "TITLE": "Lexical Disambiguation: Sources of Information and their Statistical Realization",
+        "AUTHORS": "Dagan, Ido",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1048.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1048.bib",
+            "SUPP": ""
+        }
+    },
+    "iverson-helmreich-1991-non": {
+        "TITLE": "Non-Literal Word Sense Identification Through Semantic Network Path Schemata",
+        "AUTHORS": "Iverson, Eric  and Helmreich, Stephen",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1049.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1049.bib",
+            "SUPP": ""
+        }
+    },
+    "heeman-1991-collaborating": {
+        "TITLE": "Collaborating on Referring Expressions",
+        "AUTHORS": "Heeman, Peter A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1050.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1050.bib",
+            "SUPP": ""
+        }
+    },
+    "cline-1991-conceptual": {
+        "TITLE": "Conceptual Revision for Natural Language Generation",
+        "AUTHORS": "Cline, Ben E.",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1051.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1051.bib",
+            "SUPP": ""
+        }
+    },
+    "lambert-1991-modifying": {
+        "TITLE": "Modifying Beliefs in a Plan-Based Dialogue Model",
+        "AUTHORS": "Lambert, Lynn",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1052.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1052.bib",
+            "SUPP": ""
+        }
+    },
+    "nakatani-1991-resolving": {
+        "TITLE": "Resolving a Pragmatic Prepositional Phrase Attachment Ambiguity",
+        "AUTHORS": "Nakatani, Christine H.",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1053.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1053.bib",
+            "SUPP": ""
+        }
+    },
+    "zoltowski-1991-current": {
+        "TITLE": "Current Research in the Development of a Spoken Language Understanding System using PARSEC",
+        "AUTHORS": "Zoltowski, Carla B.",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1054.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1054.bib",
+            "SUPP": ""
+        }
+    },
+    "martin-1991-syntactic": {
+        "TITLE": "Syntactic Graphs and Constraint Satisfaction",
+        "AUTHORS": "Martin, Jeff",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1055.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1055.bib",
+            "SUPP": ""
+        }
+    },
+    "henderson-1991-incremental": {
+        "TITLE": "An Incremental Connectionist Phrase Structure Parser",
+        "AUTHORS": "Henderson, James",
+        "ABSTRACT": "",
+        "CONFERENCE": "29th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P91-1056.pdf",
+            "BIBTEX": "https://aclanthology.org/P91-1056.bib",
+            "SUPP": ""
+        }
+    }
+}

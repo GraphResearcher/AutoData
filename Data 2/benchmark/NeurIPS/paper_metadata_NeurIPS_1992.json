@@ -1,0 +1,1653 @@
+{
+    "0": {
+        "TITLE": "Parameterising Feature Sensitive Cell Formation in Linsker Networks in the Auditory System",
+        "AUTHORS": "Lance C. Walton, David L. Bisset",
+        "ABSTRACT": "This paper examines and extends the work of Linsker (1986) on  self organising feature detectors. Linsker concentrates on the vi(cid:173) sual processing system, but infers that the weak assumptions made  will allow the model to be used in the processing of other sensory  information. This claim is examined here, with special attention  paid to the auditory system, where there is much lower connec(cid:173) tivity and therefore more statistical variability. On-line training is  utilised, to obtain an idea of training times. These are then com(cid:173) pared to the time available to pre-natal mammals for the formation  of feature sensitive cells.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/00ac8ed3b4327bdd4ebbebcb2ba10a00-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/00ac8ed3b4327bdd4ebbebcb2ba10a00-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "1": {
+        "TITLE": "Learning Spatio-Temporal Planning from a Dynamic Programming Teacher: Feed-Forward Neurocontrol for Moving Obstacle Avoidance",
+        "AUTHORS": "Gerald Fahner, Rolf Eckmiller",
+        "ABSTRACT": "Within a simple test-bed,  application of feed-forward  neurocontrol  for short-term planning of robot trajectories in a dynamic environ(cid:173) ment  is  studied.  The  action  network  is  embedded  in  a  sensory(cid:173) motoric system architecture that contains  a separate world model.  It is  continuously  fed  with  short-term  predicted  spatio-temporal  obstacle  trajectories,  and  receives  robot  state  feedback.  The  ac(cid:173) tion  net  allows  for  external  switching  between  alternative  plan(cid:173) ning  tasks.  It  generates  goal-directed  motor  actions  - subject  to  the  robot's  kinematic  and  dynamic  constraints  - such  that  colli(cid:173) sions  with  moving obstacles  are  avoided.  Using  supervised  learn(cid:173) ing,  we  distribute  examples  of the  optimal planner  mapping over  a  structure-level  adapted  parsimonious higher  order  network.  The  training  database  is  generated  by  a  Dynamic  Programming algo(cid:173) rithm.  Extensive  simulations reveal,  that  the  local  planner  map(cid:173) ping is  highly nonlinear, but can be effectively  and sparsely repre(cid:173) sented  by  the  chosen  powerful  net model.  Excellent generalization  occurs for unseen obstacle configurations.  We  also discuss the limi(cid:173) tations of feed-forward  neurocontrol for growing planning horizons. \n*Tel.:  (228)-550-364 \nFAX:  (228)-550-425 \ne-mail:  gerald@nero.uni-bonn.de",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/04ecb1fa28506ccb6f72b12c0245ddbc-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/04ecb1fa28506ccb6f72b12c0245ddbc-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "2": {
+        "TITLE": "Hidden Markov Models in Molecular Biology: New Algorithms and Applications",
+        "AUTHORS": "Pierre Baldi, Yves Chauvin, Tim Hunkapiller, Marcella A. McClure",
+        "ABSTRACT": "Hidden  Markov Models  (HMMs)  can  be applied  to several impor(cid:173) tant problems in molecular biology.  We introduce a new convergent  learning algorithm for HMMs that, unlike the classical Baum-Welch  algorithm is smooth and can be applied  on-line or in  batch mode,  with or  without the usual Viterbi most  likely  path approximation.  Left-right HMMs with insertion and deletion states are then trained  to represent several protein families including immunoglobulins and  kinases.  In  all cases,  the models derived capture all  the important  statistical  properties  of the families  and  can  be  used  efficiently  in  a  number of important tasks such as multiple alignment, motif de(cid:173) tection,  and  classification. \n*and Division  of Biology,  California  Institute of Technology.  t and Department of Psychology,  Stanford University.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/051e4e127b92f5d98d3c79b195f2b291-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/051e4e127b92f5d98d3c79b195f2b291-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "3": {
+        "TITLE": "Statistical and Dynamical Interpretation of ISIH Data from Periodically Stimulated Sensory Neurons",
+        "AUTHORS": "John K. Douglass, Frank Moss, André Longtin",
+        "ABSTRACT": "We interpret the time interval data obtained from periodically stimulated  sensory neurons in terms of two simple dynamical systems driven by noise  with an embedded weak periodic function called the signal: 1) a bistable  system defined by two potential wells separated by a barrier, and 2) a Fit(cid:173) zHugh-Nagumo system. The implementation is by analog simulation: elec(cid:173) tronic circuits which mimic the dynamics. For a given signal frequency, our  simulators have only two adjustable parameters, the signal and noise intensi(cid:173) ties. We show that experimental data obtained from the periodically stimu(cid:173) lated mechanoreceptor in the crayfish tail fan can be accurately approximated  by these simulations. Finally, we discuss stochastic resonance in the two  models.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/076a0c97d09cf1a0ec3e19c7f2529f2b-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/076a0c97d09cf1a0ec3e19c7f2529f2b-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "4": {
+        "TITLE": "Spiral Waves in Integrate-and-Fire Neural Networks",
+        "AUTHORS": "John G. Milton, Po Hsiang Chu, Jack D. Cowan",
+        "ABSTRACT": "The formation of propagating spiral waves is studied in a  randomly  connected neural network composed of integrate-and-fire neurons  with  recovery  period and  excitatory  connections  using  computer  simulations.  Network  activity is  initiated by  periodic stimulation  at a single point.  The results suggest that spiral waves can arise in  such a  network via a  sub-critical Hopf bifurcation.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/07a96b1f61097ccb54be14d6a47439b0-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/07a96b1f61097ccb54be14d6a47439b0-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "5": {
+        "TITLE": "Adaptive Stimulus Representations: A Computational Theory of Hippocampal-Region Function",
+        "AUTHORS": "Mark A. Gluck, Catherine E. Myers",
+        "ABSTRACT": "We present a theory of cortico-hippocampal interaction in discrimination learning. The  hippocampal region is presumed to form new stimulus representations which facilitate  learning by enhancing the discriminability of predictive stimuli and compressing  stimulus-stimulus redundancies. The cortical and cerebellar regions, which are the sites  of long-term memory. may acquire these new representations but are not assumed to be  capable of forming new representations themselves.  Instantiated as a connectionist  model. this theory accounts for a wide range of trial-level classical conditioning  phenomena in normal (intact) and hippocampal-Iesioned animals. It also makes several  novel predictions which remain to be investigated empirically. The theory implies that  the hippocampal region is involved in even the simplest learning tasks; although  hippocampal-Iesioned animals may be able to use other strategies to learn these tasks. the  theory predicts that they will show consistently different patterns of transfer and  generalization when the task demands change.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/07c5807d0d927dcd0980f86024e5208b-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/07c5807d0d927dcd0980f86024e5208b-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "6": {
+        "TITLE": "Computing with Almost Optimal Size Neural Networks",
+        "AUTHORS": "Kai-Yeung Siu, Vwani Roychowdhury, Thomas Kailath",
+        "ABSTRACT": "Artificial neural networks are comprised of an interconnected collection  of certain nonlinear devices; examples of commonly used devices include  linear threshold elements, sigmoidal elements and radial-basis elements.  We employ results from harmonic analysis and the theory of rational ap(cid:173) proximation to obtain almost tight lower bounds on the size (i.e. number  of elements) of neural networks. The class of neural networks to which  our techniques can be applied is quite general; it includes any feedforward  network in which each element can be piecewise approximated by a low  degree rational function. For example, we prove that any depth-( d + 1)  network of sigmoidal units or linear threshold elements computing the par(cid:173) ity function of n variables must have O(dnl/d-£) size, for any fixed i > O.  In addition, we prove that this lower bound is almost tight by showing  that the parity function can be computed with O(dnl/d) sigmoidal units  or linear threshold elements in a depth-(d + 1) network. These almost  tight bounds are the first known complexity results on the size of neural  networks with depth more than two. Our lower bound techniques yield  a unified approach to the complexity analysis of various models of neural  networks with feedforward structures. Moreover, our results indicate that  in the context of computing highly oscillating symmetric Boolean func-",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/08b255a5d42b89b0585260b6f2360bdd-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/08b255a5d42b89b0585260b6f2360bdd-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "7": {
+        "TITLE": "Q-Learning with Hidden-Unit Restarting",
+        "AUTHORS": "Charles W. Anderson",
+        "ABSTRACT": "Platt's  resource-allocation  network  (RAN)  (Platt,  1991a,  1991b)  is  modified for  a  reinforcement-learning paradigm and  to  \"restart\"  existing hidden  units  rather than adding  new  units.  After restart(cid:173) ing,  units  continue  to  learn  via  back-propagation.  The  resulting  restart  algorithm is  tested  in  a  Q-Iearning  network  that  learns  to  solve an inverted pendulum problem.  Solutions are found faster on  average  with  the restart  algorithm than  without it.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/08c5433a60135c32e34f46a71175850c-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/08c5433a60135c32e34f46a71175850c-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "8": {
+        "TITLE": "Synaptic Weight Noise During MLP Learning Enhances Fault-Tolerance, Generalization and Learning Trajectory",
+        "AUTHORS": "Alan F. Murray, Peter J. Edwards",
+        "ABSTRACT": "We  analyse  the  effects  of analog  noise  on  the  synaptic  arithmetic  during MultiLayer Perceptron training, by expanding the cost func(cid:173) tion to include noise-mediated penalty terms.  Predictions are made  in the light of these  calculations which suggest  that fault tolerance,  generalisation  ability  and  learning  trajectory  should  be  improved  by  such  noise-injection.  Extensive  simulation experiments  on  two  distinct  classification  problems  substantiate  the  claims.  The  re(cid:173) sults  appear to  be  perfectly  general for  all training schemes  where  weights are adjusted incrementally, and have wide-ranging implica(cid:173) tions for  all applications, particularly those involving  \"inaccurate\"  analog neural  VLSI.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/08d98638c6fcd194a4b1e6992063e944-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/08d98638c6fcd194a4b1e6992063e944-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "9": {
+        "TITLE": "Rational Parametrizations of Neural Networks",
+        "AUTHORS": "Uwe Helmke, Robert C. Williamson",
+        "ABSTRACT": "A connection is drawn between rational functions, the realization  theory of dynamical systems, and feedforward neural networks.  This allows us to parametrize single hidden layer scalar neural  networks with (almost) arbitrary analytic activation functions in  terms of strictly proper rational functions. Hence, we can solve the  uniqueness of parametrization problem for such networks.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/0cb929eae7a499e50248a3a78f7acfc7-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/0cb929eae7a499e50248a3a78f7acfc7-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "10": {
+        "TITLE": "Directional-Unit Boltzmann Machines",
+        "AUTHORS": "Richard S. Zemel, Christopher K. I. Williams, Michael Mozer",
+        "ABSTRACT": "We  present  a  general  formulation  for  a  network  of stochastic  di(cid:173) rectional units.  This formulation is  an extension of the Boltzmann  machine in which  the units are  not  binary, but take on values in a  cyclic  range,  between  0  and 271'  radians.  The state of each  unit  in  a  Directional-Unit  Boltzmann  Machine  (DUBM)  is  described  by  a  complex variable, where  the phase component specifies  a direction;  the  weights  are  also  complex variables.  We  associate  a  quadratic  energy  function,  and  corresponding  probability,  with  each  DUBM  configuration.  The  conditional  distribution  of a  unit's  stochastic  state is  a  circular  version of the Gaussian probability distribution,  known  as  the  von  Mises  distribution.  In  a  mean-field  approxima(cid:173) tion  to  a  stochastic  DUBM,  the  phase  component of a  unit's state  represents  its mean direction,  and the magnitude component spec(cid:173) ifies  the  degree  of certainty  associated  with  this  direction.  This  combination of a  value  and  a  certainty  provides  additional  repre(cid:173) sentational power  in a  unit.  We  describe  a  learning algorithm and  simulations that demonstrate  a  mean-field  DUBM'S  ability to learn  interesting  mappings. \nMany  kinds  of information  can  naturally  be  represented  in  terms  of angular,  or  directional, variables.  A circular range forms a suitable representation for  explicitly  directional  information,  such  as  wind  direction,  as  well  as  for  information  where  the  underlying  range  is  periodic,  such  as  days  of the  week  or  months of the  year.  In  computer  vision,  tangent  fields  and optic flow  fields  are  represented  as fields  of  oriented line segments, each of which can be described by a magnitude and direction.  Directions  can  also  be  used  to represent  a set  of symbolic labels,  e.g.,  object  label  A  at  0,  and  object  label  B  at 71'/2  radians.  We  discuss  below  some  advantages  of  representing  symbolic labels with  directional units.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/0d7de1aca9299fe63f3e0041f02638a3-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/0d7de1aca9299fe63f3e0041f02638a3-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "11": {
+        "TITLE": "Stimulus Encoding by Multidimensional Receptive Fields in Single Cells and Cell Populations in V1 of Awake Monkey",
+        "AUTHORS": "Edward Stern, Ad Aertsen, Eilon Vaadia, Shaul Hochstein",
+        "ABSTRACT": "Ad  Aertsen \nInstitut fur  Neuroinfonnatik  Ruhr-Universitat-Bochum",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/0f96613235062963ccde717b18f97592-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/0f96613235062963ccde717b18f97592-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "12": {
+        "TITLE": "On the Use of Projection Pursuit Constraints for Training Neural Networks",
+        "AUTHORS": "Nathan Intrator",
+        "ABSTRACT": "\\Ve  present  a  novel  classifica t.ioll  and  regression  met.hod  that  com(cid:173) bines  exploratory  projection  pursuit.  (unsupervised  traiuing)  with  pro(cid:173) jection  pursuit.  regression  (supervised  t.raining),  t.o  yield  a.  nev,,'  family  of  cost./complexity  penalLy  terms .  Some  improved  generalization  properties  are  demonstrat.ed  on  real  \\vorld  problems.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/0ff39bbbf981ac0151d340c9aa40e63e-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/0ff39bbbf981ac0151d340c9aa40e63e-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "13": {
+        "TITLE": "Assessing and Improving Neural Network Predictions by the Bootstrap Algorithm",
+        "AUTHORS": "Gerhard Paass",
+        "ABSTRACT": "The bootstrap algorithm is  a  computational intensive procedure to  derive  nonparametric  confidence  intervals  of statistical estimators  in  situations  where  an  analytic  solution  is  intractable.  It is  ap(cid:173) plied to neural networks to estimate the predictive distribution for  unseen  inputs.  The  consistency  of different  bootstrap  procedures  and  their convergence  speed is  discussed.  A small scale  simulation  experiment  shows  the  applicability  of the  bootstrap  to  practical  problems and its potential use.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/0ff8033cf9437c213ee13937b1c4c455-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/0ff8033cf9437c213ee13937b1c4c455-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "14": {
+        "TITLE": "Self-Organizing Rules for Robust Principal Component Analysis",
+        "AUTHORS": "Lei Xu, Alan L. Yuille",
+        "ABSTRACT": "In  the  presence  of outliers,  the  existing  self-organizing  rules  for  Principal  Component  Analysis  (PCA)  perform  poorly.  Using  sta(cid:173) tistical physics techniques including the Gibbs distribution, binary  decision  fields  and  effective  energies,  we  propose  self-organizing  PCA  rules  which  are  capable  of  resisting  outliers  while  fulfilling  various PCA-related tasks such as obtaining the first  principal com(cid:173) ponent vector,  the first  k  principal component vectors,  and directly  finding  the  subspace  spanned  by  the  first  k  vector  principal  com(cid:173) ponent  vectors  without solving for  each  vector  individually.  Com(cid:173) parative  experiments  have  shown  that  the  proposed  robust  rules  improve  the  performances  of the  existing  PCA  algorithms signifi(cid:173) cantly when outliers are  present.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/109a0ca3bc27f3e96597370d5c8cf03d-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/109a0ca3bc27f3e96597370d5c8cf03d-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "15": {
+        "TITLE": "Intersecting regions: The Key to combinatorial structure in hidden unit space",
+        "AUTHORS": "Janet Wiles, Mark Ollila",
+        "ABSTRACT": "Hidden units in multi-layer networks form a representation space in which each  region can be identified with a class of equivalent outputs (Elman, 1989) or a  logical state in a finite state machine (Cleeremans, Servan-Schreiber &  McClelland, 1989; Giles, Sun, Chen, Lee, & Chen, 1990). We extend the  analysis of the spatial structure of hidden unit space to a combinatorial task,  based on binding features together in a visual scene. The logical structure  requires a combinatorial number of states to represent all valid scenes. On  analysing our networks, we find that the high dimensionality of hidden unit  space is exploited by using the intersection of neighboring regions to represent  conjunctions of features. These results show how combinatorial structure can  be based on the spatial nature of networks, and not just on their emulation of  logical structure. \n1 TECHNIQUES FOR ANALYSING THE SPATIAL AND  LOGICAL STRUCTURE OF HIDDEN UNIT SPACE \nIn multi-layer networks, regions of hidden unit space can be identified with classes of  equivalent outputs. For example, Elman (1989) showed that the hidden unit patterns for  words in simple grammatical sentences cluster into regions, with similar patterns  representing similar grammatical entities. For example, different tokens of the same word  are clustered tightly, indicating that they are represented within a small region. These  regions can be grouped into larger regions, reflecting a hierarchical structure. The largest",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/10a5ab2db37feedfdeaab192ead4ac0e-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/10a5ab2db37feedfdeaab192ead4ac0e-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "16": {
+        "TITLE": "A Parallel Gradient Descent Method for Learning in Analog VLSI Neural Networks",
+        "AUTHORS": "J. Alspector, R. Meir, B. Yuhas, A. Jayakumar, D. Lippe",
+        "ABSTRACT": "Typical methods for gradient descent in neural network learning involve  calculation of derivatives based on a detailed knowledge of the network  model. This requires extensive, time consuming calculations for each pat(cid:173) tern presentation and high precision that makes it difficult to implement  in VLSI. We present here a perturbation technique that measures, not  calculates, the gradient. Since the technique uses the actual network as  a measuring device, errors in modeling neuron activation and synaptic  weights do not cause errors in gradient descent. The method is parallel  in nature and easy to implement in VLSI. We describe the theory of such  an algorithm, an analysis of its domain of applicability, some simulations  using it and an outline of a hardware implementation.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/1595af6435015c77a7149e92a551338e-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/1595af6435015c77a7149e92a551338e-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "17": {
+        "TITLE": "A Model of Feedback to the Lateral Geniculate Nucleus",
+        "AUTHORS": "Carlos D. Brody",
+        "ABSTRACT": "Simplified  models  of the  lateral geniculate  nucles  (LGN)  and stri(cid:173) ate cortex  illustrate the  possibility  that feedback  to the  LG N may  be  used  for  robust,  low-level  pattern  analysis.  The  information  fed  back  to the  LG N is  rebroadcast  to cortex  using the LG N 's full  fan-out,  so  the  cortex-LGN-cortex pathway  mediates extensive  cortico-cortical communication while  keeping the number of neces(cid:173) sary  connections small.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/17c276c8e723eb46aef576537e9d56d0-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/17c276c8e723eb46aef576537e9d56d0-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "18": {
+        "TITLE": "History-Dependent Attractor Neural Networks",
+        "AUTHORS": "Isaac Meilijson, Eytan Ruppin",
+        "ABSTRACT": "We  present  a  methodological  framework  enabling  a  detailed  de(cid:173) scription  of the  performance of Hopfield-like  attractor  neural  net(cid:173) works  (ANN)  in  the  first  two  iterations.  Using  the  Bayesian  ap(cid:173) proach,  we find  that performance is improved when a history-based  term is included in the neuron's dynamics.  A further enhancement  of the  network's  performance  is  achieved  by  judiciously  choosing  the  censored neurons  (those  which  become active in  a  given  itera(cid:173) tion)  on  the  basis  of the  magnitude of their  post-synaptic  poten(cid:173) tials.  The contribution of biologically plausible,  censored,  history(cid:173) dependent dynamics is especially marked in conditions of low firing  activity  and  sparse  connectivity,  two  important  characteristics  of  the  mammalian  cortex.  In  such  networks,  the  performance  at(cid:173) tained  is  higher  than  the  performance  of two  'independent'  iter(cid:173) ations,  which  represents  an  upper  bound  on  the  performance  of  history-independent  networks.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/185c29dc24325934ee377cfda20e414c-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/185c29dc24325934ee377cfda20e414c-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "19": {
+        "TITLE": "Single-Iteration Threshold Hamming Networks",
+        "AUTHORS": "Isaac Meilijson, Eytan Ruppin, Moshe Sipper",
+        "ABSTRACT": "We  analyze in  detail  the  performance of a  Hamming network  clas(cid:173) sifying  inputs  that  are  distorted  versions  of one  of its  m  stored  memory patterns.  The activation function  of the memory neurons  in the original Hamming network  is  replaced  by a simple threshold  function.  The resulting Threshold  Hamming Network  (THN)  cor(cid:173) rectly  classifies  the  input  pattern,  with  probability approaching 1,  using only O(mln m)  connections,  in  a single iteration.  The THN  drastically reduces the time and space complexity of Hamming Net(cid:173) work  classifiers.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/192fc044e74dffea144f9ac5dc9f3395-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/192fc044e74dffea144f9ac5dc9f3395-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "20": {
+        "TITLE": "Reinforcement Learning Applied to Linear Quadratic Regulation",
+        "AUTHORS": "Steven J. Bradtke",
+        "ABSTRACT": "Recent  research  on  reinforcement  learning  has  focused  on  algo(cid:173) rithms  based  on  the  principles  of  Dynamic  Programming  (DP).  One  of  the  most  promising  areas  of  application  for  these  algo(cid:173) rithms  is  the  control  of dynamical  systems,  and  some  impressive  results  have  been  achieved.  However,  there  are  significant  gaps  between  practice  and  theory.  In  particular,  there  are  no  con ver(cid:173) gence  proofs for  problems with continuous state and action  spaces,  or  for  systems  involving  non-linear  function  approximators  (such  as  multilayer  perceptrons).  This  paper  presents  research  applying  DP-based  reinforcement  learning  theory  to Linear  Quadratic  Reg(cid:173) ulation  (LQR),  an  important  class  of control  problems  involving  continuous  state  and  action  spaces  and  requiring  a  simple  type of  non-linear function  approximator.  We describe  an algorithm based  on  Q-Iearning  that is  proven  to converge  to the optimal  controller  for  a  large  class  of  LQR  problems.  We  also  describe  a  slightly  different  algorithm  that  is  only  locally  convergent  to  the  optimal  Q-function,  demonstrating  one  of the  possible  pitfalls  of using  a  non-linear  function  approximator  with  DP-based  learning.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/19bc916108fc6938f52cb96f7e087941-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/19bc916108fc6938f52cb96f7e087941-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "21": {
+        "TITLE": "The Computation of Stereo Disparity for Transparent and for Opaque Surfaces",
+        "AUTHORS": "Suthep Madarasmi, Daniel Kersten, Ting-Chuen Pong",
+        "ABSTRACT": "The  classical  computational  model  for  stereo  vision  incorporates  a  uniqueness  inhibition  constraint  to enforce  a  one-to-one  feature  match, thereby sacrificing the ability to handle transparency.  Crit(cid:173) ics  of the  model  disregard  the  uniqueness  constraint  and  argue  that the smoothness constraint  can provide the excitation support  required  for  transparency  computation.  However,  this  modifica(cid:173) tion  fails  in  neighborhoods  with  sparse  features.  We  propose  a  Bayesian  approach  to  stereo  vision  with  priors  favoring  cohesive  over transparent surfaces.  The disparity and its segmentation into a  multi-layer \"depth planes\"  representation  are simultaneously com(cid:173) puted.  The smoothness constraint propagates support  within each  layer, providing mutual excitation for non-neighboring transparent  or  partially occluded  regions.  Test  results  for  various  random-dot  and other stereograms are presented.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/1ecfb463472ec9115b10c292ef8bc986-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/1ecfb463472ec9115b10c292ef8bc986-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "22": {
+        "TITLE": "Forecasting Demand for Electric Power",
+        "AUTHORS": "Jen-Lun Yuan, Terrence Fine",
+        "ABSTRACT": "We  are  developing  a  forecaster  for  daily  extremes  of demand  for  electric  power encountered  in  the service  area of a  large  midwest(cid:173) ern  utility  and  using  this  application  as  a  testbed  for  approaches  to input dimension reduction and decomposition of network train(cid:173) ing.  Projection  pursuit  regression  representations  and  the  ability  of algorithms like SIR to quickly  find  reasonable weighting vectors  enable us  to confront the vexing architecture selection problem  by  reducing  high-dimensional  gradient  searchs  to  fitting  single-input  single-output  (SISO)  subnets.  We  introduce  dimension  reduction  algorithms,  to select  features  or  relevant  subsets of a  set  of many  variables,  based  on  minimizing  an  index  of level-set  dispersions  (closely  related  to  a  projection  index  and  to  SIR),  and  combine  them  with  backfitting  to  implement  a  neural  network  version  of  projection  pursuit.  The  performance  achieved  by  our  approach,  when trained on 1989,  1990 data and tested on  1991  data, is  com(cid:173) parable  to  that  achieved  in  our  earlier  study  of  backpropagation  trained networks.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/2291d2ec3b3048d1a6f86c2c4591b7e0-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/2291d2ec3b3048d1a6f86c2c4591b7e0-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "23": {
+        "TITLE": "Visual Motion Computation in Analog VLSI Using Pulses",
+        "AUTHORS": "Rahul Sarpeshkar, Wyeth Bair, Christof Koch",
+        "ABSTRACT": "The  real  time  computation  of  motion  from  real  images  using a  single chip with integrated sensors is a  hard prob(cid:173) lem.  We  present two  analog VLSI schemes that use  pulse  domain neuromorphic circuits to compute motion.  Pulses  of variable width, rather than graded potentials, represent  a  natural  medium  for  evaluating temporal relationships.  Both algorithms measure speed by  timing a  moving edge  in  the image.  Our first  model is  inspired  by  Reichardt's  algorithm in the fiy  and yields  a  non-monotonic response  vs.  velocity  curve.  We  present  data from  a  chip  that  implements  this  model.  Our  second  algorithm  yields  a  monotonic  response  vs.  velocity  curve  and  is  currently  being translated into silicon. \n1",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/233509073ed3432027d48b1a83f5fbd2-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/233509073ed3432027d48b1a83f5fbd2-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "24": {
+        "TITLE": "Learning Control Under Extreme Uncertainty",
+        "AUTHORS": "Vijaykumar Gullapalli",
+        "ABSTRACT": "A  peg-in-hole  insertion  task  is  used  as  an  example  to  illustrate  the  utility of direct associative reinforcement learning methods for  learning  control  under  real-world  conditions  of  uncertainty  and  noise.  Task  complexity  due  to  the  use  of  an  unchamfered  hole  and a clearance of less than 0.2mm is  compounded  by  the presence  of positional uncertainty of magnitude exceeding 10  to 50 times the  clearance.  Despite  this  extreme  degree  of uncertainty,  our  results  indicate  that  direct  reinforcement learning  can  be  used  to  learn  a  robust  reactive  control strategy  that  results  in  skillful  peg-in-hole  insertions.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/24681928425f5a9133504de568f5f6df-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/24681928425f5a9133504de568f5f6df-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "25": {
+        "TITLE": "Efficient Pattern Recognition Using a New Transformation Distance",
+        "AUTHORS": "Patrice Simard, Yann LeCun, John S. Denker",
+        "ABSTRACT": "Memory-based  classification  algorithms such  as  radial  basis  func(cid:173) tions or K-nearest  neighbors typically rely on simple distances (Eu(cid:173) clidean,  dot  product ... ),  which  are  not  particularly  meaningful  on  pattern vectors.  More complex, better suited distance measures are  often  expensive  and  rather  ad-hoc  (elastic  matching,  deformable  templates).  We  propose  a  new  distance  measure which  (a)  can  be  made  locally  invariant to  any  set  of transformations  of the  input  and  (b)  can  be  computed  efficiently.  We  tested  the  method  on  large handwritten character  databases  provided by the  Post  Office  and the NIST.  Using invariances with  respect  to translation, rota(cid:173) tion,  scaling,  shearing and line  thickness,  the  method  consistently  outperformed  all other systems  tested  on  the same databases.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/26408ffa703a72e8ac0117e74ad46f33-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/26408ffa703a72e8ac0117e74ad46f33-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "26": {
+        "TITLE": "Planar Hidden Markov Modeling: From Speech to Optical Character Recognition",
+        "AUTHORS": "Esther Levin, Roberto Pieraccini",
+        "ABSTRACT": "We propose in  this paper a  statistical  model  (planar hidden  Markov model  - PHMM)  describing  statistical  properties  of images.  The  model generalizes  the single-dimensional HMM,  used for speech processing, to  the  planar case.  For this model to be useful an efficient segmentation algorithm, similar to the  Viterbi  algorithm  for  HMM,  must exist  We  present conditions  in  terms  of  the  PHMM  parameters  that  are  sufficient  to  guarantee  that  the  planar  segmentation  problem  can  be  solved  in  polynomial  time,  and  describe  an  algorithm for that.  This algorithm aligns optimally the image with the model,  and  therefore  is  insensitive  to  elastic  distortions  of  images.  Using  this  algorithm a joint optima1  segmentation and recognition of the  image  can  be  performed, thus overcoming the  weakness of traditional OCR systems where  segmentation  is  performed  independently  before  the  recognition  leading  to  unrecoverable recognition errors. \nTbe  PHMM  approach  was  evaluated  using  a  set  of  isolated  band-written  digits.  An  overall  digit  recognition  accuracy  of  95%  was  acbieved.  An  analysis of the results showed  that even in  the  simple case of recognition  of  isolated  characters,  the  elimination  of  elastic  distortions  enhances  the  performance Significantly. We expect that the advantage of this approach  will  be  even  more  such  as  connected  writing  recognition/spotting,  for  whicb  there  is  no  known  high  accuracy  method  of  recognition.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/26dd0dbc6e3f4c8043749885523d6a25-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/26dd0dbc6e3f4c8043749885523d6a25-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "27": {
+        "TITLE": "Global Regularization of Inverse Kinematics for Redundant Manipulators",
+        "AUTHORS": "David DeMers, Kenneth Kreutz-Delgado",
+        "ABSTRACT": "The  inverse  kinematics  problem  for  redundant  manipulators  is  ill-posed  and  nonlinear.  There are two fundamentally different issues which result in the need  for  some  form  of regularization;  the  existence  of multiple  solution branches  (global ill-posedness) and the existence of excess degrees of freedom (local ill(cid:173) posedness).  For certain  classes  of manipulators,  learning  methods  applied  to  input-output data generated from  the forward function can  be used  to globally  regularize the problem by partitioning the domain of the forward mapping into  a  finite  set  of regions  over which  the  inverse  problem  is  well-posed.  Local  regularization  can  be accomplished  by  an  appropriate parameterization  of the  redundancy consistently over each region.  As a result, the ill-posed problem can  be transformed into a finite set of well-posed problems. Each can then be solved  separately to construct approximate direct inverse functions.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/291597a100aadd814d197af4f4bab3a7-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/291597a100aadd814d197af4f4bab3a7-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "28": {
+        "TITLE": "Object-Based Analog VLSI Vision Circuits",
+        "AUTHORS": "Christof Koch, Binnal Mathur, Shih-Chii Liu, John G. Harris, Jin Luo, Massimo Sivilotti",
+        "ABSTRACT": "We  describe  two successfully  working,  analog  VLSI  vision  circuits  that move beyond pixel-based early vision algorithms.  One circuit,  implementing the dynamic wires model, provides for dedicated lines  of communication  among  groups  of pixels  that  share  a  common  property.  The chip  uses  the  dynamic wires  model to  compute the  arclength of visual contours.  Another circuit labels all points inside  a  given  contour  with one  voltage  and  all other  with  another  volt(cid:173) age.  Its behavior is  very  robust,  since small breaks in  contours are  automatically sealed,  providing  for  Figure-Ground segregation  in  a  noisy  environment.  Both  chips  are implemented using  networks  of resistors  and switches  and  represent  a  step  towards object  level  processing  since  a  single  voltage value encodes  the property  of an  ensemble of pixels. \n1  CONTOUR-LENGTH CHIP \nContour  length  computation  is  useful  for  further  processing  such  as  structural  saliency  (Shaashua and  Ullman,  1988),  which  is  thought  to be  an important stage  before  object  recognition.  This computation is  impossible on  an  analog chip  if we",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/2dea61eed4bceec564a00115c4d21334-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/2dea61eed4bceec564a00115c4d21334-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "29": {
+        "TITLE": "Perceiving Complex Visual Scenes: An Oscillator Neural Network Model that Integrates Selective Attention, Perceptual Organisation, and Invariant Recognition",
+        "AUTHORS": "Rainer Goebel",
+        "ABSTRACT": "Which processes underly our ability to quickly recognize familiar  objects within a complex visual input scene? In this paper an imple(cid:173) mented neural network model is described that attempts to specify  how selective visual attention, perceptual organisation, and invari(cid:173) ance transformations might work together in order to segment, select,  and recognize objects out of complex input scenes containing multi(cid:173) ple, possibly overlapping objects. Retinotopically organized feature  maps serve as input for two main processing routes:  pathway' dealing with location information and the 'what-pathway'  computing the shape and attributes of objects. A location-based at(cid:173) tention mechanism operates on an early stage of visual processing  selecting a contigous region of the visual field for preferential proces(cid:173) sing. Additionally, location-based attention plays an important role  for invariant object recognition controling appropriate normalization  processes within the what-pathway. Object recognition is supported  through the segmentation of the visual field into distinct entities. In  order to represent different segmented entities at the same time, the  model uses an oscillatory binding mechanism. Connections between  the where-pathway and the what-pathway lead to a flexible coope(cid:173) ration between different functional subsystems producing an overall  behavior which is consistent with a variety of psychophysical data. \nthe 'where(cid:173)",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/2f37d10131f2a483a8dd005b3d14b0d9-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/2f37d10131f2a483a8dd005b3d14b0d9-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "30": {
+        "TITLE": "Second order derivatives for network pruning: Optimal Brain Surgeon",
+        "AUTHORS": "Babak Hassibi, David G. Stork",
+        "ABSTRACT": "We investigate the use of information from all second order derivatives of the error  function to perfonn network pruning (i.e., removing unimportant weights from a trained  network) in order to improve generalization, simplify networks, reduce hardware or  storage requirements, increase the speed of further training, and in some cases enable rule  extraction. Our method, Optimal Brain Surgeon (OBS), is Significantly better than  magnitude-based methods and Optimal Brain Damage [Le Cun, Denker and Sol1a, 1990],  which often remove the wrong weights. OBS permits the pruning of more weights than  other methods (for the same error on the training set), and thus yields better  generalization on test data. Crucial to OBS is a recursion relation for calculating the  inverse Hessian matrix H-I from training data and structural information of the net. OBS  permits a 90%, a 76%, and a 62% reduction in weights over backpropagation with weighL  decay on three benchmark MONK's problems [Thrun et aI., 1991]. Of OBS, Optimal  Brain Damage, and magnitude-based methods, only OBS deletes the correct weights from  a trained XOR network in every case. Finally, whereas Sejnowski and Rosenberg [1987J  used 18,000 weights in their NETtalk network, we used OBS to prune a network to just  1560 weights, yielding better generalization.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/303ed4c69846ab36c2904d3ba8573050-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/303ed4c69846ab36c2904d3ba8573050-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "31": {
+        "TITLE": "Automatic Learning Rate Maximization by On-Line Estimation of the Hessian's Eigenvectors",
+        "AUTHORS": "Yann LeCun, Patrice Y. Simard, Barak Pearlmutter",
+        "ABSTRACT": "We propose a very simple, and well principled way of computing  the optimal step size in gradient descent algorithms. The on-line  version is very efficient computationally, and is applicable to large  backpropagation networks trained on large data sets. The main  ingredient is a technique for estimating the principal eigenvalue(s)  and eigenvector(s) of the objective function's second derivative ma(cid:173) trix (Hessian), which does not require to even calculate the Hes(cid:173) sian. Several other applications of this technique are proposed for  speeding up learning, or for eliminating useless parameters.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/30bb3825e8f631cc6075c0f87bb4978c-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/30bb3825e8f631cc6075c0f87bb4978c-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "32": {
+        "TITLE": "Computation of Heading Direction from Optic Flow in Visual Cortex",
+        "AUTHORS": "Markus Lappe, Josef P. Rauschecker",
+        "ABSTRACT": "We have designed a neural network which detects the direction of ego(cid:173) motion from optic flow in the presence of eye movements (Lappe and  Rauschecker, 1993). The performance of the network is consistent with  human psychophysical data, and its output neurons show great similarity  to \"triple component\" cells in area MSTd of monkey visual cortex. We  now show that by using assumptions about the kind of eye movements  that the obsenrer is likely to perform, our model can generate various  other cell types found in MSTd as well.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/30ef30b64204a3088a26bc2e6ecf7602-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/30ef30b64204a3088a26bc2e6ecf7602-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "33": {
+        "TITLE": "Statistical Modeling of Cell Assemblies Activities in Associative Cortex of Behaving Monkeys",
+        "AUTHORS": "Itay Gat, Naftali Tishby",
+        "ABSTRACT": "So far there has been no general method for relating extracellular  electrophysiological measured activity of neurons in the associative  cortex to underlying network or \"cognitive\" states. We propose  to model such data using a multivariate Poisson Hidden Markov  Model. We demonstrate the application of this approach for tem(cid:173) poral segmentation of the firing patterns, and for characterization  of the cortical responses to external stimuli. Using such a statisti(cid:173) cal model we can significantly discriminate two behavioral modes  of the monkey, and characterize them by the different firing pat(cid:173) terns, as well as by the level of coherency of their multi-unit firing  activity.  Our study utilized measurements carried out on behaving Rhesus  monkeys by M. Abeles, E. Vaadia, and H. Bergman, of the Hadassa  Medical School of the Hebrew University.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/3328bdf9a4b9504b9398284244fe97c2-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/3328bdf9a4b9504b9398284244fe97c2-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "34": {
+        "TITLE": "Harmonic Grammars for Formal Languages",
+        "AUTHORS": "Paul Smolensky",
+        "ABSTRACT": "Basic connectionist principles imply that grammars should take the  form of systems of parallel soft constraints defining an optimization  problem  the  solutions  to  which  are  the  well-formed  structures  in  the  language.  Such  Harmonic  Grammars  have  been  successfully  applied to a number of problems in the theory of natural languages.  Here  it  is  shown  that  formal  languages  too  can  be  specified  by  Harmonic  Grammars,  rather  than  by  conventional  serial  re-write  rule systems. \n1  HARMONIC  GRAMMARS \nIn collaboration with Geraldine Legendre,  Yoshiro Miyata, and Alan Prince, I have  been  studying  how  symbolic computation  in  human  cognition  can  arise  naturally  as a higher-level  virtual machine realized  in appropriately designed  lower-level  con(cid:173) nectionist  networks.  The basic  computational principles of the approach are  these: \n(1) \na.  \\Vhell  analyzed  at  the  lower  level,  mental  representations  are  dis(cid:173)\ntributed  patterns of connectionist  activity;  when  analyzed  at a  higher  level,  these  same representations  constitute symbolic structures.  The  particular  symbolic  structure  s  is  characterized  as  a  set  of filler/role  bindings  {f d ri},  using  a  collection  of structural  roles  {rd  each  of  which  may  be  occupied  by  a  filler  fi-a constituent  symbolic  struc-",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/3435c378bb76d4357324dd7e69f3cd18-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/3435c378bb76d4357324dd7e69f3cd18-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "35": {
+        "TITLE": "Silicon Auditory Processors as Computer Peripherals",
+        "AUTHORS": "John Lazzaro, John Wawrzynek, M. Mahowald, Massimo Sivilotti, Dave Gillespie",
+        "ABSTRACT": "Sever\n\nPresent address: f\\1. Mahowald, f\\1H.C ,\\natol1lical Ncmophamacology  Unit, Mansfield TId, Oxfc)('d OXI :1'rl£ Ellgland . mam~vax.oxford.ac.uk  t Present address:  f\\lass Siviloui. '1'(1111)(,1' H,csearrh, 180 Nort.h Vinedo  Avenue, Pasadena, CA 9Il07. mass~tanner. corn  :I: Present address: Dave Gill,>spiE', SYllapf,ics, :l()!)8 Orchard Parkway, San  Jose CA, 95131. daveg~synaptics. com",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/3493894fa4ea036cfc6433c3e2ee63b0-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/3493894fa4ea036cfc6433c3e2ee63b0-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "36": {
+        "TITLE": "Information, Prediction, and Query by Committee",
+        "AUTHORS": "Yoav Freund, H. Sebastian Seung, Eli Shamir, Naftali Tishby",
+        "ABSTRACT": "We  analyze the  \"query  by  committee\"  algorithm, a  method for  fil(cid:173) tering  informative  queries  from  a  random  stream  of inputs.  We  show  that if the  two-member committee algorithm achieves  infor(cid:173) mation  gain  with  positive  lower  bound,  then  the  prediction  error  decreases  exponentially with the number of queries.  We show that,  in  particular,  this  exponential  decrease  holds for  query  learning of  thresholded  smooth functions.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/3871bd64012152bfb53fdf04b401193f-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/3871bd64012152bfb53fdf04b401193f-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "37": {
+        "TITLE": "Improving Convergence in Hierarchical Matching Networks for Object Recognition",
+        "AUTHORS": "Joachim Utans, Gene Gindi",
+        "ABSTRACT": "We  are  interested  in  the  use  of analog  neural  networks  for  recog(cid:173) nizing  visual  objects.  Objects  are  described  by  the  set  of parts  they  are  composed  of  and  their  structural  relationship.  Struc(cid:173) tural  models  are  stored  in  a  database  and  the  recognition  prob(cid:173) lem  reduces  to  matching  data  to  models  in  a  structurally  consis(cid:173) tent  way.  The  object  recognition  problem is  in  general  very  diffi(cid:173) cult in that it involves coupled problems of grouping, segmentation  and  matching.  We  limit the  problem here  to  the simultaneous la(cid:173) belling  of the  parts  of a  single  object  and  the  determination  of  analog  parameters.  This  coupled  problem  reduces  to  a  weighted  match  problem in  which  an  optimizing neural  network  must  min(cid:173) imize  E(M, p)  =  LO'i MO'i WO'i(p),  where  the  {MO'd  are  binary  match  variables  for  data parts  i  to  model  parts  a  and  {Wai(P)}  are weights dependent on parameters p .  In this work we  show that  by  first  solving  for  estimates p without  solving  for  M ai , we  may  obtain good initial parameter estimates that yield  better solutions  for  M  and  p. \n*Current  address: \nInternational  Computer  Science  Institute,  1947  Center  Street, \nSuite  600,  Berkeley,  CA 94704,  utans@icsi.berkeley.edu \ntCurrent  address:  SUNY  Stony  Brook,  Department  of  Electrical  Engineering,  Stony \nBrook,  NY  11784",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/3a066bda8c96b9478bb0512f0a43028c-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/3a066bda8c96b9478bb0512f0a43028c-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "38": {
+        "TITLE": "A dynamical model of priming and repetition blindness",
+        "AUTHORS": "Daphne Bavelier, Michael I. Jordan",
+        "ABSTRACT": "We describe a model of visual word recognition that accounts for  several aspects of the temporal processing of sequences of briefly  presented words. The model utilizes a new representation for writ(cid:173) ten words, based on dynamic time warping and multidimensional  scaling. The visual input passes through cascaded perceptual, com(cid:173) parison, and detection stages. We describe how these dynamical  processes can account for several aspects of word recognition, in(cid:173) cluding repetition priming and repetition blindness.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/3d2d8ccb37df977cb6d9da15b76c3f3a-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/3d2d8ccb37df977cb6d9da15b76c3f3a-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "39": {
+        "TITLE": "Unsupervised Discrimination of Clustered Data via Optimization of Binary Information Gain",
+        "AUTHORS": "Nicol N. Schraudolph, Terrence J. Sejnowski",
+        "ABSTRACT": "We  present the  information-theoretic derivation  of a learning algorithm  that  clusters  unlabelled  data  with  linear  discriminants.  In  contrast  to  methods  that  try  to  preserve  information  about  the  input patterns,  we  maximize  the  information  gained  from  observing  the  output  of robust  binary discriminators implemented with sigmoid nodes. We deri ve a local  weight adaptation rule via gradient ascent in this objective, demonstrate  its  dynamics on  some simple data sets,  relate our approach  to  previous  work and suggest directions in which it may be extended.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/42e77b63637ab381e8be5f8318cc28a2-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/42e77b63637ab381e8be5f8318cc28a2-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "40": {
+        "TITLE": "On-Line Estimation of the Optimal Value Function: HJB- Estimators",
+        "AUTHORS": "James K. Peterson",
+        "ABSTRACT": "In this paper, we discuss on-line estimation strategies that model  the optimal value function of a typical optimal control problem.  We present a general strategy that uses local corridor solutions  obtained via dynamic programming to provide local optimal con(cid:173) trol sequence training data for a neural architecture model of the  optimal value function. \nION-LINE ESTIMATORS \nIn this paper, the problems of adaptive control using neural architectures are ex(cid:173) plored in the setting of general on-line estimators. 'Ve will try to pay close attention  to the underlying mathematical structure that arises in the on-line estimation pro(cid:173) cess. \nThe complete effect of a control action Uk at a given time step t/.; is clouded by  the fact that the state history depends on the control actions taken after time  step tk' So the effect of a control action over all future time must be monitored.  Hence, choice of control must inevitably involve knowledge of the future history  of the state trajectory. In other words, the optimal control sequence can not be  determined until after the fact. Of course, standard optimal control theory supplies  an optimal control sequence to this problem for a variety of performance criteria.  Roughly, there are two approaches of interest: solving the two-point boundary value",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/443cb001c138b2561a0d90720d6ce111-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/443cb001c138b2561a0d90720d6ce111-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "41": {
+        "TITLE": "Using Aperiodic Reinforcement for Directed Self-Organization During Development",
+        "AUTHORS": "P. R. Montague, P. Dayan, S.J. Nowlan, A Pouget, T.J. Sejnowski",
+        "ABSTRACT": "We present a local learning rule in which Hebbian learning is  conditional on an incorrect prediction of a reinforcement signal.  We propose a biological interpretation of such a framework and  display its utility through examples in which the reinforcement  signal is cast as the delivery of a neuromodulator to its target.  Three exam pIes are presented which illustrate how this framework  can be applied to the development of the oculomotor system.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/44c4c17332cace2124a1a836d9fc4b6f-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/44c4c17332cace2124a1a836d9fc4b6f-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "42": {
+        "TITLE": "A Connectionist Symbol Manipulator That Discovers the Structure of Context-Free Languages",
+        "AUTHORS": "Michael Mozer, Sreerupa Das",
+        "ABSTRACT": "We present a neural net architecture that can discover hierarchical and re(cid:173) cursive structure in symbol strings. To detect structure at multiple levels,  the architecture has the capability of reducing symbols substrings to single  symbols, and makes use of an external stack memory. In terms of formal  languages, the architecture can learn to parse strings in an LR(O) context(cid:173) free grammar. Given training sets of positive and negative exemplars,  the architecture has been trained to recognize many different grammars.  The architecture has only one layer of modifiable weights, allowing for a  straightforward interpretation of its behavior. \nMany cognitive domains involve complex sequences that contain hierarchical or  recursive structure, e.g., music, natural language parsing, event perception. To il(cid:173) lustrate, \"the spider that ate the hairy fly\" is a noun phrase containing the embed(cid:173) ded noun phrase \"the hairy fly.\" Understanding such multilevel structures requires  forming reduced descriptions (Hinton, 1988) in which a string of symbols or states  (\"the hairy fly\") is reduced to a single symbolic entity (a noun phrase). We present  a neural net architecture that learns to encode the structure of symbol strings via  such red uction transformations. \nThe difficult problem of extracting multilevel structure from complex, extended  sequences has been studied by Mozer (1992), Ring (1993), Rohwer (1990), and  Schmidhuber (1992), among others. While these previous efforts have made some",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/45645a27c4f1adc8a7a835976064a86d-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/45645a27c4f1adc8a7a835976064a86d-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "43": {
+        "TITLE": "Analogy-- Watershed or Waterloo? Structural alignment and the development of connectionist models of analogy",
+        "AUTHORS": "Dedre Gentner, Arthur B. Markman",
+        "ABSTRACT": "Neural network models have been criticized for their inability to make  use of compositional representations. In this paper, we describe a series  of psychological phenomena that demonstrate the role of structured  representations in cognition. These findings suggest that people  compare relational representations via a process of structural alignment.  This process will have to be captured by any model of cognition,  symbolic or subsymbolic.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/48ab2f9b45957ab574cf005eb8a76760-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/48ab2f9b45957ab574cf005eb8a76760-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "44": {
+        "TITLE": "A Recurrent Neural Network for Generation of Occular Saccades",
+        "AUTHORS": "Lina L.E. Massone",
+        "ABSTRACT": "This paper presents a neural network able to control saccadic  movements. The input to the network is a specification of a  stimulation site on the collicular motor map. The output is the time  course of the eye position in the orbit (horizontal and vertical angles).  The units in the network exhibit a one-to-one correspondance with  neurons in the intermediate layer of the superior colliculus (collicular  motor map), in the brainstem and with oculomotor neurons.  Simulations carried out with this network demonstrate its ability to  reproduce in a straightforward fashion many experimental observations.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/4a47d2983c8bd392b120b627e0e1cab4-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/4a47d2983c8bd392b120b627e0e1cab4-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "45": {
+        "TITLE": "Network Structuring and Training Using Rule-based Knowledge",
+        "AUTHORS": "Volker Tresp, Jürgen Hollatz, Subutai Ahmad",
+        "ABSTRACT": "We demonstrate in this paper how certain forms of rule-based  knowledge can be used to prestructure a neural network of nor(cid:173) malized basis functions and give a probabilistic interpretation of  the network architecture. We describe several ways to assure that  rule-based knowledge is preserved during training and present a  method for complexity reduction that tries to minimize the num(cid:173) ber of rules and the number of conjuncts. After training the refined  rules are extracted and analyzed.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/4c27cea8526af8cfee3be5e183ac9605-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/4c27cea8526af8cfee3be5e183ac9605-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "46": {
+        "TITLE": "Hybrid Circuits of Interacting Computer Model and Biological Neurons",
+        "AUTHORS": "Sylvie Renaud-Le Masson, Gwendal Le Masson, Eve Marder, L. F. Abbott",
+        "ABSTRACT": "We demonstrate the use of a digital signal processing board to construct  hybrid networks consisting of computer model neurons connected to a  biological neural  network.  This system  operates  in  real  time.  and  the  synaptic  connections  are  realistic  effective  conductances.  Therefore.  the  synapses  made  from  the  computer  model  neuron  are  integrated  correctly  by  the postsynaptic biological neuron.  This method provides  us  with  the  ability  to  add  additional.  completely known elements  to a  biological  network  and  study  their  effect  on  network  activity.  Moreover.  by  changing  the  parameters  of  the  model  neuron.  it  is  possible to assess  the role of individual conductances in  the activity of  the  neuron.  and  in  the  network in which it participates. \n\"Present  address. \nl-Enserb.  CNRSURA  846.  351  crs  de  la  Liberation.  33405  Talence  Cedex.  France. \nlXL.  Universit6  de  Bordeaux \n'Present address.  LNPC.  CNRS.  Universite de Bordeaux  1.  Place \nde Dr.  Peyneau.  33120 Arcachon.  France",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/4ffce04d92a4d6cb21c1494cdfcd6dc1-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/4ffce04d92a4d6cb21c1494cdfcd6dc1-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "47": {
+        "TITLE": "A Knowledge-Based Model of Geometry Learning",
+        "AUTHORS": "Geoffrey Towell, Richard Lehrer",
+        "ABSTRACT": "We propose a model of the development of geometric reasoning in children that  explicitly involves learning. The model uses a neural network that is initialized  with an understanding of geometry similar to that of second-grade children.  Through the presentation of a series of examples, the model is shown to develop  an understanding of geometry similar to that of fifth-grade children who were  trained using similar materials.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/500e75a036dc2d7d2fec5da1b71d36cc-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/500e75a036dc2d7d2fec5da1b71d36cc-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "48": {
+        "TITLE": "Integration of Visual and Somatosensory Information for Preshaping Hand in Grasping Movements",
+        "AUTHORS": "Yoji Uno, Naohiro Fukumura, Ryoji Suzuki, Mitsuo Kawato",
+        "ABSTRACT": "The primate brain must solve two important problems in grasping move(cid:173) ments.  The  first  problem  concerns  the  recognition  of grasped objects:  specifically,  how  does  the  brain integrate  visual  and motor information  on a grasped object? The second problem concerns hand shape planning:  specifically, how does the brain design the hand configuration suited to the  shape of the  object and the manipulation task?  A neural network model  that solves these problems has been developed.  The operations of the net(cid:173) work are divided into a learning phase and an optimization phase.  In the  learning phase, internal representations, which depend on the grasped ob(cid:173) jects and the task,  are  acquired by integrating visual and somatosensory  information.  In the optimization phase, the  most suitable hand shape for  grasping an object is determined by using a relaxation computation of the  network. \n\nPresent  Address: \n\nParallel  Distributed  Processing  Research  Dept.,  Sony  Corporation, \n6-7-35 Kitashinagawa, Shinagawa-ku, Tokyo 141, Japan",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/53e3a7161e428b65688f14b84d61c610-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/53e3a7161e428b65688f14b84d61c610-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "49": {
+        "TITLE": "Kohonen Feature Maps and Growing Cell Structures - a Performance Comparison",
+        "AUTHORS": "Bernd Fritzke",
+        "ABSTRACT": "A performance comparison of two self-organizing networks,  the Ko(cid:173) honen  Feature Map  and the recently  proposed Growing Cell Struc(cid:173) tures  is  made.  For  this  purpose  several  performance  criteria  for  self-organizing  networks  are  proposed  and  motivated.  The models  are tested with three example problems of increasing difficulty.  The  Kohonen  Feature  Map  demonstrates slightly superior  results  only  for  the simplest problem.  For the other more difficult and also more  realistic problems the Growing Cell Structures exhibit significantly  better  performance  by  every  criterion .  Additional  advantages  of  the new  model are  that  all  parameters are constant  over  time and  that size  as  well  as  structure  of the  network  are  determined  auto(cid:173) matically.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/5487315b1286f907165907aa8fc96619-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/5487315b1286f907165907aa8fc96619-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "50": {
+        "TITLE": "A Neural Model of Descending Gain Control in the Electrosensory System",
+        "AUTHORS": "Mark E. Nelson",
+        "ABSTRACT": "In  the  electrosensory  system  of  weakly  electric  fish,  descending  pathways to a first-order sensory nucleus have been shown to influ(cid:173) ence the gain of its output neurons.  The underlying neural mecha(cid:173) nisms  that subserve this descending gain control capability  are not  yet  fully  understood.  We  suggest  that  one  possible  gain  control  mechanism could involve the regulation of total membrane conduc(cid:173) tance of the  output neurons.  In this  paper,  a  neural model  based  on this idea is  used to demonstrate how  activity levels on descend(cid:173) ing  pathways  could  control  both  the  gain  and  baseline  excitation  of a  target neuron .",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/556f391937dfd4398cbac35e050a2177-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/556f391937dfd4398cbac35e050a2177-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "51": {
+        "TITLE": "Memory-Based Reinforcement Learning: Efficient Computation with Prioritized Sweeping",
+        "AUTHORS": "Andrew W. Moore, Christopher G. Atkeson",
+        "ABSTRACT": "We present a  new algorithm, Prioritized Sweeping, for  efficient  prediction  and control of stochastic Markov systems.  Incremental learning methods  such as Temporal Differencing  and  Q-Iearning have fast  real time perfor(cid:173) mance.  Classical  methods  are  slower,  but  more  accurate,  because  they  make full  use  of the observations.  Prioritized Sweeping aims for  the  best  of both worlds.  It uses  all  previous  experiences both to  prioritize  impor(cid:173) tant dynamic  programming sweeps and to guide the exploration of state(cid:173) space.  We compare Prioritized Sweeping with other reinforcement learning  schemes for  a  number of different stochastic optimal control problems.  It  successfully  solves large state-space  real  time  problems  with  which  other  methods have difficulty. \n1  STOCHASTIC PREDICTION \nThe paper introduces a memory-based technique, prioritized 6weeping, which is used  both for  stochastic  prediction and  reinforcement  learning.  A fuller  version  of this  paper is in preparation [Moore and Atkeson, 1992].  Consider the  500 state Markov  system depicted in Figure 1.  The system has sixteen absorbing states,  depicted by  white and black circles.  The prediction problem is  to estimate, for  every state, the  long-term  probability  that  it will  terminate  in  a  white,  rather  than  black,  circle.  The data available to the learner is a sequence of observed state transitions.  Let us  consider two existing methods along  with prioritized sweeping.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/55743cc0393b1cb4b8b37d09ae48d097-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/55743cc0393b1cb4b8b37d09ae48d097-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "52": {
+        "TITLE": "Learning Fuzzy Rule-Based Neural Networks for Control",
+        "AUTHORS": "Charles M. Higgins, Rodney M. Goodman",
+        "ABSTRACT": "A  three-step  method for  function  approximation with  a fuzzy  sys(cid:173) tem  is  proposed.  First,  the  membership  functions  and  an  initial  rule  representation  are  learned;  second,  the  rules  are  compressed  as  much as  possible  using  information theory;  and finally,  a  com(cid:173) putational network  is  constructed  to  compute  the  function  value.  This system  is  applied  to  two control examples:  learning the truck  and trailer backer-upper control system, and learning a  cruise  con(cid:173) trol system for  a  radio-controlled model car.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/55b37c5c270e5d84c793e486d798c01d-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/55b37c5c270e5d84c793e486d798c01d-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "53": {
+        "TITLE": "Neural Network On-Line Learning Control of Spacecraft Smart Structures",
+        "AUTHORS": "Christopher Bowman",
+        "ABSTRACT": "The overall goal is to reduce spacecraft weight. volume, and cost by on(cid:173) line adaptive non-linear control of flexible structural components. The  objective of this effort is to develop an  adaptive Neural Network (NN)  controller for the Ball C-Side 1m x 3m antenna with embedded actuators  and the RAMS  sensor system.  A traditional  optimal controller for  the  major modes  is provided perturbations  by  the  NN  to compensate  for  unknown residual modes. On-line training of recurrent and feed-forward  NN  architectures  have  achieved  adaptive  vibration  control  with  unknown  modal  variations and  noisy  measurements.  On-line training  feedback to each actuator NN output is computed via Newton's method  to reduce the difference between desired and achieved antenna positions. \n1  ADAPTIVE  CONTROL  BACKGROUND  The two traditional approaches to adaptive control are 1) direct control (such as perfonned  in direct model reference adaptive controllers) and 2) indirect control (such as performed by  explicit self-tuning regulators).  Direct control techniques (e.g. model-reference adaptive  cootrul) provide good stability however are susceptible to noise. Whereas indirect control  techn;'q~es (e.g.  explicit self-tuning  regulators)  have low  noise susceptibility  and good  convergence rate.  However they require more control effort and have worse stability and  are less roblistto mismodeling. NNs synergistically augment traditional adaptive control  techniques  by  providing  improved mismodeling  robustness both adaptively on-line for  time-varying dynamics as well as in a learned control mode at a slower rate. \nThe NN control approaches which correspond to direct and indirect adaptive control are  commonly known as inverse and forward modeling. respectively. More specifically, aNN  which maps the plant state and its desired perfonnance to the control command is called  an inverse model, a NN mapping both the current plant state and control to the next state  and its performance is called the forward model. \nWhen given a desired performwce and the current state. the inverse model generates the  control. see Figure 1. The actual perfonnance is observed and is used to  train/update the  inverse model. A significant problem occurs when the desired and achieved perfonnance  differ greatly  since the  model  near  the desired  slate  is  not changed.  This condition  is  corrected by  adding random noise to  the control outputs  so as to  extend the state  space",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/58d4d1e7b1e97b258c9ed0b37e02d087-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/58d4d1e7b1e97b258c9ed0b37e02d087-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "54": {
+        "TITLE": "Hidden Markov Model Induction by Bayesian Model Merging",
+        "AUTHORS": "Andreas Stolcke, Stephen Omohundro",
+        "ABSTRACT": "This paper describes a technique for learning both the number of states and the  topology of Hidden Markov Models from examples. The induction process starts  with the most specific model consistent with the training data and generalizes  by successively merging states. Both the choice of states to merge and the  stopping criterion are guided by the Bayesian posterior probability. We compare  our algorithm with the Baum-Welch method of estimating fixed-size models, and  find that it can induce minimal HMMs from data in cases where fixed estimation  does not converge or requires redundant parameters to converge. \n1 INTRODUCTION AND OVERVIEW \nHidden Markov Models (HMMs) are a well-studied approach to the modelling of sequence  data. HMMs can be viewed as a stochastic generalization of finite-state automata, where  both the transitions between states and the generation of output symbols are governed by  probability distributions. HMMs have been important in speech recognition (Rabiner &  Juang, 1986), cryptography, and more recently in other areas such as protein classification  and alignment (Haussler, Krogh, Mian & SjOlander, 1992; Baldi, Chauvin, Hunkapiller &  McClure, 1993). \nPractitioners have typically chosen the HMM topology by hand, so that learning the HMM  from sample data means estimating only a fixed number of model parameters. The standard  approach is to find a maximum likelihood (ML) or maximum a posteriori probability (MAP)  estimate of the HMM parameters. The Baum-Welch algorithm uses dynamic programming",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/5c04925674920eb58467fb52ce4ef728-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/5c04925674920eb58467fb52ce4ef728-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "55": {
+        "TITLE": "Statistical Mechanics of Learning in a Large Committee Machine",
+        "AUTHORS": "Holm Schwarze, John A. Hertz",
+        "ABSTRACT": "We  use  statistical  mechanics  to study  generalization in  large com(cid:173) mittee  machines.  For  an  architecture  with  nonoverlapping  recep(cid:173) tive fields a  replica calculation yields the generalization error in the  limit of a  large number of hidden units.  For continuous weights  the  generalization  error  falls  off asymptotically inversely  proportional  to  Q,  the  number  of  training  examples  per  weight.  For  binary  weights  we  find  a  discontinuous  transition  from  poor  to  perfect  generalization  followed  by  a  wide  region  of metastability.  Broken  replica symmetry is  found  within this  region  at low  temperatures.  For  a  fully  connected  architecture  the  generalization  error  is  cal(cid:173) culated  within  the  annealed  approximation.  For  both  binary  and  continuous  weights  we  find  transitions  from  a  symmetric state  to  one  with  specialized  hidden  units,  accompanied  by  discontinuous  drops  in  the generalization error.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/5d44ee6f2c3f71b73125876103c8f6c4-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/5d44ee6f2c3f71b73125876103c8f6c4-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "56": {
+        "TITLE": "An Information-Theoretic Approach to Deciphering the Hippocampal Code",
+        "AUTHORS": "William E. Skaggs, Bruce L. McNaughton, Katalin M. Gothard",
+        "ABSTRACT": "Information  theory  is  used  to  derive  a  simple  formula  for  the  amount of information conveyed by the firing rate of a neuron about  any  experimentally measured variable or  combination of variables  (e.g.  running speed,  head  direction,  location of the  animal, etc.).  The  derivation  treats  the  cell  as  a  communication channel  whose  input is the measured variable and whose output is the cell's spike  train.  Applying the formula,  we  find  systematic differences  in  the  information  content  of hippocampal  \"place  cells\"  in  different  ex(cid:173) perimental conditions.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "57": {
+        "TITLE": "Using hippocampal 'place cells' for navigation, exploiting phase coding",
+        "AUTHORS": "Neil Burgess, John O'Keefe, Michael Recce",
+        "ABSTRACT": "A model of the hippocampus as a central element in rat naviga(cid:173) tion is presented. Simulations show both the behaviour of single  cells and the resultant navigation of the rat. These are compared  with single unit recordings and behavioural data. The firing of  CAl place cells is simulated as the (artificial) rat moves in an en(cid:173) vironment. This is the input for a neuronal network whose output,  at each theta (0) cycle, is the next direction of travel for the rat.  Cells are characterised by the number of spikes fired and the time  of firing with respect to hippocampal 0 rhythm. 'Learning' occurs  in 'on-off' synapses that are switched on by simultaneous pre- and  post-synaptic activity. The simulated rat navigates successfully to  goals encountered one or more times during exploration in open  fields. One minute of random exploration of a 1m2 environment  allows navigation to a newly-presented goal from novel starting po(cid:173) sitions. A limited number of obstacles can be successfully avoided.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/5e9f92a01c986bafcabbafd145520b13-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/5e9f92a01c986bafcabbafd145520b13-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "58": {
+        "TITLE": "Weight Space Probability Densities in Stochastic Learning: I. Dynamics and Equilibria",
+        "AUTHORS": "Todd K. Leen, John E. Moody",
+        "ABSTRACT": "The  ensemble  dynamics  of stochastic  learning  algorithms  can  be  studied  using  theoretical  techniques  from  statistical  physics.  We  develop  the equations  of motion for  the  weight  space  probability  densities for  stochastic learning  algorithms.  We  discuss  equilibria  in the diffusion  approximation and provide expressions for  special  cases  of the LMS  algorithm.  The equilibrium  densities  are not in  general thermal (Gibbs) distributions in the objective function be(cid:173) ing minimized, but rather depend upon an effective potential that  includes  diffusion  effects.  Finally  we  present  an  exact  analytical  expression for the time evolution of the density for a learning algo(cid:173) rithm with weight updates proportional to the sign of the gradient. \n1 \nIntroduction:  Theoretical Framework \nStochastic learning algorithms involve  weight  updates of the form \nw(n+1)  =  w(n)  + /-l(n)H[w(n),x(n)] \n(1) \nwhere w E 7£m  is  the vector of m  weights,  /-l  is  the learning rate, H[.]  E 7£m  is  the  update function,  and  x(n)  is  the exemplar  (input or  input/target pair)  presented",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/6766aa2750c19aad2fa1b32f36ed4aee-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/6766aa2750c19aad2fa1b32f36ed4aee-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "59": {
+        "TITLE": "Discriminability-Based Transfer between Neural Networks",
+        "AUTHORS": "L. Y. Pratt",
+        "ABSTRACT": "Previously, we have introduced the idea of neural network transfer,  where learning on a target problem is sped up by using the weights  obtained from a network trained for a related source task. Here,  we present a new algorithm. called Discriminability-Based Transfer  (DBT), which uses an information measure to estimate the utility  of hyperplanes defined by source weights in the target network,  and rescales transferred weight magnitudes accordingly. Several  experiments demonstrate that target networks initialized via DBT  learn significantly faster than networks initialized randomly.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/67e103b0761e60683e83c559be18d40c-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/67e103b0761e60683e83c559be18d40c-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "60": {
+        "TITLE": "Learning Sequential Tasks by Incrementally Adding Higher Orders",
+        "AUTHORS": "Mark Ring",
+        "ABSTRACT": "An incremental, higher-order, non-recurrent network combines two  properties found to be useful for learning sequential tasks: higher(cid:173) order connections and incremental introduction of new units. The  network adds higher orders when needed by adding new units that  dynamically modify connection weights. Since the new units mod(cid:173) ify the weights at the next time-step with information from the  previous step, temporal tasks can be learned without the use of  feedback, thereby greatly simplifying training. Furthermore, a the(cid:173) oretically unlimited number of units can be added to reach into  the arbitrarily distant past. Experiments with the Reber gram(cid:173) mar have demonstrated speedups of two orders of magnitude over  recurrent networks.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/68264bdb65b97eeae6788aa3348e553c-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/68264bdb65b97eeae6788aa3348e553c-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "61": {
+        "TITLE": "Topography and Ocular Dominance with Positive Correlations",
+        "AUTHORS": "Geoffrey J. Goodhill",
+        "ABSTRACT": "A new computational model that addresses the formation of both topog- \nraphy and ocular dominance is presented. This is motivated by exper- \nimental evidence that these phenomena may be subserved by the same \nmechanisms. An important aspect of this model is that ocular domi- \nnance segregation can occur when input activity is both distributed, and \npositively correlated between the eyes. This allows investigation of the \ndependence of the pattern of ocular dominance stripes on the degree of \ncorrelation between the eyes: it is found that increasing correlation leads \nto narrower stripes. Experiments are suggested to test whether such be- \nhaviour occurs in the natural system.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/6a10bbd480e4c5573d8f3af73ae0454b-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/6a10bbd480e4c5573d8f3af73ae0454b-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "62": {
+        "TITLE": "A Hybrid Neural Net System for State-of-the-Art Continuous Speech Recognition",
+        "AUTHORS": "G. Zavaliagkos, Y. Zhao, R. Schwartz, J. Makhoul",
+        "ABSTRACT": "Untill recently, state-of-the-art, large-vocabulary, continuous speech  recognition (CSR) has employed Hidden Markov Modeling (HMM)  to model speech sounds.  In an attempt to improve over HMM we  developed a hybrid system that integrates HMM technology with neu(cid:173) ral networks. We present the concept of a \"Segmental Neural Net\"  (SNN) for phonetic modeling in CSR. By taking into account all the  frames of a phonetic segment simultaneously, the SNN overcomes the  well-known conditional-independence limitation of HMMs. In several  speaker-independent experiments with the DARPA Resource Manage(cid:173) ment corpus, the hybrid system showed a consistent improvement in  performance over the baseline HMM system.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/6aca97005c68f1206823815f66102863-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/6aca97005c68f1206823815f66102863-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "63": {
+        "TITLE": "A Formal Model of the Insect Olfactory Macroglomerulus: Simulations and Analytic Results",
+        "AUTHORS": "Christiane Linster, David Marsan, Claudine Masson, Michel Kerszberg, Gérard Dreyfus, Léon Personnaz",
+        "ABSTRACT": "It  is  known  from  biological  data  that  the  response  patterns  of  interneurons  in  the olfactory  macroglomerulus  (MGC) of insects are of  central importance for the coding of the olfactory signal. We propose an  analytically  tractable  model  of the  MGC  which allows us  to  relate  the  distribution of response patterns to the architecture of the network.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/71a3cb155f8dc89bf3d0365288219936-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/71a3cb155f8dc89bf3d0365288219936-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "64": {
+        "TITLE": "Using Prior Knowledge in a NNPDA to Learn Context-Free Languages",
+        "AUTHORS": "Sreerupa Das, C. Lee Giles, Guo-Zheng Sun",
+        "ABSTRACT": "Although considerable interest has been shown in language inference and  automata induction using recurrent neural networks, success of these  models has mostly been limited to regular languages. We have previ(cid:173) ously demonstrated that Neural Network Pushdown Automaton (NNPDA)  model is capable of learning deterministic context-free languages (e.g.,  anbn and parenthesis languages) from examples. However, the learning  task is computationally intensive. In this paper we discus some ways in  which a priori knowledge about the task and data could be used for efficient  learning. We also observe that such knowledge is often an experimental  prerequisite for learning nontrivial languages (eg. anbncbmam ).",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/766ebcd59621e305170616ba3d3dac32-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/766ebcd59621e305170616ba3d3dac32-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "65": {
+        "TITLE": "A Method for Learning From Hints",
+        "AUTHORS": "Yaser S. Abu-Mostafa",
+        "ABSTRACT": "We  address  the  problem  of  learning  an  unknown  function  by  pu tting together several pieces of information (hints) that we  know  about the function.  We introduce a  method that generalizes learn(cid:173) ing from examples to learning from  hints.  A  canonical representa(cid:173) tion  of hints  is  defined and illustrated for  new  types of hints.  All  the hints are represented to the learning process by examples, and  examples of the function are treated on equal footing with the rest  of  the  hints.  During  learning,  examples  from  different  hints  are  selected  for  processing according to a  given  schedule.  We  present  two types of schedules; fixed schedules that specify the relative em(cid:173) phasis of each hint, and adaptive schedules that are based on how  well  each  hint  has  been  learned  so  far.  Our  learning  method  is  compatible with any descent technique that we  may choose to use.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/7750ca3559e5b8e1f44210283368fc16-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/7750ca3559e5b8e1f44210283368fc16-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "66": {
+        "TITLE": "Holographic Recurrent Networks",
+        "AUTHORS": "Tony A. Plate",
+        "ABSTRACT": "Holographic Recurrent Networks (HRNs) are recurrent networks  which incorporate associative memory techniques for storing se(cid:173) quential structure. HRNs can be easily and quickly trained using  gradient descent techniques to generate sequences of discrete out(cid:173) puts and trajectories through continuous spaee. The performance  of HRNs is found to be superior to that of ordinary recurrent net(cid:173) works on these sequence generation tasks.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/7f5d04d189dfb634e6a85bb9d9adf21e-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/7f5d04d189dfb634e6a85bb9d9adf21e-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "67": {
+        "TITLE": "Generalization Abilities of Cascade Network Architecture",
+        "AUTHORS": "E. Littmann, H. Ritter",
+        "ABSTRACT": "In [5], a new incremental cascade network architecture has been  presented. This paper discusses the properties of such cascade  networks and investigates their generalization abilities under the  particular constraint of small data sets. The evaluation is done for  cascade networks consisting of local linear maps using the Mackey(cid:173) Glass time series prediction task as a benchmark. Our results in(cid:173) dicate that to bring the potential of large networks to bear on the  problem of extracting information from small data sets without run(cid:173) ning the risk of overjitting, deeply cascaded network architectures  are more favorable than shallow broad architectures that contain  the same number of nodes.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/84117275be999ff55a987b9381e01f96-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/84117275be999ff55a987b9381e01f96-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "68": {
+        "TITLE": "Explanation-Based Neural Network Learning for Robot Control",
+        "AUTHORS": "Tom M. Mitchell, Sebastian B. Thrun",
+        "ABSTRACT": "How can artificial neural nets generalize better from fewer examples? In order  to generalize successfully, neural network learning methods typically require  large training data sets. We introduce a neural network learning method that  generalizes rationally from many fewer data points, relying instead on prior  knowledge encoded in previously learned neural networks. For example, in robot  control learning tasks reported here, previously learned networks that model the  effects of robot actions are used to guide subsequent learning of robot control  functions. For each observed training example of the target function (e.g. the  robot control policy), the learner explains the observed example in terms of its  prior knowledge, then analyzes this explanation to infer additional information  about the shape, or slope, of the target function. This shape knowledge is used  to bias generalization when learning the target function. Results are presented  applying this approach to a simulated robot task based on reinforcement learning.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/851ddf5058cf22df63d3344ad89919cf-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/851ddf5058cf22df63d3344ad89919cf-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "69": {
+        "TITLE": "Some Solutions to the Missing Feature Problem in Vision",
+        "AUTHORS": "Subutai Ahmad, Volker Tresp",
+        "ABSTRACT": "In visual processing the ability to deal with  missing and noisy informa(cid:173) tion is crucial. Occlusions and unreliable feature detectors often lead to  situations where little or no  direct information about features  is  availa(cid:173) ble.  However  the  available  information  is  usually  sufficient  to  highly  constrain  the  outputs.  We  discuss  Bayesian  techniques  for  extracting  class probabilities given partial data. The optimal solution involves inte(cid:173) grating  over the  missing dimensions  weighted  by  the  local  probability  densities.  We  show  how  to  obtain  closed-form  approximations  to  the  Bayesian  solution  using  Gaussian  basis function  networks.  The frame(cid:173) work  extends  naturally  to  the case of noisy  features.  Simulations on a  complex task (3D  hand gesture recognition)  validate the  theory.  When  both integration and weighting by input densities are used, performance  decreases gracefully with the number of missing or noisy features.  Per(cid:173) formance is substantially degraded if either step is omitted.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/85fc37b18c57097425b52fc7afbb6969-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/85fc37b18c57097425b52fc7afbb6969-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "70": {
+        "TITLE": "A Note on Learning Vector Quantization",
+        "AUTHORS": "Virginia R. de Sa, Dana H. Ballard",
+        "ABSTRACT": "Vector Quantization is useful for data compression.  Competitive Learn(cid:173) ing which minimizes reconstruction error is an appropriate algorithm for  vector quantization of unlabelled data.  Vector quantization of labelled  data for classification has a different objective, to minimize the number  of misclassifications, and a different algorithm is appropriate.  We show  that a  variant of Kohonen's LVQ2.1  algorithm can  be  seen  as  a  multi(cid:173) class  extension of an  algorithm which in a  restricted  2  class  case  can  be proven to converge to the Bayes optimal classification boundary.  We  compare the performance of the LVQ2.1 algorithm to that of a modified  version having a decreasing window and normalized step size, on a ten  class vowel classification problem.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/8757150decbd89b0f5442ca3db4d0e0e-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/8757150decbd89b0f5442ca3db4d0e0e-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "71": {
+        "TITLE": "Diffusion Approximations for the Constant Learning Rate Backpropagation Algorithm and Resistence to Local Minima",
+        "AUTHORS": "William Finnoff",
+        "ABSTRACT": "In this paper we discuss the asymptotic properties of the most com(cid:173) monly used variant of the backpropagation algorithm in which net(cid:173) work weights are trained by means of a local gradient descent on ex(cid:173) amples drawn randomly from a fixed training set, and the learning  rate TJ of the gradient updates is held constant (simple backpropa(cid:173) gation). Using stochastic approximation results, we show that for  TJ ~ 0 this training process approaches a batch training and pro(cid:173) vide results on the rate of convergence. Further, we show that for  small TJ one can approximate simple back propagation by the sum  of a batch training process and a Gaussian diffusion which is the  unique solution to a linear stochastic differential equation. Using  this approximation we indicate the reasons why simple backprop(cid:173) agation is less likely to get stuck in local minima than the batch  training process and demonstrate this empirically on a number of  examples.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/884d247c6f65a96a7da4d1105d584ddd-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/884d247c6f65a96a7da4d1105d584ddd-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "72": {
+        "TITLE": "Analog Cochlear Model for Multiresolution Speech Analysis",
+        "AUTHORS": "Weimin Liu, Andreas G. Andreou, Moise H. Goldstein Jr.",
+        "ABSTRACT": "This paper discusses the parameterization of speech by an analog cochlear  model.  The tradeoff between  time and  frequency  resolution  is  viewed  as  the  fundamental  difference  between  conventional  spectrographic  analysis  and cochlear signal processing for  broadband, rapid-changing signals.  The  model's response exhibits a  wavelet-like analysis in the scale domain that  preserves good temporal resolution; the frequency of each spectral compo(cid:173) nent  in  a  broadband signal  can be accurately  determined  from  the  inter(cid:173) peak  intervals  in  the  instantaneous  firing  rates  of auditory  fibers.  Such  properties  of the  cochlear  model  are  demonstrated  with  natural  speech  and synthetic complex signals.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/8a0e1141fd37fa5b98d5bb769ba1a7cc-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/8a0e1141fd37fa5b98d5bb769ba1a7cc-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "73": {
+        "TITLE": "On Learning µ-Perceptron Networks with Binary Weights",
+        "AUTHORS": "Mostefa Golea, Mario Marchand, Thomas R. Hancock",
+        "ABSTRACT": "Abstract Unavailable",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/8c7bbbba95c1025975e548cee86dfadc-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/8c7bbbba95c1025975e548cee86dfadc-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "74": {
+        "TITLE": "A Boundary Hunting Radial Basis Function Classifier which Allocates Centers Constructively",
+        "AUTHORS": "Eric I. Chang, Richard P Lippmann",
+        "ABSTRACT": "A  new  boundary  hunting  radial  basis  function  (BH-RBF)  classifier  which  allocates  RBF  centers  constructively  near  class  boundaries  is  described.  This  classifier creates complex  decision  boundaries  only  in  regions  where  confusions  occur  and  corresponding  RBF  outputs  are  similar.  A  predicted  square  error  measure  is  used  to  determine  how  many centers to add and to determine when to stop adding centers. Two  experiments are presented which demonstrate the advantages of the BH(cid:173) RBF classifier.  One uses artificial data with  two classes and  two  input  features  where each class contains  four clusters but only  one cluster is  near a decision region boundary. The other uses a large seismic database  with  seven  classes and  14  input features.  In  both  experiments  the  BH(cid:173) RBF classifier provides a lower error rate  with  fewer  centers  than  are  required  by  more  conventional  RBF,  Gaussian  mixture,  or  MLP  classifiers.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/8df707a948fac1b4a0f97aa554886ec8-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/8df707a948fac1b4a0f97aa554886ec8-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "75": {
+        "TITLE": "Learning to See Where and What: Training a Net to Make Saccades and Recognize Handwritten Characters",
+        "AUTHORS": "Gale Martin, Mosfeq Rashid, David Chapman, James A. Pittman",
+        "ABSTRACT": "to  integrated  segmentation  and  This  paper  describes  an  approach  recognition of hand-printed characters.  The approach, called Saccade,  integrates  ballistic  and  corrective  saccades  (eye  movements)  with  character recognition.  A single backpropagation net  is  trained to make  a classification decision on a character centered  in its input window, as  well as to estimate the distance of the current and next character from the  center of the input window.  The net  learns to accurately estimate these  distances  regardless  of variations  in  character  width,  spacing  between  characters,  writing  style  and  other factors.  During  testing,  the  system  uses  the  net~xtracted classification  and  distance  information,  along  with a set of jumping rules, to jump from character to character. \nThe ability to read rests on multiple foundation skills.  In learning how to read, people learn  how to recognize individual characters centered in the visual  field.  They also learn how  to move their eyes along a line of text, sequentially centering the visual field on successive  characters.  We believe that the key to developing optical character recognition (OCR) sys(cid:173) tems that can mimic human reading capabilities, is to develop systems that can learn these  and other skills in an integrated fashion.  In this paper, we demonstrate that a backpropaga(cid:173) tion net can learn to naVigate along a line of handwritten characters, as  well as to recognize  the characters centered in its visual field.  The system, called Saccade, extends the current  state of the art in OCR technology by using a single classifier to accurately and efficiently  locate and recognize characters, regardless of whether they touch each other or are sepa(cid:173) rate.  The Saccade system was described briefly at the last NIPS conference (Martin & Ra(cid:173) shid,  1992).  In this  paper,  we  describe  it  mcx-e  fully  and report on results demonstrating  its accuracy and efficiency in recognizing handwritten digits. \nThe Saccade system takes a cue from the ballistic and corrective saccades (eye movements)  of natural vision systems.  Natural saccades make it possible to efficiently move from one  informative area to another by jumping.  The eye  typically  initiates a ballistic saccade to",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/8ebda540cbcc4d7336496819a46a1b68-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/8ebda540cbcc4d7336496819a46a1b68-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "76": {
+        "TITLE": "How Oscillatory Neuronal Responses Reflect Bistability and Switching of the Hidden Assembly Dynamics",
+        "AUTHORS": "K. Pawelzik, H.-U. Bauer, J. Deppisch, T. Geisel",
+        "ABSTRACT": "A switching between apparently coherent (oscillatory) and stochastic  episodes of activity has been observed in responses from cat and monkey  visual cortex. We describe the dynamics of these phenomena in two paral(cid:173) lel approaches, a phenomenological and a rather microscopic one. On the  one hand we analyze neuronal responses in terms of a hidden state model  (HSM). The parameters of this model are extracted directly from exper(cid:173) imental spike trains. They characterize the underlying dynamics as well  as the coupling of individual neurons to the network. This phenomenolog(cid:173) ical model thus provides a new framework for the experimental analysis  of network dynamics. The application of this method to multi unit ac(cid:173) tivities from the visual cortex of the cat substantiates the existence of  oscillatory and stochastic states and quantifies the switching behaviour  in the assembly dynamics. On the other hand we start from the single  spiking neuron and derive a master equation for the time evolution of the  assembly state which we represent by a phase density. This phase density  dynamics (PDD) exhibits costability of two attractors, a limit cycle, and  a fixed point when synaptic interaction is nonlinear. External fluctuations  can switch the bistable system from one state to the other. Finally we  show, that the two approaches are mutually consistent and therefore both  explain the detailed time structure in the data.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/8fecb20817b3847419bb3de39a609afe-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/8fecb20817b3847419bb3de39a609afe-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "77": {
+        "TITLE": "Summed Weight Neuron Perturbation: An O(N) Improvement Over Weight Perturbation",
+        "AUTHORS": "Barry Flower, Marwan Jabri",
+        "ABSTRACT": "The algorithm presented performs gradient descent on the weight space  of an Artificial Neural Network (ANN), using a finite difference to  approximate the gradient The method is novel in that it achieves a com(cid:173) putational complexity similar to that of Node Perturbation, O(N3), but  does not require access to the activity of hidden or internal neurons.  This is possible due to a stochastic relation between perturbations at the  weights and the neurons of an ANN. The algorithm is also similar to  Weight Perturbation in that it is optimal in terms of hardware require(cid:173) ments when used for the training ofVLSI implementations of ANN's.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/996a7fa078cc36c46d02f9af3bef918b-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/996a7fa078cc36c46d02f9af3bef918b-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "78": {
+        "TITLE": "Extended Regularization Methods for Nonconvergent Model Selection",
+        "AUTHORS": "W. Finnoff, F. Hergert, H. G. Zimmermann",
+        "ABSTRACT": "Many techniques for model selection in the field of neural networks  correspond to well established statistical methods. The method  of 'stopped training', on the other hand, in which an oversized  network is trained until the error on a further validation set of ex(cid:173) amples deteriorates, then training is stopped, is a true innovation,  since model selection doesn't require convergence of the training  process.  In this paper we show that this performance can be significantly  enhanced by extending the 'non convergent model selection method'  of stopped training to include dynamic topology modifications  (dynamic weight pruning) and modified complexity penalty term  methods in which the weighting of the penalty term is adjusted  during the training process.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/9b698eb3105bd82528f23d0c92dedfc0-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/9b698eb3105bd82528f23d0c92dedfc0-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "79": {
+        "TITLE": "Synchronization and Grammatical Inference in an Oscillating Elman Net",
+        "AUTHORS": "Bill Baird, Todd Troyer, Frank Eeckman",
+        "ABSTRACT": "We have designed an architecture to span the gap between bio(cid:173) physics and cognitive science to address and explore issues of how  a discrete symbol processing system can arise from the continuum,  and how complex dynamics like oscillation and synchronization can  then be employed in its operation and affect its learning. We show  how a discrete-time recurrent \"Elman\" network architecture can  be constructed from recurrently connected oscillatory associative  memory modules described by continuous nonlinear ordinary dif(cid:173) ferential equations. The modules can learn connection weights be(cid:173) tween themselves which will cause the system to evolve under a  clocked \"machine cycle\" by a sequence of transitions of attractors  within the modules, much as a digital computer evolves by transi(cid:173) tions of its binary flip-flop attractors. The architecture thus em(cid:173) ploys the principle of \"computing with attractors\" used by macro(cid:173) scopic systems for reliable computation in the presence of noise. We  have specifically constructed a system which functions as a finite  state automaton that recognizes or generates the infinite set of six  symbol strings that are defined by a Reber grammar. It is a symbol  processing system, but with analog input and oscillatory subsym(cid:173) bolic representations. The time steps (machine cycles) of the sys(cid:173) tem are implemented by rhythmic variation (clocking) of a bifurca(cid:173) tion parameter. This holds input and \"context\" modules clamped  at their attractors while 'hidden and output modules change state,  then clamps hidden and output states while context modules are  released to load those states as the new context for the next cycle of  input. Superior noise immunity has been demonstrated for systems  with dynamic attractors over systems with static attractors, and  synchronization (\"binding\") between coupled oscillatory attractors  in different modules has been shown to be important for effecting  reliable transitions.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/9c82c7143c102b71c593d98d96093fde-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/9c82c7143c102b71c593d98d96093fde-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "80": {
+        "TITLE": "Attractor Neural Networks with Local Inhibition: from Statistical Physics to a Digitial Programmable Integrated Circuit",
+        "AUTHORS": "E. Pasero, R. Zecchina",
+        "ABSTRACT": "Networks with local inhibition are shown to have enhanced compu(cid:173) tational performance with respect to the classical Hopfield-like net(cid:173) works. In particular the critical capacity of the network is increased  as well as its capability to store correlated patterns. Chaotic dy(cid:173) namic behaviour (exponentially long transients) of the devices in(cid:173) dicates the overloading of the associative memory. An implementa(cid:173) tion based on a programmable logic device is here presented. A 16  neurons circuit is implemented whit a XILINK 4020 device. The  peculiarity of this solution is the possibility to change parts of the  project (weights, transfer function or the whole architecture) with  a simple software download of the configuration into the XILINK  chip.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/9cc138f8dc04cbf16240daa92d8d50e2-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/9cc138f8dc04cbf16240daa92d8d50e2-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "81": {
+        "TITLE": "Metamorphosis Networks: An Alternative to Constructive Models",
+        "AUTHORS": "Brian V. Bonnlander, Michael Mozer",
+        "ABSTRACT": "Given a set oft raining examples, determining the appropriate num(cid:173) ber  of  free  parameters  is  a  challenging  problem.  Constructive  learning algorithms attempt to solve this problem automatically by  adding  hidden  units,  and  therefore  free  parameters,  during  learn(cid:173) ing.  We  explore  an  alternative  class  of algorithms-called  meta(cid:173) morphosis  algorithms-in  which  the  number  of units  is  fixed,  but  the number of free  parameters gradually increases  during learning.  The architecture we investigate is composed of RBF units on a lat(cid:173) tice,  which  imposes  flexible  constraints  on  the  parameters  of the  network.  Virtues  of this  approach  include  variable  subset  selec(cid:173) tion,  robust  parameter  selection,  multiresolution  processing,  and  interpolation  of sparse training  data.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/9cf81d8026a9018052c429cc4e56739b-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/9cf81d8026a9018052c429cc4e56739b-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "82": {
+        "TITLE": "A Hybrid Linear/Nonlinear Approach to Channel Equalization Problems",
+        "AUTHORS": "Wei-Tsih Lee, John Pearson",
+        "ABSTRACT": "Channel equalization problem is an important problem in high-speed  communications. The sequences of symbols transmitted are distorted by  neighboring symbols. Traditionally, the channel equalization problem is  considered as a channel-inversion operation. One problem of this  approach is that there is no direct correspondence between error proba(cid:173) bility and residual error produced by the channel inversion operation. In  this paper, the optimal equalizer design is formulated as a classification  problem. The optimal classifier can be constructed by Bayes decision  rule. In general it is nonlinear. An efficient hybrid linear/nonlinear  equalizer approach has been proposed to train the equalizer. The error  probability of new linear/nonlinear equalizer has been shown to be bet(cid:173) ter than a linear equalizer in an experimental channel.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/9f396fe44e7c05c16873b05ec425cbad-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/9f396fe44e7c05c16873b05ec425cbad-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "83": {
+        "TITLE": "Physiologically Based Speech Synthesis",
+        "AUTHORS": "Makoto Hirayama, Eric Vatikiotis-Bateson, Kiyoshi Honda, Yasuharu Koike, Mitsuo Kawato",
+        "ABSTRACT": "This study demonstrates a  paradigm for  modeling speech  produc(cid:173) tion  based  on  neural  networks.  Using  physiological  data  from  speech  utterances,  a  neural  network  learns  the  forward  dynamics  relating  motor  commands  to  muscles  and  the  ensuing  articulator  behavior  that  allows  articulator trajectories  to be generated  from  motor commands constrained by phoneme input strings and global  performance parameters.  From these movement trajectories, a sec(cid:173) ond  neural  network generates  PARCOR parameters  that  are  then  used  to synthesize  the speech  acoustics.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/9fe8593a8a330607d76796b35c64c600-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/9fe8593a8a330607d76796b35c64c600-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "84": {
+        "TITLE": "Weight Space Probability Densities in Stochastic Learning: II. Transients and Basin Hopping Times",
+        "AUTHORS": "Genevieve B. Orr, Todd K. Leen",
+        "ABSTRACT": "In  stochastic  learning,  weights  are  random  variables  whose  time  evolution  is  governed  by  a  Markov  process.  At  each  time-step,  n,  the weights  can be described by  a  probability density function  pew, n).  We summarize the theory of the time evolution of P, and  give  graphical  examples  of  the  time  evolution  that  contrast  the  behavior  of stochastic learning  with  true gradient  descent  (batch  learning).  Finally, we use the formalism to obtain predictions of the  time required for noise-induced hopping between basins of different  optima.  We  compare the theoretical predictions with simulations  of large  ensembles  of networks  for  simple  problems in  supervised  and unsupervised learning. \n1  Weight-Space Probability  Densities \nDespite the recent application of convergence theorems from stochastic approxima(cid:173) tion  theory to  neural  network  learning  (Oja 1982,  White  1989)  there remain  out(cid:173) standing questions about the search dynamics in stochastic learning.  For example,  the convergence theorems do  not  tell  us  to which  of several  optima the algorithm",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/a532400ed62e772b9dc0b86f46e583ff-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/a532400ed62e772b9dc0b86f46e583ff-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "85": {
+        "TITLE": "Performance Through Consistency: MS-TDNN's for Large Vocabulary Continuous Speech Recognition",
+        "AUTHORS": "Joe Tebelskis, Alex Waibel",
+        "ABSTRACT": "Connectionist Rpeech recognition systems are often handicapped by  an  inconsistency  between  training and  testing  criteria.  This  prob(cid:173) lem  is  addressed  by  the  Multi-State  Time Delay  Neural  Network  (MS-TDNN), a hierarchical phonf'mp and word classifier which uses  DTW  to  modulate  its  connectivit.y  pattern,  and  which  is  directly  trained  on  word-level  targets.  The  consistent  use  of word  accu(cid:173) racy  as  a  criterion  during  bot.h  t.raining  and  testing  leads  to  very  high  system  performance,  even  wif II  limited  training  dat.a.  Until  now,  the  MS-TDN N  has  been  appli('d  primarily  to  small  vocabu(cid:173) lary  recognition  and  word  spotting  tasks.  In  this  papf'f  we  apply  the architecture to large vocabulary continuous speech recognition,  and  demonstrate  that  our  MS-TDNN  outperforms  all  ot,hf'r  sys(cid:173) tems  that  have  been  tested  on  tht'  eMU  Conference  Registration  database.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/a733fa9b25f33689e2adbe72199f0e62-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/a733fa9b25f33689e2adbe72199f0e62-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "86": {
+        "TITLE": "Generic Analog Neural Computation - The EPSILON Chip",
+        "AUTHORS": "Stephen Churcher, Donald J. Baxter, Alister Hamilton, Alan F. Murray, H. Martin Reekie",
+        "ABSTRACT": "An analog CMOS VLSI neural processing chip has been designed and fabri(cid:173) cated. The device employs \"pulse-stream\" neural state signalljng, and is capa(cid:173) ble of computing some 360 million synaptic connections per secood. In addi(cid:173) tion to basic characterisation results. the performance of the chip in solving  \"real-world\" problems is also demonstrated.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/ab233b682ec355648e7891e66c54191b-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/ab233b682ec355648e7891e66c54191b-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "87": {
+        "TITLE": "Analog VLSI Implementation of Multi-dimensional Gradient Descent",
+        "AUTHORS": "David B. Kirk, Douglas Kerns, Kurt Fleischer, Alan H. Barr",
+        "ABSTRACT": "We describe an analog VLSI implementation of a multi-dimensional  gradient estimation and descent technique for minimizing an on(cid:173) chip scalar function fO. The implementation uses noise injec(cid:173) tion and multiplicative correlation to estimate derivatives, as in  [Anderson, Kerns 92]. One intended application of this technique  is setting circuit parameters on-chip automatically, rather than  manually [Kirk 91]. Gradient descent optimization may be used  to adjust synapse weights for a backpropagation or other on-chip  learning implementation. The approach combines the features of  continuous multi-dimensional gradient descent and the potential  for an annealing style of optimization. We present data measured  from our analog VLSI implementation.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/abd815286ba1007abfbb8415b83ae2cf-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/abd815286ba1007abfbb8415b83ae2cf-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "88": {
+        "TITLE": "Improving Performance in Neural Networks Using a Boosting Algorithm",
+        "AUTHORS": "Harris Drucker, Robert Schapire, Patrice Simard",
+        "ABSTRACT": "A boosting algorithm converts a learning machine with error rate less  than 50% to one with an arbitrarily low error rate. However, the  algorithm discussed here depends on having a large supply of  independent training samples. We show how to circumvent this  problem and generate an ensemble of learning machines whose  performance in optical character recognition problems is dramatically  improved over that of a single network. We report the effect of  boosting on four databases (all handwritten) consisting of 12,000 digits  from segmented ZIP codes from the United State Postal Service  (USPS) and the following from the National Institute of Standards and  Testing (NIST): 220,000 digits, 45,000 upper case alphas, and 45,000  lower case alphas. We use two performance measures: the raw error  rate (no rejects) and the reject rate required to achieve a 1% error rate  on the patterns not rejected. Boosting improved performance in some  cases by a factor of three.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/acc3e0404646c57502b480dc052c4fe1-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/acc3e0404646c57502b480dc052c4fe1-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "89": {
+        "TITLE": "An Object-Oriented Framework for the Simulation of Neural Nets",
+        "AUTHORS": "A. Linden, Th. Sudbrak, Ch. Tietz, F. Weber",
+        "ABSTRACT": "The field of software simulators for neural networks has been ex(cid:173) panding very rapidly in the last years but their importance is still  being underestimated. They must provide increasing levels of as(cid:173) sistance for the design, simulation and analysis of neural networks.  With our object-oriented framework (SESAME) we intend to show  that very high degrees of transparency, manageability and flexibil(cid:173) ity for complex experiments can be obtained. SESAME's basic de(cid:173) sign philosophy is inspired by the natural way in which researchers  explain their computational models. Experiments are performed  with networks of building blocks, which can be extended very eas(cid:173) ily. Mechanisms have been integrated to facilitate the construction  and analysis of very complex architectures. Among these mech(cid:173) anisms are t.he automatic configuration of building blocks for an  experiment and multiple inheritance at run-time.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/ae0eb3eed39d2bcef4622b2499a05fe6-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/ae0eb3eed39d2bcef4622b2499a05fe6-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "90": {
+        "TITLE": "A Practice Strategy for Robot Learning Control",
+        "AUTHORS": "Terence D. Sanger",
+        "ABSTRACT": "\"Trajectory  Extension  Learning\"  is  a  new  technique for  Learning  Control in Robots which assumes that there exists some parameter  of the desired trajectory that can be smoothly varied from a region  of easy  solvability of the dynamics to  a  region  of desired behavior  which may have more difficult dynamics.  By gradually varying the  parameter, practice movements remain near the desired path while  a  Neural Network learns to approximate the inverse dynamics.  For  example,  the average speed of motion might be varied, and the in(cid:173) verse dynamics can be  \"bootstrapped\" from  slow movements with  simpler dynamics to fast  movements.  This provides an example of  the more general  concept  of a  \"Practice  Strategy\"  in  which  a  se(cid:173) quence of intermediate tasks is  used to simplify learning a complex  task.  I  show  an example  of the  application  of this  idea to  a  real  2-joint  direct drive robot arm.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/afd4836712c5e77550897e25711e1d96-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/afd4836712c5e77550897e25711e1d96-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "91": {
+        "TITLE": "Modeling Consistency in a Speaker Independent Continuous Speech Recognition System",
+        "AUTHORS": "Yochai Konig, Nelson Morgan, Chuck Wooters, Victor Abrash, Michael Cohen, Horacio Franco",
+        "ABSTRACT": "We  would like to  incorporate speaker-dependent consistencies, such  as  gender, in an otherwise speaker-independent speech recognition system.  In this paper we discuss a Gender Dependent Neural Network (GDNN)  which can  be tuned for each  gender,  while sharing most of the speaker  independent parameters. We use a classification network to help generate  gender-dependent phonetic probabilities for a statistical (HMM) recogni(cid:173) tion system.  The gender classification net predicts the gender with high  accuracy,  98.3% on a Resource Management test set.  However,  the in(cid:173) tegration of the GDNN into our hybrid HMM-neural network recognizer  provided an improvement in the recognition score that is not statistically  significant on a Resource Management test set.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/b1eec33c726a60554bc78518d5f9b32c-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/b1eec33c726a60554bc78518d5f9b32c-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "92": {
+        "TITLE": "Learning to categorize objects using temporal coherence",
+        "AUTHORS": "Suzanna Becker",
+        "ABSTRACT": "The invariance of an objects' identity as it transformed over time  provides a powerful cue for perceptual learning. We present an un(cid:173) supervised learning procedure which maximizes the mutual infor(cid:173) mation between the representations adopted by a feed-forward net(cid:173) work at consecutive time steps. We demonstrate that the network  can learn, entirely unsupervised, to classify an ensemble of several  patterns by observing pattern trajectories, even though there are  abrupt transitions from one object to another between trajecto(cid:173) ries. The same learning procedure should be widely applicable to  a variety of perceptual learning tasks.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/b2eeb7362ef83deff5c7813a67e14f0a-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/b2eeb7362ef83deff5c7813a67e14f0a-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "93": {
+        "TITLE": "Learning Curves, Model Selection and Complexity of Neural Networks",
+        "AUTHORS": "Noboru Murata, Shuji Yoshizawa, Shun-ichi Amari",
+        "ABSTRACT": "Learning  curves  show  how  a  neural  network  is  improved  as  the  number  of  t.raiuing  examples  increases  and  how  it  is  related  to  the  network  complexity.  The  present  paper  clarifies  asymptotic  properties and  their relation of t.wo  learning curves, one concerning  the predictive loss  or generalization  loss  and  the other the training  loss.  The  result  gives  a  natural  definition  of the  complexity  of  a  neural  network.  Moreover,  it  provides  a  new  criterion  of  model  selection.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/b2f627fff19fda463cb386442eac2b3d-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/b2f627fff19fda463cb386442eac2b3d-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "94": {
+        "TITLE": "Optimal Depth Neural Networks for Multiplication and Related Problems",
+        "AUTHORS": "Kai-Yeung Siu, Vwani Roychowdhury",
+        "ABSTRACT": "An artificial neural network (ANN) is commonly modeled by a threshold  circuit, a network of interconnected processing units called linear threshold  gates. The depth of a network represents the number of unit delays or the  time for parallel computation. The SIze of a circuit is the number of gates  and measures the amount of hardware . It was known that traditional logic  circuits consisting of only unbounded fan-in AND, OR, NOT gates would  require at least O(log n/log log n) depth to compute common arithmetic  functions such as the product or the quotient of two n-bit numbers, unless  we allow the size (and fan-in) to increase exponentially (in n). We show in  this paper that ANNs can be much more powerful than traditional logic  circuits. In particular, we prove that that iterated addition can be com(cid:173) puted by depth-2 ANN, and multiplication and division can be computed  by depth-3 ANNs with polynomial size and polynomially bounded integer  weights, respectively. Moreover, it follows from known lower bound re(cid:173) sults that these ANNs are optimal in depth. We also indicate that these  techniques can be applied to construct polynomial-size depth-3 ANN for  powering, and depth-4 ANN for mUltiple product.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/b4288d9c0ec0a1841b3b3728321e7088-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/b4288d9c0ec0a1841b3b3728321e7088-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "95": {
+        "TITLE": "Time Warping Invariant Neural Networks",
+        "AUTHORS": "Guo-Zheng Sun, Hsing-Hen Chen, Yee-Chun Lee",
+        "ABSTRACT": "We proposed a model of Time Warping Invariant Neural Networks (TWINN) \nto handle the time warped continuous signals. Although TWINN is a simple modifica(cid:173) tion of well known recurrent neural  network, analysis  has  shown  that TWINN com(cid:173) pletely removes time warping and is  able to handle difficult classification problem. It  is also shown that TWINN has certain advantages over the current available sequential  processing  schemes:  Dynamic  Programming(DP)[I],  Hidden  Markov  Model((cid:173) HMM)[2],  Time  Delayed  Neural  Networks(TDNN)  [3]  and  Neural  Network  Finite  Automata(NNFA)[4]. \nWe also analyzed the time continuity employed in TWINN and pointed out that \nthis  kind of structure can memorize longer input history compared with Neural Net(cid:173) work Finite Automata (NNFA).  This  may  help  to  understand  the  well  accepted fact  that for  learning  grammatical reference with NNF A one had to start with  very short  strings in training set. \nThe  numerical  example  we  used  is  a  trajectory  classification  problem.  This \nproblem, making a feature of variable sampling rates, having internal states, continu(cid:173) ous  dynamics,  heavily  time-warped  data  and  deformed  phase  space  trajectories,  is  shown to be difficult to other schemes. With TWINN this problem has been learned in  100 iterations. For benchmark we also trained the exact same problem with TDNN and  completely failed as expected.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/b4a528955b84f584974e92d025a75d1f-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/b4a528955b84f584974e92d025a75d1f-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "96": {
+        "TITLE": "Deriving Receptive Fields Using an Optimal Encoding Criterion",
+        "AUTHORS": "Ralph Linsker",
+        "ABSTRACT": "An  information-theoretic  optimization  principle  ('infomax')  has  previously  been  used  for  unsupervised  learning  of statistical  reg(cid:173) ularities in an input ensemble.  The principle states that the input(cid:173) output mapping implemented by a  processing stage should be cho(cid:173) sen  so  as  to  maximize  the  average  mutual  information  between  input  and output  patterns,  subject  to constraints  and in  the  pres(cid:173) ence  of processing  noise.  In the present  work  I show  how  infomax,  when  applied  to  a  class  of nonlinear  input-output  mappings,  can  under  certain  conditions  generate  optimal filters  that  have  addi(cid:173) tional  useful  properties:  (1)  Output  activity  (for  each  input  pat(cid:173) tern)  tends  to  be  concentrated  among  a  relatively  small  number  (2)  The  filters  are  sensitive  to  higher-order  statistical  of  nodes.  structure  (beyond  pairwise correlations).  If the  input features  are  localized,  the  filters'  receptive  fields  tend  to  be  localized  as  well.  (3)  Multiresolution sets  of filters  with  subsampling at  low  spatial  frequencies - related to pyramid coding and wavelet representations  - emerge as favored  solutions for  certain types of input ensembles.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/b5dc4e5d9b495d0196f61d45b26ef33e-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/b5dc4e5d9b495d0196f61d45b26ef33e-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "97": {
+        "TITLE": "Connected Letter Recognition with a Multi-State Time Delay Neural Network",
+        "AUTHORS": "Hermann Hild, Alex Waibel",
+        "ABSTRACT": "The  Multi-State  Time  Delay  Neural  Network  (MS-TDNN)  inte(cid:173) grates  a nonlinear time alignment procedure  (DTW) and the high(cid:173) accuracy  phoneme spotting capabilities of a TDNN into  a  connec(cid:173) tionist speech recognition system with word-level classification and  error  backpropagation.  We  present  an  MS-TDNN  for  recognizing  continuously  spelled  letters,  a  task  characterized  by  a  small  but  highly confusable vocabulary.  Our MS-TDNN  achieves  98.5/92.0%  word  accuracy  on  speaker  dependent/independent  tasks,  outper(cid:173) forming previously reported results on the same databases.  We pro(cid:173) pose training techniques  aimed at improving sentence  level  perfor(cid:173) mance, including free  alignment  across  word  boundaries,  word  du(cid:173) ration  modeling and error backpropagation on  the sentence  rather  than the word level.  Architectures  integrating submodules special(cid:173) ized  on  a  subset  of speakers  achieved further  improvements.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/b73dfe25b4b8714c029b37a6ad3006fa-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/b73dfe25b4b8714c029b37a6ad3006fa-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "98": {
+        "TITLE": "Input Reconstruction Reliability Estimation",
+        "AUTHORS": "Dean A. Pomerleau",
+        "ABSTRACT": "This paper describes a technique called Input Reconstruction Reliability Estimation  (IRRE) for determining the response reliability of a restricted class of multi-layer  perceptrons (MLPs). The technique uses a network's ability to accurately encode  the input pattern in its internal representation as a measure of its reliability. The  more accurately a network is able to reconstruct the input pattern from its internal  representation, the more reliable the network is considered to be. IRRE is provides  a good estimate of the reliability of MLPs trained for autonomous driving. Results  are presented in which the reliability estimates provided by IRRE are used to select  between networks trained for different driving situations.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/b7bb35b9c6ca2aee2df08cf09d7016c2-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/b7bb35b9c6ca2aee2df08cf09d7016c2-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "99": {
+        "TITLE": "Mapping Between Neural and Physical Activities of the Lobster Gastric Mill",
+        "AUTHORS": "Kenji Doya, Mary E. T. Boyle, Allen I. Selverston",
+        "ABSTRACT": "A computer model of the musculoskeletal system of the lobster  gastric mill was constructed in order to provide a behavioral in(cid:173) terpretation of the rhythmic patterns obtained from isolated stom(cid:173) atogastric ganglion. The model was based on Hill's muscle model  and quasi-static approximation of the skeletal dynamics and could  simulate the change of chewing patterns by the effect of neuromod(cid:173) ulators. \n1 THE STOMATOGASTRIC NERVOUS SYSTEM \nThe crustacean stomatogastric ganglion (STG) is a circuit of 30 neurons that con(cid:173) trols rhythmic movement of the foregut. It is one of the best elucidated neural  circuits. All the neurons and the synaptic connections between them are identi(cid:173) fied and the effects of neuromodulators on the oscillation patterns and neuronal  characteristics have been extensively studied (Selverston and Moulins 1987, H arris(cid:173) Warrick et al. 1992). However, STG's function as a controller of ingestive behavior  is not fully understood in part because of our poor understanding of the controlled  object: the musculoskeletal dynamics of the foregut. We constructed a mathemat(cid:173) ical model of the gastric mill, three teeth in the stomach, in order to predict motor  patterns from the neural oscillation patterns which are recorded from the isolated  ganglion. \nThe animal we used was the Californian spiny lobster (Panulirus interruptus), which",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/be3159ad04564bfb90db9e32851ebf9c-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/be3159ad04564bfb90db9e32851ebf9c-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "100": {
+        "TITLE": "A Fast Stochastic Error-Descent Algorithm for Supervised Learning and Optimization",
+        "AUTHORS": "Gert Cauwenberghs",
+        "ABSTRACT": "A  parallel  stochastic  algorithm  is  investigated  for  error-descent  learning  and  optimization in  deterministic  networks  of arbitrary  topology.  No  explicit  information  about  internal  network  struc(cid:173) ture is needed.  The method is  based on the model-free distributed  learning mechanism of Dembo and Kailath.  A modified parameter  update rule is proposed by which each individual parameter vector  perturbation contributes a  decrease in error.  A substantially faster  learning speed  is  hence  allowed.  Furthermore,  the  modified  algo(cid:173) rithm  supports  learning  time-varying  features  in  dynamical  net(cid:173) works.  We  analyze  the  convergence  and  scaling  properties  of the  algorithm,  and  present  simulation results  for  dynamic  trajectory  learning in recurrent  networks. \n1  Background and  Motivation \nWe address general optimization tasks that require finding a set of constant param(cid:173) eter  values Pi  that minimize a  given error  functional £(p).  For supervised learning,  the error functional consists of some quantitative measure of the deviation between  a  desired  state  x T  and  the  actual state of a  network  x,  resulting  from  an input  y  and  the  parameters  p.  In  such  context  the  components  of p  consist  of the  con(cid:173) nection  strengths,  thresholds  and  other  adjustable  parameters  in  the  network.  A",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/c06d06da9666a219db15cf575aff2824-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/c06d06da9666a219db15cf575aff2824-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "101": {
+        "TITLE": "Nets with Unreliable Hidden Nodes Learn Error-Correcting Codes",
+        "AUTHORS": "Stephen Judd, Paul W. Munro",
+        "ABSTRACT": "In a multi-layered neural network, anyone of the hidden layers can be  viewed as computing a distributed representation of the input. Several  \"encoder\" experiments have shown that when the representation space is  small it can be fully used. But computing with such a representation  requires completely dependable nodes. In the case where the hidden  nodes are noisy and unreliable, we find that error correcting schemes  emerge simply by using noisy units during training; random errors in(cid:173) jected during backpropagation result in spreading representations apart.  Average and minimum distances increase with misfire probability, as  predicted by coding-theoretic considerations. Furthennore, the effect of  this noise is to protect the machine against permanent node failure,  thereby potentially extending the useful lifetime of the machine.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/c361bc7b2c033a83d663b8d9fb4be56e-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/c361bc7b2c033a83d663b8d9fb4be56e-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "102": {
+        "TITLE": "Unsmearing Visual Motion: Development of Long-Range Horizontal Intrinsic Connections",
+        "AUTHORS": "Kevin E. Martin, Jonathan A. Marshall",
+        "ABSTRACT": "Human VlSlon systems integrate information nonlocally, across long  spatial ranges.  For example, a moving stimulus appears smeared  when viewed briefly (30 ms), yet sharp when viewed for a longer  exposure (100 ms) (Burr, 1980). This suggests that visual systems  combine information along a trajectory that matches the motion of  the stimulus. Our self-organizing neural network model shows how  developmental exposure to moving stimuli can direct the formation of  horizontal trajectory-specific motion integration pathways that unsmear  representations of moving stimuli. These results account for Burr's data  and can potentially also model ot.her phenomena, such as visual inertia.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/c3992e9a68c5ae12bd18488bc579b30d-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/c3992e9a68c5ae12bd18488bc579b30d-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "103": {
+        "TITLE": "Remote Sensing Image Analysis via a Texture Classification Neural Network",
+        "AUTHORS": "Hayit K. Greenspan, Rodney Goodman",
+        "ABSTRACT": "In this work we apply a texture classification network to remote sensing im(cid:173) age analysis. The goal is to extract the characteristics of the area depicted  in the input image, thus achieving a segmented map of the region. We have  recently proposed a combined neural network and rule-based framework  for texture recognition. The framework uses unsupervised and supervised  learning, and provides probability estimates for the output classes. We  describe the texture classification network and extend it to demonstrate  its application to the Landsat and Aerial image analysis domain .",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/c5ab0bc60ac7929182aadd08703f1ec6-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/c5ab0bc60ac7929182aadd08703f1ec6-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "104": {
+        "TITLE": "Filter Selection Model for Generating Visual Motion Signals",
+        "AUTHORS": "Steven J. Nowlan, Terrence J. Sejnowski",
+        "ABSTRACT": "Neurons  in  area  MT of primate visual  cortex  encode  the  velocity  of moving objects.  We present  a  model of how  MT cells  aggregate  responses  from  VI  to  form  such  a  velocity  representation.  Two  different  sets  of units,  with  local  receptive  fields,  receive  inputs  from motion energy filters.  One set of units forms estimates of local  motion, while the second set computes the utility of these estimates.  Outputs from  this second set  of units  \"gate\"  the outputs from  the  first  set  through  a  gain  control  mechanism.  This  active  process  for  selecting  only  a  subset  of local  motion  responses  to  integrate  into more global  responses  distinguishes  our  model from  previous  models of velocity estimation.  The model yields  accurate  velocity  estimates  in  synthetic  images  containing multiple moving  targets  of varying size,  luminance,  and spatial frequency  profile and  deals  well  with a  number of transparency  phenomena.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/ca9c267dad0305d1a6308d2a0cf1c39c-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/ca9c267dad0305d1a6308d2a0cf1c39c-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "105": {
+        "TITLE": "Non-Linear Dimensionality Reduction",
+        "AUTHORS": "David DeMers, Garrison W. Cottrell",
+        "ABSTRACT": "A method for creating a non-linear encoder-decoder for multidimensional data  with  compact  representations  is  presented.  The commonly  used  technique of  autoassociation is extended  to allow non-linear representations,  and an  objec(cid:173) tive  function  which  penalizes activations  of individual  hidden  units  is  shown  to  result in minimum dimensional encodings with respect to allowable error in  reconstruction.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/cdc0d6e63aa8e41c89689f54970bb35f-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/cdc0d6e63aa8e41c89689f54970bb35f-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "106": {
+        "TITLE": "Feudal Reinforcement Learning",
+        "AUTHORS": "Peter Dayan, Geoffrey E. Hinton",
+        "ABSTRACT": "One way to speed up reinforcement learning is to enable learning to  happen simultaneously at multiple resolutions in space and time.  This paper shows how to create a Q-Iearning managerial hierarchy  in which high level managers learn how to set tasks to their sub(cid:173) managers who, in turn, learn how to satisfy them.  Sub-managers  need  not initially understand  their managers' commands.  They  simply learn to maximise their reinforcement in the context of the  current command.  We illustrate the system using a simple maze task ..  As the system  learns  how to get around,  satisfying commands at the multiple  levels, it explores more efficiently than standard, flat,  Q-Iearning  and builds a more comprehensive map.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/d14220ee66aeec73c49038385428ec4c-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/d14220ee66aeec73c49038385428ec4c-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "107": {
+        "TITLE": "A Neural Network that Learns to Interpret Myocardial Planar Thallium Scintigrams",
+        "AUTHORS": "Charles Rosenberg, Jacob Erel, Henri Atlan",
+        "ABSTRACT": "The planar thallium-201 myocardial perfusion scintigram is a widely used  diagnostic technique for detecting and estimating the risk of coronary  artery disease. Neural networks learned to interpret 100 thallium scinti(cid:173) grams as determined by individual expert ratings. Standard error back(cid:173) propagation was compared to standard LMS, and LMS combined with  one layer of RBF units. Using the \"leave-one-out\" method, generaliza(cid:173) tion was tested on all 100 cases. Training time was determined automati(cid:173) cally from cross-validation perfonnance. Best perfonnance was attained  by the RBF/LMS network with three hidden units per view and compares  favorably with human experts.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/d490d7b4576290fa60eb31b5fc917ad1-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/d490d7b4576290fa60eb31b5fc917ad1-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "108": {
+        "TITLE": "Learning Cellular Automaton Dynamics with Neural Networks",
+        "AUTHORS": "N. H. Wulff, J A Hertz",
+        "ABSTRACT": "We have trained networks of E - II units with short-range connec(cid:173) tions to simulate simple cellular automata that exhibit complex or  chaotic behaviour. Three levels of learning are possible (in decreas(cid:173) ing order of difficulty): learning the underlying automaton rule,  learning asymptotic dynamical behaviour, and learning to extrap(cid:173) olate the training history. The levels of learning achieved with and  without weight sharing for different automata provide new insight  into their dynamics.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/d6c651ddcd97183b2e40bc464231c962-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/d6c651ddcd97183b2e40bc464231c962-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "109": {
+        "TITLE": "Probability Estimation from a Database Using a Gibbs Energy Model",
+        "AUTHORS": "John W. Miller, Rodney M. Goodman",
+        "ABSTRACT": "We present an algorithm for creating a neural network which pro(cid:173) duces accurate probability estimates as outputs. The network im(cid:173) plements a Gibbs probability distribution model of the training  database. This model is created by a new transformation relating  the joint probabilities of attributes in the database to the weights  (Gibbs potentials) of the distributed network model. The theory  of this transformation is presented together with experimental re(cid:173) sults. One advantage of this approach is the network weights are  prescribed without iterative gradient descent. Used as a classifier  the network tied or outperformed published results on a variety of  databases.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/d7a728a67d909e714c0774e22cb806f2-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/d7a728a67d909e714c0774e22cb806f2-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "110": {
+        "TITLE": "Word Space",
+        "AUTHORS": "Hinrich Schütze",
+        "ABSTRACT": "Representations  for  semantic  information about  words  are  neces(cid:173) sary  for  many applications of neural  networks  in natural language  processing.  This paper describes  an efficient,  corpus-based method  for  inducing distributed semantic  representations  for  a  large num(cid:173) ber  of words  (50,000)  from  lexical  coccurrence  statistics by means  of a  large-scale  linear  regression.  The  representations  are  success(cid:173) fully applied to word sense disambiguation using a nearest neighbor  method .",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/d86ea612dec96096c5e0fcc8dd42ab6d-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/d86ea612dec96096c5e0fcc8dd42ab6d-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "111": {
+        "TITLE": "An Analog VLSI Chip for Radial Basis Functions",
+        "AUTHORS": "Janeen Anderson, John C. Platt, David B. Kirk",
+        "ABSTRACT": "We have designed, fabricated, and tested an analog VLSI chip  which computes radial basis functions in parallel. We have de(cid:173) veloped a synapse circuit that approximates a quadratic function.  We aggregate these circuits to form radial basis functions. These  radial basis functions are then averaged together using a follower  aggregator.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/daca41214b39c5dc66674d09081940f0-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/daca41214b39c5dc66674d09081940f0-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "112": {
+        "TITLE": "Predicting Complex Behavior in Sparse Asymmetric Networks",
+        "AUTHORS": "Ali A. Minai, William B. Levy",
+        "ABSTRACT": "Recurrent  networks  of threshold  elements  have  been  studied  inten(cid:173) sively  as  associative  memories and pattern-recognition devices. While  most  research  has  concentrated  on  fully-connected  symmetric  net(cid:173) works.  which  relax  to  stable  fixed  points.  asymmetric  networks  show  richer dynamical behavior. and can be used as  sequence  generators or  flexible  pattern-recognition  devices.  In  this  paper.  we  approach  the  problem of predicting  the  complex global behavior of a  class  of ran(cid:173) dom asymmetric networks in terms of network parameters.  These net(cid:173) works can show fixed-point.  cyclical or effectively aperiodic  behavior.  depending  on  parameter  values.  and  our approach  can  be used  to  set  parameters.  as  necessary.  to  obtain a  desired complexity of dynamics.  The  approach  also  provides  qualitative  insight  into  why  the  system  behaves as it does and suggests possible applications.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/dbe272bab69f8e13f14b405e038deb64-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/dbe272bab69f8e13f14b405e038deb64-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "113": {
+        "TITLE": "Destabilization and Route to Chaos in Neural Networks with Random Connectivity",
+        "AUTHORS": "Bernard Doyon, Bruno Cessac, Mathias Quoy, Manuel Samuelides",
+        "ABSTRACT": "The occurence of chaos  in recurrent neural  networks  is  supposed to  depend on the architecture and on the synaptic coupling strength. It is  studied here for a randomly diluted architecture.  By normalizing  the  variance  of synaptic  weights,  we  produce  a  bifurcation  parameter,  dependent on this variance and on the slope of the transfer function but  independent of the connectivity, that allows a sustained activity and the  occurence  of  chaos  when  reaching  a  critical  value.  Even  for  weak  connectivity  and small size, we find  numerical results in accordance  with the theoretical  ones  previously  established  for  fully  connected  infinite  sized  networks.  Moreover  the  route  towards  chaos  is  numerically checked to be a quasi-periodic one, whatever the type of the  first bifurcation is (Hopf bifurcation, pitchfork or flip).",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/dc6a70712a252123c40d2adba6a11d84-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/dc6a70712a252123c40d2adba6a11d84-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "114": {
+        "TITLE": "Recognition-based Segmentation of On-Line Hand-printed Words",
+        "AUTHORS": "M. Schenkel, H. Weissman, I. Guyon, C. Nohl, D. Henderson",
+        "ABSTRACT": "This paper reports on the performance of two methods for  recognition-based segmentation of strings of on-line hand-printed  capital Latin characters. The input strings consist of a time(cid:173) ordered sequence of X-Y coordinates, punctuated by pen-lifts. The  methods were designed to work in \"run-on mode\" where there is no  constraint on the spacing between characters. While both methods  use a neural network recognition engine and a graph-algorithmic  post-processor, their approaches to segmentation are quite differ(cid:173) ent. The first method, which we call IN SEC (for input segmen(cid:173) tation), uses a combination of heuristics to identify particular pen(cid:173) lifts as tentative segmentation points. The second method, which  we call OUTSEC (for output segmentation), relies on the empiri(cid:173) cally trained recognition engine for both recognizing characters and  identifying relevant segmentation points.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/dc82d632c9fcecb0778afbc7924494a6-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/dc82d632c9fcecb0778afbc7924494a6-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "115": {
+        "TITLE": "Some Estimates of Necessary Number of Connections and Hidden Units for Feed-Forward Networks",
+        "AUTHORS": "Adam Kowalczyk",
+        "ABSTRACT": "The feed-forward networks with fixed hidden units (FllU-networks)  are compared against the category of remaining feed-forward net(cid:173) works with variable hidden units (VHU-networks). Two broad  classes of tasks on a finite domain X C R n are considered: ap(cid:173) proximation of every function from an open subset of functions on  X and representation of every dichotomy of X. For the first task  it is found that both network categories require the same minimal  number of synaptic weights. For the second task and X in gen(cid:173) eral position it is shown that VHU-networks with threshold logic  hidden units can have approximately lin times fewer hidden units  than any FHU-network must have.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/e4bb4c5173c2ce17fd8fcd40041c068f-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/e4bb4c5173c2ce17fd8fcd40041c068f-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "116": {
+        "TITLE": "The Power of Approximating: a Comparison of Activation Functions",
+        "AUTHORS": "Bhaskar DasGupta, Georg Schnitger",
+        "ABSTRACT": "We compare activation functions in terms of the approximation  power of their feedforward nets. We consider the case of analog as  well as boolean input.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/e555ebe0ce426f7f9b2bef0706315e0c-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/e555ebe0ce426f7f9b2bef0706315e0c-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "117": {
+        "TITLE": "Neural Network Model Selection Using Asymptotic Jackknife Estimator and Cross-Validation Method",
+        "AUTHORS": "Yong Liu",
+        "ABSTRACT": "Two  theorems  and  a  lemma are  presented  about  the  use  of jackknife es(cid:173) timator and  the  cross-validation  method for  model selection.  Theorem  1  gives  the asymptotic form for  the jackknife estimator.  Combined with the  model selection  criterion,  this asymptotic form  can  be  used  to obtain the  fit  of a  model.  The model selection  criterion we  used  is the negative of the  average predictive likehood, the choice of which is  based on the idea of the  cross-validation  method.  Lemma 1  provides  a  formula  for  further  explo(cid:173) ration of the asymptotics of the model selection criterion.  Theorem 2 gives  an asymptotic form of the model selection criterion for  the regression  case,  when  the  parameters optimization criterion  has a  penalty term.  Theorem  2  also  proves  the  asymptotic equivalence  of Moody's  model selection  cri(cid:173) terion  (Moody,  1992)  and  the  cross-validation method,  when  the distance  measure  between  response  y  and  regression  function  takes  the  form  of a  squared  difference.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/e5841df2166dd424a57127423d276bbe-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/e5841df2166dd424a57127423d276bbe-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "118": {
+        "TITLE": "Context-Dependent Multiple Distribution Phonetic Modeling with MLPs",
+        "AUTHORS": "Michael Cohen, Horacio Franco, Nelson Morgan, David E. Rumelhart, Victor Abrash",
+        "ABSTRACT": "A  number  of  hybrid  multilayer  perceptron  (MLP)/hidden  Markov  model  (HMM:)  speech  recognition  systems  have  been  developed  in  recent  years  (Morgan  and Bourlard.  1990).  In  this  paper.  we  present  a  new  MLP  architecture  and  training  algorithm  which  allows  the  modeling  of  context-dependent  phonetic  classes  in  a  hybrid  MLP/HMM:  framework.  The  new  training  procedure  smooths  MLPs  trained  at  different  degrees  of context  dependence  in  order  to obtain  a  robust  estimate  of the  cootext-dependent  probabilities.  Tests  with  the  DARPA  Resomce  Management  database  have  shown  substantial  advantages  of  the  context-dependent  MLPs  over  earlier  cootext(cid:173) independent  MLPs.  and  have  shown  substantial  advantages  of  this  hybrid approach over a pure  HMM approach.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/e70611883d2760c8bbafb4acb29e3446-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/e70611883d2760c8bbafb4acb29e3446-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "119": {
+        "TITLE": "On the Use of Evidence in Neural Networks",
+        "AUTHORS": "David Wolpert",
+        "ABSTRACT": "The Bayesian \"evidence\" approximation has recently been employed to  determine the noise and weight-penalty terms used in back-propagation.  This paper shows that for neural nets it is far easier to use the exact result  than  it is  to use  the evidence approximation. Moreover,  unlike  the evi(cid:173) dence approximation, the exact result neither has to be re-calculated for  every new data set, nor requires the running of computer code (the exact  result is  closed  form).  In  addition, it turns out that the evidence proce(cid:173) dure's MAP estimate for neural nets is, in toto, approximation error. An(cid:173) other advantage of the exact analysis is that it does not lead one to incor(cid:173) rect intuition, like the claim that using evidence one can \"evaluate differ(cid:173) ent  priors  in  light of the  data\".  This  paper also  discusses  sufficiency  conditions for the evidence approximation to hold, why it can sometimes  give \"reasonable\" results, etc. \n1  THE EVIDENCE APPROXIMATION \nIt has recently become popular to consider the problem of training neural nets from a Baye(cid:173) sian viewpoint (Buntine and Weigend 1991, MacKay  1992). The usual way of doing this  starts by assuming that there is some underlying target function f from Rn  to R, parameter(cid:173) ized by an N-dimensional weight vector w.  We are provided with a training set L of noise(cid:173) corrupted samples of f.  Our goal is to make a guess for w, basing that guess only on L. Now  assume we have Li.d. additive gaussian noise resulting in P(L I w, ~) oc  exp(-~ X2)), where  X2(w, L) is the usual sum-squared training set error, and ~ reflects the noise level. Assume  further that P(w I a.)  oc exp(-o.W(w)), where W(w) is the sum of the squares ofthe weights.  If the values of a. and ~ are known and fixed, to the values ~ and ~t respectively, then P(w)",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/e7f8a7fb0b77bcb3b283af5be021448f-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/e7f8a7fb0b77bcb3b283af5be021448f-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "120": {
+        "TITLE": "Automatic Capacity Tuning of Very Large VC-Dimension Classifiers",
+        "AUTHORS": "I. Guyon, B. Boser, V. Vapnik",
+        "ABSTRACT": "Large VC-dimension classifiers can learn difficult tasks, but are usually  impractical because they generalize well only if they are trained with huge  quantities of data. In this paper we show that even high-order polynomial  classifiers in high dimensional spaces can be trained with a small amount  of training data and yet generalize better than classifiers with a smaller  VC-dimension. This is achieved with a maximum margin algorithm (the  Generalized Portrait). The technique is applicable to a wide variety of  classifiers, including Perceptrons, polynomial classifiers (sigma-pi unit net(cid:173) works) and Radial Basis Functions. The effective number of parameters is  adjusted automatically by the training algorithm to match the complexity  of the problem. It is shown to equal the number of those training patterns  which are closest patterns to the decision boundary (supporting patterns).  Bounds on the generalization error and the speed of convergence of the al(cid:173) gorithm are given. Experimental results on handwritten digit recognition  demonstrate good generalization compared to other algorithms.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/eaae339c4d89fc102edd9dbdb6a28915-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/eaae339c4d89fc102edd9dbdb6a28915-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "121": {
+        "TITLE": "Interposing an ontogenetic model between Genetic Algorithms and Neural Networks",
+        "AUTHORS": "Richard K. Belew",
+        "ABSTRACT": "The relationships between learning, development and evolution in  Nature is taken seriously, to suggest a model of the developmental  process whereby the genotypes manipulated by the Genetic Algo(cid:173) rithm (GA) might be expressed to form phenotypic neural networks  (NNet) that then go on to learn. ONTOL is a grammar for gener(cid:173) ating polynomial NN ets for time-series prediction. Genomes corre(cid:173) spond to an ordered sequence of ONTOL productions and define a  grammar that is expressed to generate a NNet. The NNet's weights  are then modified by learning, and the individual's prediction error  is used to determine GA fitness. A new gene doubling operator  appears critical to the formation of new genetic alternatives in the  preliminary but encouraging results presented.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/eb6fdc36b281b7d5eabf33396c2683a2-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/eb6fdc36b281b7d5eabf33396c2683a2-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "122": {
+        "TITLE": "Bayesian Learning via Stochastic Dynamics",
+        "AUTHORS": "Radford M. Neal",
+        "ABSTRACT": "The  attempt  to  find  a  single  \"optimal\"  weight  vector  in  conven(cid:173) tional network training can lead to overfitting and poor generaliza(cid:173) tion.  Bayesian methods avoid  this,  without the  need  for  a  valida(cid:173) tion set,  by  averaging the outputs of many  networks with  weights  sampled  from  the  posterior  distribution  given  the  training  data.  This sample can be obtained by simulating a  stochastic dynamical  system that has the posterior as  its stationary distribution. \n1  CONVENTIONAL AND  BAYESIAN  LEARNING \nI view neural networks as probabilistic models, and learning as statistical inference.  Conventional  network  learning  finds  a  single  \"optimal\"  set  of network  parameter  values,  corresponding  to maximum likelihood or maximum penalized likelihood in(cid:173) ference.  Bayesian  inference  instead  integrates  the  predictions of the  network  over  all  possible  values  of the  network  parameters,  weighting each  parameter set  by  its  posterior probability in light of the training data. \n1.1  NEURAL  NETWORKS  AS  PROBABILISTIC MODELS \nConsider a network taking a vector of real-valued inputs, x, and producing a  vector  of real-valued  outputs,  y,  perhaps  computed  using  hidden  units.  Such  a  network  architecture corresponds  to a function,  I,  with y = I(x, w),  where w  is  a  vector of  connection weights.  If we assume the observed outputs, y, are equal to y  plus Gaus(cid:173) sian noise  of standard deviation  (j,  the network  defines  the conditional probability",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/f29c21d4897f78948b91f03172341b7b-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/f29c21d4897f78948b91f03172341b7b-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "123": {
+        "TITLE": "Biologically Plausible Local Learning Rules for the Adaptation of the Vestibulo-Ocular Reflex",
+        "AUTHORS": "Olivier Coenen, Terrence J. Sejnowski, Stephen G. Lisberger",
+        "ABSTRACT": "The vestibulo-ocular reflex (VOR) is a compensatory eye movement that  stabilizes images on the retina during head turns. Its magnitude, or gain,  can be modified by visual experience during head movements. Possible  learning mechanisms for this adaptation have been explored in a model  of the oculomotor system based on anatomical and physiological con(cid:173) straints. The local correlational learning rules in our model reproduce the  adaptation and behavior of the VOR under certain parameter conditions.  From these conditions, predictions for the time course of adaptation at  the learning sites are made.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/f64eac11f2cd8f0efa196f8ad173178e-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/f64eac11f2cd8f0efa196f8ad173178e-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "124": {
+        "TITLE": "Combining Neural and Symbolic Learning to Revise Probabilistic Rule Bases",
+        "AUTHORS": "J. Jeffrey Mahoney, Raymond J. Mooney",
+        "ABSTRACT": "a system for  revising probabilis(cid:173)\nThis paper describes  RAPTURE  - tic  knowledge  bases  that  combines  neural  and  symbolic  learning  methods.  RAPTURE  uses  a  modified  version  of backpropagation  to refine  the  certainty factors  of a  MYCIN-style  rule base  and  uses  ID3's  information gain  heuristic  to  add  new  rules.  Results on  re(cid:173) fining  two  actual  expert  knowledge  bases  demonstrate  that  this  combined approach performs better  than previous methods.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/f76a89f0cb91bc419542ce9fa43902dc-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/f76a89f0cb91bc419542ce9fa43902dc-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "125": {
+        "TITLE": "Transient Signal Detection with Neural Networks: The Search for the Desired Signal",
+        "AUTHORS": "José Carlos Príncipe, Abir Zahalka",
+        "ABSTRACT": "Matched  filtering  has  been  one  of the  most  powerful  techniques  employed for transient detection. Here we will show that a dynamic  neural  network  outperforms  the  conventional  approach.  When  the  artificial neural  network (ANN) is  trained with supervised learning  schemes  there  is  a  need  to  supply  the  desired  signal  for  all  time,  although  we  are  only  interested  in  detecting  the  transient.  In  this  paper  we  also  show  the  effects  on  the  detection  agreement  of  different strategies to construct the desired signal. The extension of  the  Bayes  decision  rule  (011  desired  signal),  optimal  in  static  classification,  performs  worse  than  desired  signals  constructed by  random noise or prediction during the background.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/fae0b27c451c728867a567e8c1bb4e53-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/fae0b27c451c728867a567e8c1bb4e53-Bibtex.bib",
+            "SUPP": ""
+        }
+    },
+    "126": {
+        "TITLE": "Information Theoretic Analysis of Connection Structure from Spike Trains",
+        "AUTHORS": "Satoru Shiono, Satoshi Yamada, Michio Nakashima, Kenji Matsumoto",
+        "ABSTRACT": "We have attempted to use information theoretic quantities for  ana(cid:173) lyzing neuronal connection  structure from spike  trains.  Two point  mu tual information  and  its maximum value,  channel capacity,  be(cid:173) tween  a  pair of neurons  were  found  to  be  useful  for  sensitive  de(cid:173) tection  of crosscorrelation  and  for  estimation  of synaptic strength,  respectively.  Three point mutual information among three neurons  could give their interconnection structure.  Therefore, our informa(cid:173) tion  theoretic analysis  was  shown  to be a  very  powerful technique  for  deducing  neuronal  connection  structure.  Some  concrete exam(cid:173) ples  of its  application  to simulated  spike  trains  are presented.",
+        "CONFERENCE": "Advances in Neural Information Processing Systems 5  (NIPS 1992)",
+        "ABBR": "NeurIPS",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://papers.nips.cc/paper_files/paper/1992/file/fccb3cdc9acc14a6e70a12f74560c026-Paper.pdf",
+            "BIBTEX": "https://papers.nips.cc/paper_files/paper/1992/file/fccb3cdc9acc14a6e70a12f74560c026-Bibtex.bib",
+            "SUPP": ""
+        }
+    }
+}

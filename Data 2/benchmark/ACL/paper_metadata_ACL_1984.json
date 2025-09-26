@@ -1,0 +1,1510 @@
+{
+    "anderson-1984-multilingual": {
+        "TITLE": "Multilingual Text Processing in a Two-Byte Code",
+        "AUTHORS": "Anderson, Lloyd B.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "cook-etal-1984-conveying": {
+        "TITLE": "Conveying Implicit Content in Narrative Summaries",
+        "AUTHORS": "Cook, Malcolm E.  and Lehnert, Wendy G.  and McDonald, David D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "lopes-1984-transforming": {
+        "TITLE": "Transforming English Interfaces to Other Natural Languages: An Experiment With Portuguese",
+        "AUTHORS": "Lopes, Gabriel Pereira",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "chauche-1984-un": {
+        "TITLE": "Un Outil Multidimensionnel de l`Analyse du Discours",
+        "AUTHORS": "Chauché, J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "fujisaki-1984-stochastic": {
+        "TITLE": "A Stochastic Approach to Sentence Parsing",
+        "AUTHORS": "Fujisaki, Tetsunosuke",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "berwick-1984-bounded": {
+        "TITLE": "Bounded Context Parsing and Easy Learnability",
+        "AUTHORS": "Berwick, Robert C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "langendoen-langsam-1984-representation": {
+        "TITLE": "The Representation of Constituent Structures for Finite-State Parsing",
+        "AUTHORS": "Langendoen, D. Terence  and Langsam, Yedidyah",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "karttunen-1984-features": {
+        "TITLE": "Features and Values",
+        "AUTHORS": "Karttunen, Lauri",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "teubert-1984-applications": {
+        "TITLE": "Applications of a Lexicographical Data Base for German",
+        "AUTHORS": "Teubert, Wolfgang",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "grimes-1984-denormalization": {
+        "TITLE": "Denormalization and Cross Referencing in Theoretical Lexicography",
+        "AUTHORS": "Grimes, Joseph E.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "sakamoto-etal-1984-lexicon": {
+        "TITLE": "Lexicon Features for Japanese Syntactic Analysis in Mu-Project-JE",
+        "AUTHORS": "Sakamoto, Yoshiyuki  and Satoh, Masayuki  and Ishikawa, Tetsuya",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "hirschberg-1984-toward": {
+        "TITLE": "Toward a Redefinition of Yes/No Questions",
+        "AUTHORS": "Hirschberg, Julia",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "ballard-1984-syntax": {
+        "TITLE": "The Syntax and Semantics of User-Defined Modifiers in Transportable Natural Language Processor",
+        "AUTHORS": "Ballard, Bruce W.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "hafner-1984-interaction": {
+        "TITLE": "Interaction of Knowledge Sources in a Portable Natural Language Interface",
+        "AUTHORS": "Hafner, Carole D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "clemente-salazar-1984-uses": {
+        "TITLE": "Uses of C-Graphs in a Prototype for Automatic Translation.",
+        "AUTHORS": "Clemente-Salazar, Marco A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "rapaport-shapiro-1984-quasi": {
+        "TITLE": "Quasi-Indexical Reference in Propositional Semantic Networks",
+        "AUTHORS": "Rapaport, William J.  and Shapiro, Stuart C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "simmons-1984-costs": {
+        "TITLE": "The Costs of Inheritance in Semantic Networks",
+        "AUTHORS": "Simmons, Rob′t F.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "kay-1984-functional": {
+        "TITLE": "Functional Unification Grammar: A Formalism for Machine Translation",
+        "AUTHORS": "Kay, Martin",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "sigurd-1984-computer": {
+        "TITLE": "Computer Simulation of Spontaneous Speech Production",
+        "AUTHORS": "Sigurd, Bengt",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "pulman-1984-limited": {
+        "TITLE": "Limited Domain Systems for Language Teaching",
+        "AUTHORS": "Pulman, S. G.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "shane-cochard-1984-gtt": {
+        "TITLE": "GTT : A General Transducer for Teaching Computational Linguistics",
+        "AUTHORS": "Shane, P.  and Cochard, J.L.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "slack-1984-parsing": {
+        "TITLE": "A Parsing Architecture Based on Distributed Memory Machines",
+        "AUTHORS": "Slack, Jon M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "grishman-etal-1984-automated": {
+        "TITLE": "Automated Determination of Sublanguage Syntactic Usage",
+        "AUTHORS": "Grishman, Ralph  and Nhan, Ngo Thanh  and Marsh, Elaine  and Hirschman, Lynette",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "sondheimer-etal-1984-semantic": {
+        "TITLE": "Semantic Interpretation Using KL-ONE",
+        "AUTHORS": "Sondheimer, Norman K.  and Weischedel, Ralph M.  and Bobrow, Robert J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "pelletier-schubert-1984-two": {
+        "TITLE": "Two Theories for Computing the Logical Form of Mass Expressions",
+        "AUTHORS": "Pelletier, Francis Jeffry  and Schubert, Lenhart K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "pullum-1984-syntactic": {
+        "TITLE": "Syntactic and Semantic Parsability",
+        "AUTHORS": "Pullum, Geoffrey K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "pereira-shieber-1984-semantics": {
+        "TITLE": "The Semantics of Grammar Formalisms Seen as Computer Languages",
+        "AUTHORS": "Pereira, Fernando C. N.  and Shieber, Stuart M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "bunt-1984-resolution": {
+        "TITLE": "The Resolution of Quantificational Ambiguity in the TENDUM System",
+        "AUTHORS": "Bunt, Harry",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "joshi-etal-1984-preventing": {
+        "TITLE": "Preventing False Inferences",
+        "AUTHORS": "Joshi, Aravind  and Webber, Bonnie  and Weischedel, Ralph M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "ramshaw-weischedel-1984-problem": {
+        "TITLE": "Problem Localization Strategies for Pramatics Processing in Natural-Language Front Ends",
+        "AUTHORS": "Ramshaw, Lance A.  and Weischedel, Ralph M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "reilly-1984-connectionist": {
+        "TITLE": "A Connectionist Model of Some Aspects of Anaphor Resolution",
+        "AUTHORS": "Reilly, Ronan G.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "schnelle-1984-concurrent": {
+        "TITLE": "Concurrent Parsing in Programmable Logic Array (PLA-) Nets Problems and Proposals",
+        "AUTHORS": "Schnelle, Helmut",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "iida-1984-case": {
+        "TITLE": "A Case Analysis Method Cooperating with ATNG and Its Application to Machine Translation",
+        "AUTHORS": "Iida, Hitoshi",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "nitta-etal-1984-proper": {
+        "TITLE": "A Proper Treatmemt of Syntax and Semantics in Machine Translation",
+        "AUTHORS": "Nitta, Yoshihiko  and Okajima, Atsushi  and Kaji, Hiroyuki  and Hidano, Youichi  and Ishihara, Koichiro",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "yoshida-1984-consideration": {
+        "TITLE": "A Consideration on the Concepts Structure and Language- In Relation to Selections of Translation Equivalents of Verbs in Machine Translation System",
+        "AUTHORS": "Yoshida, Sho",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "calzolari-1984-detecting": {
+        "TITLE": "Detecting Patterns in a Lexical Data Base",
+        "AUTHORS": "Calzolari, Nicoletta",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1036.bib",
+            "SUPP": ""
+        }
+    },
+    "thurmair-1984-linguistic": {
+        "TITLE": "Linguistic Problems in Multilingual Morphological Decomposition",
+        "AUTHORS": "Thurmair, G.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1037.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1037.bib",
+            "SUPP": ""
+        }
+    },
+    "koskenniemi-1984-general": {
+        "TITLE": "A General Computational Model for Word-Form Recognition and Production",
+        "AUTHORS": "Koskenniemi, Kimmo",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1038.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1038.bib",
+            "SUPP": ""
+        }
+    },
+    "sparck-jones-1984-panel": {
+        "TITLE": "Panel: Natural Language and Databases, Again",
+        "AUTHORS": "Sparck Jones, Karen",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1039.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1039.bib",
+            "SUPP": ""
+        }
+    },
+    "bates-1984-still": {
+        "TITLE": "There Still Is Gold in the Database Mine",
+        "AUTHORS": "Bates, Madeleine",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1040.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1040.bib",
+            "SUPP": ""
+        }
+    },
+    "carbonell-1984-natural": {
+        "TITLE": "Is There Natural Language after Data Bases?",
+        "AUTHORS": "Carbonell, Jaime G.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1041.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1041.bib",
+            "SUPP": ""
+        }
+    },
+    "flickinger-1984-panel": {
+        "TITLE": "Panel on Natural Language and Databases",
+        "AUTHORS": "Flickinger, Daniel P.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1042.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1042.bib",
+            "SUPP": ""
+        }
+    },
+    "mckeown-1984-natural": {
+        "TITLE": "Natural Language for Exert Systems: Comparisons with Database Systems",
+        "AUTHORS": "McKeown, Kathleen R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1043.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1043.bib",
+            "SUPP": ""
+        }
+    },
+    "soulhi-1984-representing": {
+        "TITLE": "Representing Knowledge About Knowledge and Mutual Knowledge",
+        "AUTHORS": "Soulhi, Said",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1044.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1044.bib",
+            "SUPP": ""
+        }
+    },
+    "carberry-1984-understanding": {
+        "TITLE": "Understanding Pragmatically Ill-Formed Input",
+        "AUTHORS": "Carberry, M. Sandra",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1045.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1045.bib",
+            "SUPP": ""
+        }
+    },
+    "cohen-1984-referring": {
+        "TITLE": "Referring as Requesting",
+        "AUTHORS": "Cohen, Philip R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1046.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1046.bib",
+            "SUPP": ""
+        }
+    },
+    "hayes-1984-entity": {
+        "TITLE": "Entity-Oriented Parsing",
+        "AUTHORS": "Hayes, Philip J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1047.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1047.bib",
+            "SUPP": ""
+        }
+    },
+    "nishida-doshita-1984-combining": {
+        "TITLE": "Combining Functionality and Object-Orientedness for Natural Language Processing",
+        "AUTHORS": "Nishida, Toyoaki  and Doshita, Shuji",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1048.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1048.bib",
+            "SUPP": ""
+        }
+    },
+    "yang-etal-1984-use": {
+        "TITLE": "Use of Heuristic Knowledge in Chinese Language Analysis",
+        "AUTHORS": "Yang, Yiming  and Nishida, Toyoaki  and Doshita, Shuji",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1049.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1049.bib",
+            "SUPP": ""
+        }
+    },
+    "johnson-rosner-1984-design": {
+        "TITLE": "The Design of the Kernel Architecture for the Eurotra Software",
+        "AUTHORS": "Johnson, R.L.  and Rosner, M.A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1050.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1050.bib",
+            "SUPP": ""
+        }
+    },
+    "laurian-1984-machine": {
+        "TITLE": "Machine Translation : What Type of Post-Editing on What Type of Documents for What Type of Users",
+        "AUTHORS": "Laurian, Anne-Marie",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1051.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1051.bib",
+            "SUPP": ""
+        }
+    },
+    "carter-freiling-1984-simplifying": {
+        "TITLE": "Simplifying Deterministic Parsing",
+        "AUTHORS": "Carter, Alan W.  and Freiling, Michael J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1052.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1052.bib",
+            "SUPP": ""
+        }
+    },
+    "huang-1984-dealing": {
+        "TITLE": "Dealing With Conjunctions in a Machine Translation Environment",
+        "AUTHORS": "Huang, Xiuming",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1053.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1053.bib",
+            "SUPP": ""
+        }
+    },
+    "schubert-1984-parsing": {
+        "TITLE": "On Parsing Preferences",
+        "AUTHORS": "Schubert, Lenhart K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1054.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1054.bib",
+            "SUPP": ""
+        }
+    },
+    "cohen-1984-computational": {
+        "TITLE": "A Computational Theory of the Function of Clue Words in Argument Understanding",
+        "AUTHORS": "Cohen, Robin",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1055.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1055.bib",
+            "SUPP": ""
+        }
+    },
+    "briscoe-boguraev-1984-control": {
+        "TITLE": "Control Structures and Theories of Interaction in Speech Understanding Systems",
+        "AUTHORS": "Briscoe, E.J.  and Boguraev, B.K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1056.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1056.bib",
+            "SUPP": ""
+        }
+    },
+    "tsujii-etal-1984-analysis": {
+        "TITLE": "Analysis Grammar of Japanese in the Mu-project - A Procedural Approach to Analysis Grammar",
+        "AUTHORS": "Tsujii, Jun-ichi  and Nakamura, Jun-ichi  and Nagao, Makoto",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1057.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1057.bib",
+            "SUPP": ""
+        }
+    },
+    "gross-1984-lexicon": {
+        "TITLE": "Lexicon-Grammar and the Syntactic Analysis of French",
+        "AUTHORS": "Gross, Maurice",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1058.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1058.bib",
+            "SUPP": ""
+        }
+    },
+    "hobbs-1984-building": {
+        "TITLE": "Building a Large Knowledge Base for a Natural Language System",
+        "AUTHORS": "Hobbs, Jerry R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1059.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1059.bib",
+            "SUPP": ""
+        }
+    },
+    "sparck-jones-tait-1984-linguistically": {
+        "TITLE": "Linguistically Motivated Descriptive Term Selection",
+        "AUTHORS": "Sparck Jones, K.  and Tait, J.I.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1060.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1060.bib",
+            "SUPP": ""
+        }
+    },
+    "hajicova-hnatkova-1984-inferencing": {
+        "TITLE": "Inferencing on Linguistically Based Semantic Structures",
+        "AUTHORS": "Hajičová, Eva  and Hnátková, Milena",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1061.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1061.bib",
+            "SUPP": ""
+        }
+    },
+    "rieger-1984-semantic": {
+        "TITLE": "Semantic Relevance and Aspect Dependency in a Given Subject Domain: Contents-driven algorithmic processing of fuzzy wordmeanings to form dynamic stereotype representations",
+        "AUTHORS": "Rieger, Burghard B.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1062.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1062.bib",
+            "SUPP": ""
+        }
+    },
+    "litman-allen-1984-plan": {
+        "TITLE": "A Plan Recognition Model for Clarification Subdialogues",
+        "AUTHORS": "Litman, Diane J.  and Allen, James F.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1063.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1063.bib",
+            "SUPP": ""
+        }
+    },
+    "zadeh-1984-computational": {
+        "TITLE": "A Computational Theory of Dispositions",
+        "AUTHORS": "Zadeh, Lotfi A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1064.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1064.bib",
+            "SUPP": ""
+        }
+    },
+    "derr-mckeown-1984-using": {
+        "TITLE": "Using Focus to Generate Complex and Simple Sentences",
+        "AUTHORS": "Derr, Marcia A.  and McKeown, Kathleen R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1065.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1065.bib",
+            "SUPP": ""
+        }
+    },
+    "ritchie-1984-rational": {
+        "TITLE": "A Rational Reconstruction of the PROTEUS Sentence Planner",
+        "AUTHORS": "Ritchie, Graeme",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1066.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1066.bib",
+            "SUPP": ""
+        }
+    },
+    "bachut-verastegui-1984-software": {
+        "TITLE": "Software Tools for the Environment of a Computer Aided Translation System",
+        "AUTHORS": "Bachut, Daniel  and Verastegui, Nelson",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1067.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1067.bib",
+            "SUPP": ""
+        }
+    },
+    "buchmann-etal-1984-design": {
+        "TITLE": "Design of a Machine Translation System for a Sublanguage",
+        "AUTHORS": "Buchmann, Beat  and Warwick, Susan  and Shann, Patrick",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1068.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1068.bib",
+            "SUPP": ""
+        }
+    },
+    "nakamura-etal-1984-grammar": {
+        "TITLE": "Grammar Writing System (GRADE) of Mu-Machine Translation Project and its Characteristics",
+        "AUTHORS": "Nakamura, Jun-ichi  and Tsujii, Jun-ichi  and Nagao, Makoto",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1069.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1069.bib",
+            "SUPP": ""
+        }
+    },
+    "johnson-1984-discovery": {
+        "TITLE": "A Discovery Procedure for Certain Phonological Rules",
+        "AUTHORS": "Johnson, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1070.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1070.bib",
+            "SUPP": ""
+        }
+    },
+    "fornell-1984-say": {
+        "TITLE": "What Not to Say",
+        "AUTHORS": "Fornell, Jan",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1071.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1071.bib",
+            "SUPP": ""
+        }
+    },
+    "king-1984-next": {
+        "TITLE": "When Is the Next ALPAC Report Due?",
+        "AUTHORS": "King, Margaret",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1072.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1072.bib",
+            "SUPP": ""
+        }
+    },
+    "tomita-1984-lr": {
+        "TITLE": "LR Parsers For Natural Languages",
+        "AUTHORS": "Tomita, Masaru",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1073.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1073.bib",
+            "SUPP": ""
+        }
+    },
+    "yasukawa-1984-lfg": {
+        "TITLE": "LFG System in Prolog",
+        "AUTHORS": "Yasukawa, Hideki",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1074.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1074.bib",
+            "SUPP": ""
+        }
+    },
+    "shieber-1984-design": {
+        "TITLE": "The Design of a Computer Language for Linguistic Information",
+        "AUTHORS": "Shieber, Stuart M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1075.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1075.bib",
+            "SUPP": ""
+        }
+    },
+    "mann-1984-discourse": {
+        "TITLE": "Discourse Structures for Text Generation",
+        "AUTHORS": "Mann, William C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1076.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1076.bib",
+            "SUPP": ""
+        }
+    },
+    "mauldin-1984-semantic": {
+        "TITLE": "Semantic Rule Based Text Generation",
+        "AUTHORS": "Mauldin, Michael L.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1077.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1077.bib",
+            "SUPP": ""
+        }
+    },
+    "granville-1984-controlling": {
+        "TITLE": "Controlling Lexical Substitution in Computer Text Generation",
+        "AUTHORS": "Granville, Robert",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1078.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1078.bib",
+            "SUPP": ""
+        }
+    },
+    "sugiyama-etal-1984-understanding": {
+        "TITLE": "Understanding of Japanese in an Interactive Programming System",
+        "AUTHORS": "Sugiyama, Kenji  and Kameda, Masayuki  and Akiyama, Kouji",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1079.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1079.bib",
+            "SUPP": ""
+        }
+    },
+    "nelimarkka-etal-1984-two": {
+        "TITLE": "Two-Way Finite Automata and Dependency Grammar: A Parsing Method for Inflectional Free Word Order Languages",
+        "AUTHORS": "Nelimarkka, Esa  and Jappinen, Harri  and Lehtola, Aarno",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1080.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1080.bib",
+            "SUPP": ""
+        }
+    },
+    "nirenburg-1984-interruptable": {
+        "TITLE": "Interruptable Transition Networks",
+        "AUTHORS": "Nirenburg, Sergei",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1081.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1081.bib",
+            "SUPP": ""
+        }
+    },
+    "guenthner-1984-automatic": {
+        "TITLE": "Automatic Construction of Discourse Representation Structures",
+        "AUTHORS": "Guenthner, Franz",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1082.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1082.bib",
+            "SUPP": ""
+        }
+    },
+    "hahn-1984-textual": {
+        "TITLE": "Textual Expertise in Word Experts: An Approach to Text Parsing Based on Topic/Comment Monitoring",
+        "AUTHORS": "Hahn, Udo",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1083.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1083.bib",
+            "SUPP": ""
+        }
+    },
+    "kusanagi-1984-linguistic": {
+        "TITLE": "Some Linguistic Aspects for Automatic Text Understanding",
+        "AUTHORS": "Kusanagi, Yutaka",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1084.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1084.bib",
+            "SUPP": ""
+        }
+    },
+    "polanyi-scha-1984-syntactic": {
+        "TITLE": "A Syntactic Approach to Discourse Semantics",
+        "AUTHORS": "Polanyi, Livia  and Scha, Remko",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1085.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1085.bib",
+            "SUPP": ""
+        }
+    },
+    "nagao-etal-1984-dealing": {
+        "TITLE": "Dealing With Incompleteness of Linguistic Knowledge in Language Translation -- Transfer and Generation Stage of Mu Machine Translation Project",
+        "AUTHORS": "Nagao, Makoto  and Nishida, Toyoaki  and Tsujii, Jun-ichi",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1086.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1086.bib",
+            "SUPP": ""
+        }
+    },
+    "rosenberg-1984-lexical": {
+        "TITLE": "Lexical Semantics in Human-Computer Communication",
+        "AUTHORS": "Rosenberg, Jarrett",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1087.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1087.bib",
+            "SUPP": ""
+        }
+    },
+    "kalita-etal-1984-response": {
+        "TITLE": "A Response to the Need for Summary Responses",
+        "AUTHORS": "Kalita, J.K.  and Colbourn, M.J.  and McCalla, G.I.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1088.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1088.bib",
+            "SUPP": ""
+        }
+    },
+    "carbonell-hayes-1984-coping": {
+        "TITLE": "Coping with Extragrammaticality",
+        "AUTHORS": "Carbonell, Jaime G.  and Hayes, Philip J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1089.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1089.bib",
+            "SUPP": ""
+        }
+    },
+    "mccoy-1984-correcting": {
+        "TITLE": "Correcting Object-Related Misconceptions: How Should The System Respond?",
+        "AUTHORS": "McCoy, Kathleen F.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1090.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1090.bib",
+            "SUPP": ""
+        }
+    },
+    "guy-1984-algorithm": {
+        "TITLE": "An Algorithm for Identifying Cognates Between Related Languages",
+        "AUTHORS": "Guy, Jacques B.M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1091.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1091.bib",
+            "SUPP": ""
+        }
+    },
+    "gigley-1984-hope": {
+        "TITLE": "From HOPE en I'ESPERANCE On the Role of Computational Neurolinguistics in Cross-Language Studies",
+        "AUTHORS": "Gigley, Helen M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1092.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1092.bib",
+            "SUPP": ""
+        }
+    },
+    "walker-1984-machine": {
+        "TITLE": "Machine-Readable Dictionaries",
+        "AUTHORS": "Walker, Donald E.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1093.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1093.bib",
+            "SUPP": ""
+        }
+    },
+    "amsler-1984-lexical": {
+        "TITLE": "Lexical Knowledge Bases",
+        "AUTHORS": "Amsler, Robert A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1094.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1094.bib",
+            "SUPP": ""
+        }
+    },
+    "calzolari-1984-machine": {
+        "TITLE": "Machine-Readable Dictionaries, Lexical Data Bases and the Lexical System",
+        "AUTHORS": "Calzolari, Nicoletta",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1095.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1095.bib",
+            "SUPP": ""
+        }
+    },
+    "kay-1984-dictionary": {
+        "TITLE": "The Dictionary Server",
+        "AUTHORS": "Kay, Martin",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1096.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1096.bib",
+            "SUPP": ""
+        }
+    },
+    "miller-1984-misread": {
+        "TITLE": "How to Misread a Dictionary",
+        "AUTHORS": "Miller, George A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1097.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1097.bib",
+            "SUPP": ""
+        }
+    },
+    "webber-1984-machine": {
+        "TITLE": "Machine-Readable Components in a Variety of Information-System Applications",
+        "AUTHORS": "Webber, Howard R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1098.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1098.bib",
+            "SUPP": ""
+        }
+    },
+    "krauwer-des-tombe-1984-transfer": {
+        "TITLE": "Transfer in a Multilingual MT System",
+        "AUTHORS": "Krauwer, Steven  and des Tombe, Louis",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1099.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1099.bib",
+            "SUPP": ""
+        }
+    },
+    "boitet-gerber-1984-expert": {
+        "TITLE": "Expert Systems and Other New Techniques in MT Systems",
+        "AUTHORS": "Boitet, Christian  and Gerber, Rene",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1100.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1100.bib",
+            "SUPP": ""
+        }
+    },
+    "arnold-johnson-1984-robust": {
+        "TITLE": "Robust Processing in Machine Translation",
+        "AUTHORS": "Arnold, Doug  and Johnson, Rod",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1101.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1101.bib",
+            "SUPP": ""
+        }
+    },
+    "tomita-1984-disambiguating": {
+        "TITLE": "Disambiguating Grammatically Ambiguous Sentences By Asking",
+        "AUTHORS": "Tomita, Masaru",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1102.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1102.bib",
+            "SUPP": ""
+        }
+    },
+    "kurtzman-1984-ambiguity": {
+        "TITLE": "Ambiguity Resolution in the Human Syntactic Parser: An Experimental Study",
+        "AUTHORS": "Kurtzman, Howard S.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1103.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1103.bib",
+            "SUPP": ""
+        }
+    },
+    "pazzani-1984-conceptual": {
+        "TITLE": "Conceptual Analysis of Garden-Path Sentences",
+        "AUTHORS": "Pazzani, Michael J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1104.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1104.bib",
+            "SUPP": ""
+        }
+    },
+    "laubsch-etal-1984-language": {
+        "TITLE": "Language Generation From Conceptual Structure: Synthesis of German in a Japanese/German MT Project",
+        "AUTHORS": "Laubsch, J.  and Roesner, D.  and Hanakata, K.  and Lesniewski, A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1105.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1105.bib",
+            "SUPP": ""
+        }
+    },
+    "adorni-etal-1984-natural": {
+        "TITLE": "NAtural Language driven Image Generation",
+        "AUTHORS": "Adorni, Giovanni  and Di Manzo, Mauro  and Giunchiglia, Fausto",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1106.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1106.bib",
+            "SUPP": ""
+        }
+    },
+    "danlos-1984-conceptual": {
+        "TITLE": "Conceptual and Linguistic Decisions in Generation",
+        "AUTHORS": "Danlos, Laurence",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1107.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1107.bib",
+            "SUPP": ""
+        }
+    },
+    "marsh-1984-computational": {
+        "TITLE": "A Computational Analysis of Complex Noun Phrases in Navy Messages",
+        "AUTHORS": "Marsh, Elaine",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1108.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1108.bib",
+            "SUPP": ""
+        }
+    },
+    "isabelle-1984-another": {
+        "TITLE": "Another Look at Nominal Compounds",
+        "AUTHORS": "Isabelle, Pierre",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1109.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1109.bib",
+            "SUPP": ""
+        }
+    },
+    "hyvonen-1984-semantic": {
+        "TITLE": "Semantic Parsing as Graph Language Transformation - A Multidimensional Approach to Parsing Highly Inflectional Languages",
+        "AUTHORS": "Hyvonen, Eero",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1110.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1110.bib",
+            "SUPP": ""
+        }
+    },
+    "pericliev-1984-handling": {
+        "TITLE": "Handling Syntactical Ambiguity in Machine Translation",
+        "AUTHORS": "Pericliev, Vladimir",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1111.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1111.bib",
+            "SUPP": ""
+        }
+    },
+    "raccah-1984-argumentation": {
+        "TITLE": "Argumentation in Representation Semantics",
+        "AUTHORS": "Raccah, Pierre-Yves",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1112.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1112.bib",
+            "SUPP": ""
+        }
+    },
+    "yegnanarayana-etal-1984-voice": {
+        "TITLE": "Voice Simulation: Factors Affecting Quality and Naturalness",
+        "AUTHORS": "Yegnanarayana, B.  and Naik, J.M.  and Childers, D.G.",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1113.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1113.bib",
+            "SUPP": ""
+        }
+    },
+    "lesmo-torasso-1984-interpreting": {
+        "TITLE": "Interpreting Syntactically Ill-Formed Sentences",
+        "AUTHORS": "Lesmo, Leonardo  and Torasso, Pietro",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1114.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1114.bib",
+            "SUPP": ""
+        }
+    },
+    "kuhlen-1984-intonational": {
+        "TITLE": "An Intonational Delphi Poll on Future Trends in “Information Linguistics”",
+        "AUTHORS": "Kuhlen, Rainer",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1115.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1115.bib",
+            "SUPP": ""
+        }
+    },
+    "slocum-1984-machine": {
+        "TITLE": "Machine Translation: its History, Current Status, and Future Prospects",
+        "AUTHORS": "Slocum, Jonathan",
+        "ABSTRACT": "",
+        "CONFERENCE": "10th International Conference on Computational Linguistics and 22nd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P84-1116.pdf",
+            "BIBTEX": "https://aclanthology.org/P84-1116.bib",
+            "SUPP": ""
+        }
+    }
+}

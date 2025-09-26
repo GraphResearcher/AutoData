@@ -42,10 +42,10 @@ class BaseAgent:
 
     def __init__(
         self,
-        instruction: str,
-        description: str,
+        instruction: str, ## hướng dẫn (system message) cho agent.
+        description: str, #mô tả agent dùng để làm gì.
         model: Optional[str] = None,
-        output_parser: Optional[BaseModel] = None,
+        output_parser: Optional[BaseModel] = None, #parser để parse output theo schema Pydantic.
         agent_name: str = None,
         config: Optional[Dict | EasyDict] = None,
         tools: Optional[List[Callable]] = None,

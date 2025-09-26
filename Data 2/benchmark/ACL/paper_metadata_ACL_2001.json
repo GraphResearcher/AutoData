@@ -1,0 +1,912 @@
+{
+    "durbin-2001-invited": {
+        "TITLE": "Invited Talk: Interpreting the Human Genome Sequence, Using Stochastic Grammars",
+        "AUTHORS": "Durbin, Richard",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "gauvain-etal-2001-invited": {
+        "TITLE": "Invited Talk: Processing Broadcast Audio for Information Access",
+        "AUTHORS": "Gauvain, Jean-Luc  and Lamel, Lori  and Adda, Gilles  and Adda-Decker, Martine  and Barras, Claude  and Chen, Langzhou  and de Kercadio, Yannick",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "amaya-benedi-2001-improvement": {
+        "TITLE": "Improvement of a Whole Sentence Maximum Entropy Language Model Using Grammatical Features",
+        "AUTHORS": "Amaya, Fredy A.  and Benedí, José Miguel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "baldwin-2001-low": {
+        "TITLE": "Low-cost, High-performance Translation Retrieval: Dumber is Better",
+        "AUTHORS": "Baldwin, Timothy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "banko-brill-2001-scaling": {
+        "TITLE": "Scaling to Very Very Large Corpora for Natural Language Disambiguation",
+        "AUTHORS": "Banko, Michele  and Brill, Eric",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "barbu-mitkov-2001-evaluation": {
+        "TITLE": "Evaluation Tool for Rule-based Anaphora Resolution Methods",
+        "AUTHORS": "Barbu, Catalina  and Mitkov, Ruslan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "barthelemy-etal-2001-guided": {
+        "TITLE": "Guided Parsing of Range Concatenation Languages",
+        "AUTHORS": "Barthélemy, François  and Boullier, Pierre  and Deschamp, Philippe  and Villemonte de la Clergerie, Éric",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "barzilay-mckeown-2001-extracting": {
+        "TITLE": "Extracting Paraphrases from a Parallel Corpus",
+        "AUTHORS": "Barzilay, Regina  and McKeown, Kathleen R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "bierner-2001-alternative": {
+        "TITLE": "Alternative Phrases and Natural Language Information Retrieval",
+        "AUTHORS": "Bierner, Gann",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "bod-2001-minimal": {
+        "TITLE": "What is the Minimal Set of Fragments that Achieves Maximal Parse Accuracy?",
+        "AUTHORS": "Bod, Rens",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "bodirsky-etal-2001-underspecified": {
+        "TITLE": "Underspecified Beta Reduction",
+        "AUTHORS": "Bodirsky, Manuel  and Erk, Katrin  and Koller, Alexander  and Niehren, Joachim",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "van-den-bosch-etal-2001-detecting": {
+        "TITLE": "Detecting Problematic Turns in Human-Machine Interactions: Rule-induction Versus Memory-based Learning Approaches",
+        "AUTHORS": "van den Bosch, Antal  and Krahmer, Emiel  and Swerts, Marc",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "brent-tao-2001-chinese": {
+        "TITLE": "Chinese Text Segmentation With MBDP-1: Making the Most of Training Corpora",
+        "AUTHORS": "Brent, Michael R.  and Tao, Xiaopeng",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "burstein-etal-2001-towards": {
+        "TITLE": "Towards Automatic Classification of Discourse Elements in Essays",
+        "AUTHORS": "Burstein, Jill  and Marcu, Daniel  and Andreyev, Slava  and Chodorow, Martin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "cahill-etal-2001-rags": {
+        "TITLE": "From RAGS to RICHES: Exploiting the Potential of a Flexible Generation Architecture",
+        "AUTHORS": "Cahill, Lynne  and Carroll, John  and Evans, Roger  and Paiva, Daniel  and Power, Richard  and Scott, Donia  and van Deemter, Kees",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "cassell-etal-2001-non": {
+        "TITLE": "Non-Verbal Cues for Discourse Structure",
+        "AUTHORS": "Cassell, Justine  and Nakano, Yukiko  and Bickmore, Timothy W.  and Sidner, Candace L.  and Rich, Charles",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "charniak-2001-immediate": {
+        "TITLE": "Immediate-Head Parsing for Language Models",
+        "AUTHORS": "Charniak, Eugene",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "chiang-2001-constraints": {
+        "TITLE": "Constraints on Strong Generative Power",
+        "AUTHORS": "Chiang, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "copestake-etal-2001-algebra": {
+        "TITLE": "An Algebra for Semantic Construction in Constraint-based Grammars",
+        "AUTHORS": "Copestake, Ann  and Lascarides, Alex  and Flickinger, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "corston-oliver-etal-2001-machine": {
+        "TITLE": "A Machine Learning Approach to the Automatic Evaluation of Machine Translation",
+        "AUTHORS": "Corston-Oliver, Simon  and Gamon, Michael  and Brockett, Chris",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "dikovsky-2001-grammars": {
+        "TITLE": "Grammars for Local and Long Dependencies",
+        "AUTHORS": "Dikovsky, Alexander",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "dowding-etal-2001-practical": {
+        "TITLE": "Practical Issues in Compiling Typed Unification Grammars for Speech Recognition",
+        "AUTHORS": "Dowding, John  and Hockey, Beth Ann  and Gawron, Jean Mark  and Culy, Christopher",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "duboue-mckeown-2001-empirically": {
+        "TITLE": "Empirically Estimating Order Constraints for Content Planning in Generation",
+        "AUTHORS": "Duboue, Pablo A.  and McKeown, Kathleen R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "duchier-debusmann-2001-topological": {
+        "TITLE": "Topological Dependency Trees: A Constraint-Based Account of Linear Precedence",
+        "AUTHORS": "Duchier, Denys  and Debusmann, Ralph",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "evert-krenn-2001-methods": {
+        "TITLE": "Methods for the Qualitative Evaluation of Lexical Association Measures",
+        "AUTHORS": "Evert, Stefan  and Krenn, Brigitte",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "fujii-ishikawa-2001-organizing": {
+        "TITLE": "Organizing Encyclopedic Knowledge based on the Web and its Application to Question Answering",
+        "AUTHORS": "Fujii, Atsushi  and Ishikawa, Tetsuya",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "garcia-varea-etal-2001-refined": {
+        "TITLE": "Refined Lexicon Models for Statistical Machine Translation using a Maximum Entropy Approach",
+        "AUTHORS": "García-Varea, Ismael  and Och, Franz J.  and Ney, Hermann  and Casacuberta, Francisco",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "gardent-thater-2001-generating": {
+        "TITLE": "Generating with a Grammar Based on Tree Descriptions: a Constraint-Based Approach",
+        "AUTHORS": "Gardent, Claire  and Thater, Stefan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "gerdes-kahane-2001-word": {
+        "TITLE": "Word Order in German: A Formal Dependency Grammar Using a Topological Hierarchy",
+        "AUTHORS": "Gerdes, Kim  and Kahane, Sylvain",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "germann-etal-2001-fast": {
+        "TITLE": "Fast Decoding and Optimal Decoding for Machine Translation",
+        "AUTHORS": "Germann, Ulrich  and Jahr, Michael  and Knight, Kevin  and Marcu, Daniel  and Yamada, Kenji",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "ginzburg-cooper-2001-resolving": {
+        "TITLE": "Resolving Ellipsis in Clarification",
+        "AUTHORS": "Ginzburg, Jonathan  and Cooper, Robin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "green-etal-2001-mapping": {
+        "TITLE": "Mapping Lexical Entries in a Verbs Database to WordNet Senses",
+        "AUTHORS": "Green, Rebecca  and Pearl, Lisa  and Dorr, Bonnie J.  and Resnik, Philip",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "de-groote-2001-towards": {
+        "TITLE": "Towards Abstract Categorial Grammars",
+        "AUTHORS": "de Groote, Philippe",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "grover-lascarides-2001-xml": {
+        "TITLE": "XML-Based Data Preparation for Robust Deep Parsing",
+        "AUTHORS": "Grover, Claire  and Lascarides, Alex",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "hajic-etal-2001-serial": {
+        "TITLE": "Serial Combination of Rules and Statistics: A Case Study in Czech Tagging",
+        "AUTHORS": "Hajic, Jan  and Krbec, Pavel  and Kveton, Pavel  and Oliva, Karel  and Petkevic, Vladimir",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "hajicova-sgall-2001-topic": {
+        "TITLE": "Topic-focus and Salience",
+        "AUTHORS": "Hajicová, Eva  and Sgall, Petr",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1036.bib",
+            "SUPP": ""
+        }
+    },
+    "harabagiu-etal-2001-role": {
+        "TITLE": "The Role of Lexico-Semantic Feedback in Open-Domain Textual Question-Answering",
+        "AUTHORS": "Harabagiu, Sanda  and Moldovan, Dan  and Pasca, Marius  and Mihalcea, Rada  and Surdeanu, Mihai  and Bunsecu, Razvan  and Girju, Roxana  and Rus, Vasile  and Morarescu, Paul",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1037.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1037.bib",
+            "SUPP": ""
+        }
+    },
+    "hardt-rambow-2001-generation": {
+        "TITLE": "Generation of VP Ellipsis: A Corpus-Based Approach",
+        "AUTHORS": "Hardt, Daniel  and Rambow, Owen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1038.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1038.bib",
+            "SUPP": ""
+        }
+    },
+    "huang-etal-2001-information": {
+        "TITLE": "Information Extraction from Voicemail",
+        "AUTHORS": "Huang, Jing  and Zweig, Geoffrey  and Padmanabhan, Mukund",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1039.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1039.bib",
+            "SUPP": ""
+        }
+    },
+    "ide-romary-2001-common": {
+        "TITLE": "A Common Framework for Syntactic Annotation",
+        "AUTHORS": "Ide, Nancy  and Romary, Laurent",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1040.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1040.bib",
+            "SUPP": ""
+        }
+    },
+    "isozaki-2001-japanese": {
+        "TITLE": "Japanese Named Entity Recognition based on a Simple Rule Generator and Decision Tree Learning",
+        "AUTHORS": "Isozaki, Hideki",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1041.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1041.bib",
+            "SUPP": ""
+        }
+    },
+    "johnson-2001-joint": {
+        "TITLE": "Joint and Conditional Estimation of Tagging and Parsing Models",
+        "AUTHORS": "Johnson, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1042.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1042.bib",
+            "SUPP": ""
+        }
+    },
+    "kinyon-2001-language": {
+        "TITLE": "A Language Independent Shallow-Parser Compiler",
+        "AUTHORS": "Kinyon, Alexandra",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1043.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1043.bib",
+            "SUPP": ""
+        }
+    },
+    "klein-manning-2001-parsing-treebank": {
+        "TITLE": "Parsing with Treebank Grammars: Empirical Bounds, Theoretical Models, and the Structure of the Penn Treebank",
+        "AUTHORS": "Klein, Dan  and Manning, Christopher D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1044.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1044.bib",
+            "SUPP": ""
+        }
+    },
+    "kubler-hinrichs-2001-chunks": {
+        "TITLE": "From Chunks to Function-Argument Structure: A Similarity-Based Approach",
+        "AUTHORS": "Kübler, Sandra  and Hinrichs, Erhard W.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1045.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1045.bib",
+            "SUPP": ""
+        }
+    },
+    "lapata-etal-2001-evaluating": {
+        "TITLE": "Evaluating Smoothing Algorithms against Plausibility Judgements",
+        "AUTHORS": "Lapata, Maria  and Keller, Frank  and McDonald, Scott",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1046.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1046.bib",
+            "SUPP": ""
+        }
+    },
+    "lecomte-retore-2001-extending": {
+        "TITLE": "Extending Lambek Grammars: a Logical Account of Minimalist Grammars",
+        "AUTHORS": "Lecomte, Alain  and Retoré, Christian",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1047.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1047.bib",
+            "SUPP": ""
+        }
+    },
+    "litman-etal-2001-predicting": {
+        "TITLE": "Predicting User Reactions to System Error",
+        "AUTHORS": "Litman, Diane  and Hirschberg, Julia  and Swerts, Marc",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1048.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1048.bib",
+            "SUPP": ""
+        }
+    },
+    "liu-chua-2001-building": {
+        "TITLE": "Building Semantic Perceptron Net for Topic Spotting",
+        "AUTHORS": "Liu, Jimin  and Chua, Tat-Seng",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1049.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1049.bib",
+            "SUPP": ""
+        }
+    },
+    "marcu-2001-towards": {
+        "TITLE": "Towards a Unified Approach to Memory- and Statistical-Based Machine Translation",
+        "AUTHORS": "Marcu, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1050.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1050.bib",
+            "SUPP": ""
+        }
+    },
+    "michaud-mccoy-2001-error": {
+        "TITLE": "Error Profiling: Toward a Model of English Acquisition for Deaf Learners",
+        "AUTHORS": "Michaud, Lisa N.  and McCoy, Kathleen F.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1051.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1051.bib",
+            "SUPP": ""
+        }
+    },
+    "moldovan-rus-2001-logic": {
+        "TITLE": "Logic Form Transformation of WordNet and its Applicability to Question Answering",
+        "AUTHORS": "Moldovan, Dan  and Rus, Vasile",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1052.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1052.bib",
+            "SUPP": ""
+        }
+    },
+    "muller-2001-automatic": {
+        "TITLE": "Automatic Detection of Syllable Boundaries Combining the Advantages of Treebank and Bracketed Corpora Training",
+        "AUTHORS": "Müller, Karin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1053.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1053.bib",
+            "SUPP": ""
+        }
+    },
+    "penn-2001-tractability": {
+        "TITLE": "Tractability and Structural Closures in Attribute Logic Type Signatures",
+        "AUTHORS": "Penn, Gerald",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1054.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1054.bib",
+            "SUPP": ""
+        }
+    },
+    "petasis-etal-2001-using": {
+        "TITLE": "Using Machine Learning to Maintain Rule-based Named-Entity Recognition and Classification Systems",
+        "AUTHORS": "Petasis, Georgios  and Vichot, Frantz  and Wolinski, Francis  and Paliouras, Georgios  and Karkaletsis, Vangelis  and Spyropoulos, Constantine D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1055.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1055.bib",
+            "SUPP": ""
+        }
+    },
+    "rambow-etal-2001-evaluating": {
+        "TITLE": "Evaluating a Trainable Sentence Planner for a Spoken Dialogue System",
+        "AUTHORS": "Rambow, Owen  and Rogati, Monica  and Walker, Marilyn A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1056.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1056.bib",
+            "SUPP": ""
+        }
+    },
+    "reiter-etal-2001-using": {
+        "TITLE": "Using a Randomised Controlled Clinical Trial to Evaluate an NLG System",
+        "AUTHORS": "Reiter, Ehud  and Robertson, Roma  and Lennox, A. Scott  and Osman, Liesl",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1057.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1057.bib",
+            "SUPP": ""
+        }
+    },
+    "santos-rocha-2001-evaluating": {
+        "TITLE": "Evaluating CETEMPúblico, a Free Resource for Portuguese",
+        "AUTHORS": "Santos, Diana  and Rocha, Paulo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1058.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1058.bib",
+            "SUPP": ""
+        }
+    },
+    "schiffman-etal-2001-producing": {
+        "TITLE": "Producing Biographical Summaries: Combining Linguistic Knowledge with Corpus Statistics",
+        "AUTHORS": "Schiffman, Barry  and Mani, Inderjeet  and Concepcion, Kristian",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1059.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1059.bib",
+            "SUPP": ""
+        }
+    },
+    "schmid-rooth-2001-parse": {
+        "TITLE": "Parse Forest Computation of Expected Governors",
+        "AUTHORS": "Schmid, Helmut  and Rooth, Mats",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1060.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1060.bib",
+            "SUPP": ""
+        }
+    },
+    "schuler-2001-computational": {
+        "TITLE": "Computational Properties of Environment-based Disambiguation",
+        "AUTHORS": "Schuler, William",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1061.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1061.bib",
+            "SUPP": ""
+        }
+    },
+    "sgarbas-etal-2001-incremental": {
+        "TITLE": "Incremental Construction of Compact Acyclic NFAs",
+        "AUTHORS": "Sgarbas, Kyriakos N.  and Fakotakis, Nikos D.  and Kokkinakis, George K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1062.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1062.bib",
+            "SUPP": ""
+        }
+    },
+    "snover-brent-2001-bayesian": {
+        "TITLE": "A Bayesian Model For Morpheme and Paradigm Identification",
+        "AUTHORS": "Snover, Matthew G.  and Brent, Michael R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1063.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1063.bib",
+            "SUPP": ""
+        }
+    },
+    "utiyama-isahara-2001-statistical": {
+        "TITLE": "A Statistical Model for Domain-Independent Text Segmentation",
+        "AUTHORS": "Utiyama, Masao  and Isahara, Hitoshi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1064.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1064.bib",
+            "SUPP": ""
+        }
+    },
+    "van-lohuizen-2001-generic": {
+        "TITLE": "A Generic Approach to Parallel Chart Parsing with an Application to LinGO",
+        "AUTHORS": "Van Lohuizen, Marcel P.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1065.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1065.bib",
+            "SUPP": ""
+        }
+    },
+    "walker-etal-2001-quantitative": {
+        "TITLE": "Quantitative and Qualitative Evaluation of Darpa Communicator Spoken Dialogue Systems",
+        "AUTHORS": "Walker, Marilyn A.  and Passonneau, Rebecca  and Boland, Julie E.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1066.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1066.bib",
+            "SUPP": ""
+        }
+    },
+    "yamada-knight-2001-syntax": {
+        "TITLE": "A Syntax-based Statistical Translation Model",
+        "AUTHORS": "Yamada, Kenji  and Knight, Kevin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1067.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1067.bib",
+            "SUPP": ""
+        }
+    },
+    "yamamoto-etal-2001-multi": {
+        "TITLE": "Multi-Class Composite N-gram Language Model for Spoken Language Processing Using Multiple Word Clusters",
+        "AUTHORS": "Yamamoto, Hirofumi  and Isogai, Shuntaro  and Sagisaka, Yoshinori",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1068.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1068.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-etal-2001-text": {
+        "TITLE": "Text Chunking using Regularized Winnow",
+        "AUTHORS": "Zhang, Tong  and Damerau, Fred  and Johnson, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1069.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1069.bib",
+            "SUPP": ""
+        }
+    },
+    "zukerman-horvitz-2001-using": {
+        "TITLE": "Using Machine Learning Techniques to Interpret WH-questions",
+        "AUTHORS": "Zukerman, Ingrid  and Horvitz, Eric",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P01-1070.pdf",
+            "BIBTEX": "https://aclanthology.org/P01-1070.bib",
+            "SUPP": ""
+        }
+    }
+}

@@ -1,0 +1,951 @@
+{
+    "grenager-manning-2006-unsupervised": {
+        "TITLE": "Unsupervised Discovery of a Statistical Verb Lexicon",
+        "AUTHORS": "Grenager, Trond  and Manning, Christopher D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1601.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1601.bib",
+            "SUPP": ""
+        }
+    },
+    "bos-nissim-2006-empirical": {
+        "TITLE": "An Empirical Approach to the Interpretation of Superlatives",
+        "AUTHORS": "Bos, Johan  and Nissim, Malvina",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1602.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1602.bib",
+            "SUPP": ""
+        }
+    },
+    "qiu-etal-2006-paraphrase": {
+        "TITLE": "Paraphrase Recognition via Dissimilarity Significance Classification",
+        "AUTHORS": "Qiu, Long  and Kan, Min-Yen  and Chua, Tat-Seng",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1603.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1603.bib",
+            "SUPP": ""
+        }
+    },
+    "yates-etal-2006-detecting": {
+        "TITLE": "Detecting Parser Errors Using Web-based Semantic Filters",
+        "AUTHORS": "Yates, Alexander  and Schoenmackers, Stefan  and Etzioni, Oren",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1604.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1604.bib",
+            "SUPP": ""
+        }
+    },
+    "mohammad-hirst-2006-distributional": {
+        "TITLE": "Distributional measures of concept-distance: A task-oriented evaluation",
+        "AUTHORS": "Mohammad, Saif  and Hirst, Graeme",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1605.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1605.bib",
+            "SUPP": ""
+        }
+    },
+    "marcu-etal-2006-spmt": {
+        "TITLE": "SPMT: Statistical Machine Translation with Syntactified Target Language Phrases",
+        "AUTHORS": "Marcu, Daniel  and Wang, Wei  and Echihabi, Abdessamad  and Knight, Kevin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1606.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1606.bib",
+            "SUPP": ""
+        }
+    },
+    "foster-etal-2006-phrasetable": {
+        "TITLE": "Phrasetable Smoothing for Statistical Machine Translation",
+        "AUTHORS": "Foster, George  and Kuhn, Roland  and Johnson, Howard",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1607.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1607.bib",
+            "SUPP": ""
+        }
+    },
+    "quirk-corston-oliver-2006-impact": {
+        "TITLE": "The impact of parse quality on syntactically-informed statistical machine translation",
+        "AUTHORS": "Quirk, Chris  and Corston-Oliver, Simon",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1608.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1608.bib",
+            "SUPP": ""
+        }
+    },
+    "costa-jussa-fonollosa-2006-statistical": {
+        "TITLE": "Statistical Machine Reordering",
+        "AUTHORS": "Costa-jussà, Marta R.  and Fonollosa, José A. R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1609.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1609.bib",
+            "SUPP": ""
+        }
+    },
+    "zhou-etal-2006-evaluating": {
+        "TITLE": "Re-evaluating Machine Translation Results with Paraphrase Support",
+        "AUTHORS": "Zhou, Liang  and Lin, Chin-Yew  and Hovy, Eduard",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1610.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1610.bib",
+            "SUPP": ""
+        }
+    },
+    "rotaru-litman-2006-exploiting": {
+        "TITLE": "Exploiting Discourse Structure for Spoken Dialogue Performance Analysis",
+        "AUTHORS": "Rotaru, Mihai  and Litman, Diane J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1611.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1611.bib",
+            "SUPP": ""
+        }
+    },
+    "nissim-2006-learning": {
+        "TITLE": "Learning Information Status of Discourse Entities",
+        "AUTHORS": "Nissim, Malvina",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1612.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1612.bib",
+            "SUPP": ""
+        }
+    },
+    "teufel-etal-2006-automatic": {
+        "TITLE": "Automatic classification of citation function",
+        "AUTHORS": "Teufel, Simone  and Siddharthan, Advaith  and Tidhar, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1613.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1613.bib",
+            "SUPP": ""
+        }
+    },
+    "kubler-etal-2006-really": {
+        "TITLE": "Is it Really that Difficult to Parse German?",
+        "AUTHORS": "Kübler, Sandra  and Hinrichs, Erhard W.  and Maier, Wolfgang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1614.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1614.bib",
+            "SUPP": ""
+        }
+    },
+    "blitzer-etal-2006-domain": {
+        "TITLE": "Domain Adaptation with Structural Correspondence Learning",
+        "AUTHORS": "Blitzer, John  and McDonald, Ryan  and Pereira, Fernando",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1615.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1615.bib",
+            "SUPP": ""
+        }
+    },
+    "riedel-clarke-2006-incremental": {
+        "TITLE": "Incremental Integer Linear Programming for Non-projective Dependency Parsing",
+        "AUTHORS": "Riedel, Sebastian  and Clarke, James",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1616.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1616.bib",
+            "SUPP": ""
+        }
+    },
+    "jiang-ng-2006-semantic": {
+        "TITLE": "Semantic Role Labeling of NomBank: A Maximum Entropy Approach",
+        "AUTHORS": "Jiang, Zheng Ping  and Ng, Hwee Tou",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1617.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1617.bib",
+            "SUPP": ""
+        }
+    },
+    "bethard-martin-2006-identification": {
+        "TITLE": "Identification of Event Mentions and their Semantic Class",
+        "AUTHORS": "Bethard, Steven  and Martin, James H.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1618.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1618.bib",
+            "SUPP": ""
+        }
+    },
+    "ninomiya-etal-2006-extremely": {
+        "TITLE": "Extremely Lexicalized Models for Accurate and Fast HPSG Parsing",
+        "AUTHORS": "Ninomiya, Takashi  and Matsuzaki, Takuya  and Tsuruoka, Yoshimasa  and Miyao, Yusuke  and Tsujii, Jun′ichi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1619.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1619.bib",
+            "SUPP": ""
+        }
+    },
+    "blunsom-baldwin-2006-multilingual": {
+        "TITLE": "Multilingual Deep Lexical Acquisition for HPSGs via Supertagging",
+        "AUTHORS": "Blunsom, Phil  and Baldwin, Timothy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1620.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1620.bib",
+            "SUPP": ""
+        }
+    },
+    "glickman-etal-2006-lexical": {
+        "TITLE": "Lexical Reference: a Semantic Matching Subtask",
+        "AUTHORS": "Glickman, Oren  and Shnarch, Eyal  and Dagan, Ido",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1621.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1621.bib",
+            "SUPP": ""
+        }
+    },
+    "lin-smith-2006-semantic": {
+        "TITLE": "Semantic Role Labeling via Instance-Based Learning",
+        "AUTHORS": "Lin, Chi-San Althon  and Smith, Tony C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1622.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1622.bib",
+            "SUPP": ""
+        }
+    },
+    "bramsen-etal-2006-inducing": {
+        "TITLE": "Inducing Temporal Graphs",
+        "AUTHORS": "Bramsen, Philip  and Deshpande, Pawan  and Lee, Yoong Keok  and Barzilay, Regina",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1623.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1623.bib",
+            "SUPP": ""
+        }
+    },
+    "wu-etal-2006-weakly": {
+        "TITLE": "A Weakly Supervised Learning Approach for Spoken Language Understanding",
+        "AUTHORS": "Wu, Wei-Lin  and Lu, Ru-Zhan  and Duan, Jian-Yong  and Liu, Hui  and Gao, Feng  and Chen, Yu-Quan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1624.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1624.bib",
+            "SUPP": ""
+        }
+    },
+    "purandare-litman-2006-humor": {
+        "TITLE": "Humor: Prosody Analysis and Automatic Recognition for F*R*I*E*N*D*S*",
+        "AUTHORS": "Purandare, Amruta  and Litman, Diane",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1625.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1625.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-etal-2006-distributed": {
+        "TITLE": "Distributed Language Modeling for $N$-best List Re-ranking",
+        "AUTHORS": "Zhang, Ying  and Hildebrand, Almut Silja  and Vogel, Stephan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1626.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1626.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-gildea-2006-efficient": {
+        "TITLE": "Efficient Search for Inversion Transduction Grammar",
+        "AUTHORS": "Zhang, Hao  and Gildea, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1627.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1627.bib",
+            "SUPP": ""
+        }
+    },
+    "cowan-etal-2006-discriminative": {
+        "TITLE": "A Discriminative Model for Tree-to-Tree Translation",
+        "AUTHORS": "Cowan, Brooke  and Kuc̆erová, Ivona  and Collins, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1628.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1628.bib",
+            "SUPP": ""
+        }
+    },
+    "xu-etal-2006-modeling": {
+        "TITLE": "Modeling Impression in Probabilistic Transliteration into Chinese",
+        "AUTHORS": "Xu, LiLi  and Fujii, Atsushi  and Ishikawa, Tetsuya",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1629.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1629.bib",
+            "SUPP": ""
+        }
+    },
+    "tao-etal-2006-unsupervised": {
+        "TITLE": "Unsupervised Named Entity Transliteration Using Temporal and Phonetic Correlation",
+        "AUTHORS": "Tao, Tao  and Yoon, Su-Youn  and Fister, Andrew  and Sproat, Richard  and Zhai, ChengXiang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1630.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1630.bib",
+            "SUPP": ""
+        }
+    },
+    "nwesri-etal-2006-capturing": {
+        "TITLE": "Capturing Out-of-Vocabulary Words in Arabic Text",
+        "AUTHORS": "Nwesri, Abdusalam F.A.  and Tahaghoghi, S.M.M.  and Scholer, Falk",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1631.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1631.bib",
+            "SUPP": ""
+        }
+    },
+    "filippova-strube-2006-using": {
+        "TITLE": "Using linguistically motivated features for paragraph boundary identification",
+        "AUTHORS": "Filippova, Katja  and Strube, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1632.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1632.bib",
+            "SUPP": ""
+        }
+    },
+    "nicolae-nicolae-2006-bestcut": {
+        "TITLE": "BESTCUT: A Graph Algorithm for Coreference Resolution",
+        "AUTHORS": "Nicolae, Cristina  and Nicolae, Gabriel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1633.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1633.bib",
+            "SUPP": ""
+        }
+    },
+    "yakushiji-etal-2006-automatic": {
+        "TITLE": "Automatic Construction of Predicate-argument Structure Patterns for Biomedical Information Extraction",
+        "AUTHORS": "Yakushiji, Akane  and Miyao, Yusuke  and Ohta, Tomoko  and Tateisi, Yuka  and Tsujii, Jun′ichi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1634.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1634.bib",
+            "SUPP": ""
+        }
+    },
+    "hockenmaier-etal-2006-protein": {
+        "TITLE": "Protein folding and chart parsing",
+        "AUTHORS": "Hockenmaier, Julia  and Joshi, Aravind K.  and Dill, Ken A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1635.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1635.bib",
+            "SUPP": ""
+        }
+    },
+    "headden-iii-etal-2006-learning": {
+        "TITLE": "Learning Phrasal Categories",
+        "AUTHORS": "Headden III, William P.  and Charniak, Eugene  and Johnson, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1636.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1636.bib",
+            "SUPP": ""
+        }
+    },
+    "reitter-etal-2006-priming": {
+        "TITLE": "Priming Effects in Combinatory Categorial Grammar",
+        "AUTHORS": "Reitter, David  and Hockenmaier, Julia  and Keller, Frank",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1637.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1637.bib",
+            "SUPP": ""
+        }
+    },
+    "dreyer-eisner-2006-better": {
+        "TITLE": "Better Informed Training of Latent Syntactic Features",
+        "AUTHORS": "Dreyer, Markus  and Eisner, Jason",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1638.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1638.bib",
+            "SUPP": ""
+        }
+    },
+    "thomas-etal-2006-get": {
+        "TITLE": "Get out the vote: Determining support or opposition from Congressional floor-debate transcripts",
+        "AUTHORS": "Thomas, Matt  and Pang, Bo  and Lee, Lillian",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1639.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1639.bib",
+            "SUPP": ""
+        }
+    },
+    "stoyanov-cardie-2006-partially": {
+        "TITLE": "Partially Supervised Coreference Resolution for Opinion Summarization through Structured Rule Learning",
+        "AUTHORS": "Stoyanov, Veselin  and Cardie, Claire",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1640.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1640.bib",
+            "SUPP": ""
+        }
+    },
+    "eguchi-lavrenko-2006-sentiment": {
+        "TITLE": "Sentiment Retrieval using Generative Models",
+        "AUTHORS": "Eguchi, Koji  and Lavrenko, Victor",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1641.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1641.bib",
+            "SUPP": ""
+        }
+    },
+    "kanayama-nasukawa-2006-fully": {
+        "TITLE": "Fully Automatic Lexicon Expansion for Domain-oriented Sentiment Analysis",
+        "AUTHORS": "Kanayama, Hiroshi  and Nasukawa, Tetsuya",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1642.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1642.bib",
+            "SUPP": ""
+        }
+    },
+    "galley-2006-skip": {
+        "TITLE": "A Skip-Chain Conditional Random Field for Ranking Meeting Utterances by Importance",
+        "AUTHORS": "Galley, Michel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1643.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1643.bib",
+            "SUPP": ""
+        }
+    },
+    "hsu-glass-2006-style": {
+        "TITLE": "Style & Topic Language Model Adaptation Using HMM-LDA",
+        "AUTHORS": "Hsu, Bo-June Paul  and Glass, James",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1644.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1644.bib",
+            "SUPP": ""
+        }
+    },
+    "sethy-etal-2006-text": {
+        "TITLE": "Text data acquisition for domain-specific language models",
+        "AUTHORS": "Sethy, Abhinav  and Georgiou, Panayiotis G.  and Narayanan, Shrikanth",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1645.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1645.bib",
+            "SUPP": ""
+        }
+    },
+    "shafran-hall-2006-corrective": {
+        "TITLE": "Corrective Models for Speech Recognition of Inflected Languages",
+        "AUTHORS": "Shafran, Izhak  and Hall, Keith",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1646.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1646.bib",
+            "SUPP": ""
+        }
+    },
+    "duh-kirchhoff-2006-lexicon": {
+        "TITLE": "Lexicon Acquisition for Dialectal Arabic Using Transductive Learning",
+        "AUTHORS": "Duh, Kevin  and Kirchhoff, Katrin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1647.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1647.bib",
+            "SUPP": ""
+        }
+    },
+    "magdy-darwish-2006-arabic": {
+        "TITLE": "Arabic OCR Error Correction Using Character Segment Correction, Language Modeling, and Shallow Morphology",
+        "AUTHORS": "Magdy, Walid  and Darwish, Kareem",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1648.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1648.bib",
+            "SUPP": ""
+        }
+    },
+    "niu-etal-2006-partially": {
+        "TITLE": "Partially Supervised Sense Disambiguation by Learning Sense Number from Tagged and Untagged Corpora",
+        "AUTHORS": "Niu, Zheng-Yu  and Ji, Dong-Hong  and Tan, Chew Lim",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1649.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1649.bib",
+            "SUPP": ""
+        }
+    },
+    "kim-etal-2006-automatically": {
+        "TITLE": "Automatically Assessing Review Helpfulness",
+        "AUTHORS": "Kim, Soo-Min  and Pantel, Patrick  and Chklovski, Tim  and Pennacchiotti, Marco",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1650.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1650.bib",
+            "SUPP": ""
+        }
+    },
+    "choi-etal-2006-joint": {
+        "TITLE": "Joint Extraction of Entities and Relations for Opinion Recognition",
+        "AUTHORS": "Choi, Yejin  and Breck, Eric  and Cardie, Claire",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1651.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1651.bib",
+            "SUPP": ""
+        }
+    },
+    "riloff-etal-2006-feature": {
+        "TITLE": "Feature Subsumption for Opinion Analysis",
+        "AUTHORS": "Riloff, Ellen  and Patwardhan, Siddharth  and Wiebe, Janyce",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1652.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1652.bib",
+            "SUPP": ""
+        }
+    },
+    "utiyama-yamamoto-2006-relevance": {
+        "TITLE": "Relevance Feedback Models for Recommendation",
+        "AUTHORS": "Utiyama, Masao  and Yamamoto, Mikio",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1653.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1653.bib",
+            "SUPP": ""
+        }
+    },
+    "gorman-curran-2006-random": {
+        "TITLE": "Random Indexing using Statistical Weight Functions",
+        "AUTHORS": "Gorman, James  and Curran, James R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1654.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1654.bib",
+            "SUPP": ""
+        }
+    },
+    "andrew-2006-hybrid": {
+        "TITLE": "A Hybrid Markov/Semi-Markov Conditional Random Field for Sequence Segmentation",
+        "AUTHORS": "Andrew, Galen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1655.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1655.bib",
+            "SUPP": ""
+        }
+    },
+    "feldman-rosenfeld-2006-boosting": {
+        "TITLE": "Boosting Unsupervised Relation Extraction by Using NER",
+        "AUTHORS": "Feldman, Ronen  and Rosenfeld, Benjamin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1656.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1656.bib",
+            "SUPP": ""
+        }
+    },
+    "sanderson-guenter-2006-short": {
+        "TITLE": "Short Text Authorship Attribution via Sequence Kernels, Markov Chains and Author Unmasking: An Investigation",
+        "AUTHORS": "Sanderson, Conrad  and Guenter, Simon",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1657.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1657.bib",
+            "SUPP": ""
+        }
+    },
+    "ramakrishnan-etal-2006-entity": {
+        "TITLE": "Entity Annotation based on Inverse Index Operations",
+        "AUTHORS": "Ramakrishnan, Ganesh  and Balakrishnan, Sreeram  and Joshi, Sachindra",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1658.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1658.bib",
+            "SUPP": ""
+        }
+    },
+    "hassan-etal-2006-unsupervised": {
+        "TITLE": "Unsupervised Information Extraction Approach Using Graph Mutual Reinforcement",
+        "AUTHORS": "Hassan, Hany  and Hassan, Ahmed  and Emam, Ossama",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1659.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1659.bib",
+            "SUPP": ""
+        }
+    },
+    "guo-etal-2006-empirical": {
+        "TITLE": "Empirical Study on the Performance Stability of Named Entity Recognition Model across Domains",
+        "AUTHORS": "Guo, Hong Lei  and Zhang, Li  and Su, Zhong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1660.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1660.bib",
+            "SUPP": ""
+        }
+    },
+    "velldal-oepen-2006-statistical": {
+        "TITLE": "Statistical Ranking in Tactical Generation",
+        "AUTHORS": "Velldal, Erik  and Oepen, Stephan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1661.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1661.bib",
+            "SUPP": ""
+        }
+    },
+    "ji-pulman-2006-sentence": {
+        "TITLE": "Sentence ordering with manifold-based classification in multi-document summarization",
+        "AUTHORS": "Ji, Paul D  and Pulman, Stephen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1662.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1662.bib",
+            "SUPP": ""
+        }
+    },
+    "cuadros-rigau-2006-quality": {
+        "TITLE": "Quality Assessment of Large Scale Knowledge Resources",
+        "AUTHORS": "Cuadros, Montse  and Rigau, German",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1663.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1663.bib",
+            "SUPP": ""
+        }
+    },
+    "matsuo-etal-2006-graph": {
+        "TITLE": "Graph-based Word Clustering using a Web Search Engine",
+        "AUTHORS": "Matsuo, Yutaka  and Sakaki, Takeshi  and Uchiyama, Kôki  and Ishizuka, Mitsuru",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1664.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1664.bib",
+            "SUPP": ""
+        }
+    },
+    "bai-etal-2006-context": {
+        "TITLE": "Context-Dependent Term Relations for Information Retrieval",
+        "AUTHORS": "Bai, Jing  and Nie, Jian-Yun  and Cao, Guihong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1665.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1665.bib",
+            "SUPP": ""
+        }
+    },
+    "titov-henderson-2006-loss": {
+        "TITLE": "Loss Minimization in Parse Reranking",
+        "AUTHORS": "Titov, Ivan  and Henderson, James",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1666.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1666.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-etal-2006-unsupervised-relation": {
+        "TITLE": "Unsupervised Relation Disambiguation with Order Identification Capabilities",
+        "AUTHORS": "Chen, Jinxiu  and Ji, Donghong  and Tan, Chew Lim  and Niu, Zhengyu",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1667.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1667.bib",
+            "SUPP": ""
+        }
+    },
+    "toutanova-2006-competitive": {
+        "TITLE": "Competitive generative models with structure learning for NLP classification tasks",
+        "AUTHORS": "Toutanova, Kristina",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1668.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1668.bib",
+            "SUPP": ""
+        }
+    },
+    "agirre-etal-2006-two": {
+        "TITLE": "Two graph-based algorithms for state-of-the-art WSD",
+        "AUTHORS": "Agirre, Eneko  and Martínez, David  and López de Lacalle, Oier  and Soroa, Aitor",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1669.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1669.bib",
+            "SUPP": ""
+        }
+    },
+    "ciaramita-altun-2006-broad": {
+        "TITLE": "Broad-Coverage Sense Disambiguation and Information Extraction with a Supersense Sequence Tagger",
+        "AUTHORS": "Ciaramita, Massimiliano  and Altun, Yasemin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1670.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1670.bib",
+            "SUPP": ""
+        }
+    },
+    "wick-etal-2006-learning": {
+        "TITLE": "Learning Field Compatibilities to Extract Database Records from Unstructured Text",
+        "AUTHORS": "Wick, Michael  and Culotta, Aron  and McCallum, Andrew",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1671.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1671.bib",
+            "SUPP": ""
+        }
+    },
+    "zelenko-aone-2006-discriminative": {
+        "TITLE": "Discriminative Methods for Transliteration",
+        "AUTHORS": "Zelenko, Dmitry  and Aone, Chinatsu",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1672.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1672.bib",
+            "SUPP": ""
+        }
+    },
+    "finkel-etal-2006-solving": {
+        "TITLE": "Solving the Problem of Cascading Errors: Approximate Bayesian Inference for Linguistic Annotation Pipelines",
+        "AUTHORS": "Finkel, Jenny Rose  and Manning, Christopher D.  and Ng, Andrew Y.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W06-1673.pdf",
+            "BIBTEX": "https://aclanthology.org/W06-1673.bib",
+            "SUPP": ""
+        }
+    }
+}

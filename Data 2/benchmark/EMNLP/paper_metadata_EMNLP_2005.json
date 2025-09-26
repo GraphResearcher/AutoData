@@ -1,0 +1,1653 @@
+{
+    "steinberger-etal-2005-improving": {
+        "TITLE": "Improving LSA-based Summarization with Anaphora Resolution",
+        "AUTHORS": "Steinberger, Josef  and Kabadjov, Mijail  and Poesio, Massimo  and Sanchez-Graillet, Olivia",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "postolache-etal-2005-data": {
+        "TITLE": "Data-driven Approaches for Information Structure Identification",
+        "AUTHORS": "Postolache, Oana  and Kruijff-Korbayová, Ivana  and Kruijff, Geert-Jan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "ji-etal-2005-using": {
+        "TITLE": "Using Semantic Relations to Refine Coreference Decisions",
+        "AUTHORS": "Ji, Heng  and Westbrook, David  and Grishman, Ralph",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "luo-2005-coreference": {
+        "TITLE": "On Coreference Resolution Performance Metrics",
+        "AUTHORS": "Luo, Xiaoqiang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "siddharthan-mckeown-2005-improving": {
+        "TITLE": "Improving Multilingual Summarization: Using Redundancy in the Input to Correct MT errors",
+        "AUTHORS": "Siddharthan, Advaith  and McKeown, Kathleen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "shi-zhou-2005-error": {
+        "TITLE": "Error Detection Using Linguistic Features",
+        "AUTHORS": "Shi, Yongmei  and Zhou, Lina",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "inkpen-desilets-2005-semantic": {
+        "TITLE": "Semantic Similarity for Detecting Recognition Errors in Automatic Speech Transcripts",
+        "AUTHORS": "Inkpen, Diana  and Désilets, Alain",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "yangarber-jokipii-2005-redundancy": {
+        "TITLE": "Redundancy-based Correction of Automatically Extracted Facts",
+        "AUTHORS": "Yangarber, Roman  and Jokipii, Lauri",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "ayan-etal-2005-neuralign": {
+        "TITLE": "NeurAlign: Combining Word Alignments Using Neural Networks",
+        "AUTHORS": "Ayan, Necip Fazil  and Dorr, Bonnie J.  and Monz, Christof",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "taskar-etal-2005-discriminative": {
+        "TITLE": "A Discriminative Matching Approach to Word Alignment",
+        "AUTHORS": "Taskar, Ben  and Lacoste-Julien, Simon  and Klein, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "moore-2005-discriminative": {
+        "TITLE": "A Discriminative Framework for Bilingual Word Alignment",
+        "AUTHORS": "Moore, Robert C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "ittycheriah-roukos-2005-maximum": {
+        "TITLE": "A Maximum Entropy Word Aligner for Arabic-English Machine Translation",
+        "AUTHORS": "Ittycheriah, Abraham  and Roukos, Salim",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "daume-iii-marcu-2005-large": {
+        "TITLE": "A Large-Scale Exploration of Effective Global Features for a Joint Entity Detection and Tracking Model",
+        "AUTHORS": "Daumé III, Hal  and Marcu, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "soboroff-harman-2005-novelty": {
+        "TITLE": "Novelty Detection: The TREC Experience",
+        "AUTHORS": "Soboroff, Ian  and Harman, Donna",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "filatova-prager-2005-tell": {
+        "TITLE": "Tell Me What You Do and I`ll Tell You What You Are: Learning Occupation-Related Activities for Biographies",
+        "AUTHORS": "Filatova, Elena  and Prager, John",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "kumaran-allan-2005-using": {
+        "TITLE": "Using Names and Topics for New Event Detection",
+        "AUTHORS": "Kumaran, Giridhar  and Allan, James",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "gliozzo-etal-2005-investigating": {
+        "TITLE": "Investigating Unsupervised Learning for Text Categorization Bootstrapping",
+        "AUTHORS": "Gliozzo, Alfio  and Strapparava, Carlo  and Dagan, Ido",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "kazama-torisawa-2005-speeding": {
+        "TITLE": "Speeding up Training with Tree Kernels for Node Relation Labeling",
+        "AUTHORS": "Kazama, Jun′ichi  and Torisawa, Kentaro",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "hirao-etal-2005-kernel": {
+        "TITLE": "Kernel-based Approach for Automatic Evaluation of Natural Language Generation Technologies: Application to Automatic Summarization",
+        "AUTHORS": "Hirao, Tsutomu  and Okumura, Manabu  and Isozaki, Hideki",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "roussinov-fan-2005-discretization": {
+        "TITLE": "Discretization Based Learning for Information Retrieval",
+        "AUTHORS": "Roussinov, Dmitri  and Fan, Weiguo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "kumar-byrne-2005-local": {
+        "TITLE": "Local Phrase Reordering Models for Statistical Machine Translation",
+        "AUTHORS": "Kumar, Shankar  and Byrne, William",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "deng-byrne-2005-hmm": {
+        "TITLE": "HMM Word and Phrase Alignment for Statistical Machine Translation",
+        "AUTHORS": "Deng, Yonggang  and Byrne, William",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "zhao-etal-2005-inner": {
+        "TITLE": "Inner-Outer Bracket Models for Word Alignment using Hidden Blocks",
+        "AUTHORS": "Zhao, Bing  and Ge, Niyu  and Papineni, Kishore",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "ayan-etal-2005-alignment": {
+        "TITLE": "Alignment Link Projection Using Transformation-Based Learning",
+        "AUTHORS": "Ayan, Necip Fazil  and Dorr, Bonnie J.  and Monz, Christof",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "bickel-etal-2005-predicting": {
+        "TITLE": "Predicting Sentences using N-Gram Language Models",
+        "AUTHORS": "Bickel, Steffen  and Haider, Peter  and Scheffer, Tobias",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "schwenk-gauvain-2005-training": {
+        "TITLE": "Training Neural Network Language Models on Very Large Corpora",
+        "AUTHORS": "Schwenk, Holger  and Gauvain, Jean-Luc",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "gao-etal-2005-minimum": {
+        "TITLE": "Minimum Sample Risk Methods for Language Modeling",
+        "AUTHORS": "Gao, Jianfeng  and Yu, Hao  and Yuan, Wei  and Xu, Peng",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "chai-qu-2005-salience": {
+        "TITLE": "A Salience Driven Approach to Robust Input Interpretation in Multimodal Conversational Systems",
+        "AUTHORS": "Chai, Joyce Y.  and Qu, Shaolin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "bohus-rudnicky-2005-error": {
+        "TITLE": "Error Handling in the RavenClaw Dialog Management Architecture",
+        "AUTHORS": "Bohus, Dan  and Rudnicky, Alexander",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "kahn-etal-2005-effective": {
+        "TITLE": "Effective Use of Prosody in Parsing Conversational Speech",
+        "AUTHORS": "Kahn, Jeremy G.  and Lease, Matthew  and Charniak, Eugene  and Johnson, Mark  and Ostendorf, Mari",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "nenkova-etal-2005-automatically": {
+        "TITLE": "Automatically Learning Cognitive Status for Multi-Document Summarization of Newswire",
+        "AUTHORS": "Nenkova, Ani  and Siddharthan, Advaith  and McKeown, Kathleen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "nomoto-2005-bayesian": {
+        "TITLE": "Bayesian Learning in Text Summarization",
+        "AUTHORS": "Nomoto, Tadashi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "sporleder-lapata-2005-discourse": {
+        "TITLE": "Discourse Chunking and its Application to Sentence Compression",
+        "AUTHORS": "Sporleder, Caroline  and Lapata, Mirella",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "suzuki-gao-2005-comparative": {
+        "TITLE": "A Comparative Study on Language Model Adaptation Techniques Using New Evaluation Metrics",
+        "AUTHORS": "Suzuki, Hisami  and Gao, Jianfeng",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "olteanu-moldovan-2005-pp": {
+        "TITLE": "PP-attachment Disambiguation using Large Context",
+        "AUTHORS": "Olteanu, Marian  and Moldovan, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "eisner-etal-2005-compiling": {
+        "TITLE": "Compiling Comp Ling: Weighted Dynamic Programming and the Dyna Language",
+        "AUTHORS": "Eisner, Jason  and Goldlust, Eric  and Smith, Noah A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1036.bib",
+            "SUPP": ""
+        }
+    },
+    "zaragoza-li-2005-learning": {
+        "TITLE": "Learning What to Talk about in Descriptive Games",
+        "AUTHORS": "Zaragoza, Hugo  and Li, Chi-Ho",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1037.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1037.bib",
+            "SUPP": ""
+        }
+    },
+    "voorhees-2005-using": {
+        "TITLE": "Using Question Series to Evaluate Question Answering System Effectiveness",
+        "AUTHORS": "Voorhees, Ellen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1038.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1038.bib",
+            "SUPP": ""
+        }
+    },
+    "peng-etal-2005-combining": {
+        "TITLE": "Combining Deep Linguistics Analysis and Surface Pattern Learning: A Hybrid Approach to Chinese Definitional Question Answering",
+        "AUTHORS": "Peng, Fuchun  and Weischedel, Ralph  and Licuanan, Ana  and Xu, Jinxi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1039.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1039.bib",
+            "SUPP": ""
+        }
+    },
+    "krishnan-etal-2005-enhanced": {
+        "TITLE": "Enhanced Answer Type Inference from Questions using Sequential Models",
+        "AUTHORS": "Krishnan, Vijay  and Das, Sujatha  and Chakrabarti, Soumen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1040.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1040.bib",
+            "SUPP": ""
+        }
+    },
+    "androutsopoulos-galanis-2005-practically": {
+        "TITLE": "A Practically Unsupervised Learning Method to Identify Single-Snippet Answers to Definition Questions on the Web",
+        "AUTHORS": "Androutsopoulos, Ion  and Galanis, Dimitrios",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1041.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1041.bib",
+            "SUPP": ""
+        }
+    },
+    "barzilay-lapata-2005-collective": {
+        "TITLE": "Collective Content Selection for Concept-to-Text Generation",
+        "AUTHORS": "Barzilay, Regina  and Lapata, Mirella",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1042.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1042.bib",
+            "SUPP": ""
+        }
+    },
+    "popescu-etzioni-2005-extracting": {
+        "TITLE": "Extracting Product Features and Opinions from Reviews",
+        "AUTHORS": "Popescu, Ana-Maria  and Etzioni, Oren",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1043.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1043.bib",
+            "SUPP": ""
+        }
+    },
+    "wilson-etal-2005-recognizing": {
+        "TITLE": "Recognizing Contextual Polarity in Phrase-Level Sentiment Analysis",
+        "AUTHORS": "Wilson, Theresa  and Wiebe, Janyce  and Hoffmann, Paul",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1044.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1044.bib",
+            "SUPP": ""
+        }
+    },
+    "choi-etal-2005-identifying": {
+        "TITLE": "Identifying Sources of Opinions with Conditional Random Fields and Extraction Patterns",
+        "AUTHORS": "Choi, Yejin  and Cardie, Claire  and Riloff, Ellen  and Patwardhan, Siddharth",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1045.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1045.bib",
+            "SUPP": ""
+        }
+    },
+    "garbin-mani-2005-disambiguating": {
+        "TITLE": "Disambiguating Toponyms in News",
+        "AUTHORS": "Garbin, Eric  and Mani, Inderjeet",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1046.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1046.bib",
+            "SUPP": ""
+        }
+    },
+    "tatu-moldovan-2005-semantic": {
+        "TITLE": "A Semantic Approach to Recognizing Textual Entailment",
+        "AUTHORS": "Tatu, Marta  and Moldovan, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1047.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1047.bib",
+            "SUPP": ""
+        }
+    },
+    "hacioglu-etal-2005-detection": {
+        "TITLE": "Detection of Entity Mentions Occuring in English and Chinese Text",
+        "AUTHORS": "Hacioglu, Kadri  and Douglas, Benjamin  and Chen, Ying",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1048.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1048.bib",
+            "SUPP": ""
+        }
+    },
+    "haghighi-etal-2005-robust": {
+        "TITLE": "Robust Textual Inference via Graph Matching",
+        "AUTHORS": "Haghighi, Aria  and Ng, Andrew  and Manning, Christopher",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1049.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1049.bib",
+            "SUPP": ""
+        }
+    },
+    "eisner-karakos-2005-bootstrapping": {
+        "TITLE": "Bootstrapping Without the Boot",
+        "AUTHORS": "Eisner, Jason  and Karakos, Damianos",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1050.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1050.bib",
+            "SUPP": ""
+        }
+    },
+    "stokoe-2005-differentiating": {
+        "TITLE": "Differentiating Homonymy and Polysemy in Information Retrieval",
+        "AUTHORS": "Stokoe, Christopher",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1051.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1051.bib",
+            "SUPP": ""
+        }
+    },
+    "mihalcea-2005-unsupervised": {
+        "TITLE": "Unsupervised Large-Vocabulary Word Sense Disambiguation with Graph-based Algorithms for Sequence Data Labeling",
+        "AUTHORS": "Mihalcea, Rada",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1052.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1052.bib",
+            "SUPP": ""
+        }
+    },
+    "koeling-etal-2005-domain": {
+        "TITLE": "Domain-Specific Sense Distributions and Predominant Sense Acquisition",
+        "AUTHORS": "Koeling, Rob  and McCarthy, Diana  and Carroll, John",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1053.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1053.bib",
+            "SUPP": ""
+        }
+    },
+    "wu-etal-2005-chinese": {
+        "TITLE": "Chinese Named Entity Recognition with Multiple Features",
+        "AUTHORS": "Wu, Youzheng  and Zhao, Jun  and Xu, Bo  and Yu, Hao",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1054.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1054.bib",
+            "SUPP": ""
+        }
+    },
+    "huang-2005-cluster": {
+        "TITLE": "Cluster-specific Named Entity Transliteration",
+        "AUTHORS": "Huang, Fei",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1055.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1055.bib",
+            "SUPP": ""
+        }
+    },
+    "minkov-etal-2005-extracting": {
+        "TITLE": "Extracting Personal Names from Email: Applying Named Entity Recognition to Informal Text",
+        "AUTHORS": "Minkov, Einat  and Wang, Richard C.  and Cohen, William W.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1056.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1056.bib",
+            "SUPP": ""
+        }
+    },
+    "raghavan-allan-2005-matching": {
+        "TITLE": "Matching Inconsistently Spelled Names in Automatic Speech Recognizer Output for Information Retrieval",
+        "AUTHORS": "Raghavan, Hema  and Allan, James",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1057.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1057.bib",
+            "SUPP": ""
+        }
+    },
+    "reynolds-bilmes-2005-part": {
+        "TITLE": "Part-of-Speech Tagging using Virtual Evidence and Negative Training",
+        "AUTHORS": "Reynolds, Sheila M.  and Bilmes, Jeff A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1058.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1058.bib",
+            "SUPP": ""
+        }
+    },
+    "tsuruoka-tsujii-2005-bidirectional": {
+        "TITLE": "Bidirectional Inference with the Easiest-First Strategy for Tagging Sequence Data",
+        "AUTHORS": "Tsuruoka, Yoshimasa  and Tsujii, Jun′ichi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1059.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1059.bib",
+            "SUPP": ""
+        }
+    },
+    "smith-etal-2005-context": {
+        "TITLE": "Context-Based Morphological Disambiguation with Random Fields",
+        "AUTHORS": "Smith, Noah A.  and Smith, David A.  and Tromble, Roy W.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1060.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1060.bib",
+            "SUPP": ""
+        }
+    },
+    "huang-etal-2005-mining": {
+        "TITLE": "Mining Key Phrase Translations from Web Corpora",
+        "AUTHORS": "Huang, Fei  and Zhang, Ying  and Vogel, Stephan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1061.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1061.bib",
+            "SUPP": ""
+        }
+    },
+    "favre-etal-2005-robust": {
+        "TITLE": "Robust Named Entity Extraction from Large Spoken Archives",
+        "AUTHORS": "Favre, Benoît  and Béchet, Frédéric  and Nocéra, Pascal",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1062.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1062.bib",
+            "SUPP": ""
+        }
+    },
+    "roussinov-etal-2005-mining": {
+        "TITLE": "Mining Context Specific Similarity Relationships Using The World Wide Web",
+        "AUTHORS": "Roussinov, Dmitri  and Zhao, Leon J.  and Fan, Weiguo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1063.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1063.bib",
+            "SUPP": ""
+        }
+    },
+    "koo-collins-2005-hidden": {
+        "TITLE": "Hidden-Variable Models for Discriminative Reranking",
+        "AUTHORS": "Koo, Terry  and Collins, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1064.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1064.bib",
+            "SUPP": ""
+        }
+    },
+    "schmid-2005-disambiguation": {
+        "TITLE": "Disambiguation of Morphological Structure using a PCFG",
+        "AUTHORS": "Schmid, Helmut",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1065.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1065.bib",
+            "SUPP": ""
+        }
+    },
+    "mcdonald-etal-2005-non": {
+        "TITLE": "Non-Projective Dependency Parsing using Spanning Tree Algorithms",
+        "AUTHORS": "McDonald, Ryan  and Pereira, Fernando  and Ribarov, Kiril  and Hajič, Jan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1066.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1066.bib",
+            "SUPP": ""
+        }
+    },
+    "mihalcea-strapparava-2005-making": {
+        "TITLE": "Making Computers Laugh: Investigations in Automatic Humor Recognition",
+        "AUTHORS": "Mihalcea, Rada  and Strapparava, Carlo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1067.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1067.bib",
+            "SUPP": ""
+        }
+    },
+    "munson-etal-2005-optimizing": {
+        "TITLE": "Optimizing to Arbitrary NLP Metrics using Ensemble Selection",
+        "AUTHORS": "Munson, Art  and Cardie, Claire  and Caruana, Rich",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1068.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1068.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-carroll-2005-word": {
+        "TITLE": "Word Sense Disambiguation Using Sense Examples Automatically Acquired from a Second Language",
+        "AUTHORS": "Wang, Xinglong  and Carroll, John",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1069.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1069.bib",
+            "SUPP": ""
+        }
+    },
+    "kepser-2005-using": {
+        "TITLE": "Using MONA for Querying Linguistic Treebanks",
+        "AUTHORS": "Kepser, Stephan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1070.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1070.bib",
+            "SUPP": ""
+        }
+    },
+    "cafarella-etal-2005-knowitnow": {
+        "TITLE": "KnowItNow: Fast, Scalable Information Extraction from the Web",
+        "AUTHORS": "Cafarella, Michael J.  and Downey, Doug  and Soderland, Stephen  and Etzioni, Oren",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1071.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1071.bib",
+            "SUPP": ""
+        }
+    },
+    "fosler-lussier-rytting-2005-cost": {
+        "TITLE": "A Cost-Benefit Analysis of Hybrid Phone-Manner Representations for ASR",
+        "AUTHORS": "Fosler-Lussier, Eric  and Rytting, C. Anton",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1072.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1072.bib",
+            "SUPP": ""
+        }
+    },
+    "alm-etal-2005-emotions": {
+        "TITLE": "Emotions from Text: Machine Learning for Text-based Emotion Prediction",
+        "AUTHORS": "Alm, Cecilia Ovesdotter  and Roth, Dan  and Sproat, Richard",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1073.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1073.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-callan-2005-combining": {
+        "TITLE": "Combining Multiple Forms of Evidence While Filtering",
+        "AUTHORS": "Zhang, Yi  and Callan, Jamie",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1074.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1074.bib",
+            "SUPP": ""
+        }
+    },
+    "feng-hovy-2005-handling": {
+        "TITLE": "Handling Biographical Questions with Implicature",
+        "AUTHORS": "Feng, Donghui  and Hovy, Eduard",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1075.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1075.bib",
+            "SUPP": ""
+        }
+    },
+    "du-etal-2005-use": {
+        "TITLE": "The Use of Metadata, Web-derived Answer Patterns and Passage Context to Improve Reading Comprehension Performance",
+        "AUTHORS": "Du, Yongping  and Meng, Helen  and Huang, Xuanjing  and Wu, Lide",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1076.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1076.bib",
+            "SUPP": ""
+        }
+    },
+    "schulte-im-walde-melinger-2005-identifying": {
+        "TITLE": "Identifying Semantic Relations and Functional Properties of Human Verb Associations",
+        "AUTHORS": "Schulte im Walde, Sabine  and Melinger, Alissa",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1077.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1077.bib",
+            "SUPP": ""
+        }
+    },
+    "merlo-musillo-2005-accurate": {
+        "TITLE": "Accurate Function Parsing",
+        "AUTHORS": "Merlo, Paola  and Musillo, Gabriele",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1078.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1078.bib",
+            "SUPP": ""
+        }
+    },
+    "bos-markert-2005-recognising": {
+        "TITLE": "Recognising Textual Entailment with Logical Inference",
+        "AUTHORS": "Bos, Johan  and Markert, Katja",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1079.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1079.bib",
+            "SUPP": ""
+        }
+    },
+    "perera-witte-2005-self": {
+        "TITLE": "A Self-Learning Context-Aware Lemmatizer for German",
+        "AUTHORS": "Perera, Praharshana  and Witte, René",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1080.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1080.bib",
+            "SUPP": ""
+        }
+    },
+    "marquez-etal-2005-robust": {
+        "TITLE": "A Robust Combination Strategy for Semantic Role Labeling",
+        "AUTHORS": "Màrquez, Lluís  and Surdeanu, Mihai  and Comas, Pere  and Turmo, Jordi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1081.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1081.bib",
+            "SUPP": ""
+        }
+    },
+    "crystal-etal-2005-methodology": {
+        "TITLE": "A Methodology for Extrinsically Evaluating Information Extraction Performance",
+        "AUTHORS": "Crystal, Michael  and Baron, Alex  and Godfrey, Katherine  and Micciulla, Linnea  and Tenney, Yvette  and Weischedel, Ralph",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1082.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1082.bib",
+            "SUPP": ""
+        }
+    },
+    "luo-zitouni-2005-multi": {
+        "TITLE": "Multi-Lingual Coreference Resolution With Syntactic Features",
+        "AUTHORS": "Luo, Xiaoqiang  and Zitouni, Imed",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1083.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1083.bib",
+            "SUPP": ""
+        }
+    },
+    "erk-pado-2005-analyzing": {
+        "TITLE": "Analyzing Models for Semantic Role Assignment using Confusability",
+        "AUTHORS": "Erk, Katrin  and Padó, Sebastian",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1084.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1084.bib",
+            "SUPP": ""
+        }
+    },
+    "goldwater-mcclosky-2005-improving": {
+        "TITLE": "Improving Statistical MT through Morphological Analysis",
+        "AUTHORS": "Goldwater, Sharon  and McClosky, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1085.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1085.bib",
+            "SUPP": ""
+        }
+    },
+    "murdock-croft-2005-translation": {
+        "TITLE": "A Translation Model for Sentence Retrieval",
+        "AUTHORS": "Murdock, Vanessa  and Croft, W. Bruce",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1086.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1086.bib",
+            "SUPP": ""
+        }
+    },
+    "jansche-2005-maximum": {
+        "TITLE": "Maximum Expected F-Measure Training of Logistic Regression Models",
+        "AUTHORS": "Jansche, Martin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1087.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1087.bib",
+            "SUPP": ""
+        }
+    },
+    "sauri-etal-2005-evita": {
+        "TITLE": "Evita: A Robust Event Recognizer For QA Systems",
+        "AUTHORS": "Saurí, Roser  and Knippen, Robert  and Verhagen, Marc  and Pustejovsky, James",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1088.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1088.bib",
+            "SUPP": ""
+        }
+    },
+    "li-church-2005-using": {
+        "TITLE": "Using Sketches to Estimate Associations",
+        "AUTHORS": "Li, Ping  and Church, Kenneth W.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1089.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1089.bib",
+            "SUPP": ""
+        }
+    },
+    "schiffman-mckeown-2005-context": {
+        "TITLE": "Context and Learning in Novelty Detection",
+        "AUTHORS": "Schiffman, Barry  and McKeown, Kathleen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1090.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1090.bib",
+            "SUPP": ""
+        }
+    },
+    "bunescu-mooney-2005-shortest": {
+        "TITLE": "A Shortest Path Dependency Kernel for Relation Extraction",
+        "AUTHORS": "Bunescu, Razvan  and Mooney, Raymond",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1091.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1091.bib",
+            "SUPP": ""
+        }
+    },
+    "rosario-hearst-2005-multi": {
+        "TITLE": "Multi-way Relation Classification: Application to Protein-Protein Interactions",
+        "AUTHORS": "Rosario, Barbara  and Hearst, Marti",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1092.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1092.bib",
+            "SUPP": ""
+        }
+    },
+    "lita-etal-2005-blanc": {
+        "TITLE": "BLANC: Learning Evaluation Metrics for MT",
+        "AUTHORS": "Lita, Lucian  and Rogati, Monica  and Lavie, Alon",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1093.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1093.bib",
+            "SUPP": ""
+        }
+    },
+    "sutton-mccallum-2005-composition": {
+        "TITLE": "Composition of Conditional Random Fields for Transfer Learning",
+        "AUTHORS": "Sutton, Charles  and McCallum, Andrew",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1094.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1094.bib",
+            "SUPP": ""
+        }
+    },
+    "simard-etal-2005-translating": {
+        "TITLE": "Translating with Non-contiguous Phrases",
+        "AUTHORS": "Simard, Michel  and Cancedda, Nicola  and Cavestro, Bruno  and Dymetman, Marc  and Gaussier, Eric  and Goutte, Cyril  and Yamada, Kenji  and Langlais, Philippe  and Mauser, Arne",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1095.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1095.bib",
+            "SUPP": ""
+        }
+    },
+    "ueffing-ney-2005-word": {
+        "TITLE": "Word-Level Confidence Estimation for Machine Translation using Phrase-Based Translation Models",
+        "AUTHORS": "Ueffing, Nicola  and Ney, Hermann",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1096.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1096.bib",
+            "SUPP": ""
+        }
+    },
+    "vickrey-etal-2005-word": {
+        "TITLE": "Word-Sense Disambiguation for Machine Translation",
+        "AUTHORS": "Vickrey, David  and Biewald, Luke  and Teyssier, Marc  and Koller, Daphne",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1097.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1097.bib",
+            "SUPP": ""
+        }
+    },
+    "chiang-etal-2005-hiero": {
+        "TITLE": "The Hiero Machine Translation System: Extensions, Evaluation, and Analysis",
+        "AUTHORS": "Chiang, David  and Lopez, Adam  and Madnani, Nitin  and Monz, Christof  and Resnik, Philip  and Subotin, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1098.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1098.bib",
+            "SUPP": ""
+        }
+    },
+    "hollingshead-etal-2005-comparing": {
+        "TITLE": "Comparing and Combining Finite-State and Context-Free Parsers",
+        "AUTHORS": "Hollingshead, Kristy  and Fisher, Seeger  and Roark, Brian",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1099.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1099.bib",
+            "SUPP": ""
+        }
+    },
+    "cowan-collins-2005-morphology": {
+        "TITLE": "Morphology and Reranking for the Statistical Parsing of Spanish",
+        "AUTHORS": "Cowan, Brooke  and Collins, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1100.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1100.bib",
+            "SUPP": ""
+        }
+    },
+    "satta-peserico-2005-computational": {
+        "TITLE": "Some Computational Complexity Results for Synchronous Context-Free Grammars",
+        "AUTHORS": "Satta, Giorgio  and Peserico, Enoch",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1101.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1101.bib",
+            "SUPP": ""
+        }
+    },
+    "shen-joshi-2005-incremental": {
+        "TITLE": "Incremental LTAG Parsing",
+        "AUTHORS": "Shen, Libin  and Joshi, Aravind",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1102.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1102.bib",
+            "SUPP": ""
+        }
+    },
+    "brown-etal-2005-automatic": {
+        "TITLE": "Automatic Question Generation for Vocabulary Assessment",
+        "AUTHORS": "Brown, Jonathan  and Frishkoff, Gwen  and Eskenazi, Maxine",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1103.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1103.bib",
+            "SUPP": ""
+        }
+    },
+    "dubey-etal-2005-parallelism": {
+        "TITLE": "Parallelism in Coordination as an Instance of Syntactic Priming: Evidence from Corpus-based Modeling",
+        "AUTHORS": "Dubey, Amit  and Sturt, Patrick  and Keller, Frank",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1104.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1104.bib",
+            "SUPP": ""
+        }
+    },
+    "nakov-hearst-2005-using": {
+        "TITLE": "Using the Web as an Implicit Training Set: Application to Structural Ambiguity Resolution",
+        "AUTHORS": "Nakov, Preslav  and Hearst, Marti",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1105.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1105.bib",
+            "SUPP": ""
+        }
+    },
+    "wermter-hahn-2005-paradigmatic": {
+        "TITLE": "Paradigmatic Modifiability Statistics for the Extraction of Complex Multi-Word Terms",
+        "AUTHORS": "Wermter, Joachim  and Hahn, Udo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1106.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1106.bib",
+            "SUPP": ""
+        }
+    },
+    "xi-hwa-2005-backoff": {
+        "TITLE": "A Backoff Model for Bootstrapping Resources for Non-English Languages",
+        "AUTHORS": "Xi, Chenhai  and Hwa, Rebecca",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1107.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1107.bib",
+            "SUPP": ""
+        }
+    },
+    "pado-lapata-2005-cross": {
+        "TITLE": "Cross-linguistic Projection of Role-Semantic Information",
+        "AUTHORS": "Padó, Sebastian  and Lapata, Mirella",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1108.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1108.bib",
+            "SUPP": ""
+        }
+    },
+    "kolak-resnik-2005-ocr": {
+        "TITLE": "OCR Post-Processing for Low Density Languages",
+        "AUTHORS": "Kolak, Okan  and Resnik, Philip",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1109.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1109.bib",
+            "SUPP": ""
+        }
+    },
+    "genzel-2005-inducing": {
+        "TITLE": "Inducing a Multilingual Dictionary from a Parallel Multitext in Related Languages",
+        "AUTHORS": "Genzel, Dmitriy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1110.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1110.bib",
+            "SUPP": ""
+        }
+    },
+    "swier-stevenson-2005-exploiting": {
+        "TITLE": "Exploiting a Verb Lexicon in Automatic Semantic Role Labelling",
+        "AUTHORS": "Swier, Robert  and Stevenson, Suzanne",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1111.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1111.bib",
+            "SUPP": ""
+        }
+    },
+    "moldovan-badulescu-2005-semantic": {
+        "TITLE": "A Semantic Scattering Model for the Automatic Interpretation of Genitives",
+        "AUTHORS": "Moldovan, Dan  and Badulescu, Adriana",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1112.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1112.bib",
+            "SUPP": ""
+        }
+    },
+    "venkatapathy-joshi-2005-measuring": {
+        "TITLE": "Measuring the Relative Compositionality of Verb-Noun (V-N) Collocations by Integrating Features",
+        "AUTHORS": "Venkatapathy, Sriram  and Joshi, Aravind",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1113.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1113.bib",
+            "SUPP": ""
+        }
+    },
+    "niu-etal-2005-semi": {
+        "TITLE": "A Semi-Supervised Feature Clustering Algorithm with Application to Word Sense Disambiguation",
+        "AUTHORS": "Niu, Zheng-Yu  and Ji, Dong-Hong  and Tan, Chew Lim",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1114.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1114.bib",
+            "SUPP": ""
+        }
+    },
+    "otterbacher-etal-2005-using": {
+        "TITLE": "Using Random Walks for Question-focused Sentence Retrieval",
+        "AUTHORS": "Otterbacher, Jahna  and Erkan, Güneş  and Radev, Dragomir",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1115.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1115.bib",
+            "SUPP": ""
+        }
+    },
+    "stoyanov-etal-2005-multi": {
+        "TITLE": "Multi-Perspective Question Answering Using the OpQA Corpus",
+        "AUTHORS": "Stoyanov, Veselin  and Cardie, Claire  and Wiebe, Janyce",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1116.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1116.bib",
+            "SUPP": ""
+        }
+    },
+    "lin-demner-fushman-2005-automatically": {
+        "TITLE": "Automatically Evaluating Answers to Definition Questions",
+        "AUTHORS": "Lin, Jimmy  and Demner-Fushman, Dina",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1117.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1117.bib",
+            "SUPP": ""
+        }
+    },
+    "tiedemann-2005-integrating": {
+        "TITLE": "Integrating Linguistic Knowledge in Passage Retrieval for Question Answering",
+        "AUTHORS": "Tiedemann, Jörg",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1118.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1118.bib",
+            "SUPP": ""
+        }
+    },
+    "yu-etal-2005-searching": {
+        "TITLE": "Searching the Audio Notebook: Keyword Search in Recorded Conversation",
+        "AUTHORS": "Yu, Peng  and Chen, Kaijiang  and Lu, Lie  and Seide, Frank",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1119.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1119.bib",
+            "SUPP": ""
+        }
+    },
+    "ahmad-kondrak-2005-learning": {
+        "TITLE": "Learning a Spelling Error Model from Search Query Logs",
+        "AUTHORS": "Ahmad, Farooq  and Kondrak, Grzegorz",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1120.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1120.bib",
+            "SUPP": ""
+        }
+    },
+    "okabe-etal-2005-query": {
+        "TITLE": "Query Expansion with the Minimum User Feedback by Transductive Learning",
+        "AUTHORS": "Okabe, Masayuki  and Umemura, Kyoji  and Yamada, Seiji",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1121.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1121.bib",
+            "SUPP": ""
+        }
+    },
+    "olney-cai-2005-orthonormal": {
+        "TITLE": "An Orthonormal Basis for Topic Segmentation in Tutorial Dialogue",
+        "AUTHORS": "Olney, Andrew  and Cai, Zhiqiang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1122.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1122.bib",
+            "SUPP": ""
+        }
+    },
+    "marx-etal-2005-generalized": {
+        "TITLE": "A Generalized Framework for Revealing Analogous Themes across Related Topics",
+        "AUTHORS": "Marx, Zvika  and Dagan, Ido  and Shamir, Eli",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1123.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1123.bib",
+            "SUPP": ""
+        }
+    },
+    "mcdonald-etal-2005-flexible": {
+        "TITLE": "Flexible Text Segmentation with Structured Multilabel Classification",
+        "AUTHORS": "McDonald, Ryan  and Crammer, Koby  and Pereira, Fernando",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1124.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1124.bib",
+            "SUPP": ""
+        }
+    },
+    "bilmes-etal-2005-vocal": {
+        "TITLE": "The Vocal Joystick: A Voice-Based Human-Computer Interface for Individuals with Motor Impairments",
+        "AUTHORS": "Bilmes, Jeff A.  and Li, Xiao  and Malkin, Jonathan  and Kilanski, Kelley  and Wright, Richard  and Kirchhoff, Katrin  and Subramanya, Amar  and Harada, Susumu  and Landay, James  and Dowden, Patricia  and Chizeck, Howard",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1125.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1125.bib",
+            "SUPP": ""
+        }
+    },
+    "misu-kawahara-2005-speech": {
+        "TITLE": "Speech-based Information Retrieval System with Clarification Dialogue Strategy",
+        "AUTHORS": "Misu, Teruhisa  and Kawahara, Tatsuya",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1126.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1126.bib",
+            "SUPP": ""
+        }
+    },
+    "english-heeman-2005-learning": {
+        "TITLE": "Learning Mixed Initiative Dialog Strategies By Using Reinforcement Learning On Both Conversants",
+        "AUTHORS": "English, Michael  and Heeman, Peter",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of Human Language Technology Conference and Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/H05-1127.pdf",
+            "BIBTEX": "https://aclanthology.org/H05-1127.bib",
+            "SUPP": ""
+        }
+    }
+}

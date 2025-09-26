@@ -1,0 +1,1263 @@
+{
+    "wallace-2012-multiple": {
+        "TITLE": "Multiple Narrative Disentanglement: Unraveling Infinite Jest",
+        "AUTHORS": "Wallace, Byron",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "levitan-etal-2012-acoustic": {
+        "TITLE": "Acoustic-Prosodic Entrainment and Social Behavior",
+        "AUTHORS": "Levitan, Rivka  and Gravano, Agustín  and Willson, Laura  and Ben̆us̆, S̆tefan  and Hirschberg, Julia  and Nenkova, Ani",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "madnani-etal-2012-identifying": {
+        "TITLE": "Identifying High-Level Organizational Elements in Argumentative Discourse",
+        "AUTHORS": "Madnani, Nitin  and Heilman, Michael  and Tetreault, Joel  and Chodorow, Martin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "burkett-klein-2012-fast": {
+        "TITLE": "Fast Inference in Phrase Extraction Models with Belief Propagation",
+        "AUTHORS": "Burkett, David  and Klein, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "le-etal-2012-continuous": {
+        "TITLE": "Continuous Space Translation Models with Neural Networks",
+        "AUTHORS": "Le, Hai Son  and Allauzen, Alexandre  and Yvon, François",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "zbib-etal-2012-machine": {
+        "TITLE": "Machine Translation of Arabic Dialects",
+        "AUTHORS": "Zbib, Rabih  and Malchiodi, Erika  and Devlin, Jacob  and Stallard, David  and Matsoukas, Spyros  and Schwartz, Richard  and Makhoul, John  and Zaidan, Omar F.  and Callison-Burch, Chris",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "green-etal-2012-entity": {
+        "TITLE": "Entity Clustering Across Languages",
+        "AUTHORS": "Green, Spence  and Andrews, Nicholas  and Gormley, Matthew R.  and Dredze, Mark  and Manning, Christopher D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "reichart-barzilay-2012-multi": {
+        "TITLE": "Multi-Event Extraction Guided by Global Constraints",
+        "AUTHORS": "Reichart, Roi  and Barzilay, Regina",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "abu-jbara-radev-2012-reference": {
+        "TITLE": "Reference Scope Identification in Citing Sentences",
+        "AUTHORS": "Abu-Jbara, Amjad  and Radev, Dragomir",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "forbes-riley-etal-2012-intrinsic": {
+        "TITLE": "Intrinsic and Extrinsic Evaluation of an Automatic User Disengagement Detector for an Uncertainty-Adaptive Spoken Dialogue System",
+        "AUTHORS": "Forbes-Riley, Kate  and Litman, Diane  and Friedberg, Heather  and Drummond, Joanna",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "xie-etal-2012-exploring": {
+        "TITLE": "Exploring Content Features for Automated Speech Scoring",
+        "AUTHORS": "Xie, Shasha  and Evanini, Keelan  and Zechner, Klaus",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "stark-etal-2012-hello": {
+        "TITLE": "Hello, Who is Calling?: Can Words Reveal the Social Nature of Conversations?",
+        "AUTHORS": "Stark, Anthony  and Shafran, Izhak  and Kaye, Jeffrey",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "stoyanov-eisner-2012-minimum": {
+        "TITLE": "Minimum-Risk Training of Approximate CRF-Based NLP Systems",
+        "AUTHORS": "Stoyanov, Veselin  and Eisner, Jason",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "smith-eisner-2012-unsupervised": {
+        "TITLE": "Unsupervised Learning on an Approximate Corpus",
+        "AUTHORS": "Smith, Jason  and Eisner, Jason",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "huang-etal-2012-structured": {
+        "TITLE": "Structured Perceptron with Inexact Search",
+        "AUTHORS": "Huang, Liang  and Fayong, Suphan  and Guo, Yang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "fournier-inkpen-2012-segmentation": {
+        "TITLE": "Segmentation Similarity and Agreement",
+        "AUTHORS": "Fournier, Chris  and Inkpen, Diana",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "dreyer-marcu-2012-hyter": {
+        "TITLE": "HyTER: Meaning-Equivalent Semantics for Translation Evaluation",
+        "AUTHORS": "Dreyer, Markus  and Marcu, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "mason-charniak-2012-apples": {
+        "TITLE": "Apples to Oranges: Evaluating Image Annotations from Natural Language Processing Systems",
+        "AUTHORS": "Mason, Rebecca  and Charniak, Eugene",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "madnani-etal-2012-examining": {
+        "TITLE": "Re-examining Machine Translation Metrics for Paraphrase Identification",
+        "AUTHORS": "Madnani, Nitin  and Tetreault, Joel  and Chodorow, Martin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "lee-kong-2012-dependency": {
+        "TITLE": "A Dependency Treebank of Classical Chinese Poems",
+        "AUTHORS": "Lee, John  and Kong, Yin Hei",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "dzikovska-etal-2012-towards": {
+        "TITLE": "Towards Effective Tutorial Feedback for Explanation Questions: A Dataset and Baselines",
+        "AUTHORS": "Dzikovska, Myroslava O.  and Nielsen, Rodney D.  and Brew, Chris",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "kazantseva-szpakowicz-2012-topical": {
+        "TITLE": "Topical Segmentation: a Study of Human Performance and a New Measure of Quality.",
+        "AUTHORS": "Kazantseva, Anna  and Szpakowicz, Stan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "gimpel-smith-2012-structured": {
+        "TITLE": "Structured Ramp Loss Minimization for Machine Translation",
+        "AUTHORS": "Gimpel, Kevin  and Smith, Noah A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "paul-eisner-2012-implicitly": {
+        "TITLE": "Implicitly Intersecting Weighted Automata using Dual Decomposition",
+        "AUTHORS": "Paul, Michael J.  and Eisner, Jason",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "el-kahki-etal-2012-transliteration": {
+        "TITLE": "Transliteration Mining Using Large Training and Test Sets",
+        "AUTHORS": "El Kahki, Ali  and Darwish, Kareem  and Abdul-Wahab, Mohamed  and Taei, Ahmed",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "watanabe-2012-optimized": {
+        "TITLE": "Optimized Online Rank Learning for Machine Translation",
+        "AUTHORS": "Watanabe, Taro",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "maletti-2012-every": {
+        "TITLE": "Every sensible extended top-down tree transducer is a multi bottom-up tree transducer",
+        "AUTHORS": "Maletti, Andreas",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "lopez-etal-2012-nomit": {
+        "TITLE": "NOMIT: Automatic Titling by Nominalizing",
+        "AUTHORS": "Lopez, Cédric  and Prince, Violaine  and Roche, Mathieu",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "israel-etal-2012-correcting": {
+        "TITLE": "Correcting Comma Errors in Learner Essays, and Restoring Commas in Newswire Text",
+        "AUTHORS": "Israel, Ross  and Tetreault, Joel  and Chodorow, Martin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "tse-curran-2012-challenges": {
+        "TITLE": "The Challenges of Parsing Chinese with Combinatory Categorial Grammar",
+        "AUTHORS": "Tse, Daniel  and Curran, James R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "kulick-etal-2012-using": {
+        "TITLE": "Using Supertags and Encoded Annotation Principles for Improved Dependency to Phrase Structure Conversion",
+        "AUTHORS": "Kulick, Seth  and Bies, Ann  and Mott, Justin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "hohensee-bender-2012-getting": {
+        "TITLE": "Getting More from Morphology in Multilingual Dependency Parsing",
+        "AUTHORS": "Hohensee, Matt  and Bender, Emily M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "bergsma-etal-2012-stylometric": {
+        "TITLE": "Stylometric Analysis of Scientific Articles",
+        "AUTHORS": "Bergsma, Shane  and Post, Matt  and Yarowsky, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "petrovic-etal-2012-using": {
+        "TITLE": "Using paraphrases for improving first story detection in news and Twitter",
+        "AUTHORS": "Petrović, Saša  and Osborne, Miles  and Lavrenko, Victor",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "huck-ney-2012-insertion": {
+        "TITLE": "Insertion and Deletion Models for Statistical Machine Translation",
+        "AUTHORS": "Huck, Matthias  and Ney, Hermann",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "huang-etal-2012-transahead-computer": {
+        "TITLE": "TransAhead: A Computer-Assisted Translation and Writing Tool",
+        "AUTHORS": "Huang, Chung-chi  and Yang, Ping-che  and Chen, Keh-jiann  and Chang, Jason S.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1036.bib",
+            "SUPP": ""
+        }
+    },
+    "swanson-yamangil-2012-correction": {
+        "TITLE": "Correction Detection and Error Type Selection as an ESL Educational Aid",
+        "AUTHORS": "Swanson, Ben  and Yamangil, Elif",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1037.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1037.bib",
+            "SUPP": ""
+        }
+    },
+    "scaiano-inkpen-2012-getting": {
+        "TITLE": "Getting More from Segmentation Evaluation",
+        "AUTHORS": "Scaiano, Martin  and Inkpen, Diana",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1038.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1038.bib",
+            "SUPP": ""
+        }
+    },
+    "waxmonsky-reddy-2012-g2p": {
+        "TITLE": "G2P Conversion of Proper Names Using Word Origin Information",
+        "AUTHORS": "Waxmonsky, Sonjia  and Reddy, Sravana",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1039.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1039.bib",
+            "SUPP": ""
+        }
+    },
+    "nicholson-etal-2012-evaluating": {
+        "TITLE": "Evaluating a Morphological Analyser of Inuktitut",
+        "AUTHORS": "Nicholson, Jeremy  and Cohn, Trevor  and Baldwin, Timothy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1040.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1040.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-metze-2012-intra": {
+        "TITLE": "Intra-Speaker Topic Modeling for Improved Multi-Party Meeting Summarization with Integrated Random Walk",
+        "AUTHORS": "Chen, Yun-Nung  and Metze, Florian",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1041.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1041.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-etal-2012-towards": {
+        "TITLE": "Towards Using EEG to Improve ASR Accuracy",
+        "AUTHORS": "Chen, Yun-Nung  and Chang, Kai-Min  and Mostow, Jack",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1042.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1042.bib",
+            "SUPP": ""
+        }
+    },
+    "mueller-etal-2012-comparative": {
+        "TITLE": "A Comparative Investigation of Morphological Language Modeling for the Languages of the European Union",
+        "AUTHORS": "Mueller, Thomas  and Schuetze, Hinrich  and Schmid, Helmut",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1043.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1043.bib",
+            "SUPP": ""
+        }
+    },
+    "bhargava-kondrak-2012-leveraging": {
+        "TITLE": "Leveraging supplemental representations for sequential transduction",
+        "AUTHORS": "Bhargava, Aditya  and Kondrak, Grzegorz",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1044.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1044.bib",
+            "SUPP": ""
+        }
+    },
+    "sirts-alumae-2012-hierarchical": {
+        "TITLE": "A Hierarchical Dirichlet Process Model for Joint Part-of-Speech and Morphology Induction",
+        "AUTHORS": "Sirts, Kairit  and Alumäe, Tanel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1045.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1045.bib",
+            "SUPP": ""
+        }
+    },
+    "ture-etal-2012-encouraging": {
+        "TITLE": "Encouraging Consistent Translation Choices",
+        "AUTHORS": "Ture, Ferhan  and Oard, Douglas W.  and Resnik, Philip",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1046.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1046.bib",
+            "SUPP": ""
+        }
+    },
+    "cherry-foster-2012-batch": {
+        "TITLE": "Batch Tuning Strategies for Statistical Machine Translation",
+        "AUTHORS": "Cherry, Colin  and Foster, George",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1047.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1047.bib",
+            "SUPP": ""
+        }
+    },
+    "bangalore-etal-2012-real": {
+        "TITLE": "Real-time Incremental Speech-to-Speech Translation of Dialogs",
+        "AUTHORS": "Bangalore, Srinivas  and Rangarajan Sridhar, Vivek Kumar  and Kolan, Prakash  and Golipour, Ladan  and Jimenez, Aura",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1048.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1048.bib",
+            "SUPP": ""
+        }
+    },
+    "angeli-etal-2012-parsing": {
+        "TITLE": "Parsing Time: Learning to Interpret Time Expressions",
+        "AUTHORS": "Angeli, Gabor  and Manning, Christopher  and Jurafsky, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1049.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1049.bib",
+            "SUPP": ""
+        }
+    },
+    "blanco-moldovan-2012-fine": {
+        "TITLE": "Fine-Grained Focus for Pinpointing Positive Implicit Meaning from Negated Statements",
+        "AUTHORS": "Blanco, Eduardo  and Moldovan, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1050.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1050.bib",
+            "SUPP": ""
+        }
+    },
+    "fountain-lapata-2012-taxonomy": {
+        "TITLE": "Taxonomy Induction Using Hierarchical Random Graphs",
+        "AUTHORS": "Fountain, Trevor  and Lapata, Mirella",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1051.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1051.bib",
+            "SUPP": ""
+        }
+    },
+    "tackstrom-etal-2012-cross": {
+        "TITLE": "Cross-lingual Word Clusters for Direct Transfer of Linguistic Structure",
+        "AUTHORS": "Täckström, Oscar  and McDonald, Ryan  and Uszkoreit, Jakob",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1052.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1052.bib",
+            "SUPP": ""
+        }
+    },
+    "mejer-crammer-2012-training": {
+        "TITLE": "Training Dependency Parser Using Light Feedback",
+        "AUTHORS": "Mejer, Avihai  and Crammer, Koby",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1053.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1053.bib",
+            "SUPP": ""
+        }
+    },
+    "rush-petrov-2012-vine": {
+        "TITLE": "Vine Pruning for Efficient Multi-Pass Dependency Parsing",
+        "AUTHORS": "Rush, Alexander  and Petrov, Slav",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1054.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1054.bib",
+            "SUPP": ""
+        }
+    },
+    "laws-etal-2012-active": {
+        "TITLE": "Active Learning for Coreference Resolution",
+        "AUTHORS": "Laws, Florian  and Heimerl, Florian  and Schütze, Hinrich",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1055.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1055.bib",
+            "SUPP": ""
+        }
+    },
+    "kjersten-van-durme-2012-space": {
+        "TITLE": "Space Efficiencies in Discourse Modeling via Conditional Random Sampling",
+        "AUTHORS": "Kjersten, Brian  and Van Durme, Benjamin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1056.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1056.bib",
+            "SUPP": ""
+        }
+    },
+    "prabhakaran-etal-2012-predicting": {
+        "TITLE": "Predicting Overt Display of Power in Written Dialogs",
+        "AUTHORS": "Prabhakaran, Vinodkumar  and Rambow, Owen  and Diab, Mona",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1057.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1057.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-di-eugenio-2012-co": {
+        "TITLE": "Co-reference via Pointing and Haptics in Multi-Modal Dialogues",
+        "AUTHORS": "Chen, Lin  and Di Eugenio, Barbara",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1058.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1058.bib",
+            "SUPP": ""
+        }
+    },
+    "devlin-matsoukas-2012-trait": {
+        "TITLE": "Trait-Based Hypothesis Selection For Machine Translation",
+        "AUTHORS": "Devlin, Jacob  and Matsoukas, Spyros",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1059.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1059.bib",
+            "SUPP": ""
+        }
+    },
+    "sankaran-sarkar-2012-improved": {
+        "TITLE": "Improved Reordering for Shallow-n Grammar based Hierarchical Phrase-based Translation",
+        "AUTHORS": "Sankaran, Baskaran  and Sarkar, Anoop",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1060.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1060.bib",
+            "SUPP": ""
+        }
+    },
+    "riesa-marcu-2012-automatic": {
+        "TITLE": "Automatic Parallel Fragment Extraction from Noisy Data",
+        "AUTHORS": "Riesa, Jason  and Marcu, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1061.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1061.bib",
+            "SUPP": ""
+        }
+    },
+    "bazrafshan-etal-2012-tuning": {
+        "TITLE": "Tuning as Linear Regression",
+        "AUTHORS": "Bazrafshan, Marzieh  and Chung, Tagyoung  and Gildea, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1062.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1062.bib",
+            "SUPP": ""
+        }
+    },
+    "ma-etal-2012-ranking": {
+        "TITLE": "Ranking-based readability assessment for early primary children`s literature",
+        "AUTHORS": "Ma, Yi  and Fosler-Lussier, Eric  and Lofthus, Robert",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1063.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1063.bib",
+            "SUPP": ""
+        }
+    },
+    "riedl-biemann-2012-text": {
+        "TITLE": "How Text Segmentation Algorithms Gain from Topic Models",
+        "AUTHORS": "Riedl, Martin  and Biemann, Chris",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1064.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1064.bib",
+            "SUPP": ""
+        }
+    },
+    "preiss-2012-identifying": {
+        "TITLE": "Identifying Comparable Corpora Using LDA",
+        "AUTHORS": "Preiss, Judita",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1065.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1065.bib",
+            "SUPP": ""
+        }
+    },
+    "settles-zhu-2012-behavioral": {
+        "TITLE": "Behavioral Factors in Interactive Training of Text Classifiers",
+        "AUTHORS": "Settles, Burr  and Zhu, Xiaojin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1066.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1066.bib",
+            "SUPP": ""
+        }
+    },
+    "dahlmeier-ng-2012-better": {
+        "TITLE": "Better Evaluation for Grammatical Error Correction",
+        "AUTHORS": "Dahlmeier, Daniel  and Ng, Hwee Tou",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1067.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1067.bib",
+            "SUPP": ""
+        }
+    },
+    "mejer-crammer-2012-sure": {
+        "TITLE": "Are You Sure? Confidence in Prediction of Dependency Tree Edges",
+        "AUTHORS": "Mejer, Avihai  and Crammer, Koby",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1068.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1068.bib",
+            "SUPP": ""
+        }
+    },
+    "gimpel-smith-2012-concavity": {
+        "TITLE": "Concavity and Initialization for Unsupervised Dependency Parsing",
+        "AUTHORS": "Gimpel, Kevin  and Smith, Noah A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1069.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1069.bib",
+            "SUPP": ""
+        }
+    },
+    "alahverdzhieva-etal-2012-multimodal": {
+        "TITLE": "Multimodal Grammar Implementation",
+        "AUTHORS": "Alahverdzhieva, Katya  and Flickinger, Dan  and Lascarides, Alex",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1070.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1070.bib",
+            "SUPP": ""
+        }
+    },
+    "mohammad-2012-portable": {
+        "TITLE": "Portable Features for Classifying Emotional Text",
+        "AUTHORS": "Mohammad, Saif",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1071.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1071.bib",
+            "SUPP": ""
+        }
+    },
+    "walker-etal-2012-stance": {
+        "TITLE": "Stance Classification using Dialogic Properties of Persuasion",
+        "AUTHORS": "Walker, Marilyn  and Anand, Pranav  and Abbott, Rob  and Grant, Ricky",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1072.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1072.bib",
+            "SUPP": ""
+        }
+    },
+    "athar-teufel-2012-context": {
+        "TITLE": "Context-Enhanced Citation Sentiment Detection",
+        "AUTHORS": "Athar, Awais  and Teufel, Simone",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1073.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1073.bib",
+            "SUPP": ""
+        }
+    },
+    "artzi-etal-2012-predicting": {
+        "TITLE": "Predicting Responses to Microblog Posts",
+        "AUTHORS": "Artzi, Yoav  and Pantel, Patrick  and Gamon, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1074.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1074.bib",
+            "SUPP": ""
+        }
+    },
+    "carvalho-etal-2012-intelius": {
+        "TITLE": "The Intelius Nickname Collection: Quantitative Analyses from Billions of Public Records",
+        "AUTHORS": "Carvalho, Vitor  and Kiran, Yigit  and Borthwick, Andrew",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1075.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1075.bib",
+            "SUPP": ""
+        }
+    },
+    "dinu-etal-2012-comparison": {
+        "TITLE": "A comparison of models of word meaning in context",
+        "AUTHORS": "Dinu, Georgiana  and Thater, Stefan  and Laue, Soeren",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1076.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1076.bib",
+            "SUPP": ""
+        }
+    },
+    "yih-qazvinian-2012-measuring": {
+        "TITLE": "Measuring Word Relatedness Using Heterogeneous Vector Space Models",
+        "AUTHORS": "Yih, Wen-tau  and Qazvinian, Vahed",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1077.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1077.bib",
+            "SUPP": ""
+        }
+    },
+    "yao-etal-2012-expectations": {
+        "TITLE": "Expectations of Word Sense in Parallel Corpora",
+        "AUTHORS": "Yao, Xuchen  and Van Durme, Benjamin  and Callison-Burch, Chris",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1078.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1078.bib",
+            "SUPP": ""
+        }
+    },
+    "ture-lin-2012-grab": {
+        "TITLE": "Why Not Grab a Free Lunch? Mining Large Corpora for Parallel Sentences to Improve Translation Modeling",
+        "AUTHORS": "Ture, Ferhan  and Lin, Jimmy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1079.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1079.bib",
+            "SUPP": ""
+        }
+    },
+    "gung-kalita-2012-summarization": {
+        "TITLE": "Summarization of Historical Articles Using Temporal Event Clustering",
+        "AUTHORS": "Gung, James  and Kalita, Jugal",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1080.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1080.bib",
+            "SUPP": ""
+        }
+    },
+    "dethlefs-cuayahuitl-2012-comparing": {
+        "TITLE": "Comparing HMMs and Bayesian Networks for Surface Realisation",
+        "AUTHORS": "Dethlefs, Nina  and Cuayáhuitl, Heriberto",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1081.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1081.bib",
+            "SUPP": ""
+        }
+    },
+    "pacheco-etal-2012-feasibility": {
+        "TITLE": "On The Feasibility of Open Domain Referring Expression Generation Using Large Scale Folksonomies",
+        "AUTHORS": "Pacheco, Fabián  and Duboue, Pablo  and Domínguez, Mart\\ń",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1082.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1082.bib",
+            "SUPP": ""
+        }
+    },
+    "metzler-etal-2012-structured": {
+        "TITLE": "Structured Event Retrieval over Microblog Archives",
+        "AUTHORS": "Metzler, Donald  and Cai, Congxing  and Hovy, Eduard",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1083.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1083.bib",
+            "SUPP": ""
+        }
+    },
+    "xu-etal-2012-learning": {
+        "TITLE": "Learning from Bullying Traces in Social Media",
+        "AUTHORS": "Xu, Jun-Ming  and Jun, Kwang-Sung  and Zhu, Xiaojin  and Bellmore, Amy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1084.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1084.bib",
+            "SUPP": ""
+        }
+    },
+    "sayeed-etal-2012-grammatical": {
+        "TITLE": "Grammatical structures for word-level sentiment detection",
+        "AUTHORS": "Sayeed, Asad  and Boyd-Graber, Jordan  and Rusk, Bryan  and Weinberg, Amy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1085.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1085.bib",
+            "SUPP": ""
+        }
+    },
+    "das-smith-2012-graph": {
+        "TITLE": "Graph-Based Lexicon Expansion with Sparsity-Inducing Penalties",
+        "AUTHORS": "Das, Dipanjan  and Smith, Noah A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1086.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1086.bib",
+            "SUPP": ""
+        }
+    },
+    "samdani-etal-2012-unified": {
+        "TITLE": "Unified Expectation Maximization",
+        "AUTHORS": "Samdani, Rajhans  and Chang, Ming-Wei  and Roth, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1087.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1087.bib",
+            "SUPP": ""
+        }
+    },
+    "jagarlamudi-daume-iii-2012-low": {
+        "TITLE": "Low-Dimensional Discriminative Reranking",
+        "AUTHORS": "Jagarlamudi, Jagadeesh  and Daumé III, Hal",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1088.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1088.bib",
+            "SUPP": ""
+        }
+    },
+    "baldwin-chai-2012-autonomous": {
+        "TITLE": "Autonomous Self-Assessment of Autocorrections: Exploring Text Message Dialogues",
+        "AUTHORS": "Baldwin, Tyler  and Chai, Joyce",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1089.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1089.bib",
+            "SUPP": ""
+        }
+    },
+    "rahman-ng-2012-translation": {
+        "TITLE": "Translation-Based Projection for Multilingual Coreference Resolution",
+        "AUTHORS": "Rahman, Altaf  and Ng, Vincent",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1090.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1090.bib",
+            "SUPP": ""
+        }
+    },
+    "raghavan-etal-2012-exploring": {
+        "TITLE": "Exploring Semi-Supervised Coreference Resolution of Medical Concepts using Semantic and Temporal Features",
+        "AUTHORS": "Raghavan, Preethi  and Fosler-Lussier, Eric  and Lai, Albert",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1091.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1091.bib",
+            "SUPP": ""
+        }
+    },
+    "becker-etal-2012-mind": {
+        "TITLE": "Mind the Gap: Learning to Choose Gaps for Question Generation",
+        "AUTHORS": "Becker, Lee  and Basu, Sumit  and Vanderwende, Lucy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1092.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1092.bib",
+            "SUPP": ""
+        }
+    },
+    "konstas-lapata-2012-unsupervised": {
+        "TITLE": "Unsupervised Concept-to-text Generation with Hypergraphs",
+        "AUTHORS": "Konstas, Ioannis  and Lapata, Mirella",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1093.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1093.bib",
+            "SUPP": ""
+        }
+    },
+    "dodge-etal-2012-detecting": {
+        "TITLE": "Detecting Visual Text",
+        "AUTHORS": "Dodge, Jesse  and Goyal, Amit  and Han, Xufeng  and Mensch, Alyssa  and Mitchell, Margaret  and Stratos, Karl  and Yamaguchi, Kota  and Choi, Yejin  and Daumé III, Hal  and Berg, Alex  and Berg, Tamara",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1094.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1094.bib",
+            "SUPP": ""
+        }
+    },
+    "bansal-etal-2012-unsupervised": {
+        "TITLE": "Unsupervised Translation Sense Clustering",
+        "AUTHORS": "Bansal, Mohit  and DeNero, John  and Lin, Dekang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1095.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1095.bib",
+            "SUPP": ""
+        }
+    },
+    "gormley-etal-2012-shared": {
+        "TITLE": "Shared Components Topic Models",
+        "AUTHORS": "Gormley, Matthew R.  and Dredze, Mark  and Van Durme, Benjamin  and Eisner, Jason",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1096.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1096.bib",
+            "SUPP": ""
+        }
+    },
+    "yano-etal-2012-textual": {
+        "TITLE": "Textual Predictors of Bill Survival in Congressional Committees",
+        "AUTHORS": "Yano, Tae  and Smith, Noah A.  and Wilkerson, John D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N12-1097.pdf",
+            "BIBTEX": "https://aclanthology.org/N12-1097.bib",
+            "SUPP": ""
+        }
+    }
+}

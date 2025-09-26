@@ -1,0 +1,2667 @@
+{
+    "ge-etal-2013-event": {
+        "TITLE": "Event-Based Time Label Propagation for Automatic Dating of News Articles",
+        "AUTHORS": "Ge, Tao  and Chang, Baobao  and Li, Sujian  and Sui, Zhifang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "ng-etal-2013-exploiting": {
+        "TITLE": "Exploiting Discourse Analysis for Article-Wide Temporal Classification",
+        "AUTHORS": "Ng, Jun-Ping  and Kan, Min-Yen  and Lin, Ziheng  and Feng, Wei  and Chen, Bin  and Su, Jian  and Tan, Chew-Lim",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "roth-klakow-2013-combining": {
+        "TITLE": "Combining Generative and Discriminative Model Scores for Distant Supervision",
+        "AUTHORS": "Roth, Benjamin  and Klakow, Dietrich",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "frank-etal-2013-exploring": {
+        "TITLE": "Exploring the Utility of Joint Morphological and Syntactic Learning from Child-directed Speech",
+        "AUTHORS": "Frank, Stella  and Keller, Frank  and Goldwater, Sharon",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "elsner-etal-2013-joint": {
+        "TITLE": "A Joint Learning Model of Word Segmentation, Lexical Acquisition, and Phonetic Variability",
+        "AUTHORS": "Elsner, Micha  and Goldwater, Sharon  and Feldman, Naomi  and Wood, Frank",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "moore-etal-2013-animacy": {
+        "TITLE": "Animacy Detection with Voting Models",
+        "AUTHORS": "Moore, Joshua  and Burges, Christopher J.C.  and Renshaw, Erin  and Yih, Wen-tau",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "yang-eisenstein-2013-log": {
+        "TITLE": "A Log-Linear Model for Unsupervised Text Normalization",
+        "AUTHORS": "Yang, Yi  and Eisenstein, Jacob",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "ling-etal-2013-paraphrasing": {
+        "TITLE": "Paraphrasing 4 Microblog Normalization",
+        "AUTHORS": "Ling, Wang  and Dyer, Chris  and Black, Alan W  and Trancoso, Isabel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "liu-etal-2013-question": {
+        "TITLE": "Question Difficulty Estimation in Community Question Answering Services",
+        "AUTHORS": "Liu, Jing  and Wang, Quan  and Lin, Chin-Yew  and Hon, Hsiao-Wuen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "sim-etal-2013-measuring": {
+        "TITLE": "Measuring Ideological Proportions in Political Speeches",
+        "AUTHORS": "Sim, Yanchuan  and Acree, Brice D. L.  and Gross, Justin H.  and Smith, Noah A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "wu-etal-2013-learning": {
+        "TITLE": "Learning to Freestyle: Hip Hop Challenge-Response Induction via Transduction Rule Segmentation",
+        "AUTHORS": "Wu, Dekai  and Addanki, Karteek  and Saers, Markus  and Beloucif, Meriem",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "foulds-smyth-2013-modeling": {
+        "TITLE": "Modeling Scientific Impact with Topical Influence Regression",
+        "AUTHORS": "Foulds, James  and Smyth, Padhraic",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "rasooli-tetreault-2013-joint": {
+        "TITLE": "Joint Parsing and Disfluency Detection in Linear Time",
+        "AUTHORS": "Rasooli, Mohammad Sadegh  and Tetreault, Joel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "tsubaki-etal-2013-modeling": {
+        "TITLE": "Modeling and Learning Semantic Co-Compositionality through Prototype Projections and Neural Networks",
+        "AUTHORS": "Tsubaki, Masashi  and Duh, Kevin  and Shimbo, Masashi  and Matsumoto, Yuji",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "vecchi-etal-2013-studying": {
+        "TITLE": "Studying the Recursive Behaviour of Adjectival Modification with Compositional Distributional Semantics",
+        "AUTHORS": "Vecchi, Eva Maria  and Zamparelli, Roberto  and Baroni, Marco",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "xiao-etal-2013-learning": {
+        "TITLE": "Learning Latent Word Representations for Domain Adaptation using Supervised Word Clustering",
+        "AUTHORS": "Xiao, Min  and Zhao, Feipeng  and Guo, Yuhong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "damani-ghonge-2013-appropriately": {
+        "TITLE": "Appropriately Incorporating Statistical Significance in PMI",
+        "AUTHORS": "Damani, Om P.  and Ghonge, Shweta",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "faralli-navigli-2013-growing": {
+        "TITLE": "Growing Multi-Domain Glossaries from a Few Seeds using Probabilistic Topic Models",
+        "AUTHORS": "Faralli, Stefano  and Navigli, Roberto",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "lee-etal-2013-joint": {
+        "TITLE": "Joint Learning of Phonetic Units and Word Pronunciations for ASR",
+        "AUTHORS": "Lee, Chia-ying  and Zhang, Yu  and Glass, James",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "richardson-etal-2013-mctest": {
+        "TITLE": "MCTest: A Challenge Dataset for the Open-Domain Machine Comprehension of Text",
+        "AUTHORS": "Richardson, Matthew  and Burges, Christopher J.C.  and Renshaw, Erin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "sudoh-etal-2013-noise": {
+        "TITLE": "Noise-Aware Character Alignment for Bootstrapping Statistical Machine Transliteration from Bilingual Corpora",
+        "AUTHORS": "Sudoh, Katsuhito  and Mori, Shinsuke  and Nagata, Masaaki",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "rush-etal-2013-optimal": {
+        "TITLE": "Optimal Beam Search for Machine Translation",
+        "AUTHORS": "Rush, Alexander  and Chang, Yin-Wen  and Collins, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "yasuhara-etal-2013-efficient": {
+        "TITLE": "An Efficient Language Model Using Double-Array Structures",
+        "AUTHORS": "Yasuhara, Makoto  and Tanaka, Toru  and Norimatsu, Jun-ya  and Yamamoto, Mikio",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "nelakanti-etal-2013-structured": {
+        "TITLE": "Structured Penalties for Log-Linear Language Models",
+        "AUTHORS": "Nelakanti, Anil Kumar  and Archambeau, Cédric  and Mairal, Julien  and Bach, Francis  and Bouchard, Guillaume",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "gonzalez-rubio-etal-2013-interactive": {
+        "TITLE": "Interactive Machine Translation using Hierarchical Translation Models",
+        "AUTHORS": "González-Rubio, Jesús  and Ortiz-Martínez, Daniel  and Bened\\,́ José-Miguel  and Casacuberta, Francisco",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "xiao-xiong-2013-max": {
+        "TITLE": "Max-Margin Synchronous Grammar Induction for Machine Translation",
+        "AUTHORS": "Xiao, Xinyan  and Xiong, Deyi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "kummerfeld-klein-2013-error": {
+        "TITLE": "Error-Driven Analysis of Challenges in Coreference Resolution",
+        "AUTHORS": "Kummerfeld, Jonathan K.  and Klein, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "kong-ng-2013-exploiting": {
+        "TITLE": "Exploiting Zero Pronouns to Improve Chinese Coreference Resolution",
+        "AUTHORS": "Kong, Fang  and Ng, Hwee Tou",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "hajishirzi-etal-2013-joint": {
+        "TITLE": "Joint Coreference Resolution and Named-Entity Linking with Multi-Pass Sieves",
+        "AUTHORS": "Hajishirzi, Hannaneh  and Zilles, Leila  and Weld, Daniel S.  and Zettlemoyer, Luke",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "kolhatkar-etal-2013-interpreting": {
+        "TITLE": "Interpreting Anaphoric Shell Nouns using Antecedents of Cataphoric Shell Nouns as Training Data",
+        "AUTHORS": "Kolhatkar, Varada  and Zinsmeister, Heike  and Hirst, Graeme",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-etal-2013-exploring": {
+        "TITLE": "Exploring Representations from Unlabeled Data with Co-training for Chinese Word Segmentation",
+        "AUTHORS": "Zhang, Longkai  and Wang, Houfeng  and Sun, Xu  and Mansur, Mairgup",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "mueller-etal-2013-efficient": {
+        "TITLE": "Efficient Higher-Order CRFs for Morphological Tagging",
+        "AUTHORS": "Mueller, Thomas  and Schmid, Helmut  and Schütze, Hinrich",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "seeker-kuhn-2013-effects": {
+        "TITLE": "The Effects of Syntactic Features in Automatic Prediction of Morphology",
+        "AUTHORS": "Seeker, Wolfgang  and Kuhn, Jonas",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "botha-blunsom-2013-adaptor": {
+        "TITLE": "Adaptor Grammars for Learning Non-Concatenative Morphology",
+        "AUTHORS": "Botha, Jan A.  and Blunsom, Phil",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "cadilhac-etal-2013-grounding": {
+        "TITLE": "Grounding Strategic Conversation: Using Negotiation Dialogues to Predict Trades in a Win-Lose Game",
+        "AUTHORS": "Cadilhac, Anaïs  and Asher, Nicholas  and Benamara, Farah  and Lascarides, Alex",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "hu-etal-2013-unsupervised": {
+        "TITLE": "Unsupervised Induction of Contingent Event Pairs from Film Scenes",
+        "AUTHORS": "Hu, Zhichao  and Rahimtoroghi, Elahe  and Munishkina, Larissa  and Swanson, Reid  and Walker, Marilyn A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1036.bib",
+            "SUPP": ""
+        }
+    },
+    "hardmeier-etal-2013-latent": {
+        "TITLE": "Latent Anaphora Resolution for Cross-Lingual Pronoun Prediction",
+        "AUTHORS": "Hardmeier, Christian  and Tiedemann, Jörg  and Nivre, Joakim",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1037.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1037.bib",
+            "SUPP": ""
+        }
+    },
+    "fang-etal-2013-towards": {
+        "TITLE": "Towards Situated Dialogue: Revisiting Referring Expression Generation",
+        "AUTHORS": "Fang, Rui  and Liu, Changsong  and She, Lanbo  and Chai, Joyce Y.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1038.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1038.bib",
+            "SUPP": ""
+        }
+    },
+    "pasca-2013-open": {
+        "TITLE": "Open-Domain Fine-Grained Class Extraction from Web Search Queries",
+        "AUTHORS": "Paşca, Marius",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1039.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1039.bib",
+            "SUPP": ""
+        }
+    },
+    "lopez-de-lacalle-lapata-2013-unsupervised": {
+        "TITLE": "Unsupervised Relation Extraction with General Domain Knowledge",
+        "AUTHORS": "Lopez de Lacalle, Oier  and Lapata, Mirella",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1040.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1040.bib",
+            "SUPP": ""
+        }
+    },
+    "he-etal-2013-efficient": {
+        "TITLE": "Efficient Collective Entity Linking with Stacking",
+        "AUTHORS": "He, Zhengyan  and Liu, Shujie  and Song, Yang  and Li, Mu  and Zhou, Ming  and Wang, Houfeng",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1041.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1041.bib",
+            "SUPP": ""
+        }
+    },
+    "mohapatra-etal-2013-joint": {
+        "TITLE": "Joint Bootstrapping of Corpus Annotations and Entity Types",
+        "AUTHORS": "Mohapatra, Hrushikesh  and Jain, Siddhanth  and Chakrabarti, Soumen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1042.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1042.bib",
+            "SUPP": ""
+        }
+    },
+    "mesquita-etal-2013-effectiveness": {
+        "TITLE": "Effectiveness and Efficiency of Open Relation Extraction",
+        "AUTHORS": "Mesquita, Filipe  and Schmidek, Jordan  and Barbosa, Denilson",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1043.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1043.bib",
+            "SUPP": ""
+        }
+    },
+    "severyn-moschitti-2013-automatic": {
+        "TITLE": "Automatic Feature Engineering for Answer Selection and Extraction",
+        "AUTHORS": "Severyn, Aliaksei  and Moschitti, Alessandro",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1044.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1044.bib",
+            "SUPP": ""
+        }
+    },
+    "ding-etal-2013-improving": {
+        "TITLE": "Improving Web Search Ranking by Incorporating Structured Annotation of Queries",
+        "AUTHORS": "Ding, Xiao  and Dou, Zhicheng  and Qin, Bing  and Liu, Ting  and Wen, Ji-Rong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1045.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1045.bib",
+            "SUPP": ""
+        }
+    },
+    "bouamor-etal-2013-building": {
+        "TITLE": "Building Specialized Bilingual Lexicons Using Large Scale Background Knowledge",
+        "AUTHORS": "Bouamor, Dhouha  and Popescu, Adrian  and Semmar, Nasredine  and Zweigenbaum, Pierre",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1046.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1046.bib",
+            "SUPP": ""
+        }
+    },
+    "li-etal-2013-document": {
+        "TITLE": "Document Summarization via Guided Sentence Compression",
+        "AUTHORS": "Li, Chen  and Liu, Fei  and Weng, Fuliang  and Liu, Yang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1047.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1047.bib",
+            "SUPP": ""
+        }
+    },
+    "setiawan-etal-2013-anchor": {
+        "TITLE": "Anchor Graph: Global Reordering Contexts for Statistical Machine Translation",
+        "AUTHORS": "Setiawan, Hendra  and Zhou, Bowen  and Xiang, Bing",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1048.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1048.bib",
+            "SUPP": ""
+        }
+    },
+    "lerner-petrov-2013-source": {
+        "TITLE": "Source-Side Classifier Preordering for Machine Translation",
+        "AUTHORS": "Lerner, Uri  and Petrov, Slav",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1049.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1049.bib",
+            "SUPP": ""
+        }
+    },
+    "zhu-etal-2013-improving": {
+        "TITLE": "Improving Pivot-Based Statistical Machine Translation Using Random Walk",
+        "AUTHORS": "Zhu, Xiaoning  and He, Zhongjun  and Wu, Hua  and Wang, Haifeng  and Zhu, Conghui  and Zhao, Tiejun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1050.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1050.bib",
+            "SUPP": ""
+        }
+    },
+    "xia-etal-2013-improving": {
+        "TITLE": "Improving Alignment of System Combination by Using Multi-objective Optimization",
+        "AUTHORS": "Xia, Tian  and Ji, Zongcheng  and Zhai, Shaodan  and Chen, Yidong  and Liu, Qun  and Wang, Shaojun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1051.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1051.bib",
+            "SUPP": ""
+        }
+    },
+    "cmejrek-etal-2013-flexible": {
+        "TITLE": "Flexible and Efficient Hypergraph Interactions for Joint Hierarchical and Forest-to-String Decoding",
+        "AUTHORS": "Čmejrek, Martin  and Mi, Haitao  and Zhou, Bowen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1052.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1052.bib",
+            "SUPP": ""
+        }
+    },
+    "huang-etal-2013-factored": {
+        "TITLE": "Factored Soft Source Syntactic Constraints for Hierarchical Machine Translation",
+        "AUTHORS": "Huang, Zhongqiang  and Devlin, Jacob  and Zbib, Rabih",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1053.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1053.bib",
+            "SUPP": ""
+        }
+    },
+    "li-etal-2013-recursive": {
+        "TITLE": "Recursive Autoencoders for ITG-Based Translation",
+        "AUTHORS": "Li, Peng  and Liu, Yang  and Sun, Maosong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1054.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1054.bib",
+            "SUPP": ""
+        }
+    },
+    "daxenberger-gurevych-2013-automatically": {
+        "TITLE": "Automatically Classifying Edit Categories in Wikipedia Revisions",
+        "AUTHORS": "Daxenberger, Johannes  and Gurevych, Iryna",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1055.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1055.bib",
+            "SUPP": ""
+        }
+    },
+    "yao-etal-2013-semi": {
+        "TITLE": "Semi-Markov Phrase-Based Monolingual Alignment",
+        "AUTHORS": "Yao, Xuchen  and Van Durme, Benjamin  and Callison-Burch, Chris  and Clark, Peter",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1056.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1056.bib",
+            "SUPP": ""
+        }
+    },
+    "chang-etal-2013-constrained": {
+        "TITLE": "A Constrained Latent Variable Model for Coreference Resolution",
+        "AUTHORS": "Chang, Kai-Wei  and Samdani, Rajhans  and Roth, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1057.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1057.bib",
+            "SUPP": ""
+        }
+    },
+    "suzuki-etal-2013-centering": {
+        "TITLE": "Centering Similarity Measures to Reduce Hubs",
+        "AUTHORS": "Suzuki, Ikumi  and Hara, Kazuo  and Shimbo, Masashi  and Saerens, Marco  and Fukumizu, Kenji",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1058.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1058.bib",
+            "SUPP": ""
+        }
+    },
+    "bailly-etal-2013-unsupervised": {
+        "TITLE": "Unsupervised Spectral Learning of WCFG as Low-rank Matrix Completion",
+        "AUTHORS": "Bailly, Raphaël  and Carreras, Xavier  and Luque, Franco M.  and Quattoni, Ariadna",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1059.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1059.bib",
+            "SUPP": ""
+        }
+    },
+    "pichotta-denero-2013-identifying": {
+        "TITLE": "Identifying Phrasal Verbs Using Many Bilingual Corpora",
+        "AUTHORS": "Pichotta, Karl  and DeNero, John",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1060.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1060.bib",
+            "SUPP": ""
+        }
+    },
+    "zheng-etal-2013-deep": {
+        "TITLE": "Deep Learning for Chinese Word Segmentation and POS Tagging",
+        "AUTHORS": "Zheng, Xiaoqing  and Chen, Hanyang  and Xu, Tianyu",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1061.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1061.bib",
+            "SUPP": ""
+        }
+    },
+    "qiu-etal-2013-joint": {
+        "TITLE": "Joint Chinese Word Segmentation and POS Tagging on Heterogeneous Annotated Corpora with Multiple Task Learning",
+        "AUTHORS": "Qiu, Xipeng  and Zhao, Jiayi  and Huang, Xuanjing",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1062.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1062.bib",
+            "SUPP": ""
+        }
+    },
+    "dubuisson-etal-2013-topology": {
+        "TITLE": "The Topology of Semantic Knowledge",
+        "AUTHORS": "Dubuisson, Jimmy  and Eckmann, Jean-Pierre  and Scheible, Christian  and Schütze, Hinrich",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1063.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1063.bib",
+            "SUPP": ""
+        }
+    },
+    "lewis-steedman-2013-unsupervised": {
+        "TITLE": "Unsupervised Induction of Cross-Lingual Semantic Relations",
+        "AUTHORS": "Lewis, Mike  and Steedman, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1064.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1064.bib",
+            "SUPP": ""
+        }
+    },
+    "kloetzer-etal-2013-two": {
+        "TITLE": "Two-Stage Method for Large-Scale Acquisition of Contradiction Pattern Pairs using Entailment",
+        "AUTHORS": "Kloetzer, Julien  and De Saeger, Stijn  and Torisawa, Kentaro  and Hashimoto, Chikara  and Oh, Jong-Hoon  and Sano, Motoki  and Ohtake, Kiyonori",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1065.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1065.bib",
+            "SUPP": ""
+        }
+    },
+    "riloff-etal-2013-sarcasm": {
+        "TITLE": "Sarcasm as Contrast between a Positive Sentiment and Negative Situation",
+        "AUTHORS": "Riloff, Ellen  and Qadir, Ashequl  and Surve, Prafulla  and De Silva, Lalindra  and Gilbert, Nathan  and Huang, Ruihong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1066.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1066.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-etal-2013-collective": {
+        "TITLE": "Collective Personal Profile Summarization with Social Networks",
+        "AUTHORS": "Wang, Zhongqing  and Li, Shoushan  and Kong, Fang  and Zhou, Guodong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1067.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1067.bib",
+            "SUPP": ""
+        }
+    },
+    "huang-huang-2013-optimized": {
+        "TITLE": "Optimized Event Storyline Generation based on Mixture-Event-Aspect Model",
+        "AUTHORS": "Huang, Lifu  and Huang, Lian′en",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1068.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1068.bib",
+            "SUPP": ""
+        }
+    },
+    "ma-nakagawa-2013-automatically": {
+        "TITLE": "Automatically Determining a Proper Length for Multi-Document Summarization: A Bayesian Nonparametric Approach",
+        "AUTHORS": "Ma, Tengfei  and Nakagawa, Hiroshi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1069.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1069.bib",
+            "SUPP": ""
+        }
+    },
+    "liakata-etal-2013-discourse": {
+        "TITLE": "A Discourse-Driven Content Model for Summarising Scientific Articles Evaluated in a Complex Question Answering Task",
+        "AUTHORS": "Liakata, Maria  and Dobnik, Simon  and Saha, Shyamasree  and Batchelor, Colin  and Rebholz-Schuhmann, Dietrich",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1070.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1070.bib",
+            "SUPP": ""
+        }
+    },
+    "zhao-etal-2013-optimal": {
+        "TITLE": "Optimal Incremental Parsing via Best-First Dynamic Programming",
+        "AUTHORS": "Zhao, Kai  and Cross, James  and Huang, Liang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1071.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1071.bib",
+            "SUPP": ""
+        }
+    },
+    "le-etal-2013-exploiting": {
+        "TITLE": "Exploiting Language Models for Visual Recognition",
+        "AUTHORS": "Le, Dieu-Thu  and Uijlings, Jasper  and Bernardi, Raffaella",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1072.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1072.bib",
+            "SUPP": ""
+        }
+    },
+    "jin-etal-2013-mining": {
+        "TITLE": "Mining Scientific Terms and their Definitions: A Study of the ACL Anthology",
+        "AUTHORS": "Jin, Yiping  and Kan, Min-Yen  and Ng, Jun-Ping  and He, Xiangnan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1073.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1073.bib",
+            "SUPP": ""
+        }
+    },
+    "rozovskaya-roth-2013-joint": {
+        "TITLE": "Joint Learning and Inference for Grammatical Error Correction",
+        "AUTHORS": "Rozovskaya, Alla  and Roth, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1074.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1074.bib",
+            "SUPP": ""
+        }
+    },
+    "matthies-sogaard-2013-blinkers": {
+        "TITLE": "With Blinkers on: Robust Prediction of Eye Movements across Readers",
+        "AUTHORS": "Matthies, Franz  and Søgaard, Anders",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1075.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1075.bib",
+            "SUPP": ""
+        }
+    },
+    "gardent-rojas-barahona-2013-using": {
+        "TITLE": "Using Paraphrases and Lexical Semantics to Improve the Accuracy and the Robustness of Supervised Models in Situated Dialogue Systems",
+        "AUTHORS": "Gardent, Claire  and Rojas Barahona, Lina M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1076.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1076.bib",
+            "SUPP": ""
+        }
+    },
+    "hou-etal-2013-cascading": {
+        "TITLE": "Cascading Collective Classification for Bridging Anaphora Recognition using a Rich Linguistic Feature Set",
+        "AUTHORS": "Hou, Yufang  and Markert, Katja  and Strube, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1077.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1077.bib",
+            "SUPP": ""
+        }
+    },
+    "bethard-2013-synchronous": {
+        "TITLE": "A Synchronous Context Free Grammar for Time Normalization",
+        "AUTHORS": "Bethard, Steven",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1078.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1078.bib",
+            "SUPP": ""
+        }
+    },
+    "chiticariu-etal-2013-rule": {
+        "TITLE": "Rule-Based Information Extraction is Dead! Long Live Rule-Based Information Extraction Systems!",
+        "AUTHORS": "Chiticariu, Laura  and Li, Yunyao  and Reiss, Frederick R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1079.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1079.bib",
+            "SUPP": ""
+        }
+    },
+    "gardner-etal-2013-improving": {
+        "TITLE": "Improving Learning and Inference in a Large Knowledge-Base using Latent Syntactic Cues",
+        "AUTHORS": "Gardner, Matt  and Talukdar, Partha Pratim  and Kisiel, Bryan  and Mitchell, Tom",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1080.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1080.bib",
+            "SUPP": ""
+        }
+    },
+    "shen-zhou-2013-hidden": {
+        "TITLE": "What is Hidden among Translation Rules",
+        "AUTHORS": "Shen, Libin  and Zhou, Bowen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1081.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1081.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-etal-2013-converting": {
+        "TITLE": "Converting Continuous-Space Language Models into N-Gram Language Models for Statistical Machine Translation",
+        "AUTHORS": "Wang, Rui  and Utiyama, Masao  and Goto, Isao  and Sumita, Eiichro  and Zhao, Hai  and Lu, Bao-Liang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1082.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1082.bib",
+            "SUPP": ""
+        }
+    },
+    "tan-etal-2013-corpus": {
+        "TITLE": "A Corpus Level MIRA Tuning Strategy for Machine Translation",
+        "AUTHORS": "Tan, Ming  and Xia, Tian  and Wang, Shaojun  and Zhou, Bowen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1083.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1083.bib",
+            "SUPP": ""
+        }
+    },
+    "nguyen-dogruoz-2013-word": {
+        "TITLE": "Word Level Language Identification in Online Multilingual Communication",
+        "AUTHORS": "Nguyen, Dong  and Doğruöz, A. Seza",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1084.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1084.bib",
+            "SUPP": ""
+        }
+    },
+    "guo-etal-2013-microblog": {
+        "TITLE": "Microblog Entity Linking by Leveraging Extra Posts",
+        "AUTHORS": "Guo, Yuhang  and Qin, Bing  and Liu, Ting  and Li, Sheng",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1085.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1085.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-etal-2013-automatic": {
+        "TITLE": "Automatic Domain Partitioning for Multi-Domain Learning",
+        "AUTHORS": "Wang, Di  and Xiong, Chenyan  and Wang, William Yang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1086.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1086.bib",
+            "SUPP": ""
+        }
+    },
+    "berg-kirkpatrick-klein-2013-decipherment": {
+        "TITLE": "Decipherment with a Million Random Restarts",
+        "AUTHORS": "Berg-Kirkpatrick, Taylor  and Klein, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1087.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1087.bib",
+            "SUPP": ""
+        }
+    },
+    "hall-sproat-2013-russian": {
+        "TITLE": "Russian Stress Prediction using Maximum Entropy Ranking",
+        "AUTHORS": "Hall, Keith  and Sproat, Richard",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1088.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1088.bib",
+            "SUPP": ""
+        }
+    },
+    "riedl-biemann-2013-scaling": {
+        "TITLE": "Scaling to Large\\textthreesuperior Data: An Efficient and Effective Method to Compute Distributional Thesauri",
+        "AUTHORS": "Riedl, Martin  and Biemann, Chris",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1089.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1089.bib",
+            "SUPP": ""
+        }
+    },
+    "ji-eisenstein-2013-discriminative": {
+        "TITLE": "Discriminative Improvements to Distributional Sentence Similarity",
+        "AUTHORS": "Ji, Yangfeng  and Eisenstein, Jacob",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1090.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1090.bib",
+            "SUPP": ""
+        }
+    },
+    "feng-etal-2013-twitter": {
+        "TITLE": "Is Twitter A Better Corpus for Measuring Sentiment Similarity?",
+        "AUTHORS": "Feng, Shi  and Zhang, Le  and Li, Binyang  and Wang, Daling  and Yu, Ge  and Wong, Kam-Fai",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1091.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1091.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-etal-2013-implicit": {
+        "TITLE": "Implicit Feature Detection via a Constrained Topic Model and SVM",
+        "AUTHORS": "Wang, Wei  and Xu, Hua  and Huang, Xiaoqiu",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1092.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1092.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-etal-2013-online": {
+        "TITLE": "Online Learning for Inexact Hypergraph Search",
+        "AUTHORS": "Zhang, Hao  and Huang, Liang  and Zhao, Kai  and McDonald, Ryan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1093.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1093.bib",
+            "SUPP": ""
+        }
+    },
+    "patterson-kehler-2013-predicting": {
+        "TITLE": "Predicting the Presence of Discourse Connectives",
+        "AUTHORS": "Patterson, Gary  and Kehler, Andrew",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1094.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1094.bib",
+            "SUPP": ""
+        }
+    },
+    "hangyo-etal-2013-japanese": {
+        "TITLE": "Japanese Zero Reference Resolution Considering Exophora and Author/Reader Mentions",
+        "AUTHORS": "Hangyo, Masatsugu  and Kawahara, Daisuke  and Kurohashi, Sadao",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1095.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1095.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-etal-2013-dataset": {
+        "TITLE": "A Dataset for Research on Short-Text Conversations",
+        "AUTHORS": "Wang, Hao  and Lu, Zhengdong  and Li, Hang  and Chen, Enhong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1096.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1096.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-etal-2013-discourse": {
+        "TITLE": "Discourse Level Explanatory Relation Extraction from Product Reviews Using First-Order Logic",
+        "AUTHORS": "Zhang, Qi  and Qian, Jin  and Chen, Huan  and Kang, Jihua  and Huang, Xuanjing",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1097.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1097.bib",
+            "SUPP": ""
+        }
+    },
+    "tannier-moriceau-2013-building": {
+        "TITLE": "Building Event Threads out of Multiple News Articles",
+        "AUTHORS": "Tannier, Xavier  and Moriceau, Véronique",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1098.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1098.bib",
+            "SUPP": ""
+        }
+    },
+    "zou-etal-2013-tree": {
+        "TITLE": "Tree Kernel-based Negation and Speculation Scope Detection with Structured Syntactic Parse Features",
+        "AUTHORS": "Zou, Bowei  and Zhou, Guodong  and Zhu, Qiaoming",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1099.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1099.bib",
+            "SUPP": ""
+        }
+    },
+    "preotiuc-pietro-cohn-2013-temporal": {
+        "TITLE": "A temporal model of text periodicities using Gaussian Processes",
+        "AUTHORS": "Preoţiuc-Pietro, Daniel  and Cohn, Trevor",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1100.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1100.bib",
+            "SUPP": ""
+        }
+    },
+    "pareti-etal-2013-automatically": {
+        "TITLE": "Automatically Detecting and Attributing Indirect Quotations",
+        "AUTHORS": "Pareti, Silvia  and O′Keefe, Tim  and Konstas, Ioannis  and Curran, James R.  and Koprinska, Irena",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1101.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1101.bib",
+            "SUPP": ""
+        }
+    },
+    "hassan-2013-identifying": {
+        "TITLE": "Identifying Web Search Query Reformulation using Concept based Matching",
+        "AUTHORS": "Hassan, Ahmed",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1102.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1102.bib",
+            "SUPP": ""
+        }
+    },
+    "ageev-etal-2013-answer": {
+        "TITLE": "The Answer is at your Fingertips: Improving Passage Retrieval for Web Question Answering with Search Behavior Data",
+        "AUTHORS": "Ageev, Mikhail  and Lagun, Dmitry  and Agichtein, Eugene",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1103.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1103.bib",
+            "SUPP": ""
+        }
+    },
+    "makhambetov-etal-2013-assembling": {
+        "TITLE": "Assembling the Kazakh Language Corpus",
+        "AUTHORS": "Makhambetov, Olzhas  and Makazhanov, Aibek  and Yessenbayev, Zhandos  and Matkarimov, Bakhyt  and Sabyrgaliyev, Islam  and Sharafudinov, Anuar",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1104.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1104.bib",
+            "SUPP": ""
+        }
+    },
+    "eskander-etal-2013-automatic": {
+        "TITLE": "Automatic Extraction of Morphological Lexicons from Morphologically Annotated Corpora",
+        "AUTHORS": "Eskander, Ramy  and Habash, Nizar  and Rambow, Owen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1105.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1105.bib",
+            "SUPP": ""
+        }
+    },
+    "auli-etal-2013-joint": {
+        "TITLE": "Joint Language and Translation Modeling with Recurrent Neural Networks",
+        "AUTHORS": "Auli, Michael  and Galley, Michel  and Quirk, Chris  and Zweig, Geoffrey",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1106.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1106.bib",
+            "SUPP": ""
+        }
+    },
+    "cui-etal-2013-multi": {
+        "TITLE": "Multi-Domain Adaptation for SMT Using Multi-Task Learning",
+        "AUTHORS": "Cui, Lei  and Chen, Xilun  and Zhang, Dongdong  and Liu, Shujie  and Li, Mu  and Zhou, Ming",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1107.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1107.bib",
+            "SUPP": ""
+        }
+    },
+    "meng-etal-2013-translation": {
+        "TITLE": "Translation with Source Constituency and Dependency Trees",
+        "AUTHORS": "Meng, Fandong  and Xie, Jun  and Song, Linfeng  and Lü, Yajuan  and Liu, Qun",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1108.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1108.bib",
+            "SUPP": ""
+        }
+    },
+    "irvine-etal-2013-monolingual": {
+        "TITLE": "Monolingual Marginal Matching for Translation Model Adaptation",
+        "AUTHORS": "Irvine, Ann  and Quirk, Chris  and Daumé III, Hal",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1109.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1109.bib",
+            "SUPP": ""
+        }
+    },
+    "siahbani-etal-2013-efficient": {
+        "TITLE": "Efficient Left-to-Right Hierarchical Phrase-Based Translation with Improved Reordering",
+        "AUTHORS": "Siahbani, Maryam  and Sankaran, Baskaran  and Sarkar, Anoop",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1110.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1110.bib",
+            "SUPP": ""
+        }
+    },
+    "gimpel-etal-2013-systematic": {
+        "TITLE": "A Systematic Exploration of Diversity in Machine Translation",
+        "AUTHORS": "Gimpel, Kevin  and Batra, Dhruv  and Dyer, Chris  and Shakhnarovich, Gregory",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1111.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1111.bib",
+            "SUPP": ""
+        }
+    },
+    "yu-etal-2013-max": {
+        "TITLE": "Max-Violation Perceptron and Forced Decoding for Scalable MT Training",
+        "AUTHORS": "Yu, Heng  and Huang, Liang  and Mi, Haitao  and Zhao, Kai",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1112.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1112.bib",
+            "SUPP": ""
+        }
+    },
+    "qian-liu-2013-identifying": {
+        "TITLE": "Identifying Multiple Userids of the Same Author",
+        "AUTHORS": "Qian, Tieyun  and Liu, Bing",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1113.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1113.bib",
+            "SUPP": ""
+        }
+    },
+    "ciot-etal-2013-gender": {
+        "TITLE": "Gender Inference of Twitter Users in Non-English Contexts",
+        "AUTHORS": "Ciot, Morgane  and Sonderegger, Morgan  and Ruths, Derek",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1114.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1114.bib",
+            "SUPP": ""
+        }
+    },
+    "roller-schulte-im-walde-2013-multimodal": {
+        "TITLE": "A Multimodal LDA Model integrating Textual, Cognitive and Visual Modalities",
+        "AUTHORS": "Roller, Stephen  and Schulte im Walde, Sabine",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1115.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1115.bib",
+            "SUPP": ""
+        }
+    },
+    "le-roux-etal-2013-combining": {
+        "TITLE": "Combining PCFG-LA Models with Dual Decomposition: A Case Study with Function Labels and Binarization",
+        "AUTHORS": "Le Roux, Joseph  and Rozenknop, Antoine  and Foster, Jennifer",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1116.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1116.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-etal-2013-feature": {
+        "TITLE": "Feature Noising for Log-Linear Structured Prediction",
+        "AUTHORS": "Wang, Sida  and Wang, Mengqiu  and Wager, Stefan  and Liang, Percy  and Manning, Christopher D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1117.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1117.bib",
+            "SUPP": ""
+        }
+    },
+    "noji-etal-2013-improvements": {
+        "TITLE": "Improvements to the Bayesian Topic N-Gram Models",
+        "AUTHORS": "Noji, Hiroshi  and Mochihashi, Daichi  and Miyao, Yusuke",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1118.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1118.bib",
+            "SUPP": ""
+        }
+    },
+    "yang-vozila-2013-empirical": {
+        "TITLE": "An Empirical Study Of Semi-Supervised Chinese Word Segmentation Using Co-Training",
+        "AUTHORS": "Yang, Fan  and Vozila, Paul",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1119.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1119.bib",
+            "SUPP": ""
+        }
+    },
+    "dridan-2013-ubertagging": {
+        "TITLE": "Ubertagging: Joint Segmentation and Supertagging for English",
+        "AUTHORS": "Dridan, Rebecca",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1120.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1120.bib",
+            "SUPP": ""
+        }
+    },
+    "sasano-etal-2013-automatic": {
+        "TITLE": "Automatic Knowledge Acquisition for Case Alternation between the Passive and Active Voices in Japanese",
+        "AUTHORS": "Sasano, Ryohei  and Kawahara, Daisuke  and Kurohashi, Sadao  and Okumura, Manabu",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1121.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1121.bib",
+            "SUPP": ""
+        }
+    },
+    "fu-etal-2013-exploiting": {
+        "TITLE": "Exploiting Multiple Sources for Open-Domain Hypernym Discovery",
+        "AUTHORS": "Fu, Ruiji  and Qin, Bing  and Liu, Ting",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1122.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1122.bib",
+            "SUPP": ""
+        }
+    },
+    "blanco-moldovan-2013-semantically": {
+        "TITLE": "A Semantically Enhanced Approach to Determine Textual Similarity",
+        "AUTHORS": "Blanco, Eduardo  and Moldovan, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1123.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1123.bib",
+            "SUPP": ""
+        }
+    },
+    "kuznetsova-etal-2013-understanding": {
+        "TITLE": "Understanding and Quantifying Creativity in Lexical Composition",
+        "AUTHORS": "Kuznetsova, Polina  and Chen, Jianfu  and Choi, Yejin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1124.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1124.bib",
+            "SUPP": ""
+        }
+    },
+    "guerini-etal-2013-sentiment": {
+        "TITLE": "Sentiment Analysis: How to Derive Prior Polarities from SentiWordNet",
+        "AUTHORS": "Guerini, Marco  and Gatti, Lorenzo  and Turchi, Marco",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1125.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1125.bib",
+            "SUPP": ""
+        }
+    },
+    "white-etal-2013-simulating": {
+        "TITLE": "Simulating Early-Termination Search for Verbose Spoken Queries",
+        "AUTHORS": "White, Jerome  and Oard, Douglas W.  and Rajput, Nitendra  and Zalk, Marion",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1126.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1126.bib",
+            "SUPP": ""
+        }
+    },
+    "xu-etal-2013-summarizing": {
+        "TITLE": "Summarizing Complex Events: a Cross-Modal Solution of Storylines Extraction and Reconstruction",
+        "AUTHORS": "Xu, Shize  and Wang, Shanshan  and Zhang, Yan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1127.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1127.bib",
+            "SUPP": ""
+        }
+    },
+    "elliott-keller-2013-image": {
+        "TITLE": "Image Description using Visual Dependency Representations",
+        "AUTHORS": "Elliott, Desmond  and Keller, Frank",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1128.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1128.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-etal-2013-semi": {
+        "TITLE": "Semi-Supervised Feature Transformation for Dependency Parsing",
+        "AUTHORS": "Chen, Wenliang  and Zhang, Min  and Zhang, Yue",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1129.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1129.bib",
+            "SUPP": ""
+        }
+    },
+    "simon-etal-2013-leveraging": {
+        "TITLE": "Leveraging Lexical Cohesion and Disruption for Topic Segmentation",
+        "AUTHORS": "Şimon, Anca-Roxana  and Gravier, Guillaume  and Sébillot, Pascale",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1130.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1130.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-etal-2013-text": {
+        "TITLE": "This Text Has the Scent of Starbucks: A Laplacian Structured Sparsity Model for Computational Branding Analytics",
+        "AUTHORS": "Wang, William Yang  and Lin, Edward  and Kominek, John",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1131.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1131.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-etal-2013-mining": {
+        "TITLE": "Mining New Business Opportunities: Identifying Trend related Products by Leveraging Commercial Intents from Microblogs",
+        "AUTHORS": "Wang, Jinpeng  and Zhao, Wayne Xin  and Wei, Haitian  and Yan, Hongfei  and Li, Xiaoming",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1132.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1132.bib",
+            "SUPP": ""
+        }
+    },
+    "resnik-etal-2013-using": {
+        "TITLE": "Using Topic Modeling to Improve Prediction of Neuroticism and Depression in College Students",
+        "AUTHORS": "Resnik, Philip  and Garron, Anderson  and Resnik, Rebecca",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1133.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1133.bib",
+            "SUPP": ""
+        }
+    },
+    "engonopoulos-etal-2013-predicting": {
+        "TITLE": "Predicting the Resolution of Referring Expressions from User Behavior",
+        "AUTHORS": "Engonopoulos, Nikos  and Villalba, Martín  and Titov, Ivan  and Koller, Alexander",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1134.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1134.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-ng-2013-chinese": {
+        "TITLE": "Chinese Zero Pronoun Resolution: Some Recent Advances",
+        "AUTHORS": "Chen, Chen  and Ng, Vincent",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1135.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1135.bib",
+            "SUPP": ""
+        }
+    },
+    "weston-etal-2013-connecting": {
+        "TITLE": "Connecting Language and Knowledge Bases with Embedding Models for Relation Extraction",
+        "AUTHORS": "Weston, Jason  and Bordes, Antoine  and Yakhnenko, Oksana  and Usunier, Nicolas",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1136.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1136.bib",
+            "SUPP": ""
+        }
+    },
+    "hashimoto-etal-2013-simple": {
+        "TITLE": "Simple Customization of Recursive Neural Networks for Semantic Relation Classification",
+        "AUTHORS": "Hashimoto, Kazuma  and Miwa, Makoto  and Tsuruoka, Yoshimasa  and Chikayama, Takashi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1137.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1137.bib",
+            "SUPP": ""
+        }
+    },
+    "wuebker-etal-2013-improving": {
+        "TITLE": "Improving Statistical Machine Translation with Word Class Models",
+        "AUTHORS": "Wuebker, Joern  and Peitz, Stephan  and Rietig, Felix  and Ney, Hermann",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1138.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1138.bib",
+            "SUPP": ""
+        }
+    },
+    "hayashi-etal-2013-shift": {
+        "TITLE": "Shift-Reduce Word Reordering for Machine Translation",
+        "AUTHORS": "Hayashi, Katsuhiko  and Sudoh, Katsuhito  and Tsukada, Hajime  and Suzuki, Jun  and Nagata, Masaaki",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1139.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1139.bib",
+            "SUPP": ""
+        }
+    },
+    "vaswani-etal-2013-decoding": {
+        "TITLE": "Decoding with Large-Scale Neural Language Models Improves Translation",
+        "AUTHORS": "Vaswani, Ashish  and Zhao, Yinggong  and Fossum, Victoria  and Chiang, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1140.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1140.bib",
+            "SUPP": ""
+        }
+    },
+    "zou-etal-2013-bilingual": {
+        "TITLE": "Bilingual Word Embeddings for Phrase-Based Machine Translation",
+        "AUTHORS": "Zou, Will Y.  and Socher, Richard  and Cer, Daniel  and Manning, Christopher D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1141.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1141.bib",
+            "SUPP": ""
+        }
+    },
+    "rebersek-verlic-2013-application": {
+        "TITLE": "Application of Localized Similarity for Web Documents",
+        "AUTHORS": "Reberšek, Peter  and Verlič, Mateja",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1142.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1142.bib",
+            "SUPP": ""
+        }
+    },
+    "gubbins-vlachos-2013-dependency": {
+        "TITLE": "Dependency Language Models for Sentence Completion",
+        "AUTHORS": "Gubbins, Joseph  and Vlachos, Andreas",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1143.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1143.bib",
+            "SUPP": ""
+        }
+    },
+    "srivastava-etal-2013-walk": {
+        "TITLE": "A Walk-Based Semantically Enriched Tree Kernel Over Distributed Word Representations",
+        "AUTHORS": "Srivastava, Shashank  and Hovy, Dirk  and Hovy, Eduard",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1144.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1144.bib",
+            "SUPP": ""
+        }
+    },
+    "muzny-zettlemoyer-2013-automatic": {
+        "TITLE": "Automatic Idiom Identification in Wiktionary",
+        "AUTHORS": "Muzny, Grace  and Zettlemoyer, Luke",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1145.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1145.bib",
+            "SUPP": ""
+        }
+    },
+    "evang-etal-2013-elephant": {
+        "TITLE": "Elephant: Sequence Labeling for Word and Sentence Segmentation",
+        "AUTHORS": "Evang, Kilian  and Basile, Valerio  and Chrupała, Grzegorz  and Bos, Johan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1146.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1146.bib",
+            "SUPP": ""
+        }
+    },
+    "kiela-clark-2013-detecting": {
+        "TITLE": "Detecting Compositionality of Multi-Word Expressions using Nearest Neighbours in Vector Space Models",
+        "AUTHORS": "Kiela, Douwe  and Clark, Stephen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1147.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1147.bib",
+            "SUPP": ""
+        }
+    },
+    "choe-charniak-2013-naive": {
+        "TITLE": "Naive Bayes Word Sense Induction",
+        "AUTHORS": "Choe, Do Kook  and Charniak, Eugene",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1148.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1148.bib",
+            "SUPP": ""
+        }
+    },
+    "hartshorne-etal-2013-verbcorner": {
+        "TITLE": "The VerbCorner Project: Toward an Empirically-Based Semantic Decomposition of Verbs",
+        "AUTHORS": "Hartshorne, Joshua K.  and Bonial, Claire  and Palmer, Martha",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1149.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1149.bib",
+            "SUPP": ""
+        }
+    },
+    "kang-etal-2013-eat": {
+        "TITLE": "Where Not to Eat? Improving Public Policy by Predicting Hygiene Inspections Using Online Reviews",
+        "AUTHORS": "Kang, Jun Seok  and Kuznetsova, Polina  and Luca, Michael  and Choi, Yejin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1150.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1150.bib",
+            "SUPP": ""
+        }
+    },
+    "koppel-seidman-2013-automatically": {
+        "TITLE": "Automatically Identifying Pseudepigraphic Texts",
+        "AUTHORS": "Koppel, Moshe  and Seidman, Shachar",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1151.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1151.bib",
+            "SUPP": ""
+        }
+    },
+    "he-etal-2013-dynamic": {
+        "TITLE": "Dynamic Feature Selection for Dependency Parsing",
+        "AUTHORS": "He, He  and Daumé III, Hal  and Eisner, Jason",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1152.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1152.bib",
+            "SUPP": ""
+        }
+    },
+    "xiao-guo-2013-semi": {
+        "TITLE": "Semi-Supervised Representation Learning for Cross-Lingual Text Classification",
+        "AUTHORS": "Xiao, Min  and Guo, Yuhong",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1153.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1153.bib",
+            "SUPP": ""
+        }
+    },
+    "sogaard-etal-2013-using": {
+        "TITLE": "Using Crowdsourcing to get Representations based on Regular Expressions",
+        "AUTHORS": "Søgaard, Anders  and Martinez, Hector  and Elming, Jakob  and Johannsen, Anders",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1154.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1154.bib",
+            "SUPP": ""
+        }
+    },
+    "filippova-altun-2013-overcoming": {
+        "TITLE": "Overcoming the Lack of Parallel Data in Sentence Compression",
+        "AUTHORS": "Filippova, Katja  and Altun, Yasemin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1155.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1155.bib",
+            "SUPP": ""
+        }
+    },
+    "qian-liu-2013-fast": {
+        "TITLE": "Fast Joint Compression and Summarization via Graph Cuts",
+        "AUTHORS": "Qian, Xian  and Liu, Yang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1156.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1156.bib",
+            "SUPP": ""
+        }
+    },
+    "konstas-lapata-2013-inducing": {
+        "TITLE": "Inducing Document Plans for Concept-to-Text Generation",
+        "AUTHORS": "Konstas, Ioannis  and Lapata, Mirella",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1157.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1157.bib",
+            "SUPP": ""
+        }
+    },
+    "hirao-etal-2013-single": {
+        "TITLE": "Single-Document Summarization as a Tree Knapsack Problem",
+        "AUTHORS": "Hirao, Tsutomu  and Yoshida, Yasuhisa  and Nishino, Masaaki  and Yasuda, Norihito  and Nagata, Masaaki",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1158.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1158.bib",
+            "SUPP": ""
+        }
+    },
+    "li-etal-2013-hierarchical": {
+        "TITLE": "A Hierarchical Entity-Based Approach to Structuralize User Generated Content in Social Media: A Case of Yahoo! Answers",
+        "AUTHORS": "Li, Baichuan  and Liu, Jing  and Lin, Chin-Yew  and King, Irwin  and Lyu, Michael R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1159.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1159.bib",
+            "SUPP": ""
+        }
+    },
+    "berant-etal-2013-semantic": {
+        "TITLE": "Semantic Parsing on Freebase from Question-Answer Pairs",
+        "AUTHORS": "Berant, Jonathan  and Chou, Andrew  and Frostig, Roy  and Liang, Percy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1160.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1160.bib",
+            "SUPP": ""
+        }
+    },
+    "kwiatkowski-etal-2013-scaling": {
+        "TITLE": "Scaling Semantic Parsers with On-the-Fly Ontology Matching",
+        "AUTHORS": "Kwiatkowski, Tom  and Choi, Eunsol  and Artzi, Yoav  and Zettlemoyer, Luke",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1161.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1161.bib",
+            "SUPP": ""
+        }
+    },
+    "huang-riloff-2013-classifying": {
+        "TITLE": "Classifying Message Board Posts with an Extracted Lexicon of Patient Attributes",
+        "AUTHORS": "Huang, Ruihong  and Riloff, Ellen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1162.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1162.bib",
+            "SUPP": ""
+        }
+    },
+    "xiong-etal-2013-lexical": {
+        "TITLE": "Lexical Chain Based Cohesion Models for Document-Level Statistical Machine Translation",
+        "AUTHORS": "Xiong, Deyi  and Ding, Yang  and Zhang, Min  and Tan, Chew Lim",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1163.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1163.bib",
+            "SUPP": ""
+        }
+    },
+    "simion-etal-2013-convex": {
+        "TITLE": "A Convex Alternative to IBM Model 2",
+        "AUTHORS": "Simion, Andrei  and Collins, Michael  and Stein, Cliff",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1164.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1164.bib",
+            "SUPP": ""
+        }
+    },
+    "beckley-roark-2013-pair": {
+        "TITLE": "Pair Language Models for Deriving Alternative Pronunciations and Spellings from Pronunciation Dictionaries",
+        "AUTHORS": "Beckley, Russell  and Roark, Brian",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1165.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1165.bib",
+            "SUPP": ""
+        }
+    },
+    "kartsaklis-sadrzadeh-2013-prior": {
+        "TITLE": "Prior Disambiguation of Word Tensors for Constructing Sentence Vectors",
+        "AUTHORS": "Kartsaklis, Dimitri  and Sadrzadeh, Mehrnoosh",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1166.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1166.bib",
+            "SUPP": ""
+        }
+    },
+    "chang-etal-2013-multi": {
+        "TITLE": "Multi-Relational Latent Semantic Analysis",
+        "AUTHORS": "Chang, Kai-Wei  and Yih, Wen-tau  and Meek, Christopher",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1167.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1167.bib",
+            "SUPP": ""
+        }
+    },
+    "vulic-moens-2013-study": {
+        "TITLE": "A Study on Bootstrapping Bilingual Vector Spaces from Non-Parallel Data (and Nothing Else)",
+        "AUTHORS": "Vulić, Ivan  and Moens, Marie-Francine",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1168.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1168.bib",
+            "SUPP": ""
+        }
+    },
+    "kim-de-marneffe-2013-deriving": {
+        "TITLE": "Deriving Adjectival Scales from Continuous Space Word Representations",
+        "AUTHORS": "Kim, Joo-Kyung  and de Marneffe, Marie-Catherine",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1169.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1169.bib",
+            "SUPP": ""
+        }
+    },
+    "socher-etal-2013-recursive": {
+        "TITLE": "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank",
+        "AUTHORS": "Socher, Richard  and Perelygin, Alex  and Wu, Jean  and Chuang, Jason  and Manning, Christopher D.  and Ng, Andrew  and Potts, Christopher",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1170.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1170.bib",
+            "SUPP": ""
+        }
+    },
+    "mitchell-etal-2013-open": {
+        "TITLE": "Open Domain Targeted Sentiment",
+        "AUTHORS": "Mitchell, Margaret  and Aguilar, Jacqui  and Wilson, Theresa  and Van Durme, Benjamin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1171.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1171.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-etal-2013-exploiting": {
+        "TITLE": "Exploiting Domain Knowledge in Aspect Extraction",
+        "AUTHORS": "Chen, Zhiyuan  and Mukherjee, Arjun  and Liu, Bing  and Hsu, Meichun  and Castellanos, Malu  and Ghosh, Riddhiman",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1172.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1172.bib",
+            "SUPP": ""
+        }
+    },
+    "dou-knight-2013-dependency": {
+        "TITLE": "Dependency-Based Decipherment for Resource-Limited Machine Translation",
+        "AUTHORS": "Dou, Qing  and Knight, Kevin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1173.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1173.bib",
+            "SUPP": ""
+        }
+    },
+    "chahuneau-etal-2013-translating": {
+        "TITLE": "Translating into Morphologically Rich Languages with Synthetic Phrases",
+        "AUTHORS": "Chahuneau, Victor  and Schlinger, Eva  and Smith, Noah A.  and Dyer, Chris",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1174.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1174.bib",
+            "SUPP": ""
+        }
+    },
+    "sokokov-etal-2013-boosting": {
+        "TITLE": "Boosting Cross-Language Retrieval by Learning Bilingual Phrase Associations from Relevance Rankings",
+        "AUTHORS": "Sokokov, Artem  and Jehl, Laura  and Hieber, Felix  and Riezler, Stefan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1175.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1175.bib",
+            "SUPP": ""
+        }
+    },
+    "kalchbrenner-blunsom-2013-recurrent": {
+        "TITLE": "Recurrent Continuous Translation Models",
+        "AUTHORS": "Kalchbrenner, Nal  and Blunsom, Phil",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1176.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1176.bib",
+            "SUPP": ""
+        }
+    },
+    "thalappillil-scaria-etal-2013-learning": {
+        "TITLE": "Learning Biological Processes with Global Constraints",
+        "AUTHORS": "Thalappillil Scaria, Aju  and Berant, Jonathan  and Wang, Mengqiu  and Clark, Peter  and Lewis, Justin  and Harding, Brittany  and Manning, Christopher D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1177.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1177.bib",
+            "SUPP": ""
+        }
+    },
+    "balasubramanian-etal-2013-generating": {
+        "TITLE": "Generating Coherent Event Schemas at Scale",
+        "AUTHORS": "Balasubramanian, Niranjan  and Soderland, Stephen  and Mausam  and Etzioni, Oren",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1178.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1178.bib",
+            "SUPP": ""
+        }
+    },
+    "mccrae-etal-2013-orthonormal": {
+        "TITLE": "Orthonormal Explicit Topic Analysis for Cross-Lingual Document Matching",
+        "AUTHORS": "McCrae, John Philip  and Cimiano, Philipp  and Klinger, Roman",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1179.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1179.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-he-2013-automated": {
+        "TITLE": "Automated Essay Scoring by Maximizing Human-Machine Agreement",
+        "AUTHORS": "Chen, Hongbo  and He, Ben",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1180.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1180.bib",
+            "SUPP": ""
+        }
+    },
+    "ganjigunte-ashok-etal-2013-success": {
+        "TITLE": "Success with Style: Using Writing Style to Predict the Success of Novels",
+        "AUTHORS": "Ganjigunte Ashok, Vikas  and Feng, Song  and Choi, Yejin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1181.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1181.bib",
+            "SUPP": ""
+        }
+    },
+    "wallace-etal-2013-generative": {
+        "TITLE": "A Generative Joint, Additive, Sequential Model of Topics and Speech Acts in Patient-Doctor Communication",
+        "AUTHORS": "Wallace, Byron C.  and Trikalinos, Thomas A.  and Laws, M. Barton  and Wilson, Ira B.  and Charniak, Eugene",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1182.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1182.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-weld-2013-harvesting": {
+        "TITLE": "Harvesting Parallel News Streams to Generate Paraphrases of Event Relations",
+        "AUTHORS": "Zhang, Congle  and Weld, Daniel S.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1183.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1183.bib",
+            "SUPP": ""
+        }
+    },
+    "cheng-roth-2013-relational": {
+        "TITLE": "Relational Inference for Wikification",
+        "AUTHORS": "Cheng, Xiao  and Roth, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1184.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1184.bib",
+            "SUPP": ""
+        }
+    },
+    "chambers-2013-event": {
+        "TITLE": "Event Schema Induction with a Probabilistic Entity-Driven Model",
+        "AUTHORS": "Chambers, Nathanael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1185.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1185.bib",
+            "SUPP": ""
+        }
+    },
+    "jindal-roth-2013-using": {
+        "TITLE": "Using Soft Constraints in Joint Inference for Clinical Concept Recognition",
+        "AUTHORS": "Jindal, Prateek  and Roth, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1186.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1186.bib",
+            "SUPP": ""
+        }
+    },
+    "volkova-etal-2013-exploring": {
+        "TITLE": "Exploring Demographic Language Variations to Improve Multilingual Sentiment Analysis in Social Media",
+        "AUTHORS": "Volkova, Svitlana  and Wilson, Theresa  and Yarowsky, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1187.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1187.bib",
+            "SUPP": ""
+        }
+    },
+    "scholz-conrad-2013-opinion": {
+        "TITLE": "Opinion Mining in Newspaper Articles by Entropy-Based Word Connections",
+        "AUTHORS": "Scholz, Thomas  and Conrad, Stefan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1188.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1188.bib",
+            "SUPP": ""
+        }
+    },
+    "zhou-etal-2013-collective": {
+        "TITLE": "Collective Opinion Target Extraction in Chinese Microblogs",
+        "AUTHORS": "Zhou, Xinjie  and Wan, Xiaojun  and Xiao, Jianguo",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1189.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1189.bib",
+            "SUPP": ""
+        }
+    },
+    "bhosale-etal-2013-detecting": {
+        "TITLE": "Detecting Promotional Content in Wikipedia",
+        "AUTHORS": "Bhosale, Shruti  and Vinicombe, Heath  and Mooney, Raymond",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1190.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1190.bib",
+            "SUPP": ""
+        }
+    },
+    "gottipati-etal-2013-learning": {
+        "TITLE": "Learning Topics and Positions from Debatepedia",
+        "AUTHORS": "Gottipati, Swapna  and Qiu, Minghui  and Sim, Yanchuan  and Jiang, Jing  and Smith, Noah A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1191.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1191.bib",
+            "SUPP": ""
+        }
+    },
+    "diao-jiang-2013-unified": {
+        "TITLE": "A Unified Model for Topics, Events and Users on Twitter",
+        "AUTHORS": "Diao, Qiming  and Jiang, Jing",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1192.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1192.bib",
+            "SUPP": ""
+        }
+    },
+    "schwartz-etal-2013-authorship": {
+        "TITLE": "Authorship Attribution of Micro-Messages",
+        "AUTHORS": "Schwartz, Roy  and Tsur, Oren  and Rappoport, Ari  and Koppel, Moshe",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1193.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1193.bib",
+            "SUPP": ""
+        }
+    },
+    "kessler-kuhn-2013-detection": {
+        "TITLE": "Detection of Product Comparisons - How Far Does an Out-of-the-Box Semantic Role Labeling System Take You?",
+        "AUTHORS": "Kessler, Wiltrud  and Kuhn, Jonas",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1194.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1194.bib",
+            "SUPP": ""
+        }
+    },
+    "canny-etal-2013-multi": {
+        "TITLE": "A Multi-Teraflop Constituency Parser using GPUs",
+        "AUTHORS": "Canny, John  and Hall, David  and Klein, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1195.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1195.bib",
+            "SUPP": ""
+        }
+    },
+    "lazaridou-etal-2013-fish": {
+        "TITLE": "Fish Transporters and Miracle Homes: How Compositional Distributional Semantics can Help NP Parsing",
+        "AUTHORS": "Lazaridou, Angeliki  and Vecchi, Eva Maria  and Baroni, Marco",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1196.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1196.bib",
+            "SUPP": ""
+        }
+    },
+    "fitzgerald-etal-2013-learning": {
+        "TITLE": "Learning Distributions over Logical Forms for Referring Expression Generation",
+        "AUTHORS": "FitzGerald, Nicholas  and Artzi, Yoav  and Zettlemoyer, Luke",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1197.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1197.bib",
+            "SUPP": ""
+        }
+    },
+    "szarvas-etal-2013-learning": {
+        "TITLE": "Learning to Rank Lexical Substitutions",
+        "AUTHORS": "Szarvas, György  and Busa-Fekete, Róbert  and Hüllermeier, Eyke",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1198.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1198.bib",
+            "SUPP": ""
+        }
+    },
+    "li-etal-2013-identifying": {
+        "TITLE": "Identifying Manipulated Offerings on Review Portals",
+        "AUTHORS": "Li, Jiwei  and Ott, Myle  and Cardie, Claire",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1199.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1199.bib",
+            "SUPP": ""
+        }
+    },
+    "gaillard-etal-2013-well": {
+        "TITLE": "Well-Argued Recommendation: Adaptive Models Based on Words in Recommender Systems",
+        "AUTHORS": "Gaillard, Julien  and El-Beze, Marc  and Altman, Eitan  and Ethis, Emmanuel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1200.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1200.bib",
+            "SUPP": ""
+        }
+    },
+    "galley-etal-2013-regularized": {
+        "TITLE": "Regularized Minimum Error Rate Training",
+        "AUTHORS": "Galley, Michel  and Quirk, Chris  and Cherry, Colin  and Toutanova, Kristina",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1201.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1201.bib",
+            "SUPP": ""
+        }
+    },
+    "anderson-etal-2013-words": {
+        "TITLE": "Of Words, Eyes and Brains: Correlating Image-Based Distributional Semantic Models with Neural Representations of Concepts",
+        "AUTHORS": "Anderson, Andrew J.  and Bruni, Elia  and Bordignon, Ulisse  and Poesio, Massimo  and Baroni, Marco",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1202.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1202.bib",
+            "SUPP": ""
+        }
+    },
+    "durrett-klein-2013-easy": {
+        "TITLE": "Easy Victories and Uphill Battles in Coreference Resolution",
+        "AUTHORS": "Durrett, Greg  and Klein, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1203.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1203.bib",
+            "SUPP": ""
+        }
+    },
+    "spitkovsky-etal-2013-breaking": {
+        "TITLE": "Breaking Out of Local Optima with Count Transforms and Model Recombination: A Study in Grammar Induction",
+        "AUTHORS": "Spitkovsky, Valentin I.  and Alshawi, Hiyan  and Jurafsky, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1204.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1204.bib",
+            "SUPP": ""
+        }
+    },
+    "ganchev-das-2013-cross": {
+        "TITLE": "Cross-Lingual Discriminative Learning of Sequence Models with Posterior Regularization",
+        "AUTHORS": "Ganchev, Kuzman  and Das, Dipanjan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/D13-1205.pdf",
+            "BIBTEX": "https://aclanthology.org/D13-1205.bib",
+            "SUPP": ""
+        }
+    }
+}

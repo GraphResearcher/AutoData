@@ -1,0 +1,158 @@
+{
+    "baldwin-morton-1998-dynamic": {
+        "TITLE": "Dynamic Coreference-Based Summarization",
+        "AUTHORS": "Baldwin, Breck  and Morton, Thomas S.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Third Conference on Empirical Methods for Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W98-1501.pdf",
+            "BIBTEX": "https://aclanthology.org/W98-1501.bib",
+            "SUPP": ""
+        }
+    },
+    "mitkov-etal-1998-multilingual": {
+        "TITLE": "Multilingual Robust Anaphora Resolution",
+        "AUTHORS": "Mitkov, Ruslan  and Belguith, Lamia  and Stys, Malgorzata",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Third Conference on Empirical Methods for Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W98-1502.pdf",
+            "BIBTEX": "https://aclanthology.org/W98-1502.bib",
+            "SUPP": ""
+        }
+    },
+    "boutsis-piperidis-1998-aligning": {
+        "TITLE": "Aligning Clattses in Parallel Texts",
+        "AUTHORS": "Boutsis, Sotiris  and Piperidis, Stelios",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Third Conference on Empirical Methods for Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W98-1503.pdf",
+            "BIBTEX": "https://aclanthology.org/W98-1503.bib",
+            "SUPP": ""
+        }
+    },
+    "simard-1998-automatic": {
+        "TITLE": "Automatic Insertion of Accents in French Text",
+        "AUTHORS": "Simard, Michel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Third Conference on Empirical Methods for Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W98-1504.pdf",
+            "BIBTEX": "https://aclanthology.org/W98-1504.bib",
+            "SUPP": ""
+        }
+    },
+    "carroll-rooth-1998-valence": {
+        "TITLE": "Valence Induction with a Head-Lexicalized PCFG",
+        "AUTHORS": "Carroll, Glenn  and Rooth, Mats",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Third Conference on Empirical Methods for Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W98-1505.pdf",
+            "BIBTEX": "https://aclanthology.org/W98-1505.bib",
+            "SUPP": ""
+        }
+    },
+    "kilgarriff-rose-1998-measures": {
+        "TITLE": "Measures for Corpus Similarity and Homogeneity",
+        "AUTHORS": "Kilgarriff, Adam  and Rose, Tony",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Third Conference on Empirical Methods for Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W98-1506.pdf",
+            "BIBTEX": "https://aclanthology.org/W98-1506.bib",
+            "SUPP": ""
+        }
+    },
+    "bruce-wiebe-1998-word": {
+        "TITLE": "Word-Sense Distinguishability and Inter-Coder Agreement",
+        "AUTHORS": "Bruce, Rebecca  and Wiebe, Janyce",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Third Conference on Empirical Methods for Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W98-1507.pdf",
+            "BIBTEX": "https://aclanthology.org/W98-1507.bib",
+            "SUPP": ""
+        }
+    },
+    "dalessio-etal-1998-category": {
+        "TITLE": "Category Levels in Hierarchical Text Categorization",
+        "AUTHORS": "D′Alessio, Stephen  and Murray, Keitha  and Schiaffino, Robert  and Kershenbaum, Aaron",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Third Conference on Empirical Methods for Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W98-1508.pdf",
+            "BIBTEX": "https://aclanthology.org/W98-1508.bib",
+            "SUPP": ""
+        }
+    },
+    "fukumoto-suzuki-1998-empirical": {
+        "TITLE": "An Empirical Approach to Text Categorization Based on Term Weight Learning",
+        "AUTHORS": "Fukumoto, Fumiyo  and Suzuki, Yoshimi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Third Conference on Empirical Methods for Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W98-1509.pdf",
+            "BIBTEX": "https://aclanthology.org/W98-1509.bib",
+            "SUPP": ""
+        }
+    },
+    "shirai-etal-1998-empirical": {
+        "TITLE": "An Empirical Evaluation on Statistical Parsing of Japanese Sentences Using Lexical Association Statistics",
+        "AUTHORS": "Shirai, Kiyoaki  and Inui, Kentaro  and Tokunaga, Takenobu  and Tanaka, Hozumi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Third Conference on Empirical Methods for Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W98-1510.pdf",
+            "BIBTEX": "https://aclanthology.org/W98-1510.bib",
+            "SUPP": ""
+        }
+    },
+    "fujio-matsumoto-1998-japanese": {
+        "TITLE": "Japanese Dependency Structure Analysis based on Lexicalized Statistics",
+        "AUTHORS": "Fujio, Masakazu  and Matsumoto, Yuji",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Third Conference on Empirical Methods for Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W98-1511.pdf",
+            "BIBTEX": "https://aclanthology.org/W98-1511.bib",
+            "SUPP": ""
+        }
+    },
+    "berger-printz-1998-comparison": {
+        "TITLE": "A Comparison of Criteria for Maximum Entropy/ Minimum Divergence Feature Selection",
+        "AUTHORS": "Berger, Adam  and Printz, Harry",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Third Conference on Empirical Methods for Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W98-1512.pdf",
+            "BIBTEX": "https://aclanthology.org/W98-1512.bib",
+            "SUPP": ""
+        }
+    }
+}

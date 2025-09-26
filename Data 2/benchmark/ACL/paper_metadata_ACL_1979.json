@@ -1,0 +1,366 @@
+{
+    "kay-1979-syntactic": {
+        "TITLE": "Syntactic Processing",
+        "AUTHORS": "Kay, Martin",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "carbonell-1979-towards": {
+        "TITLE": "Towards a Self-Extending Parser",
+        "AUTHORS": "Carbonell, Jaime G.",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "small-1979-word": {
+        "TITLE": "Word Expert Parsing",
+        "AUTHORS": "Small, Steven L.",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "eisenstadt-1979-schank": {
+        "TITLE": "Schank/Riesbeck vs. Norman/Rumelhart: What`s the Difference?",
+        "AUTHORS": "Eisenstadt, Marc",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "all-1979-toward": {
+        "TITLE": "Toward a Computational Theory of Speech Perception",
+        "AUTHORS": "All, Jonathan",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "kwasny-sondheimer-1979-ungrammaticality": {
+        "TITLE": "Ungrammaticality and Extra-Grammaticality in Natural Language Understanding Systems",
+        "AUTHORS": "Kwasny, Stan C.  and Sondheimer, Norman K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "shapiro-1979-generalized": {
+        "TITLE": "Generalized Augmented Transitiom Network Grammars for Generation From Semantic Networks",
+        "AUTHORS": "Shapiro, Stuart C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "joshi-1979-knowledge": {
+        "TITLE": "Knowledge Organization and Application: Brief Comments on Papers in the Session",
+        "AUTHORS": "Joshi, Aravind K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "brachman-1979-taxonomy": {
+        "TITLE": "Taxonomy, Descriptions, and Individuals in Natural Language Understanding",
+        "AUTHORS": "Brachman, Ronald J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "sowa-1979-semantics": {
+        "TITLE": "Semantics of Conceptual Graphs",
+        "AUTHORS": "Sowa, John F.",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "sangster-1979-automatic": {
+        "TITLE": "On the Automatic Transformation of Class Membership Criteria",
+        "AUTHORS": "Sangster, Barbara C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "moore-mann-1979-snapshot": {
+        "TITLE": "A Snapshot of KDS: A Knowledge Delivery System",
+        "AUTHORS": "Moore, James A.  and Mann, William C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "burstein-1979-use": {
+        "TITLE": "The Use of Object-Specific Knowledge In Natural Language Processing",
+        "AUTHORS": "Burstein, Mark H.",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "lebowitz-1979-reading": {
+        "TITLE": "Reading With a Purpose",
+        "AUTHORS": "Lebowitz, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "robinson-1979-discourse": {
+        "TITLE": "Discourse: Codes and Clues in Contexts",
+        "AUTHORS": "Robinson, Jane J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "mckeown-1979-paraphrasing": {
+        "TITLE": "Paraphrasing Using Given and New Information in a Question-Answer System",
+        "AUTHORS": "McKeown, Kathleen R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "shanon-1979-questions": {
+        "TITLE": "Where Questions",
+        "AUTHORS": "Shanon, Benny",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "sidner-1979-role": {
+        "TITLE": "The Role Of Focussing in Interpretation of Pronouns",
+        "AUTHORS": "Sidner, Candace L.",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "levin-hutchins-1979-structure": {
+        "TITLE": "The Structure and Process of Talking About Doing",
+        "AUTHORS": "Levin, James A.  and Hutchins, Edwin L.",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "mann-1979-design": {
+        "TITLE": "Design for Dialogue Comprehension",
+        "AUTHORS": "Mann, William C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "allen-1979-plans": {
+        "TITLE": "Plans, Inference, and Indirect Speech Acts",
+        "AUTHORS": "Allen, James F.",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "hays-1979-applications": {
+        "TITLE": "Applications",
+        "AUTHORS": "Hays, David G.",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "templeton-1979-eufid": {
+        "TITLE": "EUFID: A Friendly and Flexible Front-End for Data Management Systems",
+        "AUTHORS": "Templeton, Marjorie",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "silva-etal-1979-application": {
+        "TITLE": "An Application of Automated Language Understanding Techniques to the Generation of Data Base Elements",
+        "AUTHORS": "Silva, Georgette  and Montgomery, Christine  and Dwiggins, Don",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "grishman-1979-response": {
+        "TITLE": "Response Generation in Question - Answering Systems",
+        "AUTHORS": "Grishman, Ralph",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "ciesielski-1979-natural": {
+        "TITLE": "Natural Language Input to a Computer-Based Glaucoma Consultation System",
+        "AUTHORS": "Ciesielski, Victor B.",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "weber-mann-1979-prospects": {
+        "TITLE": "Prospects for Computer-Assisted Dialect Adaption",
+        "AUTHORS": "Weber, David J.  and Mann, William C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "fischer-1979-powerful": {
+        "TITLE": "Powerful ideas in computational linquistics - Implications for problem solving, and education",
+        "AUTHORS": "Fischer, Gerhard",
+        "ABSTRACT": "",
+        "CONFERENCE": "17th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P79-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/P79-1028.bib",
+            "SUPP": ""
+        }
+    }
+}

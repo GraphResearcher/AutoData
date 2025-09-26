@@ -1,0 +1,1081 @@
+{
+    "florian-etal-2004-statistical": {
+        "TITLE": "A Statistical Model for Multilingual Entity Detection and Tracking",
+        "AUTHORS": "Florian, R.  and Hassan, H.  and Ittycheriah, A.  and Jing, H.  and Kambhatla, N.  and Luo, X.  and Nicolov, N.  and Roukos, S.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "gooi-allan-2004-cross": {
+        "TITLE": "Cross-Document Coreference on a Large Scale Corpus",
+        "AUTHORS": "Gooi, Chung Heong  and Allan, James",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "li-etal-2004-robust": {
+        "TITLE": "Robust Reading: Identification and Tracing of Ambiguous Names",
+        "AUTHORS": "Li, Xin  and Morie, Paul  and Roth, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "eisenstein-christoudias-2004-salience": {
+        "TITLE": "A Salience-Based Approach to Gesture-Speech Alignment",
+        "AUTHORS": "Eisenstein, Jacob  and Christoudias, C. Mario",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "bangalore-johnston-2004-balancing": {
+        "TITLE": "Balancing data-driven and rule-based approaches in the context of a Multimodal Conversational System",
+        "AUTHORS": "Bangalore, Srinivas  and Johnston, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "paek-horvitz-2004-optimizing": {
+        "TITLE": "Optimizing Automated Call Routing by Integrating Spoken Dialog Models with Queuing Models",
+        "AUTHORS": "Paek, Tim  and Horvitz, Eric",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "hildebrandt-etal-2004-answering": {
+        "TITLE": "Answering Definition Questions with Multiple Knowledge Sources",
+        "AUTHORS": "Hildebrandt, Wesley  and Katz, Boris  and Lin, Jimmy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "soricut-brill-2004-automatic": {
+        "TITLE": "Automatic Question Answering: Beyond the Factoid",
+        "AUTHORS": "Soricut, Radu  and Brill, Eric",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "lange-etal-2004-probabilistic": {
+        "TITLE": "A Probabilistic Rasch Analysis of Question Answering Evaluations",
+        "AUTHORS": "Lange, Rense  and Moran, Juan  and Greiff, Warren R.  and Ferro, Lisa",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "shinzato-torisawa-2004-acquiring": {
+        "TITLE": "Acquiring Hyponymy Relations from Web Documents",
+        "AUTHORS": "Shinzato, Keiji  and Torisawa, Kentaro",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "gregory-etal-2004-sentence": {
+        "TITLE": "Sentence-Internal Prosody Does not Help Parsing the Way Punctuation Does",
+        "AUTHORS": "Gregory, Michelle  and Johnson, Mark  and Charniak, Eugene",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "osborne-baldridge-2004-ensemble": {
+        "TITLE": "Ensemble-based Active Learning for Parse Selection",
+        "AUTHORS": "Osborne, Miles  and Baldridge, Jason",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "kaplan-etal-2004-speed": {
+        "TITLE": "Speed and Accuracy in Shallow and Deep Stochastic Parsing",
+        "AUTHORS": "Kaplan, Ron  and Riezler, Stefan  and King, Tracy H.  and Maxwell III, John T.  and Vasserman, Alex  and Crouch, Richard",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "graehl-knight-2004-training": {
+        "TITLE": "Training Tree Transducers",
+        "AUTHORS": "Graehl, Jonathan  and Knight, Kevin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "barzilay-lee-2004-catching": {
+        "TITLE": "Catching the Drift: Probabilistic Content Models, with Applications to Generation and Summarization",
+        "AUTHORS": "Barzilay, Regina  and Lee, Lillian",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "lapata-keller-2004-web": {
+        "TITLE": "The Web as a Baseline: Evaluating the Performance of Unsupervised Web-based Models for a Range of NLP Tasks",
+        "AUTHORS": "Lapata, Mirella  and Keller, Frank",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "saraclar-sproat-2004-lattice": {
+        "TITLE": "Lattice-Based Search for Spoken Utterance Retrieval",
+        "AUTHORS": "Saraclar, Murat  and Sproat, Richard",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "kim-etal-2004-detecting": {
+        "TITLE": "Detecting Structural Metadata with Decision Trees and Transformation-Based Learning",
+        "AUTHORS": "Kim, Joungbum  and Schwarm, Sarah E.  and Ostendorf, Mari",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "nenkova-passonneau-2004-evaluating": {
+        "TITLE": "Evaluating Content Selection in Summarization: The Pyramid Method",
+        "AUTHORS": "Nenkova, Ani  and Passonneau, Rebecca",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "lapata-lascarides-2004-inferring": {
+        "TITLE": "Inferring Sentence-internal Temporal Relations",
+        "AUTHORS": "Lapata, Mirella  and Lascarides, Alex",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "och-etal-2004-smorgasbord": {
+        "TITLE": "A Smorgasbord of Features for Statistical Machine Translation",
+        "AUTHORS": "Och, Franz Josef  and Gildea, Daniel  and Khudanpur, Sanjeev  and Sarkar, Anoop  and Yamada, Kenji  and Fraser, Alex  and Kumar, Shankar  and Shen, Libin  and Smith, David  and Eng, Katherine  and Jain, Viren  and Jin, Zhen  and Radev, Dragomir",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "kumar-byrne-2004-minimum": {
+        "TITLE": "Minimum Bayes-Risk Decoding for Statistical Machine Translation",
+        "AUTHORS": "Kumar, Shankar  and Byrne, William",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "shen-etal-2004-discriminative": {
+        "TITLE": "Discriminative Reranking for Machine Translation",
+        "AUTHORS": "Shen, Libin  and Sarkar, Anoop  and Och, Franz Josef",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "higgins-etal-2004-evaluating": {
+        "TITLE": "Evaluating Multiple Aspects of Coherence in Student Essays",
+        "AUTHORS": "Higgins, Derrick  and Burstein, Jill  and Marcu, Daniel  and Gentile, Claudia",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "collins-thompson-callan-2004-language": {
+        "TITLE": "A Language Modeling Approach to Predicting Reading Difficulty",
+        "AUTHORS": "Collins-Thompson, Kevyn  and Callan, James P.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "forbes-riley-litman-2004-predicting": {
+        "TITLE": "Predicting Emotion in Spoken Dialogue from Multiple Knowledge Sources",
+        "AUTHORS": "Forbes-Riley, Kate  and Litman, Diane",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "porzel-baudis-2004-tao": {
+        "TITLE": "The Tao of CHI: Towards Effective Human-Computer Interaction",
+        "AUTHORS": "Porzel, Robert  and Baudis, Manja",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "raux-eskenazi-2004-non": {
+        "TITLE": "Non-Native Users in the Let`s Go!! Spoken Dialogue System: Dealing with Linguistic Mismatch",
+        "AUTHORS": "Raux, Antoine  and Eskenazi, Maxine",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "vechtomova-karamuftuoglu-2004-comparison": {
+        "TITLE": "Comparison of Two Interactive Search Refinement Techniques",
+        "AUTHORS": "Vechtomova, Olga  and Karamuftuoglu, Murat",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "pradhan-etal-2004-shallow": {
+        "TITLE": "Shallow Semantic Parsing using Support Vector Machines",
+        "AUTHORS": "Pradhan, Sameer S.  and Ward, Wayne H.  and Hacioglu, Kadri  and Martin, James H.  and Jurafsky, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "kaji-etal-2004-paraphrasing": {
+        "TITLE": "Paraphrasing Predicates from Written Language to Spoken Language Using the Web",
+        "AUTHORS": "Kaji, Nobuhiro  and Okamoto, Masashi  and Kurohashi, Sadao",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "sun-jurafsky-2004-shallow": {
+        "TITLE": "Shallow Semantic Parsing of Chinese",
+        "AUTHORS": "Sun, Honglin  and Jurafsky, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "zens-ney-2004-improvements": {
+        "TITLE": "Improvements in Phrase-Based Statistical Machine Translation",
+        "AUTHORS": "Zens, Richard  and Ney, Hermann",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "munteanu-etal-2004-improved": {
+        "TITLE": "Improved Machine Translation Performance via Parallel Sentence Extraction from Comparable Corpora",
+        "AUTHORS": "Munteanu, Dragos Stefan  and Fraser, Alexander  and Marcu, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "galley-etal-2004-whats": {
+        "TITLE": "What`s in a translation rule?",
+        "AUTHORS": "Galley, Michel  and Hopkins, Mark  and Knight, Kevin  and Marcu, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "huang-etal-2004-improving": {
+        "TITLE": "Improving Named Entity Translation Combining Phonetic and Semantic Similarities",
+        "AUTHORS": "Huang, Fei  and Vogel, Stephan  and Waibel, Alex",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1036.bib",
+            "SUPP": ""
+        }
+    },
+    "kehler-etal-2004-non": {
+        "TITLE": "The (Non)Utility of Predicate-Argument Frequencies for Pronoun Interpretation",
+        "AUTHORS": "Kehler, Andrew  and Appelt, Douglas  and Taylor, Lara  and Simma, Aleksandr",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1037.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1037.bib",
+            "SUPP": ""
+        }
+    },
+    "bean-riloff-2004-unsupervised": {
+        "TITLE": "Unsupervised Learning of Contextual Role Knowledge for Coreference Resolution",
+        "AUTHORS": "Bean, David  and Riloff, Ellen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1038.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1038.bib",
+            "SUPP": ""
+        }
+    },
+    "goodman-2004-exponential": {
+        "TITLE": "Exponential Priors for Maximum Entropy Models",
+        "AUTHORS": "Goodman, Joshua",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1039.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1039.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-etal-2004-multiple": {
+        "TITLE": "Multiple Similarity Measures and Source-Pair Information in Story Link Detection",
+        "AUTHORS": "Chen, Francine  and Farahat, Ayman  and Brants, Thorsten",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1040.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1040.bib",
+            "SUPP": ""
+        }
+    },
+    "pantel-ravichandran-2004-automatically": {
+        "TITLE": "Automatically Labeling Semantic Classes",
+        "AUTHORS": "Pantel, Patrick  and Ravichandran, Deepak",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1041.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1041.bib",
+            "SUPP": ""
+        }
+    },
+    "peng-mccallum-2004-accurate": {
+        "TITLE": "Accurate Information Extraction from Research Papers using Conditional Random Fields",
+        "AUTHORS": "Peng, Fuchun  and McCallum, Andrew",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1042.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1042.bib",
+            "SUPP": ""
+        }
+    },
+    "miller-etal-2004-name": {
+        "TITLE": "Name Tagging with Word Clusters and Discriminative Training",
+        "AUTHORS": "Miller, Scott  and Guinness, Jethran  and Zamanian, Alex",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics: HLT-NAACL 2004",
+        "ABBR": "NAACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-1043.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-1043.bib",
+            "SUPP": ""
+        }
+    },
+    "banko-vanderwende-2004-using": {
+        "TITLE": "Using N-Grams To Understand the Nature of Summaries",
+        "AUTHORS": "Banko, Michele  and Vanderwende, Lucy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4001.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4001.bib",
+            "SUPP": ""
+        }
+    },
+    "lee-lee-2004-mmr": {
+        "TITLE": "MMR-based Feature Selection for Text Categorization",
+        "AUTHORS": "Lee, Changki  and Lee, Gary Geunbae",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4002.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4002.bib",
+            "SUPP": ""
+        }
+    },
+    "paul-etal-2004-example": {
+        "TITLE": "Example-based Rescoring of Statistical Machine Translation Output",
+        "AUTHORS": "Paul, Michael  and Sumita, Eiichiro  and Yamamoto, Seiichi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4003.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4003.bib",
+            "SUPP": ""
+        }
+    },
+    "utsuro-etal-2004-empirical": {
+        "TITLE": "An Empirical Study on Multiple LVCSR Model Combination by Machine Learning",
+        "AUTHORS": "Utsuro, Takehito  and Kodama, Yasuhiro  and Watanabe, Tomohiro  and Nishizaki, Hiromitsu  and Nakagawa, Seiichi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4004.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4004.bib",
+            "SUPP": ""
+        }
+    },
+    "hulth-2004-enhancing": {
+        "TITLE": "Enhancing Linguistically Oriented Automatic Keyword Extraction",
+        "AUTHORS": "Hulth, Anette",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4005.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4005.bib",
+            "SUPP": ""
+        }
+    },
+    "bacchiani-etal-2004-language": {
+        "TITLE": "Language Model Adaptation with MAP Estimation and the Perceptron Algorithm",
+        "AUTHORS": "Bacchiani, Michiel  and Roark, Brian  and Saraclar, Murat",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4006.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4006.bib",
+            "SUPP": ""
+        }
+    },
+    "hagen-etal-2004-advances": {
+        "TITLE": "Advances in Children`s Speech Recognition within an Interactive Literacy Tutor",
+        "AUTHORS": "Hagen, Andreas  and Pellom, Bryan  and van Vuuren, Sarel  and Cole, Ronald",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4007.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4007.bib",
+            "SUPP": ""
+        }
+    },
+    "chen-fung-2004-automatic": {
+        "TITLE": "Automatic Construction of an English-Chinese Bilingual FrameNet",
+        "AUTHORS": "Chen, Benfeng  and Fung, Pascale",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4008.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4008.bib",
+            "SUPP": ""
+        }
+    },
+    "kehler-etal-2004-competitive": {
+        "TITLE": "Competitive Self-Trained Pronoun Interpretation",
+        "AUTHORS": "Kehler, Andrew  and Appelt, Douglas  and Taylor, Lara  and Simma, Aleksandr",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4009.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4009.bib",
+            "SUPP": ""
+        }
+    },
+    "zhai-etal-2004-using": {
+        "TITLE": "Using N-best lists for Named Entity Recognition from Chinese Speech",
+        "AUTHORS": "Zhai, Lufeng  and Fung, Pascale  and Schwartz, Richard  and Carpuat, Marine  and Wu, Dekai",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4010.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4010.bib",
+            "SUPP": ""
+        }
+    },
+    "chai-etal-2004-performance": {
+        "TITLE": "Performance Evaluation and Error Analysis for Multimodal Reference Resolution in a Conversation System",
+        "AUTHORS": "Chai, Joyce Y.  and Prasov, Zahar  and Hong, Pengyu",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4011.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4011.bib",
+            "SUPP": ""
+        }
+    },
+    "reitter-etal-2004-ui": {
+        "TITLE": "UI on the Fly: Generating a Multimodal User Interface",
+        "AUTHORS": "Reitter, David  and Panttaja, Erin  and Cummins, Fred",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4012.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4012.bib",
+            "SUPP": ""
+        }
+    },
+    "daume-iii-brill-2004-web": {
+        "TITLE": "Web Search Intent Induction via Automatic Query Reformulation",
+        "AUTHORS": "Daumé III, Hal  and Brill, Eric",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4013.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4013.bib",
+            "SUPP": ""
+        }
+    },
+    "small-strzalkowski-2004-hitiqa": {
+        "TITLE": "HITIQA: A Data Driven Approach to Interactive Analytical Question Answering",
+        "AUTHORS": "Small, Sharon  and Strzalkowski, Tomek",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4014.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4014.bib",
+            "SUPP": ""
+        }
+    },
+    "lee-2004-morphological": {
+        "TITLE": "Morphological Analysis for Statistical Machine Translation",
+        "AUTHORS": "Lee, Young-Suk",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4015.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4015.bib",
+            "SUPP": ""
+        }
+    },
+    "sagawa-etal-2004-correction": {
+        "TITLE": "Correction Grammars for Error Handling in a Speech Dialog System",
+        "AUTHORS": "Sagawa, Hirohiko  and Mitamura, Teruko  and Nyberg, Eric",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4016.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4016.bib",
+            "SUPP": ""
+        }
+    },
+    "srikaya-etal-2004-comparison": {
+        "TITLE": "A Comparison of Rule--Based and Statistical Methods for Semantic Language Modeling and Confidence Measurement",
+        "AUTHORS": "Srikaya, Ruhi  and Gao, Yuqing  and Picheny, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4017.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4017.bib",
+            "SUPP": ""
+        }
+    },
+    "hillard-etal-2004-improving": {
+        "TITLE": "Improving Automatic Sentence Boundary Detection with Confusion Networks",
+        "AUTHORS": "Hillard, D.  and Ostendorf, M.  and Stolcke, A.  and Liu, Y.  and Shriberg, E.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4018.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4018.bib",
+            "SUPP": ""
+        }
+    },
+    "tomko-rosenfeld-2004-speech": {
+        "TITLE": "Speech Graffiti vs. Natural Language: Assessing the User Experience",
+        "AUTHORS": "Tomko, Stefanie  and Rosenfeld, Roni",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4019.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4019.bib",
+            "SUPP": ""
+        }
+    },
+    "rosenberg-binkowski-2004-augmenting": {
+        "TITLE": "Augmenting the kappa statistic to determine interannotator reliability for multiply labeled data points",
+        "AUTHORS": "Rosenberg, Andrew  and Binkowski, Ed",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4020.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4020.bib",
+            "SUPP": ""
+        }
+    },
+    "livescu-glass-2004-feature": {
+        "TITLE": "Feature-based Pronunciation Modeling for Speech Recognition",
+        "AUTHORS": "Livescu, Karen  and Glass, James",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4021.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4021.bib",
+            "SUPP": ""
+        }
+    },
+    "sarma-palmer-2004-context": {
+        "TITLE": "Context-based Speech Recognition Error Detection and Correction",
+        "AUTHORS": "Sarma, Arup  and Palmer, David D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4022.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4022.bib",
+            "SUPP": ""
+        }
+    },
+    "palmer-etal-2004-feature": {
+        "TITLE": "Feature Selection for Trainable Multilingual Broadcast News Segmentation",
+        "AUTHORS": "Palmer, David D.  and Reichman, Marc  and Yaich, Elyes",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4023.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4023.bib",
+            "SUPP": ""
+        }
+    },
+    "morgan-etal-2004-direct": {
+        "TITLE": "Direct Maximization of Average Precision by Hill-Climbing, with a Comparison to a Maximum Entropy Approach",
+        "AUTHORS": "Morgan, William  and Greiff, Warren  and Henderson, John",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4024.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4024.bib",
+            "SUPP": ""
+        }
+    },
+    "martin-foltz-2004-automated": {
+        "TITLE": "Automated Team Discourse Annotation and Performance Prediction Using LSA",
+        "AUTHORS": "Martin, Melanie J.  and Foltz, Peter W.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4025.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4025.bib",
+            "SUPP": ""
+        }
+    },
+    "tillmann-2004-unigram": {
+        "TITLE": "A Unigram Orientation Model for Statistical Machine Translation",
+        "AUTHORS": "Tillmann, Christoph",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4026.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4026.bib",
+            "SUPP": ""
+        }
+    },
+    "rambow-etal-2004-summarizing": {
+        "TITLE": "Summarizing Email Threads",
+        "AUTHORS": "Rambow, Owen  and Shrestha, Lokesh  and Chen, John  and Laurdisen, Christy",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4027.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4027.bib",
+            "SUPP": ""
+        }
+    },
+    "culotta-mccallum-2004-confidence": {
+        "TITLE": "Confidence Estimation for Information Extraction",
+        "AUTHORS": "Culotta, Aron  and McCallum, Andrew",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4028.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4028.bib",
+            "SUPP": ""
+        }
+    },
+    "divi-etal-2004-speech": {
+        "TITLE": "A Speech-in List-out Approach to Spoken User Interfaces",
+        "AUTHORS": "Divi, Vijay  and Forlines, C.  and Van Gemert, Jan  and Raj, Bhiksha  and Schmidt-Nielsen, B.  and Wittenburg, Kent  and Woelfel, Joseph  and Zhang, Fang-Fang",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4029.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4029.bib",
+            "SUPP": ""
+        }
+    },
+    "stoica-hearst-2004-nearly": {
+        "TITLE": "Nearly-Automated Metadata Hierarchy Creation",
+        "AUTHORS": "Stoica, Emilia  and Hearst, Marti A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4030.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4030.bib",
+            "SUPP": ""
+        }
+    },
+    "radev-etal-2004-computational": {
+        "TITLE": "Computational Linkuistics: Word Triggers across Hyperlinks",
+        "AUTHORS": "Radev, Dragomir  and Qi, Hong  and Winkel, Adam  and Tam, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4031.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4031.bib",
+            "SUPP": ""
+        }
+    },
+    "kahn-etal-2004-parsing": {
+        "TITLE": "Parsing Conversational Speech Using Enhanced Segmentation",
+        "AUTHORS": "Kahn, Jeremy G.  and Ostendorf, Mari  and Chelba, Ciprian",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4032.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4032.bib",
+            "SUPP": ""
+        }
+    },
+    "shan-2004-polarity": {
+        "TITLE": "Polarity Sensitivity and Evaluation Order in Type-Logical Grammar",
+        "AUTHORS": "Shan, Chung-chieh",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4033.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4033.bib",
+            "SUPP": ""
+        }
+    },
+    "ji-bilmes-2004-multi": {
+        "TITLE": "Multi-Speaker Language Modeling",
+        "AUTHORS": "Ji, Gang  and Bilmes, Jeffrey",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4034.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4034.bib",
+            "SUPP": ""
+        }
+    },
+    "levow-2004-prosody": {
+        "TITLE": "Prosody-based Topic Segmentation for Mandarin Broadcast News",
+        "AUTHORS": "Levow, Gina-Anne",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4035.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4035.bib",
+            "SUPP": ""
+        }
+    },
+    "pradhan-etal-2004-parsing": {
+        "TITLE": "Parsing Arguments of Nominalizations in English and Chinese",
+        "AUTHORS": "Pradhan, Sameer  and Sun, Honglin  and Ward, Wayne  and Martin, James H.  and Jurafsky, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4036.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4036.bib",
+            "SUPP": ""
+        }
+    },
+    "hacioglu-2004-lightweight": {
+        "TITLE": "A Lightweight Semantic Chunker Based on Tagging",
+        "AUTHORS": "Hacioglu, Kadri",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4037.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4037.bib",
+            "SUPP": ""
+        }
+    },
+    "diab-etal-2004-automatic": {
+        "TITLE": "Automatic Tagging of Arabic Text: From Raw Text to Base Phrase Chunks",
+        "AUTHORS": "Diab, Mona  and Hacioglu, Kadri  and Jurafsky, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4038.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4038.bib",
+            "SUPP": ""
+        }
+    },
+    "nakano-etal-2004-converting": {
+        "TITLE": "Converting Text into Agent Animations: Assigning Gestures to Text",
+        "AUTHORS": "Nakano, Yukiko I.  and Okamoto, Masashi  and Kawahara, Daisuke  and Li, Qing  and Nishida, Toyoaki",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4039.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4039.bib",
+            "SUPP": ""
+        }
+    },
+    "snover-etal-2004-lexically": {
+        "TITLE": "A Lexically-Driven Algorithm for Disfluency Detection",
+        "AUTHORS": "Snover, Matthew  and Dorr, Bonnie  and Schwartz, Richard",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of HLT-NAACL 2004: Short Papers",
+        "ABBR": "NAACL",
+        "TRACK": "Short Paper Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/N04-4040.pdf",
+            "BIBTEX": "https://aclanthology.org/N04-4040.bib",
+            "SUPP": ""
+        }
+    }
+}

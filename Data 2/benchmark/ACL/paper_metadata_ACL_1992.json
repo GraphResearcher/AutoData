@@ -1,0 +1,704 @@
+{
+    "lascarides-etal-1992-inferring": {
+        "TITLE": "Inferring Discourse Relations in Context",
+        "AUTHORS": "Lascarides, Alex  and Asher, Nicholas  and Oberlander, Jon",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "hardt-1992-algorithm": {
+        "TITLE": "An Algorithm for VP Ellipsis",
+        "AUTHORS": "Hardt, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "agarwal-boggess-1992-simple": {
+        "TITLE": "A Simple but Useful Approach to Conjunct Identification",
+        "AUTHORS": "Agarwal, Rajeev  and Boggess, Lois",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "luperfoy-1992-representation": {
+        "TITLE": "The Representation of Multimodal User Interface Dialogues Using Discourse Pegs",
+        "AUTHORS": "Luperfoy, Susann",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "alshawi-crouch-1992-monotonic": {
+        "TITLE": "Monotonic Semantic Interpretation",
+        "AUTHORS": "Alshawi, Hiyan  and Crouch, Richard",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "magerman-weir-1992-efficiency": {
+        "TITLE": "Efficiency, Robustness and Accuracy in picky Chart Parsing",
+        "AUTHORS": "Magerman, David M.  and Weir, Carl",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "mccoy-etal-1992-functional": {
+        "TITLE": "A Functional Approach to Generation with TAG",
+        "AUTHORS": "McCoy, Kathleen F.  and Vijay-Shanker, K.  and Yang, Gijoo",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "bear-etal-1992-integrating": {
+        "TITLE": "Integrating Multiple Knowledge Sources for Detection and Correction of Repairs in Human-Computer Dialog",
+        "AUTHORS": "Bear, John  and Dowding, John  and Shriberg, Elizabeth",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "green-carberry-1992-conversational": {
+        "TITLE": "Conversational Implicatures in Indirect Replies",
+        "AUTHORS": "Green, Nancy  and Carberry, Sandra",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "rogers-vijay-shanker-1992-reasoning": {
+        "TITLE": "Reasoning with Descriptions of Trees",
+        "AUTHORS": "Rogers, James  and Vijay-Shanker, K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "martinovic-strzalkowski-1992-comparing": {
+        "TITLE": "Comparing Two Grammar-Based Generation Algorithms: A Case Study",
+        "AUTHORS": "Martinovic, Miroslav  and Strzalkowski, Tomek",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "satta-1992-recognition": {
+        "TITLE": "Recognition of Linear Context-Free Rewriting Systems",
+        "AUTHORS": "Satta, Giorgio",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "webber-baldwin-1992-accommodating": {
+        "TITLE": "Accommodating Context Change",
+        "AUTHORS": "Webber, Bonnie Lynn  and Baldwin, Breck",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "strzalkowski-vauthey-1992-information": {
+        "TITLE": "Information Retrieval Using Robust Natural Language Processing",
+        "AUTHORS": "Strzalkowski, Tomek  and Vauthey, Barbara",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "rowles-huang-1992-prosodic": {
+        "TITLE": "Prosodic Aids to Syntactic and Semantic Analysis of Spoken English",
+        "AUTHORS": "Rowles, Chris  and Huang, Xiuming",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "di-eugenio-1992-understanding": {
+        "TITLE": "Understanding Natural Language Instructions: The Case of Purpose Clauses",
+        "AUTHORS": "Di Eugenio, Barbara",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "pereira-schabes-1992-inside-outside": {
+        "TITLE": "Inside-Outside Reestimation From Partially Bracketed Corpora",
+        "AUTHORS": "Pereira, Fernando  and Schabes, Yves",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "weir-1992-linear": {
+        "TITLE": "Linear Context-Free Rewriting Systems and Deterministic Tree-Walking Transducers",
+        "AUTHORS": "Weir, David J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "henderson-1992-connectionist": {
+        "TITLE": "A Connectionist Parser for Structure Unification Grammar",
+        "AUTHORS": "Henderson, James B.",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "gutwin-mccalla-1992-lie": {
+        "TITLE": "Would I Lie to You? Modelling Misrepresentation and Context in Dialogue",
+        "AUTHORS": "Gutwin, Carl  and McCalla, Gordon",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "carter-1992-lattice": {
+        "TITLE": "Lattice-Based Word Identification in CLARE",
+        "AUTHORS": "Carter, David M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "schabes-shieber-1992-alternative": {
+        "TITLE": "An Alternative Conception of Tree-Adjoining Derivation",
+        "AUTHORS": "Schabes, Yves  and Shieber, Stuart M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "chang-etal-1992-gpsm": {
+        "TITLE": "GPSM: A Generalized Probabilistic Semantic Model for Ambiguity Resolution",
+        "AUTHORS": "Chang, Jing-Shin  and Luo, Yih-Fen  and Su, Keh-Yih",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "black-etal-1992-development": {
+        "TITLE": "Development and Evaluation of a Broad-Coverage Probabilistic Grammar of English-Language Computer Manuals",
+        "AUTHORS": "Black, Ezra  and Lafferty, John  and Roukos, Salim",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "lambert-carberry-1992-modeling": {
+        "TITLE": "Modeling Negotiation Subdialogues",
+        "AUTHORS": "Lambert, Lynn  and Carberry, Sandra",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "engelkamp-etal-1992-handling": {
+        "TITLE": "Handling Linear Precedence Constraints by Unification",
+        "AUTHORS": "Engelkamp, Judith  and Erbach, Gregor  and Uszkoreit, Hans",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "park-1992-unification": {
+        "TITLE": "A Unification-Based Semantic Interpretation for Coordinate Constructs",
+        "AUTHORS": "Park, Jong C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "cardie-1992-corpus": {
+        "TITLE": "Corpus-Based Acquisition of Relative Pronoun Disambiguation Heuristics",
+        "AUTHORS": "Cardie, Claire",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "kimura-etal-1992-association": {
+        "TITLE": "Association-based Natural Language Processing with Neural Networks",
+        "AUTHORS": "Kimura, Kazuhiro  and Uzuoka, Takashi  and Amano, Sin-ya",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "hwang-schubert-1992-tense": {
+        "TITLE": "Tense Trees as the “Fine Structure” of Discourse",
+        "AUTHORS": "Hwang, Chung Hee  and Schubert, Lenhart K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "latecki-1992-connection": {
+        "TITLE": "Connection Relations and Quantifier Scope",
+        "AUTHORS": "Latecki, Longin",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "gale-etal-1992-estimating": {
+        "TITLE": "Estimating Upper and Lower Bounds on the Performance of Word-Sense Disambiguation Programs",
+        "AUTHORS": "Gale, William  and Church, Kenneth Ward  and Yarowsky, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "dorr-1992-parameterized": {
+        "TITLE": "A Parameterized Approach to Integrating Aspect With Lexical-Semantics for Machine Translation",
+        "AUTHORS": "Dorr, Bonnie J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "reiter-mellish-1992-using": {
+        "TITLE": "Using Classification to Generate Text",
+        "AUTHORS": "Reiter, Ehud  and Mellish, Chris",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "suri-1992-correcting": {
+        "TITLE": "Correcting Illegal NP Omissions Using Local Focus",
+        "AUTHORS": "Suri, Linda Z.",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "hardt-1992-problematic": {
+        "TITLE": "Some Problematic Cases of VP Ellipsis",
+        "AUTHORS": "Hardt, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1036.bib",
+            "SUPP": ""
+        }
+    },
+    "rock-1992-understanding": {
+        "TITLE": "Understanding Repetition in Natural Language Instructions - The Semantics of Extent",
+        "AUTHORS": "Rock, Sheila",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1037.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1037.bib",
+            "SUPP": ""
+        }
+    },
+    "kowtko-1992-intonation": {
+        "TITLE": "On the Intonation of Mono- and Di-Syllabic Words Within the Discourse Framework of Conversational Games",
+        "AUTHORS": "Kowtko, Jacqueline C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1038.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1038.bib",
+            "SUPP": ""
+        }
+    },
+    "niv-1992-right": {
+        "TITLE": "Right Association Revisited",
+        "AUTHORS": "Niv, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1039.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1039.bib",
+            "SUPP": ""
+        }
+    },
+    "merlo-1992-lr": {
+        "TITLE": "An LR Category-Neutral Parser With Left Corner Prediction",
+        "AUTHORS": "Merlo, Paola",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1040.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1040.bib",
+            "SUPP": ""
+        }
+    },
+    "lombardo-1992-incremental": {
+        "TITLE": "Incremental Dependency Parsing",
+        "AUTHORS": "Lombardo, Vincenzo",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1041.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1041.bib",
+            "SUPP": ""
+        }
+    },
+    "lutsky-1992-documentation": {
+        "TITLE": "Documentation Parser to Extract Software Test Conditions",
+        "AUTHORS": "Lutsky, Patricia",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1042.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1042.bib",
+            "SUPP": ""
+        }
+    },
+    "rainbow-1992-linguistic": {
+        "TITLE": "A Linguistic and Computational Analysis of the German “Third Construction”",
+        "AUTHORS": "Rainbow, Owen",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1043.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1043.bib",
+            "SUPP": ""
+        }
+    },
+    "hoffman-1992-ccg": {
+        "TITLE": "A CCG Approach to Free Word Order Languages",
+        "AUTHORS": "Hoffman, Beryl",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1044.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1044.bib",
+            "SUPP": ""
+        }
+    },
+    "villadsen-1992-information": {
+        "TITLE": "Information States as First Class Citizens",
+        "AUTHORS": "Villadsen, Jorgen",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1045.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1045.bib",
+            "SUPP": ""
+        }
+    },
+    "trujillo-1992-spatial": {
+        "TITLE": "Spatial Lexicalization in the Translation of Prepositional Phrases",
+        "AUTHORS": "Trujillo, Arturo",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1046.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1046.bib",
+            "SUPP": ""
+        }
+    },
+    "kamei-wakao-1992-metonymy": {
+        "TITLE": "Metonymy: Reassessment, Survey of Acceptability, and Its Treatment in a Machine Translation System",
+        "AUTHORS": "Kamei, Shin-ichiro  and Wakao, Takahiro",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1047.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1047.bib",
+            "SUPP": ""
+        }
+    },
+    "green-1992-basis": {
+        "TITLE": "A Basis for a Formalization of Linguistic Style",
+        "AUTHORS": "Green, Stephen J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1048.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1048.bib",
+            "SUPP": ""
+        }
+    },
+    "mittal-1992-elaboration": {
+        "TITLE": "Elaboration in Object Descriptions Through Examples",
+        "AUTHORS": "Mittal, Vibhu O.",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1049.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1049.bib",
+            "SUPP": ""
+        }
+    },
+    "vander-linden-1992-expression": {
+        "TITLE": "The Expression of Local Rhetorical Relations in Instructional Text",
+        "AUTHORS": "Vander Linden, Keith",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1050.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1050.bib",
+            "SUPP": ""
+        }
+    },
+    "jones-1992-generating": {
+        "TITLE": "Generating a Specific Class of Metaphors",
+        "AUTHORS": "Jones, Mark Alan",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1051.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1051.bib",
+            "SUPP": ""
+        }
+    },
+    "grefenstette-1992-sextant": {
+        "TITLE": "SEXTANT: Exploring Unexplored Contexts for Semantic Extraction From Syntactic Analysis",
+        "AUTHORS": "Grefenstette, Gregory",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1052.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1052.bib",
+            "SUPP": ""
+        }
+    },
+    "resnik-1992-class": {
+        "TITLE": "A Class-Based Approach to Lexical Discovery",
+        "AUTHORS": "Resnik, Philip",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1053.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1053.bib",
+            "SUPP": ""
+        }
+    },
+    "krovetz-1992-sense": {
+        "TITLE": "Sense-Linking in a Machine Readable Dictionary",
+        "AUTHORS": "Krovetz, Robert",
+        "ABSTRACT": "",
+        "CONFERENCE": "30th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P92-1054.pdf",
+            "BIBTEX": "https://aclanthology.org/P92-1054.bib",
+            "SUPP": ""
+        }
+    }
+}

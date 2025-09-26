@@ -1,0 +1,509 @@
+{
+    "vijay-shanker-weir-1990-polynomial": {
+        "TITLE": "Polynomial Time Parsing of Combinatory Categorial Grammars",
+        "AUTHORS": "Vijay-Shanker, K.  and Weir, David J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "steedman-1990-structure": {
+        "TITLE": "Structure and Intonation in Spoken Language Understanding",
+        "AUTHORS": "Steedman, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "bear-price-1990-prosody": {
+        "TITLE": "Prosody, Syntax and Parsing",
+        "AUTHORS": "Bear, John  and Price, Patti",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "whittemore-etal-1990-empirical": {
+        "TITLE": "Empirical Study of Predictive Powers of Simple Attachment Schemes for Post-modifier Prepositional Phrases",
+        "AUTHORS": "Whittemore, Greg  and Ferrara, Kathleen  and Brunner, Hans",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "maruyama-1990-structural": {
+        "TITLE": "Structural Disambiguation With Constraint Propagation",
+        "AUTHORS": "Maruyama, Hiroshi",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "gibson-1990-memory": {
+        "TITLE": "Memory Capacity and Sentence Processing",
+        "AUTHORS": "Gibson, Edward",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "rim-etal-1990-transforming": {
+        "TITLE": "Transforming Syntactic Graphs Into Semantic Graphs",
+        "AUTHORS": "Rim, Hae-Chang  and Simmons, Robert F.  and Seo, Jungyun",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "lyons-1990-compositional": {
+        "TITLE": "A Compositional Semantics for Focusing Subjuncts",
+        "AUTHORS": "Lyons, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "harper-1990-designer": {
+        "TITLE": "Designer Definites in Logical Form",
+        "AUTHORS": "Harper, Mary P.",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "walker-whittaker-1990-mixed": {
+        "TITLE": "Mixed Initiative in Dialogue: An Investigation into Discourse Segmentation",
+        "AUTHORS": "Walker, Marilyn  and Whittaker, Steve",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "cohen-levesque-1990-performatives": {
+        "TITLE": "Performatives in a Rationally Based Speech Act Theory",
+        "AUTHORS": "Cohen, Philip R.  and Levesque, Hector J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "green-1990-normal": {
+        "TITLE": "Normal State Implicature",
+        "AUTHORS": "Green, Nancy L.",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "reiter-1990-computational": {
+        "TITLE": "The Computational Complexity of Avoiding Conversational Implicatures",
+        "AUTHORS": "Reiter, Ehud",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "fong-1990-free": {
+        "TITLE": "Free Indexation: Combinatorial Analysis and A Compositional Algorithm",
+        "AUTHORS": "Fong, Sandiway",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "frank-1990-licensing": {
+        "TITLE": "Licensing and Tree Adjoining Grammar in Government Binding Parsing",
+        "AUTHORS": "Frank, Robert",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "brent-1990-simplified": {
+        "TITLE": "A Simplified Theory of Tense Representations and Constraints on Their Composition",
+        "AUTHORS": "Brent, Michael R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "dorr-1990-solving": {
+        "TITLE": "Solving Thematic Divergences in Machine Translation",
+        "AUTHORS": "Dorr, Bonnie",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "lappin-mccord-1990-syntactic": {
+        "TITLE": "A Syntactic Filter on Pronominal Anaphora for Slot Grammar",
+        "AUTHORS": "Lappin, Shalom  and McCord, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "siskind-1990-acquiring": {
+        "TITLE": "Acquiring Core Meanings of Words, Represented as Jackendoff-Style Conceptual Structures, From Correlated Streams of Linguistic and Non-Linguistic Input",
+        "AUTHORS": "Siskind, Jeffrey Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "elhadad-1990-types": {
+        "TITLE": "Types in Functional Unification Grammars",
+        "AUTHORS": "Elhadad, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "bouma-1990-defaults": {
+        "TITLE": "Defaults in Unification Grammar",
+        "AUTHORS": "Bouma, Gosse",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "johnson-1990-expressing": {
+        "TITLE": "Expressing Disjunctive and Negative Feature Constraints With Classical First-Order Logic.",
+        "AUTHORS": "Johnson, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "godden-1990-lazy": {
+        "TITLE": "Lazy Unification",
+        "AUTHORS": "Godden, Kurt",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "aone-wittenburg-1990-zero": {
+        "TITLE": "Zero Morphemes in Unification-Based Combinatory Categorial Grammar",
+        "AUTHORS": "Aone, Chinatsu  and Wittenburg, Kent",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "ingria-1990-limits": {
+        "TITLE": "The Limits of Unification",
+        "AUTHORS": "Ingria, Robert J. P.",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "russell-etal-1990-asymmetry": {
+        "TITLE": "Asymmetry in Parsing and Generating with Unification Grammars: Case Studies From ELU",
+        "AUTHORS": "Russell, Graham  and Carroll, John  and Warwick, Susan",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "strzalkowski-peng-1990-automated": {
+        "TITLE": "Automated Inversion of Logic Grammars for Generation",
+        "AUTHORS": "Strzalkowski, Tomek  and Peng, Ping",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "van-der-linden-minnen-1990-algorithms": {
+        "TITLE": "Algorithms for Generation in Lambek Theorem Proving",
+        "AUTHORS": "van der Linden, Erik-Jan  and Minnen, Guido",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "bobrow-etal-1990-multiple": {
+        "TITLE": "Multiple Underlying Systems: Translating User Requests into Programs to Produce Answers",
+        "AUTHORS": "Bobrow, Robert J.  and Resnik, Philip  and Weischedel, Ralph M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "ristad-1990-computational": {
+        "TITLE": "Computational structure of generative phonology and its relation to language comprehension.",
+        "AUTHORS": "Ristad, Eric Sven",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "de-marcken-1990-parsing": {
+        "TITLE": "Parsing the LOB Corpus",
+        "AUTHORS": "de Marcken, Carl G.",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "smadja-mckeown-1990-automatically": {
+        "TITLE": "Automatically Extracting and Representing Collocations for Language Generation",
+        "AUTHORS": "Smadja, Frank A.  and McKeown, Kathleen R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "ravin-1990-disamibiguating": {
+        "TITLE": "Disamibiguating and Interpreting Verb Definitions",
+        "AUTHORS": "Ravin, Yael",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "hindle-1990-noun": {
+        "TITLE": "Noun Classification From Predicate-Argument Structures",
+        "AUTHORS": "Hindle, Donald",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "schabes-vijay-shanker-1990-deterministic": {
+        "TITLE": "Deterministic Left to Right Parsing of Tree Adjoining Languages",
+        "AUTHORS": "Schabes, Yves  and Vijay-Shanker, K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "harbusch-1990-efficient": {
+        "TITLE": "An Efficient Parsing Algorithm for Tree Adjoining Grammars",
+        "AUTHORS": "Harbusch, Karin",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1036.bib",
+            "SUPP": ""
+        }
+    },
+    "abeille-1990-lexical": {
+        "TITLE": "Lexical and Syntactic Rules in a Tree Adjoining Grammar",
+        "AUTHORS": "Abeille, Anne",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1037.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1037.bib",
+            "SUPP": ""
+        }
+    },
+    "marino-1990-bottom": {
+        "TITLE": "Bottom-Up Parsing Extending Context-Freeness in a Process Grammar Processor",
+        "AUTHORS": "Marino, Massimo",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1038.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1038.bib",
+            "SUPP": ""
+        }
+    },
+    "fukushima-etal-1990-hardware": {
+        "TITLE": "A Hardware Algorithm for High Speed Morpheme Extraction and Its Implementation",
+        "AUTHORS": "Fukushima, Toshikazu  and Ohyama, Yutaka  and Miyai, Hitoshi",
+        "ABSTRACT": "",
+        "CONFERENCE": "28th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P90-1039.pdf",
+            "BIBTEX": "https://aclanthology.org/P90-1039.bib",
+            "SUPP": ""
+        }
+    }
+}

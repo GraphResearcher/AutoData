@@ -1,0 +1,951 @@
+{
+    "gotz-meurers-1997-interleaving": {
+        "TITLE": "Interleaving Universal Principles and Relational Constraints over Typed Feature Logic",
+        "AUTHORS": "Gotz, Thilo  and Meurers, Detmar",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "lee-1997-fast": {
+        "TITLE": "Fast Context-Free Parsing Requires Fast Boolean Matrix Multiplication",
+        "AUTHORS": "Lee, Lillian",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "collins-1997-three": {
+        "TITLE": "Three Generative, Lexicalised Models for Statistical Parsing",
+        "AUTHORS": "Collins, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "jacquemin-etal-1997-expansion": {
+        "TITLE": "Expansion of Multi-Word Terms for Indexing and Retrieval Using Morphology and Syntax",
+        "AUTHORS": "Jacquemin, Christian  and Klavans, Judith L.  and Tzoukermann, Evelyne",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "kessler-etal-1997-automatic": {
+        "TITLE": "Automatic Detection of Text Genre",
+        "AUTHORS": "Kessler, Brett  and Nunberg, Geoffrey  and Schutze, Hinrich",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "li-yamanishi-1997-document": {
+        "TITLE": "Document Classification Using a Finite Mixture Model",
+        "AUTHORS": "Li, Hang  and Yamanishi, Kenji",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "rigau-etal-1997-combining": {
+        "TITLE": "Combining Unsupervised Lexical Knowledge Methods for Word Sense Disambiguation",
+        "AUTHORS": "Rigau, German  and Atserias, Jordi  and Agirre, Eneko",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "dagan-etal-1997-similarity": {
+        "TITLE": "Similarity-Based Methods for Word Sense Disambiguation",
+        "AUTHORS": "Dagan, Ido  and Lee, Lillian  and Pereira, Fernando",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "lin-1997-using": {
+        "TITLE": "Using Syntactic Dependency as Local Context to Resolve Word Sense Ambiguity",
+        "AUTHORS": "Lin, Dekang",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "krovetz-1997-homonymy": {
+        "TITLE": "Homonymy and Polysemy in Information Retrieval",
+        "AUTHORS": "Krovetz, Robert",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "di-eugenio-etal-1997-learning": {
+        "TITLE": "Learning Features that Predict Cue Usage",
+        "AUTHORS": "Di Eugenio, Barbara  and Moore, Johanna D.  and Paolucci, Massimo",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "cristea-webber-1997-expectations": {
+        "TITLE": "Expectations in Incremental Discourse Processing",
+        "AUTHORS": "Cristea, Dan  and Webber, Bonnie",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "marcu-1997-rhetorical": {
+        "TITLE": "The Rhetorical Parsing of Unrestricted Natural Language Texts",
+        "AUTHORS": "Marcu, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "hahn-strube-1997-centering": {
+        "TITLE": "Centering in-the-Large: Computing Referential Discourse Segments",
+        "AUTHORS": "Hahn, Udo  and Strube, Michael",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "volk-1997-probing": {
+        "TITLE": "Probing the Lexicon in Evaluating Commercial MT Systems",
+        "AUTHORS": "Volk, Martin",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "lee-etal-1997-ambiguity": {
+        "TITLE": "Ambiguity Resolution for Machine Translation of Telegraphic Messages",
+        "AUTHORS": "Lee, Young-Suk  and Weinstein, Clifford  and Seneff, Stephanie  and Tummala, Dinesh",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "knight-graehl-1997-machine": {
+        "TITLE": "Machine Transliteration",
+        "AUTHORS": "Knight, Kevin  and Graehl, Jonathan",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "copestake-lascarides-1997-intergrating": {
+        "TITLE": "Intergrating Symbolic and Statistical Representations: The Lexicon Pragmatics Interface",
+        "AUTHORS": "Copestake, Ann  and Lascarides, Alex",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "fry-1997-negative": {
+        "TITLE": "Negative Polarity Licensing at the Syntax-Semantics Interface",
+        "AUTHORS": "Fry, John",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "dorr-olsen-1997-deriving": {
+        "TITLE": "Deriving Verbal and Compositonal Lexical Aspect for NLP Applications",
+        "AUTHORS": "Dorr, Bonnie J.  and Olsen, Mari Broman",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "bonnema-etal-1997-dop": {
+        "TITLE": "A DOP Model for Semantic Interpretation",
+        "AUTHORS": "Bonnema, Remko  and Bod, Rens  and Scha, Remko",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "della-pietra-etal-1997-fertility": {
+        "TITLE": "Fertility Models for Statistical Natural Language Understanding",
+        "AUTHORS": "Della Pietra, Stephen  and Epstein, Mark  and Roukos, Salim  and Ward, Todd",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "hatzivassiloglou-mckeown-1997-predicting": {
+        "TITLE": "Predicting the Semantic Orientation of Adjectives",
+        "AUTHORS": "Hatzivassiloglou, Vasileios  and McKeown, Kathleen R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "franz-1997-independence": {
+        "TITLE": "Independence Assumptions Considered Harmful",
+        "AUTHORS": "Franz, Alexander",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "huang-1997-planning": {
+        "TITLE": "Planning Reference Choices for Argumentative Teas",
+        "AUTHORS": "Huang, Xiaorong",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "stone-doran-1997-sentence": {
+        "TITLE": "Sentence Planning as Description Using Tree Adjoining Grammar",
+        "AUTHORS": "Stone, Matthew  and Doran, Christine",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "horacek-1997-algorithm": {
+        "TITLE": "An Algorithm for Generating Referential Descriptions with Flexible Interfaces",
+        "AUTHORS": "Horacek, Helmut",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "neumann-1997-applying": {
+        "TITLE": "Applying Explanation-based Learning to Control and Speeding-up Natural Language Generation",
+        "AUTHORS": "Neumann, Gunter",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "oflazer-tur-1997-morphological": {
+        "TITLE": "Morphological Disambiguation by Voting Constraints",
+        "AUTHORS": "Oflazer, Kemal  and Tur, Gokhan",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "haruno-matsumoto-1997-mistake": {
+        "TITLE": "Mistake-Driven Mixture of Hierarchical Tag Context Trees",
+        "AUTHORS": "Haruno, Masahiko  and Matsumoto, Yuji",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "marquez-padro-1997-flexible": {
+        "TITLE": "A Flexible POS Tagger Using an Automatically Acquired Language Model",
+        "AUTHORS": "Marquez, Lluis  and Padro, Lluis",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "samuelsson-voutilainen-1997-comparing": {
+        "TITLE": "Comparing a Linguistic and a Stochastic Tagger",
+        "AUTHORS": "Samuelsson, Christer  and Voutilainen, Atro",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "heeman-allen-1997-intonational": {
+        "TITLE": "Intonational Boundaries, Speech Repairs, and Discourse Markers: Modeling Spoken Dialog",
+        "AUTHORS": "Heeman, Peter A.  and Allen, James F.",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "chu-carroll-brown-1997-tracking": {
+        "TITLE": "Tracking Initiative in Collaborative Dialogue Interactions",
+        "AUTHORS": "Chu-Carroll, Jennifer  and Brown, Michael K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "walker-etal-1997-paradise": {
+        "TITLE": "PARADISE: A Framework for Evaluating Spoken Dialogue Agents",
+        "AUTHORS": "Walker, Marilyn A.  and Litman, Diane J.  and Kamm, Candace A.  and Abella, Alicia",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "johnston-etal-1997-unification": {
+        "TITLE": "Unification-based Multimodal Integration",
+        "AUTHORS": "Johnston, Michael  and Cohen, Philip R.  and McGee, David  and Oviatt, Sharon L.  and Pittman, James A.  and Smith, Ira",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1036.bib",
+            "SUPP": ""
+        }
+    },
+    "tillmann-etal-1997-dp": {
+        "TITLE": "A DP-based Search Using Monotone Alignments in Statistical Translation",
+        "AUTHORS": "Tillmann, Christoph  and Vogel, Stephan  and Ney, Hermann  and Zubiaga, Alex",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1037.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1037.bib",
+            "SUPP": ""
+        }
+    },
+    "chang-chen-1997-alignment": {
+        "TITLE": "An Alignment Method for Noisy Parallel Corpora based on Image Processing Techniques",
+        "AUTHORS": "Chang, Jason S.  and Chen, Mathis H.",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1038.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1038.bib",
+            "SUPP": ""
+        }
+    },
+    "melamed-1997-portable": {
+        "TITLE": "A Portable Algorithm for Mapping Bitext Correspondence",
+        "AUTHORS": "Melamed, I. Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1039.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1039.bib",
+            "SUPP": ""
+        }
+    },
+    "eisner-1997-efficient": {
+        "TITLE": "Efficient Generation in Primitive Optimality Theory",
+        "AUTHORS": "Eisner, Jason",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1040.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1040.bib",
+            "SUPP": ""
+        }
+    },
+    "palmer-1997-trainable": {
+        "TITLE": "A Trainable Rule-Based Algorithm for Word Segmentation",
+        "AUTHORS": "Palmer, David D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1041.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1041.bib",
+            "SUPP": ""
+        }
+    },
+    "kiraz-1997-compiling": {
+        "TITLE": "Compiling Regular Formalisms with Rule Features into Finite-State Automata",
+        "AUTHORS": "Kiraz, George Anton",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1042.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1042.bib",
+            "SUPP": ""
+        }
+    },
+    "neuhaus-broker-1997-complexity": {
+        "TITLE": "The Complexity of Recognition of Linguistically Adequate Dependency Grammars",
+        "AUTHORS": "Neuhaus, Peter  and Broker, Norbert",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1043.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1043.bib",
+            "SUPP": ""
+        }
+    },
+    "hepple-1997-maximal": {
+        "TITLE": "Maximal Incrementality in Linear Categorial Deduction",
+        "AUTHORS": "Hepple, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1044.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1044.bib",
+            "SUPP": ""
+        }
+    },
+    "oishi-matsumoto-1997-automatic": {
+        "TITLE": "Automatic Extraction of Aspectual Information from a Monolingual Corpus",
+        "AUTHORS": "Oishi, Akira  and Matsumoto, Yuji",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1045.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1045.bib",
+            "SUPP": ""
+        }
+    },
+    "alshawi-etal-1997-comparison": {
+        "TITLE": "A Comparison of Head Transducers and Transfer for a Limited Domain Translation Application",
+        "AUTHORS": "Alshawi, Hiyan  and Buchsbaum, Adam L.  and Xia, Fei",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1046.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1046.bib",
+            "SUPP": ""
+        }
+    },
+    "wang-waibel-1997-decoding": {
+        "TITLE": "Decoding Algorithm in Statistical Machine Translation",
+        "AUTHORS": "Wang, Ye-Yi  and Waibel, Alex",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1047.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1047.bib",
+            "SUPP": ""
+        }
+    },
+    "beeferman-etal-1997-model": {
+        "TITLE": "A Model of Lexical Attraction and Repulsion",
+        "AUTHORS": "Beeferman, Doug  and Berger, Adam  and Lafferty, John",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1048.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1048.bib",
+            "SUPP": ""
+        }
+    },
+    "ristad-thomas-1997-hierarchical": {
+        "TITLE": "Hierarchical Non-Emitting Markov Models",
+        "AUTHORS": "Ristad, Eric Sven  and Thomas, Robert G.",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1049.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1049.bib",
+            "SUPP": ""
+        }
+    },
+    "dorre-1997-efficient": {
+        "TITLE": "Efficient Construction of Underspecified Semantics under Massive Ambiguity",
+        "AUTHORS": "Dörre, Jochen",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1050.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1050.bib",
+            "SUPP": ""
+        }
+    },
+    "hobbs-kehler-1997-theory": {
+        "TITLE": "A Theory of Parallelism and the Case of VP Ellipsis",
+        "AUTHORS": "Hobbs, Jerry R.  and Kehler, Andrew",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1051.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1051.bib",
+            "SUPP": ""
+        }
+    },
+    "van-genabith-crouch-1997-interpreting": {
+        "TITLE": "On Interpreting F-Structures as UDRSs",
+        "AUTHORS": "van Genabith, Josef  and Crouch, Richard",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1052.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1052.bib",
+            "SUPP": ""
+        }
+    },
+    "niehren-etal-1997-uniform": {
+        "TITLE": "A Uniform Approach to Underspecification and Parallelism",
+        "AUTHORS": "Niehren, Joachim  and Pinkal, Manfred  and Ruhrberg, Peter",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1053.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1053.bib",
+            "SUPP": ""
+        }
+    },
+    "briscoe-1997-co": {
+        "TITLE": "Co-Evolution of Language and of the Language Acquisition Device",
+        "AUTHORS": "Briscoe, Ted",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1054.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1054.bib",
+            "SUPP": ""
+        }
+    },
+    "yvon-1997-paradigmatic": {
+        "TITLE": "Paradigmatic Cascades: A Linguistically Sound Model of Pronunciation by Analogy",
+        "AUTHORS": "Yvon, François",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1055.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1055.bib",
+            "SUPP": ""
+        }
+    },
+    "zavrel-daelemans-1997-memory": {
+        "TITLE": "Memory-Based Learning: Using Similarity for Smoothing",
+        "AUTHORS": "Zavrel, Jakub  and Daelemans, Walter",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1056.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1056.bib",
+            "SUPP": ""
+        }
+    },
+    "satta-henderson-1997-string": {
+        "TITLE": "String Transformation Learning",
+        "AUTHORS": "Satta, Giorgio  and Henderson, John C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1057.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1057.bib",
+            "SUPP": ""
+        }
+    },
+    "evans-1997-approximating": {
+        "TITLE": "Approximating Context-Free Grammars with a Finite-State Calculus",
+        "AUTHORS": "Evans, Edmund Grimley",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1058.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1058.bib",
+            "SUPP": ""
+        }
+    },
+    "kempe-1997-finite": {
+        "TITLE": "Finite State Transducers Approximating Hidden Markov Models",
+        "AUTHORS": "Kempe, Andre",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1059.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1059.bib",
+            "SUPP": ""
+        }
+    },
+    "morawietz-cornell-1997-representing": {
+        "TITLE": "Representing Constraints with Automata",
+        "AUTHORS": "Morawietz, Frank  and Cornell, Tom",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1060.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1060.bib",
+            "SUPP": ""
+        }
+    },
+    "shimohata-etal-1997-retrieving": {
+        "TITLE": "Retrieving Collocations by Co-Occurrences and Word Order Constraints",
+        "AUTHORS": "Shimohata, Sayori  and Sugio, Toshiyuki  and Nagata, Junji",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1061.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1061.bib",
+            "SUPP": ""
+        }
+    },
+    "hermjakob-mooney-1997-learning": {
+        "TITLE": "Learning Parse and Translation Decisions from Examples with Rich Context",
+        "AUTHORS": "Hermjakob, Ulf  and Mooney, Raymond J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1062.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1062.bib",
+            "SUPP": ""
+        }
+    },
+    "melamed-1997-word": {
+        "TITLE": "A Word-to-Word Model of Translational Equivalence",
+        "AUTHORS": "Melamed, I. Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1063.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1063.bib",
+            "SUPP": ""
+        }
+    },
+    "chelba-1997-structured": {
+        "TITLE": "A Structured Language Model",
+        "AUTHORS": "Chelba, Ciprian",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1064.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1064.bib",
+            "SUPP": ""
+        }
+    },
+    "frantzi-1997-incorporating": {
+        "TITLE": "Incorporating Context Information for the Extraction of Terms",
+        "AUTHORS": "Frantzi, Katerina T.",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1065.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1065.bib",
+            "SUPP": ""
+        }
+    },
+    "assadi-1997-knowledge": {
+        "TITLE": "Knowledge Acquisition from Texts: Using an Automatic Clustering Method Based on Noun-Modifier Relationship",
+        "AUTHORS": "Assadi, Houssem",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1066.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1066.bib",
+            "SUPP": ""
+        }
+    },
+    "edmonds-1997-choosing": {
+        "TITLE": "Choosing the Word Most Typical in Context Using a Lexical Co-occurrence Network",
+        "AUTHORS": "Edmonds, Philip",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1067.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1067.bib",
+            "SUPP": ""
+        }
+    },
+    "taboada-1997-improving": {
+        "TITLE": "Improving Translation through Contextual Information",
+        "AUTHORS": "Taboada, Maite",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1068.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1068.bib",
+            "SUPP": ""
+        }
+    },
+    "komagata-1997-generative": {
+        "TITLE": "Generative Power of CCGs with Generalized Type-Raised Categories",
+        "AUTHORS": "Komagata, Nobo",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1069.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1069.bib",
+            "SUPP": ""
+        }
+    },
+    "dras-1997-representing": {
+        "TITLE": "Representing Paraphrases Using Synchronous TAGs",
+        "AUTHORS": "Dras, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1070.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1070.bib",
+            "SUPP": ""
+        }
+    },
+    "theune-1997-contrastive": {
+        "TITLE": "Contrastive accent in a data-to-speech system",
+        "AUTHORS": "Theune, Mariet",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1071.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1071.bib",
+            "SUPP": ""
+        }
+    },
+    "vieira-teufel-1997-towards": {
+        "TITLE": "Towards resolution of bridging descriptions",
+        "AUTHORS": "Vieira, Renata  and Teufel, Simone",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1072.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1072.bib",
+            "SUPP": ""
+        }
+    },
+    "wolters-1997-compositional": {
+        "TITLE": "Compositional Semantics of German Prefix Verbs",
+        "AUTHORS": "Wolters, Maria",
+        "ABSTRACT": "",
+        "CONFERENCE": "35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P97-1073.pdf",
+            "BIBTEX": "https://aclanthology.org/P97-1073.bib",
+            "SUPP": ""
+        }
+    }
+}

@@ -1,0 +1,353 @@
+{
+    "brill-2000-pattern": {
+        "TITLE": "Pattern-Based Disambiguation for Natural Language Processing",
+        "AUTHORS": "Brill, Eric",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1301.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1301.bib",
+            "SUPP": ""
+        }
+    },
+    "teufel-moens-2000-whats": {
+        "TITLE": "What`s Yours and What`s Mine: Determining Intellectual Attribution in Scientific Text",
+        "AUTHORS": "Teufel, Simone  and Moens, Marc",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1302.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1302.bib",
+            "SUPP": ""
+        }
+    },
+    "kudo-matsumoto-2000-japanese": {
+        "TITLE": "Japanese Dependency Structure Analysis Based on Support Vector Machines",
+        "AUTHORS": "Kudo, Taku  and Matsumoto, Yuji",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1303.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1303.bib",
+            "SUPP": ""
+        }
+    },
+    "florian-etal-2000-coaxing": {
+        "TITLE": "Coaxing Confidences from an Old Freind: Probabilistic Classifications from Transformation Rule Lists",
+        "AUTHORS": "Florian, Radu  and Henderson, John C.  and Ngai, Grace",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1304.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1304.bib",
+            "SUPP": ""
+        }
+    },
+    "li-yamanishi-2000-topic": {
+        "TITLE": "Topic Analysis Using a Finite Mixture Model",
+        "AUTHORS": "Li, Hang  and Yamanishi, Kenji",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1305.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1305.bib",
+            "SUPP": ""
+        }
+    },
+    "hwa-2000-sample": {
+        "TITLE": "Sample Selection for Statistical Grammar Induction",
+        "AUTHORS": "Hwa, Rebecca",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1306.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1306.bib",
+            "SUPP": ""
+        }
+    },
+    "xia-etal-2000-uniform": {
+        "TITLE": "A Uniform Method of Grammar Extraction and Its Applications",
+        "AUTHORS": "Xia, Fei  and Palmer, Martha  and Joshi, Aravind",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1307.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1307.bib",
+            "SUPP": ""
+        }
+    },
+    "toutanvoa-manning-2000-enriching": {
+        "TITLE": "Enriching the Knowledge Sources Used in a Maximum Entropy Part-of-Speech Tagger",
+        "AUTHORS": "Toutanvoa, Kristina  and Manning, Christopher D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1308.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1308.bib",
+            "SUPP": ""
+        }
+    },
+    "zhou-su-2000-error": {
+        "TITLE": "Error-driven HMM-based Chunk Tagger with Context-dependent Lexicon",
+        "AUTHORS": "Zhou, GuoDong  and Su, Jian",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1309.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1309.bib",
+            "SUPP": ""
+        }
+    },
+    "kurohashi-ori-2000-nonlocal": {
+        "TITLE": "Nonlocal Language Modeling based on Context Co-occurrence Vectors",
+        "AUTHORS": "Kurohashi, Sadao  and Ori, Manabu",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1310.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1310.bib",
+            "SUPP": ""
+        }
+    },
+    "hung-etal-2000-detection": {
+        "TITLE": "Detection of Language (Model) Errors",
+        "AUTHORS": "Hung, K.Y.  and Luk, R.W.P.  and Yeung, D.  and Chung, K.F.L.  and Shu, W.",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1311.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1311.bib",
+            "SUPP": ""
+        }
+    },
+    "xu-weischedel-2000-cross": {
+        "TITLE": "Cross-lingual Information Retrieval Using Hidden Markov Models",
+        "AUTHORS": "Xu, Jinxi  and Weischedel, Ralph",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1312.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1312.bib",
+            "SUPP": ""
+        }
+    },
+    "zhang-etal-2000-query": {
+        "TITLE": "Query Translation in Chinese-English Cross-Language Information Retrieval",
+        "AUTHORS": "Zhang, Yibo  and Sun, Le  and Du, Lin  and Sun, Yufang",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1313.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1313.bib",
+            "SUPP": ""
+        }
+    },
+    "sun-etal-2000-word": {
+        "TITLE": "Word Alignment of English-Chinese Bilingual Corpus Based on Chucks",
+        "AUTHORS": "Sun, Le  and Jin, Youbing  and Du, Lin  and Sun, Yufang",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1314.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1314.bib",
+            "SUPP": ""
+        }
+    },
+    "umemura-church-2000-empirical": {
+        "TITLE": "Empirical Term Weighting and Expansion Frequency",
+        "AUTHORS": "Umemura, Kyoji  and Church, Kenneth W.",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1315.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1315.bib",
+            "SUPP": ""
+        }
+    },
+    "ng-etal-2000-machine": {
+        "TITLE": "A Machine Learning Approach to Answering Questions for Reading Comprehension Tests",
+        "AUTHORS": "Ng, Hwee Tou  and Teo, Leong Hwee  and Kwan, Jennifer Lai Pheng",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1316.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1316.bib",
+            "SUPP": ""
+        }
+    },
+    "tang-mooney-2000-automated": {
+        "TITLE": "Automated Construction of Database Interfaces: Intergrating Statistical and Relational Learning for Semantic Parsing",
+        "AUTHORS": "Tang, Lappoon R.  and Mooney, Raymond J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1317.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1317.bib",
+            "SUPP": ""
+        }
+    },
+    "bikel-2000-automatic": {
+        "TITLE": "Automatic WordNet Mapping Using Word Sense Disambiguation",
+        "AUTHORS": "Bikel, Daniel M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1318.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1318.bib",
+            "SUPP": ""
+        }
+    },
+    "zhou-liu-2000-real": {
+        "TITLE": "A Real-time Integration Of Concept-based Search and Summarization of Chinese Websites",
+        "AUTHORS": "Zhou, Joe F.  and Liu, Weiquan",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1319.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1319.bib",
+            "SUPP": ""
+        }
+    },
+    "bikel-2000-statistical": {
+        "TITLE": "A Statistical Model for Parsing and Word-Sense Disambiguation",
+        "AUTHORS": "Bikel, Daniel M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1320.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1320.bib",
+            "SUPP": ""
+        }
+    },
+    "kim-etal-2000-reducing": {
+        "TITLE": "Reducing Parsing Complexity by Intra-Sentence Segmentation based on Maximum Entropy Model",
+        "AUTHORS": "Kim, Sung Dong  and Zhang, Byoung-Tak  and Kim, Yung Taek",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1321.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1321.bib",
+            "SUPP": ""
+        }
+    },
+    "escudero-etal-2000-empirical": {
+        "TITLE": "An Empirical Study of the Domain Dependence of Supervised Word Disambiguation Systems",
+        "AUTHORS": "Escudero, Gerard  and Marquez, Lluis  and Rigau, German",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1322.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1322.bib",
+            "SUPP": ""
+        }
+    },
+    "jacquemin-bush-2000-combining": {
+        "TITLE": "Combining Lexical and Formatting Cues for Named Entity Acquisition from the Web",
+        "AUTHORS": "Jacquemin, Christian  and Bush, Caroline",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1323.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1323.bib",
+            "SUPP": ""
+        }
+    },
+    "kallmeyer-2000-query": {
+        "TITLE": "A Query Tool for Syntactically Frame Acquisition",
+        "AUTHORS": "Kallmeyer, Laura",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1324.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1324.bib",
+            "SUPP": ""
+        }
+    },
+    "korhonen-etal-2000-statistical": {
+        "TITLE": "Statistical Filtering and Subcategorization Frame Acquisition",
+        "AUTHORS": "Korhonen, Anna  and Gorrell, Genevieve  and McCarthy, Diana",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1325.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1325.bib",
+            "SUPP": ""
+        }
+    },
+    "martinez-agirre-2000-one": {
+        "TITLE": "One Sense per Collocation and Genre/Topic Variations",
+        "AUTHORS": "Martinez, David  and Agirre, Eneko",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1326.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1326.bib",
+            "SUPP": ""
+        }
+    },
+    "korhonen-2000-using": {
+        "TITLE": "Using Semantically Motivated Estimates to Help Subcategorization Acquisition",
+        "AUTHORS": "Korhonen, Anna",
+        "ABSTRACT": "",
+        "CONFERENCE": "2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W00-1327.pdf",
+            "BIBTEX": "https://aclanthology.org/W00-1327.bib",
+            "SUPP": ""
+        }
+    }
+}

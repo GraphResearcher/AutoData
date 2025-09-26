@@ -1,0 +1,509 @@
+{
+    "rosenschein-shieber-1982-translating": {
+        "TITLE": "Translating English Into Logical Form",
+        "AUTHORS": "Rosenschein, Stanley J.  and Shieber, Stuart M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "smith-1982-linguistic": {
+        "TITLE": "Linguistic and Computational Semantics",
+        "AUTHORS": "Smith, Brian Cantwell",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "moran-1982-representation": {
+        "TITLE": "The Representation of Inconsistent Information in a Dynamic Model-Theoretic Semantics",
+        "AUTHORS": "Moran, Douglas B.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "allen-frisch-1982-whats": {
+        "TITLE": "What`s in a Semantic Network?",
+        "AUTHORS": "Allen, James F.  and Frisch, Alan M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "cohen-etal-1982-dependencies": {
+        "TITLE": "Dependencies of Discourse Structure on the Modality of Communication: Telephone vs. Teletype",
+        "AUTHORS": "Cohen, Philip R.  and Fertig, Scott  and Starr, Kathy",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "gomez-1982-towards": {
+        "TITLE": "Towards a Theory of Comprehension of Declarative Contexts",
+        "AUTHORS": "Gomez, Fernando",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "moore-1982-natural": {
+        "TITLE": "Natural-Language Access to Databases--Theoretical/Technical Issues",
+        "AUTHORS": "Moore, Robert C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "grosz-1982-transportable": {
+        "TITLE": "Transportable Natural-Language Interfaces: Problems and Techniques",
+        "AUTHORS": "Grosz, Barbara J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "petrick-1982-theoretical": {
+        "TITLE": "Theoretical/Technical Issues in Natural Language Access to Databases",
+        "AUTHORS": "Petrick, S. R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "scha-1982-english": {
+        "TITLE": "English Words and Data Bases: How to Bridge the Gap",
+        "AUTHORS": "Scha, Remko J. H.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "shwartz-1982-problems": {
+        "TITLE": "Problems With Domain-Independent Natural Language Database Access Systems",
+        "AUTHORS": "Shwartz, Steven P.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "warren-1982-issues": {
+        "TITLE": "Issues in Natural Language Access to Databases From a Logic Programming Perspective",
+        "AUTHORS": "Warren, David H. D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "salveter-maier-1982-natural-language": {
+        "TITLE": "Natural Language Database Updates",
+        "AUTHORS": "Salveter, Sharon C.  and Maier, David",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "gawron-etal-1982-processing": {
+        "TITLE": "Processing English With a Generalized Phrase Structure Grammar",
+        "AUTHORS": "Gawron, Jean Mark  and King, Jonathan  and Lamping, John  and Loebner, Egon  and Paulson, E. Anne  and Pullum, Geoffrey K.  and Sag, Ivan A.  and Wasow, Thomas",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "heidorn-1982-experience": {
+        "TITLE": "Experience with an Easily Computed Metric for Ranking Alternative Parses",
+        "AUTHORS": "Heidorn, George E.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "weischedel-sondheimer-1982-improved": {
+        "TITLE": "An Improved Heuristic for Ellipsis Processing",
+        "AUTHORS": "Weischedel, Ralph M.  and Sondheimer, Norman K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "walker-1982-reflections": {
+        "TITLE": "Reflections on 20 Years of the ACL: An Introduction",
+        "AUTHORS": "Walker, Donald E.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "yngve-1982-double": {
+        "TITLE": "Our Double Anniversary",
+        "AUTHORS": "Yngve, Victor H.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "hays-1982-2002": {
+        "TITLE": "2002: Another Score",
+        "AUTHORS": "Hays, David G.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "lehmann-1982-term": {
+        "TITLE": "My Term",
+        "AUTHORS": "Lehmann, Winfred P.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "walker-1982-society": {
+        "TITLE": "A Society in Transition",
+        "AUTHORS": "Walker, Donald E.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "simmons-1982-themes": {
+        "TITLE": "Themes From 1972",
+        "AUTHORS": "Simmons, Robert F.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "joshi-1982-twenty": {
+        "TITLE": "Twenty Years of Reflections",
+        "AUTHORS": "Joshi, Aravind K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "chapin-1982-acl": {
+        "TITLE": "ACL in 1977",
+        "AUTHORS": "Chapin, Paul G.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "allen-1982-reflections": {
+        "TITLE": "Reflections on Twenty Years of the ACL",
+        "AUTHORS": "Allen, Jonathan",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "sondheimer-1982-present": {
+        "TITLE": "On the Present",
+        "AUTHORS": "Sondheimer, Norman K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "appelt-1982-planning": {
+        "TITLE": "Planning Natural Language Referring Expressions",
+        "AUTHORS": "Appelt, Douglas E.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "mckeown-1982-text": {
+        "TITLE": "The Text System for Natural Language Generation: An Overview",
+        "AUTHORS": "McKeown, Kathleen R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "mccoy-1982-augmenting": {
+        "TITLE": "Augmenting a Database Knowledge Representation for Natural Language Generation",
+        "AUTHORS": "McCoy, Kathleen F.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "conklin-mcdonald-1982-salience": {
+        "TITLE": "Salience: The Key to the Selection Problem in Natural Language Generation",
+        "AUTHORS": "Conklin, E. Jeffrey  and McDonald, David D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "shapiro-neal-1982-knowledge": {
+        "TITLE": "A Knowledge Engineering Approach to Natural Language Understanding",
+        "AUTHORS": "Shapiro, Stuart C.  and Neal, Jeannette G.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "langley-1982-model": {
+        "TITLE": "A Model of Early Syntactic Development",
+        "AUTHORS": "Langley, Pat",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "marcus-1982-building": {
+        "TITLE": "Building Non-Normative Systems - The Search for Robustness: An Overview",
+        "AUTHORS": "Marcus, Mitchell P.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "bobrow-1982-design": {
+        "TITLE": "Design Dimensions for Non-Normative Understanding Systems",
+        "AUTHORS": "Bobrow, Robert J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "granger-1982-scruffy": {
+        "TITLE": "Scruffy Text Understanding: Design and Implementation of \\textquoteleftTolerant' Understanders",
+        "AUTHORS": "Granger, Richard H.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "kroch-hindle-1982-linguistic": {
+        "TITLE": "On the Linguistic Character of Non-Standard Input",
+        "AUTHORS": "Kroch, Anthony S.  and Hindle, Donald",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1036.bib",
+            "SUPP": ""
+        }
+    },
+    "kwasny-1982-ill": {
+        "TITLE": "Ill-Formed and Non-Standard Language Problems",
+        "AUTHORS": "Kwasny, Stan",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1037.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1037.bib",
+            "SUPP": ""
+        }
+    },
+    "miller-1982-natural": {
+        "TITLE": "“Natural Language Texts Are Not Necessarily Grammatical and Unambiguous or Even Complete.”",
+        "AUTHORS": "Miller, Lance A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1038.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1038.bib",
+            "SUPP": ""
+        }
+    },
+    "thompson-1982-solutions": {
+        "TITLE": "Solutions to Issues Depend on the Knowledge Representation",
+        "AUTHORS": "Thompson, Frederick B.",
+        "ABSTRACT": "",
+        "CONFERENCE": "20th Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P82-1039.pdf",
+            "BIBTEX": "https://aclanthology.org/P82-1039.bib",
+            "SUPP": ""
+        }
+    }
+}

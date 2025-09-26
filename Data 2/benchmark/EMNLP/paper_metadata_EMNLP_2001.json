@@ -1,0 +1,275 @@
+{
+    "pierce-cardie-2001-limitations": {
+        "TITLE": "Limitations of Co-Training for Natural Language Learning from Large Datasets",
+        "AUTHORS": "Pierce, David  and Cardie, Claire",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0501.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0501.bib",
+            "SUPP": ""
+        }
+    },
+    "even-zohar-roth-2001-sequential": {
+        "TITLE": "A Sequential Model for Multi-Class Classification",
+        "AUTHORS": "Even-Zohar, Yair  and Roth, Dan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0502.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0502.bib",
+            "SUPP": ""
+        }
+    },
+    "eneva-etal-2001-learning": {
+        "TITLE": "Learning Within-Sentence Semantic Coherence",
+        "AUTHORS": "Eneva, Elena  and Hoberman, Rose  and Lita, Lucian",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0503.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0503.bib",
+            "SUPP": ""
+        }
+    },
+    "koehn-knight-2001-knowledge": {
+        "TITLE": "Knowledge Sources for Word-Level Translation Models",
+        "AUTHORS": "Koehn, Philipp  and Knight, Kevin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0504.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0504.bib",
+            "SUPP": ""
+        }
+    },
+    "kim-etal-2001-improving": {
+        "TITLE": "Improving Lexical Mapping Model of English-Korean Bitext Using Structural Features",
+        "AUTHORS": "Kim, Seonho  and Yoon, Juntae  and Song, Mansuk",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0505.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0505.bib",
+            "SUPP": ""
+        }
+    },
+    "sakkis-etal-2001-stacking": {
+        "TITLE": "Stacking Classifiers for Anti-Spam Filtering of E-Mail",
+        "AUTHORS": "Sakkis, Georgios  and Androutsopoulos, Ion  and Paliouras, Georgios  and Karkaletsis, Vangelis  and Spyropoulos, Constantine D.  and Stamatopoulos, Panagiotis",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0506.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0506.bib",
+            "SUPP": ""
+        }
+    },
+    "takamura-matsumoto-2001-feature": {
+        "TITLE": "Feature Space Restructuring for SVMs with Application to Text Categorization",
+        "AUTHORS": "Takamura, Hiroya  and Matsumoto, Yuji",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0507.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0507.bib",
+            "SUPP": ""
+        }
+    },
+    "sable-church-2001-using": {
+        "TITLE": "Using Bins to Empirically Estimate Term Weights for Text Categorization",
+        "AUTHORS": "Sable, Carl  and Church, Kenneth W.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0508.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0508.bib",
+            "SUPP": ""
+        }
+    },
+    "ng-etal-2001-question": {
+        "TITLE": "Question Answering Using a Large Text Database: A Machine Learning Approach",
+        "AUTHORS": "Ng, Hwee Tou  and Kwan, Jennifer Lai Pheng  and Xia, Yiyuan",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0509.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0509.bib",
+            "SUPP": ""
+        }
+    },
+    "chelba-mahajan-2001-information": {
+        "TITLE": "Information Extraction Using the Structured Language Model",
+        "AUTHORS": "Chelba, Ciprian  and Mahajan, Milind",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0510.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0510.bib",
+            "SUPP": ""
+        }
+    },
+    "rosario-hearst-2001-classifying": {
+        "TITLE": "Classifying the Semantic Relations in Noun Compounds via a Domain-Specific Lexical Hierarchy",
+        "AUTHORS": "Rosario, Barbara  and Hearst, Marti",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0511.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0511.bib",
+            "SUPP": ""
+        }
+    },
+    "uchimoto-etal-2001-unknown": {
+        "TITLE": "The Unknown Word Problem: a Morphological Analysis of Japanese Using Maximum Entropy Aided by a Dictionary",
+        "AUTHORS": "Uchimoto, Kiyotaka  and Sekine, Satoshi  and Isahara, Hitoshi",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0512.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0512.bib",
+            "SUPP": ""
+        }
+    },
+    "schone-jurafsky-2001-knowledge-free": {
+        "TITLE": "Is Knowledge-Free Induction of Multiword Unit Dictionary Headwords a Solved Problem?",
+        "AUTHORS": "Schone, Patrick  and Jurafsky, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0513.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0513.bib",
+            "SUPP": ""
+        }
+    },
+    "choi-etal-2001-latent": {
+        "TITLE": "Latent Semantic Analysis for Text Segmentation",
+        "AUTHORS": "Choi, Freddy Y. Y.  and Wiemer-Hastings, Peter  and Moore, Johanna",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0514.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0514.bib",
+            "SUPP": ""
+        }
+    },
+    "lyon-etal-2001-detecting": {
+        "TITLE": "Detecting Short Passages of Similar Text in Large Document Collections",
+        "AUTHORS": "Lyon, Caroline  and Malcolm, James  and Dickerson, Bob",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0515.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0515.bib",
+            "SUPP": ""
+        }
+    },
+    "park-byrd-2001-hybrid": {
+        "TITLE": "Hybrid Text Mining for Finding Abbreviations and their Definitions",
+        "AUTHORS": "Park, Youngja  and Byrd, Roy J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0516.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0516.bib",
+            "SUPP": ""
+        }
+    },
+    "lee-etal-2001-automatic": {
+        "TITLE": "Automatic Corpus-based Tone Prediction using K-ToBI Representation",
+        "AUTHORS": "Lee, Jin-Seok  and Kim, Byeongchang  and Lee, Gary Geunbae",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0517.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0517.bib",
+            "SUPP": ""
+        }
+    },
+    "muller-2001-probabilistic": {
+        "TITLE": "Probabilistic Context-Free Grammars for Syllabification and Grapheme-to-Phoneme Conversion",
+        "AUTHORS": "Müller, Karin",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0518.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0518.bib",
+            "SUPP": ""
+        }
+    },
+    "megyesi-2001-comparing": {
+        "TITLE": "Comparing Data-Driven Learning Algorithms for PoS Tagging of Swedish",
+        "AUTHORS": "Megyesi, Beáta",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0519.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0519.bib",
+            "SUPP": ""
+        }
+    },
+    "bangalore-etal-2001-impact": {
+        "TITLE": "Impact of Quality and Quantity of Corpora on Stochastic Generation",
+        "AUTHORS": "Bangalore, Srinivas  and Chen, John  and Rambow, Owen",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0520.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0520.bib",
+            "SUPP": ""
+        }
+    },
+    "gildea-2001-corpus": {
+        "TITLE": "Corpus Variation and Parser Performance",
+        "AUTHORS": "Gildea, Daniel",
+        "ABSTRACT": "",
+        "CONFERENCE": "Proceedings of the 2001 Conference on Empirical Methods in Natural Language Processing",
+        "ABBR": "EMNLP",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/W01-0521.pdf",
+            "BIBTEX": "https://aclanthology.org/W01-0521.bib",
+            "SUPP": ""
+        }
+    }
+}

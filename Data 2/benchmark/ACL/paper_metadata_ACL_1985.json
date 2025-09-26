@@ -1,0 +1,522 @@
+{
+    "hafner-1985-semantics": {
+        "TITLE": "Semantics of Temporal Queries and Temporal Data",
+        "AUTHORS": "Hafner, Carole D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1001.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1001.bib",
+            "SUPP": ""
+        }
+    },
+    "obermeier-1985-temporal": {
+        "TITLE": "Temporal Inferences in Medical Texts",
+        "AUTHORS": "Obermeier, Klaus K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1002.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1002.bib",
+            "SUPP": ""
+        }
+    },
+    "yip-1985-tense": {
+        "TITLE": "Tense, Aspect and the Cognitive Representation of Time",
+        "AUTHORS": "Yip, Kenneth Man-kam",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1003.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1003.bib",
+            "SUPP": ""
+        }
+    },
+    "naito-etal-1985-classification": {
+        "TITLE": "Classification of Modality Function and Its Application to Japanese Language Analysis",
+        "AUTHORS": "Naito, Shozo  and Shimazu, Akira  and Nomura, Hirosato",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1004.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1004.bib",
+            "SUPP": ""
+        }
+    },
+    "mallery-1985-universality": {
+        "TITLE": "Universality and Individuality: The Interaction of Noun Phrase Determiners in Copular Clauses",
+        "AUTHORS": "Mallery, John C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1005.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1005.bib",
+            "SUPP": ""
+        }
+    },
+    "rapaport-1985-meinongian": {
+        "TITLE": "Meinongian Semantics for Propositional Semantic Networks",
+        "AUTHORS": "Rapaport, William J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1006.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1006.bib",
+            "SUPP": ""
+        }
+    },
+    "cohen-levesque-1985-speech": {
+        "TITLE": "Speech Acts and Rationality",
+        "AUTHORS": "Cohen, Philip R.  and Levesque, Hector J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1007.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1007.bib",
+            "SUPP": ""
+        }
+    },
+    "hobbs-1985-ontological": {
+        "TITLE": "Ontological Promiscuity",
+        "AUTHORS": "Hobbs, Jerry R.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1008.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1008.bib",
+            "SUPP": ""
+        }
+    },
+    "pilato-1985-reversible": {
+        "TITLE": "Reversible Automata and Induction of the English Auxiliary System",
+        "AUTHORS": "Pilato, Samuel F.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1009.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1009.bib",
+            "SUPP": ""
+        }
+    },
+    "barton-1985-computational": {
+        "TITLE": "The Computational Difficulty of ID/LP Parsing",
+        "AUTHORS": "Barton, G. Edward",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1010.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1010.bib",
+            "SUPP": ""
+        }
+    },
+    "vijay-shankar-joshi-1985-computational": {
+        "TITLE": "Some Computational Properties of Tree Adjoining Grammars",
+        "AUTHORS": "Vijay-Shankar, K.  and Joshi, Aravind K.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1011.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1011.bib",
+            "SUPP": ""
+        }
+    },
+    "mcdonald-pustejovsky-1985-tags": {
+        "TITLE": "TAG`s as a Grammatical Formalism for Generation",
+        "AUTHORS": "McDonald, David D.  and Pustejovsky, James D.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1012.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1012.bib",
+            "SUPP": ""
+        }
+    },
+    "mccord-1985-modular": {
+        "TITLE": "Modular Logic Grammars",
+        "AUTHORS": "McCord, Michael C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1013.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1013.bib",
+            "SUPP": ""
+        }
+    },
+    "fong-berwick-1985-new": {
+        "TITLE": "New Approaches to Parsing Conjunctions Using Prolog",
+        "AUTHORS": "Fong, Sandiway  and Berwick, Robert C.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1014.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1014.bib",
+            "SUPP": ""
+        }
+    },
+    "johnson-1985-parsing": {
+        "TITLE": "Parsing with Discontinuous Constituents",
+        "AUTHORS": "Johnson, Mark",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1015.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1015.bib",
+            "SUPP": ""
+        }
+    },
+    "karttunen-1985-structure": {
+        "TITLE": "Structure Sharing with Binary Trees",
+        "AUTHORS": "Karttunen, Lauri",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1016.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1016.bib",
+            "SUPP": ""
+        }
+    },
+    "pereira-1985-structure": {
+        "TITLE": "A Structure-Sharing Representation for Unification-Based Grammar Formalisms",
+        "AUTHORS": "Pereira, Fernando C. N.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1017.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1017.bib",
+            "SUPP": ""
+        }
+    },
+    "shieber-1985-using": {
+        "TITLE": "Using Restriction to Extend Parsing Algorithms for Complex-Feature-Based Formalisms",
+        "AUTHORS": "Shieber, Stuart M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1018.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1018.bib",
+            "SUPP": ""
+        }
+    },
+    "hayes-etal-1985-semantic": {
+        "TITLE": "Semantic Caseframe Parsing and Syntactic Generality",
+        "AUTHORS": "Hayes, Philip J.  and Andersen, Peggy M.  and Safier, Scott",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1019.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1019.bib",
+            "SUPP": ""
+        }
+    },
+    "jones-driscoll-1985-movement": {
+        "TITLE": "Movement in Active Production Networks",
+        "AUTHORS": "Jones, Mark A.  and Driscoll, Alan S.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1020.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1020.bib",
+            "SUPP": ""
+        }
+    },
+    "proudian-pollard-1985-parsing": {
+        "TITLE": "Parsing Head-Driven Phrase Structure Grammar",
+        "AUTHORS": "Proudian, Derek  and Pollard, Carl",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1021.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1021.bib",
+            "SUPP": ""
+        }
+    },
+    "creary-pollard-1985-computational": {
+        "TITLE": "A Computational Semantics for Natural Language",
+        "AUTHORS": "Creary, Lewis G.  and Pollard, Carl J.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1022.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1022.bib",
+            "SUPP": ""
+        }
+    },
+    "lesmo-torasso-1985-analysis": {
+        "TITLE": "Analysis of Conjunctions in a Rule-Based Parser",
+        "AUTHORS": "Lesmo, Leonardo  and Torasso, Pietro",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1023.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1023.bib",
+            "SUPP": ""
+        }
+    },
+    "carberry-1985-pragmatics": {
+        "TITLE": "A Pragmatics-Based Approach to Understanding Intersentential Ellipsis",
+        "AUTHORS": "Carberry, Sandra",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1024.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1024.bib",
+            "SUPP": ""
+        }
+    },
+    "appelt-1985-pragmatic": {
+        "TITLE": "Some Pragmatic Issues in the Planning of Definite and Indefinite Noun Phrases",
+        "AUTHORS": "Appelt, Douglas E.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1025.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1025.bib",
+            "SUPP": ""
+        }
+    },
+    "goodman-1985-repairing": {
+        "TITLE": "Repairing Reference Identification Failures by Relaxation",
+        "AUTHORS": "Goodman, Bradley A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1026.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1026.bib",
+            "SUPP": ""
+        }
+    },
+    "guindon-1985-anaphora": {
+        "TITLE": "Anaphora Resolution: Short-Term Memory and Focusing",
+        "AUTHORS": "Guindon, Raymonde",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1027.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1027.bib",
+            "SUPP": ""
+        }
+    },
+    "kukich-1985-explanation": {
+        "TITLE": "Explanation Structures in XSEL",
+        "AUTHORS": "Kukich, Karen",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1028.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1028.bib",
+            "SUPP": ""
+        }
+    },
+    "paris-1985-description": {
+        "TITLE": "Description Strategies for Naive and Expert Users",
+        "AUTHORS": "Paris, Cecile L.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1029.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1029.bib",
+            "SUPP": ""
+        }
+    },
+    "church-1985-stress": {
+        "TITLE": "Stress Assignment in Letter to Sound Rules for Speech Synthesis",
+        "AUTHORS": "Church, Kenneth",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1030.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1030.bib",
+            "SUPP": ""
+        }
+    },
+    "phillips-etal-1985-eclectic": {
+        "TITLE": "An Eclectic Approach to Building Natural Language Interfaces",
+        "AUTHORS": "Phillips, Brian  and Freiling, Michael J.  and Alexander, James H.  and Messick, Steven L.  and Rehfuss, Steve  and Nicholl, Sheldon",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1031.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1031.bib",
+            "SUPP": ""
+        }
+    },
+    "flickinger-etal-1985-structure": {
+        "TITLE": "Structure-Sharing in Lexical Representation",
+        "AUTHORS": "Flickinger, Daniel  and Pollard, Carl  and Wasow, Thomas",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1032.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1032.bib",
+            "SUPP": ""
+        }
+    },
+    "ahlswede-1985-tool": {
+        "TITLE": "A Tool Kit for Lexicon Building",
+        "AUTHORS": "Ahlswede, Thomas E.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1033.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1033.bib",
+            "SUPP": ""
+        }
+    },
+    "byrd-chodorow-1985-using": {
+        "TITLE": "Using an On-Line Dictionary to Find Rhyming Words and Pronunciations for Unknown Words",
+        "AUTHORS": "Byrd, Roy J.  and Chodorow, Martin S.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1034.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1034.bib",
+            "SUPP": ""
+        }
+    },
+    "zernik-dyer-1985-towards": {
+        "TITLE": "Towards a Self-Extending Lexicon",
+        "AUTHORS": "Zernik, Uri  and Dyer, Michael G.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1035.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1035.bib",
+            "SUPP": ""
+        }
+    },
+    "david-1985-grammatical": {
+        "TITLE": "Grammatical Analysis by Computer of the Lancaster-Oslo/Bergen (LOB) Corpus of British English Texts",
+        "AUTHORS": "David, Andrew",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1036.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1036.bib",
+            "SUPP": ""
+        }
+    },
+    "chodorow-etal-1985-extracting": {
+        "TITLE": "Extracting Semantic Hierarchies From a Large On-Line Dictionary",
+        "AUTHORS": "Chodorow, Martin S.  and Byrd, Roy J.  and Heidorn, George E.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1037.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1037.bib",
+            "SUPP": ""
+        }
+    },
+    "miller-1985-dictionaries": {
+        "TITLE": "Dictionaries of the Mind",
+        "AUTHORS": "Miller, George A.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1038.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1038.bib",
+            "SUPP": ""
+        }
+    },
+    "decker-1985-use": {
+        "TITLE": "The Use of Syntactic Clues in Discourse Processing",
+        "AUTHORS": "Decker, Nan",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1039.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1039.bib",
+            "SUPP": ""
+        }
+    },
+    "gigley-1985-grammar": {
+        "TITLE": "Grammar Viewed as a Functioning Part of a Cognitive System",
+        "AUTHORS": "Gigley, Helen M.",
+        "ABSTRACT": "",
+        "CONFERENCE": "23rd Annual Meeting of the Association for Computational Linguistics",
+        "ABBR": "ACL",
+        "TRACK": "Main Conference Track",
+        "LINKS": {
+            "PAPER": "https://aclanthology.org/P85-1040.pdf",
+            "BIBTEX": "https://aclanthology.org/P85-1040.bib",
+            "SUPP": ""
+        }
+    }
+}
