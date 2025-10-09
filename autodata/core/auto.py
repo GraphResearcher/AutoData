@@ -106,6 +106,16 @@ class AutoData:
 
             graph.add_edge(START, "ManagerAgent")
 
+            #graph.add_edge("PlannerAgent", "ManagerAgent")
+            #graph.add_edge("WebAgent", "ManagerAgent")
+            #graph.add_edge("ToolAgent", "ManagerAgent")
+            #graph.add_edge("BlueprintAgent", "ManagerAgent")
+            #graph.add_edge("EngineerAgent", "ManagerAgent")
+            #graph.add_edge("TestAgent", "ManagerAgent")
+            #graph.add_edge("ManagerAgent", "ValidationAgent")
+
+            #graph.add_edge(START, "ManagerAgent")
+
             # Step 1 — Research Squad
             graph.add_edge("ManagerAgent", "PlannerAgent")
             graph.add_edge("PlannerAgent", "WebAgent")

@@ -89,7 +89,7 @@ class BaseAgent:
             ),
         )
 
-    async def __call__(self, state: AgentState, model=None):
+    async def __call__(self, state: Any, model=None):
         assert model or self._model, "Please provide valid LLM."
         llm = model if model is not None else self._model
 
@@ -98,16 +98,41 @@ class BaseAgent:
 
         parser = self._parser
         prompt = self._prompt
+        chain = prompt | llm
 
-        chain = prompt | llm | parser
+        # ✅ Chuẩn hóa input
+        if hasattr(state, "messages"):
+            input_data = {"messages": state.messages}
+        elif isinstance(state, dict) and "messages" in state:
+            input_data = {"messages": state["messages"]}
+        else:
+            raise ValueError(f"Invalid state type passed to {self._agent_name}: {type(state)}")
 
-        response = chain.invoke(state)
+        # ✅ Gọi model
+        raw_response = chain.invoke(input_data)
 
-        output = EasyDict(
+        # ✅ Nếu model trả về object Pydantic → convert sang string JSON
+        if isinstance(raw_response, BaseResponse):
+            text_response = raw_response.to_message()
+        elif isinstance(raw_response, dict):
+            text_response = str(raw_response)
+        elif not isinstance(raw_response, str):
+            # ép kiểu sang chuỗi nếu model trả object
+            text_response = str(raw_response)
+        else:
+            text_response = raw_response
+
+        # ✅ Parse output theo Pydantic nếu cần
+        try:
+            response = parser.invoke(text_response)
+        except Exception as e:
+            logging.warning(f"[{self._agent_name}] Parsing fallback: {e}")
+            response = text_response
+
+        return EasyDict(
             {
                 "messages": [
-                    HumanMessage(content=response.to_message(), name=self._agent_name),
+                    HumanMessage(content=str(response), name=self._agent_name),
                 ],
             }
         )
-        return output

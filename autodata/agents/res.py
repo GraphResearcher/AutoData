@@ -7,6 +7,8 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from pydantic import BaseModel, Field
 import logging
 from easydict import EasyDict
+from autodata.tools.web import get_page_content
+
 
 sys.dont_write_bytecode = True
 
@@ -74,7 +76,7 @@ class ToolAgent(BaseAgent):
     def __init__(
         self,
         agent_name: str = "ToolAgent",
-        description: str = "A tool agent to use tools for the data collection process.",
+        description: str = "A tool agent to execute browser or data extraction actions.",
         model: Callable = None,
         tools: Optional[List[Callable]] = None,
         output_parser: Optional[BaseModel] = None,
@@ -91,17 +93,73 @@ class ToolAgent(BaseAgent):
         )
         logger.info("ToolAgent initialized successfully")
 
-    async def __call__(self, state: AgentState, llm=None):
-        assert llm or self._model, "Please provide valid LLM."
-        llm = llm if llm is not None else self._model
+    async def __call__(self, state: dict | AgentState, model=None):
+        """Execute browser/data collection actions (from WebAgent)."""
+        llm = model if model is not None else self._model
+        assert llm is not None, "Please provide a valid LLM for ToolAgent."
 
-        response = self.llm.ainvoke(state)
-        tool_calls = response.tool_calls
-        tool_call = tool_calls[0]
-        tool_name = tool_call["name"]
-        tool_func = globals()[tool_name](config=self.config)
-        response = await tool_func.ainvoke(tool_call)
-        return EasyDict({"messages": [response]})
+        # Lấy thông tin từ state (LangGraph truyền vào)
+        if isinstance(state, dict):
+            messages = state.get("messages", [])
+        else:
+            messages = getattr(state, "messages", [])
+
+        # Lấy message cuối cùng (WebAgent vừa gửi)
+        if not messages:
+            logger.warning("No messages received in ToolAgent.")
+            return EasyDict({"messages": ["No input message found."], "next": "ManagerAgent"})
+
+        last_msg = messages[-1]
+        content = getattr(last_msg, "content", str(last_msg))
+
+        import re
+        import json
+
+        # Làm sạch chuỗi JSON (loại bỏ ```json, ``` và escape)
+        try:
+            clean_json = re.sub(r"^```(?:json)?|```$", "", content.strip(), flags=re.MULTILINE)
+            clean_json = clean_json.replace("\\n", "\n").replace("\\", "")
+            action_data = json.loads(clean_json)
+        except Exception as e:
+            logger.warning(f"ToolAgent: Could not parse JSON from WebAgent output. Error: {e}")
+            return EasyDict({
+                "messages": [f"Invalid JSON input from WebAgent: {e}"],
+                "agent_next": "ManagerAgent"
+            })
+
+        # Đọc action và URL
+        action_type = action_data.get("action")
+        url = action_data.get("url")
+
+        # Thực thi hành động tương ứng
+        if action_type in ["get_page_content", "open"] and url:
+            try:
+                html = get_page_content(url)
+                if html:
+                    logger.info(f"ToolAgent successfully fetched HTML from {url}")
+                    return EasyDict({
+                        "messages": [f"Successfully fetched HTML content from {url} ({len(html)} chars)."],
+                        "html_content": html,
+                        "next": "BlueprintAgent",  # đi thẳng tới BlueprintAgent, tránh vòng lặp
+                    })
+                else:
+                    return EasyDict({
+                        "messages": [f"Failed to fetch content from {url}."],
+                        "next": "ManagerAgent",
+                    })
+            except Exception as e:
+                logger.error(f"ToolAgent: error fetching content from {url}: {e}")
+                return EasyDict({
+                    "messages": [f"Error fetching page content: {e}"],
+                    "next": "ManagerAgent",
+                })
+
+        # Không hỗ trợ hành động khác
+        logger.warning(f"ToolAgent: Unsupported action '{action_type}'")
+        return EasyDict({
+            "messages": [f"No valid tool action executed for '{action_type}'."],
+            "next": "ManagerAgent",
+        })
 
 
 class WebResponse(BaseResponse):

@@ -26,3 +26,4 @@ Here is the detailed workflow:
 ## Instructions
   - As a manager, you need to always clear about the current status of the process.
   - When agent reports the progress or need help, you need to coordinate with other agents to solve the problem.
+  - When the task is complete or validated, set next="[END]" in your response.

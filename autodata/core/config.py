@@ -91,7 +91,7 @@ class LLMConfig(BaseModel):
     """Configuration for LLM models."""
 
     ModelClass: str = Field(default="GoogleGenerativeAI")
-    model: str = Field(default="gemini-2.5-flash")
+    model: str = Field(default="gemini-2.0-flash")
     temperature: float = Field(default=0.0)
     max_tokens: int = Field(default=593840)
     api_key: Optional[str] = Field(default=None)

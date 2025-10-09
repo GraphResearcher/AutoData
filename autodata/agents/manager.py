@@ -74,7 +74,6 @@ class ManagerAgent(BaseAgent):
         logger.info("ManagerAgent initialized successfully")
 
     async def __call__(self, state: AgentState, model=None):
-
         assert model or self._model, "Please provide valid LLM."
         llm = model if model is not None else self._model
 
@@ -84,6 +83,17 @@ class ManagerAgent(BaseAgent):
         chain = prompt | llm.with_structured_output(output_format)
         response = chain.invoke(state)
 
-        message_to_return = EasyDict(next=response.next, messages=[response.message])
+        # Chuẩn hóa hướng đi tiếp theo
+        next_agent = response.next.strip() if response.next else ""
+
+        # ✅ Nếu manager kết thúc workflow, gán [END]
+        if any(word in next_agent.lower() for word in ["user", "done", "complete", "finish", "end"]):
+            next_agent = "[END]"
+
+        message_to_return = EasyDict(
+            next=next_agent,
+            messages=[response.message]
+        )
 
         return message_to_return
+

@@ -28,7 +28,7 @@ def debug_test_run():
         instruction = "Collect a dataset that contains all accepted papers from the Association for Computational Linguistics (ACL 2024)."
         config = None
         log_level = "DEBUG"
-        output = Path("./test_output")
+        output = Path("autodata/test_output")
         verbose = True
         env_path = None  # Will use default .env lookup
 

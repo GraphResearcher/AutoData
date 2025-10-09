@@ -19,6 +19,6 @@ def load_prompt(agent_name: str, **variables: Any) -> str:
         FileNotFoundError: If the prompt file does not exist.
     """
     prompt_path = Path(__file__).parent / f"{agent_name}.md"
-    with open(prompt_path, "r") as f:
+    with open(prompt_path, "r", encoding="utf-8") as f:
         template = Template(f.read())
     return template.render(**variables)
