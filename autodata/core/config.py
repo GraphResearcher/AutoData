@@ -93,13 +93,8 @@ class LLMConfig(BaseModel):
     ModelClass: str = Field(default="GoogleGenerativeAI")
     model: str = Field(default="gemini-2.5-flash")
     temperature: float = Field(default=0.0)
-    max_tokens: int = Field(default=16384)
+    max_tokens: int = Field(default=593840)
     api_key: Optional[str] = Field(default=None)
-try:
-    LLMConfig()
-except ValidationError as exc:
-    print(repr(exc.errors()[0]['type']))
-        # > 'missing'
 
     def get_additional_kwargs(self):
         """Trả về các tham số cần thiết."""
@@ -109,6 +104,10 @@ except ValidationError as exc:
             "max_tokens": self.max_tokens,
             "api_key": self.api_key,  # Nếu có
         }
+    def _get_additional_kwargs(self):
+        """Alias để tương thích với các module khác (auto.py)"""
+        return self.get_additional_kwargs()
+
 
 class WebConfig(BaseModel):
     """Configuration for web browsing."""

@@ -25,7 +25,7 @@ def debug_test_run():
 
     # Mock arguments for testing
     class TestArgs:
-        instruction = "Collect NBA Team Heat yearly stats."
+        instruction = "Collect a dataset that contains all accepted papers from the Association for Computational Linguistics (ACL 2024)."
         config = None
         log_level = "DEBUG"
         output = Path("./test_output")
@@ -110,4 +110,4 @@ def main():
 if __name__ == "__main__":
     # Debug test mode - uncomment the line below to run debug test instead of main
     debug_test_run()
-    # main()
+    #main()

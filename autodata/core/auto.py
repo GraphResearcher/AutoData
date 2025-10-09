@@ -4,9 +4,9 @@ from pathlib import Path
 from typing import Optional
 import logging
 from langchain_core.messages import HumanMessage
-from langchain_openai import ChatOpenAI
-from langchain_google_genai import GoogleGenerativeAI
+#from langchain_google_genai import GoogleGenerativeAI
 from langgraph.graph import StateGraph, START, END
+from langchain_google_genai import ChatGoogleGenerativeAI
 
 sys.dont_write_bytecode = True
 
@@ -18,7 +18,6 @@ from autodata.utils.logging import setup_logging
 from autodata.core.config import AutoDataConfig, load_environment_variables_from_file
 
 logger = logging.getLogger(__name__)
-
 
 class AutoData:
     def __init__(
@@ -78,13 +77,16 @@ class AutoData:
             return llm
         except Exception as e:
             logger.error(f"❌ Failed to initialize LLM: {e}")
-            logger.info("💡 Falling back to GoogleGenerativeAI with default configuration")
-            # Fallback to default GoogleGenerativeAI
-            return GoogleGenerativeAI(
-                model=self.config.LLM_Config.model,  # Truyền model vào GoogleGenerativeAI
+            logger.info("💡 Falling back to GoogleGenerativeAI with JSON-enforced configuration")
+
+            # Fallback to default GoogleGenerativeAI (fixed version)
+            return ChatGoogleGenerativeAI(
+                model=self.config.LLM_Config.model,
                 temperature=self.config.LLM_Config.temperature,
-                max_tokens=self.config.LLM_Config.max_tokens,
-                api_key=self.config.LLM_Config.api_key,  # Nếu có
+                max_output_tokens=self.config.LLM_Config.max_tokens,
+                google_api_key=( self.config.LLM_Config.api_key or os.getenv("GOOGLE_API_KEY") ),
+                convert_system_message_to_human=True,  # ✅ giúp Gemini hiểu system prompt
+
             )
 
     def _build_workflow(self):
@@ -102,17 +104,23 @@ class AutoData:
             graph.add_node("TestAgent", self.test)
             graph.add_node("ValidationAgent", self.validator)
 
-            # Set entry point
             graph.add_edge(START, "ManagerAgent")
 
-            # Add edges back to manager for coordination
-            graph.add_edge("PlannerAgent", "ManagerAgent")
-            graph.add_edge("WebAgent", "ManagerAgent")
+            # Step 1 — Research Squad
+            graph.add_edge("ManagerAgent", "PlannerAgent")
+            graph.add_edge("PlannerAgent", "WebAgent")
+            graph.add_edge("WebAgent", "ToolAgent")
+            graph.add_edge("ToolAgent", "BlueprintAgent")
             graph.add_edge("BlueprintAgent", "ManagerAgent")
-            graph.add_edge("ToolAgent", "ManagerAgent")
-            graph.add_edge("EngineerAgent", "ManagerAgent")
-            graph.add_edge("TestAgent", "ManagerAgent")
-            graph.add_edge("ManagerAgent", "ValidationAgent")
+
+            # Step 2 — Develop Squad
+            graph.add_edge("ManagerAgent", "EngineerAgent")
+            graph.add_edge("EngineerAgent", "TestAgent")
+            graph.add_edge("TestAgent", "ValidationAgent")
+            graph.add_edge("ValidationAgent", "ManagerAgent")
+
+            # Kết thúc
+            graph.add_edge("ManagerAgent", END)
 
             # Add conditional routing from manager
             graph.add_conditional_edges(
@@ -161,5 +169,13 @@ class AutoData:
                 logger.info(f"🔄 Workflow update: {update}")
 
         except Exception as e:
+            import traceback
             logger.error(f"❌ AutoData workflow failed: {e}")
-            return {"status": "error", "error": str(e), "instruction": instruction}
+            logger.debug(traceback.format_exc())
+            return {
+                "status": "error",
+                "error": str(e),
+                "traceback": traceback.format_exc(),
+                "instruction": instruction,
+            }
+

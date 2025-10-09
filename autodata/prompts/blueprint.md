@@ -21,3 +21,11 @@ This development blueprint will be used by following agents to build the program
 - If needed, you can access the artifacts saved in local cache system to help you write the blueprint.
 - It is fine if you need additional Python libraries to complete the task. Just include the additional libraries in the blueprint.
 - For validation plan, it is not necessary to do comprehensive cross-validation. Instead you can check the alignment between the number of records and collected dataset.
+- You must strictly output a valid JSON object that follows this schema:
+{
+  "logic": "<string, describes the programming logic for data collection>",
+  "test_plan": "<string, describes the test plan>",
+  "validation_plan": "<string, describes how to validate collected data>"
+}
+- DO NOT output markdown, explanations, or any other text outside the JSON block.
+Return only valid JSON.
