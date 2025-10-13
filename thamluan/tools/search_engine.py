@@ -4,6 +4,7 @@ Hỗ trợ Google Search và các search engines khác.
 """
 
 import requests
+from bs4 import BeautifulSoup
 from googlesearch import search as google_search
 from typing import List, Dict, Any
 import logging
@@ -81,19 +82,19 @@ class SearchEngineTool:
             )
 
     def _search_google(self, query: str, num_results: int) -> List[Dict[str, Any]]:
-        """Search using Google (via googlesearch-python)"""
+        """Search using Google (via googlesearch-python) - FAST version"""
         results = []
 
         try:
-            logger.info(f"Searching via Google for: {query}")
+            logger.info(f"Searching via Google for: {query} (max {num_results} results)")
 
-            # Use googlesearch library with increased timeout
+            # Use googlesearch library with MINIMAL delay for speed
             search_results = google_search(
                 query,
                 num_results=num_results,
                 lang='vi',
-                sleep_interval=3,  # Increase delay to avoid rate limiting
-                timeout=30  # Increase timeout
+                sleep_interval=0.5,  # Reduced from 3 to 0.5 seconds for speed
+                timeout=10  # Reduced timeout
             )
 
             for idx, url in enumerate(search_results):
@@ -107,11 +108,12 @@ class SearchEngineTool:
                 if len(results) >= num_results:
                     break
 
+            logger.info(f"✅ Google returned {len(results)} results")
+
         except Exception as e:
             logger.warning(f"Google search failed: {str(e)}")
-            # Try fallback method
-            logger.info("Trying fallback search method...")
-            results = self._search_google_fallback(query, num_results)
+            # Don't try fallback - it's slow
+            logger.info("Skipping fallback method for speed")
 
         return results
 
