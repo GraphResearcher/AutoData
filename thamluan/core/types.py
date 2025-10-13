@@ -137,6 +137,13 @@ class AgentState(TypedDict):
     search_results: List[Dict[str, Any]]  # Kết quả tìm kiếm
     collected_comments: Annotated[List[Comment], "All collected comments"]
 
+    # Article scraping and analysis
+    analyzed_articles: Annotated[List[Dict[str, Any]], "Articles with sentiment analysis"]
+    processed_urls: Annotated[set, "URLs that have been scraped"]
+    scrape_articles_done: bool  # Flag to indicate scraping is complete
+    scrape_loop_count: int  # Counter to prevent infinite loops
+    export_loop_count: int  # Counter for export operations
+
     # Vector DB tracking
     vector_db_collection: Optional[str]  # Tên collection trong ChromaDB
     embedded_documents: List[str]  # IDs của documents đã embed
@@ -197,6 +204,11 @@ def create_initial_state(target_url: str, project_name: str) -> AgentState:
         search_queries=[],
         search_results=[],
         collected_comments=[],
+        analyzed_articles=[],
+        processed_urls=set(),
+        scrape_articles_done=False,
+        scrape_loop_count=0,
+        export_loop_count=0,
         vector_db_collection=None,
         embedded_documents=[],
         csv_output_path=None,

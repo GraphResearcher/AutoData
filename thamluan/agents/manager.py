@@ -206,7 +206,25 @@ class ManagerAgent(BaseAgent):
             from core.types import update_state_task
             state = update_state_task(state, next_task)
         else:
-            logger.info("  No new task to create, workflow continues with current task")
+            # Safety check: if current scrape task is completed but no next task, prevent infinite loop
+            if current_task and current_task.status.value == 'completed' and \
+                    current_task.task_type == TaskType.SCRAPE_ARTICLES:
+                # If scrape is done but no export task was created, check if we have articles to export
+                analyzed_articles = state.get('analyzed_articles', [])
+                if analyzed_articles and TaskType.EXPORT_DATA not in completed_types:
+                    logger.warning("⚠️ Scrape completed with articles but export not created. Creating export task.")
+                    next_task = self.create_task(
+                        task_type=TaskType.EXPORT_DATA.value,
+                        input_data={'analyzed_articles': analyzed_articles}
+                    )
+                    state = self.update_state(state, {'current_task': next_task})
+                    from core.types import update_state_task
+                    state = update_state_task(state, next_task)
+                else:
+                    logger.warning("⚠️ Scrape task completed but no articles found. Marking workflow complete.")
+                    state['is_complete'] = True
+            else:
+                logger.info("  No new task to create, workflow continues with current task")
 
         logger.info(
             f" Manager returning state with current_task={state.get('current_task').task_type.value if state.get('current_task') else 'None'}")

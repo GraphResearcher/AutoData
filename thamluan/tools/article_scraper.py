@@ -107,14 +107,25 @@ class ArticleScraperTool:
             logger.error(f"Error scraping article {url}: {str(e)}")
             return ToolResult(success=False, error=f"Failed to scrape article: {str(e)}")
 
+    def _is_valid_url(self, url: str) -> bool:
+        """Check if URL is valid HTTP/HTTPS URL"""
+        if not url:
+            return False
+        return url.startswith('http://') or url.startswith('https://')
+
     def scrape_multiple_articles(self, urls: List[str], existing_urls: set = None) -> ToolResult:
         try:
             existing_urls = existing_urls or set()
             articles = []
             failed = 0
             seen_urls = set(existing_urls)
-
             for i, url in enumerate(urls, 1):
+                # Skip invalid URLs (tel:, mailto:, etc.)
+                if not self._is_valid_url(url):
+                    logger.warning(f"Skipping invalid URL: {url}")
+                    failed += 1
+                    continue
+
                 if url in seen_urls:
                     if url not in self.processed_duplicates:
                         logger.warning(f"Skipping duplicate URL: {url}")
