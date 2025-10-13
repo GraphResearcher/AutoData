@@ -162,44 +162,54 @@ class ManagerAgent(BaseAgent):
                         task_type=TaskType.SCRAPE_ARTICLES.value,
                         input_data={'urls_to_scrape': urls_to_scrape}
                     )
-                    logger.info("📰 Next: Scrape articles and analyze sentiment")
+                    logger.info(f"📰 Next: Scrape articles and analyze sentiment (next_task={next_task is not None})")
                 else:
                     # No new URLs to scrape, mark as done
                     logger.info("📰 All URLs already processed, marking scrape as done")
                     state['scrape_articles_done'] = True
+            else:
+                # No search results at all
+                logger.info("📰 No search results found, marking scrape as done")
+                state['scrape_articles_done'] = True
 
-                # Check if we should move to export - only if scrape is truly done
-                # IMPORTANT: Only move to export when scrape_articles_done = True
-                scrape_is_done = state.get('scrape_articles_done', False)
+        # Check if we should move to export - only if scrape is truly done
+        # IMPORTANT: Only move to export when scrape_articles_done = True
+        scrape_is_done = state.get('scrape_articles_done', False)
+        logger.info(f"🔍 Checking export: scrape_is_done={scrape_is_done}, next_task={next_task is not None}")
 
-                # Only consider moving to export if scrape is actually marked as done
-                if scrape_is_done and TaskType.EXPORT_DATA not in completed_types:
-                    if not task_already_created(TaskType.EXPORT_DATA):
-                        analyzed_articles = state.get('analyzed_articles', [])
-                        if analyzed_articles:
-                            next_task = self.create_task(
-                                task_type=TaskType.EXPORT_DATA.value,
-                                input_data={'analyzed_articles': analyzed_articles}
-                            )
-                            logger.info("💾 Next: Export to CSV")
-                        else:
-                            # No articles to export, mark workflow as complete
-                            logger.info("⚠️ No articles found to export, completing workflow")
-                            state['is_complete'] = True
+        # Only consider moving to export if scrape is actually marked as done
+        if scrape_is_done and TaskType.EXPORT_DATA not in completed_types:
+            if not task_already_created(TaskType.EXPORT_DATA):
+                analyzed_articles = state.get('analyzed_articles', [])
+                if analyzed_articles:
+                    next_task = self.create_task(
+                        task_type=TaskType.EXPORT_DATA.value,
+                        input_data={'analyzed_articles': analyzed_articles}
+                    )
+                    logger.info("💾 Next: Export to CSV")
+                else:
+                    # No articles to export, mark workflow as complete
+                    logger.info("⚠️ No articles found to export, completing workflow")
+                    state['is_complete'] = True
 
-                elif TaskType.EXPORT_DATA in completed_types:
-                    logger.info("✅ Workflow completed successfully!")
+        elif TaskType.EXPORT_DATA in completed_types:
+            logger.info("✅ Workflow completed successfully!")
             state['is_complete'] = True
             return state
 
+        logger.info(
+            f" End of Manager logic: next_task={next_task is not None}, is_complete={state.get('is_complete', False)}")
+
         if next_task:
-            logger.info(f"✅ Setting next task: {next_task.task_type.value} (status: {next_task.status.value})")
+            logger.info(f" Setting next task: {next_task.task_type.value} (status: {next_task.status.value})")
             state = self.update_state(state, {'current_task': next_task})
             from core.types import update_state_task
             state = update_state_task(state, next_task)
         else:
-            logger.info("ℹ️  No new task to create, workflow continues with current task")
+            logger.info("  No new task to create, workflow continues with current task")
 
+        logger.info(
+            f" Manager returning state with current_task={state.get('current_task').task_type.value if state.get('current_task') else 'None'}")
         return state
 
     def generate_report(self, state: AgentState) -> Dict[str, Any]:
