@@ -13,6 +13,7 @@ from .text_analyzer import TextAnalyzerTool
 from .vector_db import VectorDBTool
 from .article_scraper import ArticleScraperTool, article_scraper_tool
 from .sentiment_analyzer import SentimentAnalyzerTool, sentiment_analyzer_tool
+from .legal_pdf_finder import LegalPDFFinderTool, legal_pdf_finder_tool
 
 web_crawler_tool = WebCrawlerTool()
 pdf_handler_tool = PDFHandlerTool()

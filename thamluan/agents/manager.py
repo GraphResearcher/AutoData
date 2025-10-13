@@ -56,16 +56,29 @@ class ManagerAgent(BaseAgent):
         """
         logger.info("Starting new workflow...")
 
-        target_url = state['target_url']
+        keywords = state.get('keywords')
+        target_url = state.get('target_url')
         project_name = state['project_name']
 
         logger.info(f"Project: {project_name}")
-        logger.info(f"Target URL: {target_url}")
 
-        task = self.create_task(
-            task_type=TaskType.CRAWL_WEB.value,
-            input_data={'url': target_url, 'find_pdf': True}
-        )
+        # Workflow mới: Nếu có keywords, tìm kiếm PDF tự động
+        if keywords:
+            logger.info(f"🔍 Keywords mode: {keywords}")
+            task = self.create_task(
+                task_type=TaskType.SEARCH_PDF_BY_KEYWORDS.value,
+                input_data={'keywords': keywords}
+            )
+        # Workflow cũ: Nếu có URL, crawl web như cũ
+        elif target_url:
+            logger.info(f"🌐 URL mode: {target_url}")
+            task = self.create_task(
+                task_type=TaskType.CRAWL_WEB.value,
+                input_data={'url': target_url, 'find_pdf': True}
+            )
+        else:
+            logger.error("No keywords or target_url provided!")
+            return self.log_error(state, "Either keywords or target_url must be provided")
 
         state = self.update_state(state, {'current_task': task})
         from core.types import update_state_task
@@ -100,7 +113,18 @@ class ManagerAgent(BaseAgent):
         next_task = None
 
         # Workflow logic
-        if TaskType.CRAWL_WEB in completed_types and TaskType.DOWNLOAD_PDF not in completed_types:
+        # Nếu search PDF by keywords completed, chuyển sang extract content
+        if TaskType.SEARCH_PDF_BY_KEYWORDS in completed_types and TaskType.EXTRACT_CONTENT not in completed_types:
+            if not task_already_created(TaskType.EXTRACT_CONTENT):
+                pdf_path = state.get('pdf_local_path')
+                if pdf_path:
+                    next_task = self.create_task(
+                        task_type=TaskType.EXTRACT_CONTENT.value,
+                        input_data={'pdf_path': pdf_path}
+                    )
+                    logger.info("📄 Next: Extract PDF content (from keyword search)")
+
+        elif TaskType.CRAWL_WEB in completed_types and TaskType.DOWNLOAD_PDF not in completed_types:
             if not task_already_created(TaskType.DOWNLOAD_PDF):
                 pdf_links = state.get('pdf_document', {})
                 if pdf_links:

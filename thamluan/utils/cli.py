@@ -18,14 +18,14 @@ def parse_arguments() -> Any:
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  # Run with default URL
-  python main.py
+  # Run with keywords (NEW - RECOMMENDED)
+  python main.py --keywords "Luật Khoa học công nghệ 2025"
 
-  # Run with custom URL and project name
+  # Run with keywords and custom project name
+  python main.py --keywords "Nghị định 123" --project "Nghị định 123/2025"
+
+  # Run with custom URL (old method - still supported)
   python main.py --url "https://example.com/draft" --project "Luật ABC 2025"
-
-  # Run in async mode
-  python main.py --async
 
   # Show configuration
   python main.py --show-config
@@ -33,15 +33,21 @@ Examples:
     )
 
     parser.add_argument(
+        '--keywords',
+        type=str,
+        help='Keywords to search for legal documents (e.g., "Luật Khoa học công nghệ 2025")'
+    )
+
+    parser.add_argument(
         '--url',
         type=str,
-        help='Target URL to crawl (default: MST law draft page)'
+        help='[DEPRECATED] Target URL to crawl (use --keywords instead for automatic search)'
     )
 
     parser.add_argument(
         '--project',
         type=str,
-        help='Project name for this crawl session'
+        help='Project name for this crawl session (auto-generated from keywords if not provided)'
     )
 
     parser.add_argument(

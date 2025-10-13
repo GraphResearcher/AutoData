@@ -30,6 +30,7 @@ class TaskStatus(str, Enum):
 
 class TaskType(str, Enum):
     """Các loại task trong workflow"""
+    SEARCH_PDF_BY_KEYWORDS = "search_pdf_by_keywords"  # New: search and download PDF from keywords
     CRAWL_WEB = "crawl_web"
     DOWNLOAD_PDF = "download_pdf"
     EXTRACT_CONTENT = "extract_content"
@@ -120,7 +121,8 @@ class AgentState(TypedDict):
     Đây là Local State approach - mỗi node có thể đọc/ghi state.
     """
     # Input ban đầu
-    target_url: str  # URL của trang web cần crawl
+    keywords: Optional[str]  # Keywords để tìm kiếm Luật/Nghị định (mode mới)
+    target_url: Optional[str]  # URL của trang web cần crawl (mode cũ)
     project_name: str  # Tên dự án để tracking
 
     # Workflow tracking
@@ -190,10 +192,11 @@ class ToolResult:
 
 
 # Helper functions
-def create_initial_state(target_url: str, project_name: str) -> AgentState:
+def create_initial_state(project_name: str, target_url: Optional[str] = None, keywords: Optional[str] = None) -> AgentState:
     """Tạo initial state cho workflow"""
     now = datetime.now()
     return AgentState(
+        keywords=keywords,
         target_url=target_url,
         project_name=project_name,
         current_task=None,

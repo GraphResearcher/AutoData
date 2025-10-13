@@ -14,7 +14,8 @@ from tools import (
     web_crawler_tool,
     pdf_handler_tool,
     pdf_extractor_tool,
-    vector_db_tool
+    vector_db_tool,
+    legal_pdf_finder_tool
 )
 
 from sklearn.metrics.pairwise import cosine_similarity
@@ -223,7 +224,114 @@ class ContentExtractorAgent(BaseAgent):
             return self.log_error(state, f"Content extraction failed: {str(e)}")
 
 
+class LegalPDFSearchAgent(BaseAgent):
+    """
+    Legal PDF Search Agent - Tìm kiếm và tải PDF Luật/Nghị định từ keywords.
+    """
+
+    def __init__(self):
+        super().__init__(
+            role=AgentRole.WEB_CRAWLER,
+            name="Legal PDF Search Agent",
+            description="Searches and downloads legal PDFs based on keywords"
+        )
+
+    async def execute(self, state: AgentState) -> AgentState:
+        try:
+            logger.info(f"🔍 {self.name} executing...")
+
+            current_task = state.get('current_task')
+            if not current_task or current_task.task_type != TaskType.SEARCH_PDF_BY_KEYWORDS:
+                return state
+
+            keywords = state.get('keywords')
+            if not keywords:
+                return self.log_error(state, "No keywords found in state")
+
+            logger.info(f"Searching for legal PDFs with keywords: {keywords}")
+
+            # Bước 1: Tìm kiếm PDF
+            search_result = legal_pdf_finder_tool.search_legal_pdfs(keywords, max_results=5)
+            if not search_result.success:
+                return self.log_error(state, search_result.error)
+
+            pdf_links = search_result.data.get('pdf_links', [])
+            if not pdf_links:
+                return self.log_error(state, "No legal PDF found for the given keywords")
+
+            logger.info(f"Found {len(pdf_links)} PDF(s)")
+
+            # Bước 2: Chọn PDF tốt nhất (đầu tiên)
+            best_pdf = pdf_links[0]
+            pdf_url = best_pdf['url']
+            logger.info(f"✅ Selected best PDF: {pdf_url}")
+
+            # Bước 3: Download PDF
+            logger.info(f"Downloading PDF from: {pdf_url}")
+            download_result = pdf_handler_tool.download_pdf(pdf_url)
+            
+            if not download_result.success:
+                # Thử PDF tiếp theo nếu có
+                if len(pdf_links) > 1:
+                    logger.warning(f"Failed to download first PDF, trying alternative...")
+                    for alt_pdf in pdf_links[1:]:
+                        pdf_url = alt_pdf['url']
+                        logger.info(f"Trying alternative: {pdf_url}")
+                        download_result = pdf_handler_tool.download_pdf(pdf_url)
+                        if download_result.success:
+                            best_pdf = alt_pdf
+                            break
+                
+                if not download_result.success:
+                    return self.log_error(state, f"Failed to download any PDF: {download_result.error}")
+
+            local_path = download_result.data['local_path']
+            logger.info(f"✅ PDF downloaded to: {local_path}")
+
+            # Bước 4: Lấy thông tin PDF
+            info_result = pdf_handler_tool.get_pdf_info(local_path)
+            if info_result.success:
+                page_count = info_result.data.get('num_pages', 0)
+                file_size = info_result.data.get('file_size', 0)
+            else:
+                page_count = 0
+                file_size = 0
+
+            # Bước 5: Tạo PDF Document
+            pdf_doc = PDFDocument(
+                url=pdf_url,
+                local_path=local_path,
+                title=best_pdf.get('text', ''),
+                page_count=page_count,
+                file_size=file_size
+            )
+
+            output_data = {
+                'pdf_url': pdf_url,
+                'local_path': local_path,
+                'file_size': file_size,
+                'page_count': page_count,
+                'search_queries': search_result.data.get('search_queries', []),
+                'total_pdfs_found': len(pdf_links)
+            }
+
+            task = self.complete_task(current_task, output_data)
+            state = self.update_state(state, {
+                'current_task': task,
+                'pdf_document': pdf_doc,
+                'pdf_local_path': local_path,
+                'target_url': pdf_url  # Set target_url for compatibility with existing workflow
+            })
+
+            return state
+
+        except Exception as e:
+            logger.error(f"Legal PDF search error: {str(e)}", exc_info=True)
+            return self.log_error(state, f"Legal PDF search failed: {str(e)}")
+
+
 # Singleton instances
 web_crawler_agent = WebCrawlerAgent()
 pdf_handler_agent = PDFHandlerAgent()
 content_extractor_agent = ContentExtractorAgent()
+legal_pdf_search_agent = LegalPDFSearchAgent()

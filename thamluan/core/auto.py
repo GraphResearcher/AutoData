@@ -14,7 +14,8 @@ from agents import (
     content_extractor_agent,
     search_agent,
     article_analyzer_agent,
-    exporter_agent
+    exporter_agent,
+    legal_pdf_search_agent
 )
 
 logger = logging.getLogger(__name__)
@@ -26,6 +27,7 @@ def create_workflow() -> StateGraph:
 
     # Nodes
     workflow.add_node("manager", manager_agent.execute)
+    workflow.add_node("legal_pdf_search", legal_pdf_search_agent.execute)
     workflow.add_node("web_crawler", web_crawler_agent.execute)
     workflow.add_node("pdf_handler", pdf_handler_agent.execute)
     workflow.add_node("content_extractor", content_extractor_agent.execute)
@@ -51,6 +53,7 @@ def create_workflow() -> StateGraph:
 
         task_type = current_task.task_type
         next_agent = {
+            TaskType.SEARCH_PDF_BY_KEYWORDS: "legal_pdf_search",
             TaskType.CRAWL_WEB: "web_crawler",
             TaskType.DOWNLOAD_PDF: "pdf_handler",
             TaskType.EXTRACT_CONTENT: "content_extractor",
@@ -76,6 +79,7 @@ def create_workflow() -> StateGraph:
         "manager",
         route_from_manager,
         {
+            "legal_pdf_search": "legal_pdf_search",
             "web_crawler": "web_crawler",
             "pdf_handler": "pdf_handler",
             "content_extractor": "content_extractor",
@@ -86,26 +90,29 @@ def create_workflow() -> StateGraph:
         }
     )
 
-    for node in ["web_crawler", "pdf_handler", "content_extractor",
+    for node in ["legal_pdf_search", "web_crawler", "pdf_handler", "content_extractor",
                  "search_agent", "article_analyzer", "exporter_agent"]:
         workflow.add_conditional_edges(node, should_continue)
 
     return workflow
 
 
-async def run_workflow_async(target_url: str, project_name: str) -> Dict[str, Any]:
+async def run_workflow_async(project_name: str, target_url: str = None, keywords: str = None) -> Dict[str, Any]:
     """
-    Chạy workflow bất đồng bộ với target URL và project name.
+    Chạy workflow bất đồng bộ với keywords hoặc target URL.
     """
     try:
         logger.info("=" * 80)
         logger.info("Starting AutoData Workflow (Async)")
         logger.info("=" * 80)
         logger.info(f"Project: {project_name}")
-        logger.info(f"Target: {target_url}")
+        if keywords:
+            logger.info(f"Keywords: {keywords}")
+        if target_url:
+            logger.info(f"Target URL: {target_url}")
         logger.info("=" * 80)
 
-        initial_state = create_initial_state(target_url, project_name)
+        initial_state = create_initial_state(project_name, target_url=target_url, keywords=keywords)
         workflow = create_workflow()
         app = workflow.compile(
             checkpointer=None,
