@@ -223,6 +223,14 @@ class ArticleAnalyzerAgent(BaseAgent):
 
         except Exception as e:
             logger.error(f"Article analyzer error: {str(e)}")
+            current_task = state.get('current_task')
+            if current_task:
+                task = self.complete_task(current_task, {}, error=f"Article analysis failed: {str(e)}")
+                state = self.update_state(state, {
+                    'current_task': task,
+                    'scrape_articles_done': True,
+                    'scrape_loop_count': state.get('scrape_loop_count', 0) + 1
+                })
             return self.log_error(state, f"Article analysis failed: {str(e)}")
 
 class ExporterAgent(BaseAgent):
@@ -254,6 +262,8 @@ class ExporterAgent(BaseAgent):
             articles = state.get('analyzed_articles', [])
             logger.info(f"📊 ExporterAgent found {len(articles)} articles in state")
             if not articles:
+                task = self.complete_task(current_task, {}, error="No articles found to export")
+                state = self.update_state(state, {'current_task': task, 'is_complete': True})
                 return self.log_error(state, "No articles found to export")
 
             # Export CSV
@@ -261,10 +271,13 @@ class ExporterAgent(BaseAgent):
             timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
             filename = f"{project_name}_articles_{timestamp}.csv"
 
-            export_result = csv_exporter_tool.export_articles(articles, filename)
+            export_result = csv_exporter_tool.export_dict_list(articles, filename)
             if not export_result.success:
+                task = self.complete_task(current_task, {}, error=export_result.error)
+                state = self.update_state(state, {'current_task': task, 'is_complete': True})
                 return self.log_error(state, export_result.error)
             csv_path = export_result.data['filepath']
+            logger.info(f"✅ Exported {len(articles)} articles to {csv_path}")
 
             # Khởi tạo embedding model nếu chưa có
             if self.embedding_model is None:
@@ -328,6 +341,14 @@ class ExporterAgent(BaseAgent):
 
         except Exception as e:
             logger.error(f"Exporter agent error: {str(e)}")
+            current_task = state.get('current_task')
+            if current_task:
+                task = self.complete_task(current_task, {}, error=f"Export failed: {str(e)}")
+                state = self.update_state(state, {
+                    'current_task': task,
+                    'is_complete': True,
+                    'export_loop_count': state.get('export_loop_count', 0) + 1
+                })
             return self.log_error(state, f"Export failed: {str(e)}")
 
 # Singleton instances
