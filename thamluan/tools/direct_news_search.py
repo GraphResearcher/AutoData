@@ -25,7 +25,7 @@ class DirectNewsSearchTool:
             'Accept-Language': 'vi-VN,vi;q=0.9',
         })
 
-        # Danh sách website hỗ trợ tìm kiếm
+        # Danh sách website hỗ trợ tìm kiếm - các trang tin uy tín Việt Nam
         self.news_sites = {
             'vnexpress': {
                 'name': 'VNExpress',
@@ -46,6 +46,21 @@ class DirectNewsSearchTool:
                 'name': 'Dân Trí',
                 'search_url': 'https://dantri.com.vn/tim-kiem.htm?q={query}',
                 'parser': self._parse_dantri
+            },
+            'vietnamnet': {
+                'name': 'VietnamNet',
+                'search_url': 'https://vietnamnet.vn/tim-kiem?q={query}',
+                'parser': self._parse_vietnamnet
+            },
+            'baomoi': {
+                'name': 'Báo Mới',
+                'search_url': 'https://baomoi.com/tim-kiem/{query}.epi',
+                'parser': self._parse_baomoi
+            },
+            'tienphong': {
+                'name': 'Tiền Phong',
+                'search_url': 'https://tienphong.vn/tim-kiem.tpo?keywords={query}',
+                'parser': self._parse_tienphong
             },
             'nhandan': {
                 'name': 'Nhân Dân',
@@ -198,6 +213,68 @@ class DirectNewsSearchTool:
                 desc = article.find('div', class_='box-des')
                 snippet = desc.get_text(strip=True) if desc else ''
                 results.append({'url': url, 'title': title, 'snippet': snippet, 'source': source})
+            except Exception:
+                continue
+            return results
+
+    def _parse_vietnamnet(self, soup: BeautifulSoup, source: str) -> List[Dict[str, Any]]:
+        """Parser cho VietnamNet"""
+        results = []
+        articles = soup.find_all('div', class_='feature-box') or soup.find_all('article')
+        for article in articles:
+            try:
+                link = article.find('a')
+                if not link:
+                    continue
+                url = urljoin('https://vietnamnet.vn', link.get('href', ''))
+                title_elem = article.find('h3') or article.find('h2') or link
+                title = title_elem.get_text(strip=True) if title_elem else ''
+                desc = article.find('p', class_='description') or article.find('p')
+                snippet = desc.get_text(strip=True) if desc else ''
+                if url and title:
+                    results.append({'url': url, 'title': title, 'snippet': snippet, 'source': source})
+            except Exception:
+                continue
+        return results
+
+    def _parse_baomoi(self, soup: BeautifulSoup, source: str) -> List[Dict[str, Any]]:
+        """Parser cho Báo Mới"""
+        results = []
+        articles = soup.find_all('div', class_='story') or soup.find_all('article')
+        for article in articles:
+            try:
+                link = article.find('a', class_='story__title')
+                if not link:
+                    link = article.find('a')
+                if not link:
+                    continue
+                url = urljoin('https://baomoi.com', link.get('href', ''))
+                title = link.get_text(strip=True)
+                desc = article.find('div', class_='story__summary') or article.find('p')
+                snippet = desc.get_text(strip=True) if desc else ''
+                if url and title:
+                    results.append({'url': url, 'title': title, 'snippet': snippet, 'source': source})
+            except Exception:
+                continue
+        return results
+
+    def _parse_tienphong(self, soup: BeautifulSoup, source: str) -> List[Dict[str, Any]]:
+        """Parser cho Tiền Phong"""
+        results = []
+        articles = soup.find_all('div', class_='story') or soup.find_all('article')
+        for article in articles:
+            try:
+                link = article.find('a', class_='story__title')
+                if not link:
+                    link = article.find('a')
+                if not link:
+                    continue
+                url = urljoin('https://tienphong.vn', link.get('href', ''))
+                title = link.get_text(strip=True)
+                desc = article.find('div', class_='story__summary') or article.find('p')
+                snippet = desc.get_text(strip=True) if desc else ''
+                if url and title:
+                    results.append({'url': url, 'title': title, 'snippet': snippet, 'source': source})
             except Exception:
                 continue
         return results

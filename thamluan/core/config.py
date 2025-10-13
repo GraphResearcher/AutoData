@@ -117,7 +117,7 @@ class Config:
     ).lower() == "true"
 
     # ========== Target Domains ==========
-    # Danh sách các trang tin tức/diễn đàn Việt Nam có thể crawl
+    # Danh sách các trang tin tức/diễn đàn Việt Nam uy tín có thể crawl
     TRUSTED_DOMAINS = [
         "vnexpress.net",
         "tuoitre.vn",
@@ -126,7 +126,10 @@ class Config:
         "vietnamnet.vn",
         "baomoi.com",
         "tienphong.vn",
+        "nhandan.vn",
         "mst.gov.vn",  # Trang web chính thức
+        "most.gov.vn",  # Bộ Khoa học và Công nghệ
+        "chinhphu.vn",  # Cổng thông tin điện tử Chính phủ
     ]
 
     @classmethod
