@@ -82,24 +82,87 @@ class SearchAgent(BaseAgent):
                 task = self.complete_task(current_task, {}, error=error_msg)
                 return self.log_error(state, error_msg)
 
-            # Prioritize trusted domains but don't completely filter others
+            # Step 1: URL validation and de-duplication
+            unique_results = []
+            seen_urls = set()
+            for result in search_results:
+                url = result.get('url', '')
+                # Skip invalid URLs
+                if not url or not (url.startswith('http://') or url.startswith('https://')):
+                    continue
+                # Skip duplicates
+                if url in seen_urls:
+                    continue
+                # Skip homepage-only URLs (likely false positives)
+                if url.endswith('/') or url.count('/') <= 3:
+                    # Allow if it has article indicators in the path
+                    if not any(indicator in url.lower() for indicator in
+                               ['-', 'tin-tuc', 'bai-viet', 'news', 'article', '.htm']):
+                        continue
+
+                seen_urls.add(url)
+                unique_results.append(result)
+
+            logger.info(f"📊 After validation: {len(unique_results)} unique valid URLs")
+
+            # Step 2: Keyword matching score for better relevance
+            important_keywords = []
+            if extracted_keywords:
+                important_keywords = (extracted_keywords.key_phrases[:5] if extracted_keywords.key_phrases else []) + \
+                                     (extracted_keywords.main_keywords[:5] if extracted_keywords.main_keywords else [])
+                important_keywords = [kw.lower() for kw in important_keywords if len(kw) > 3]
+
+            def calculate_relevance_score(result):
+                """Calculate relevance based on keyword matching"""
+                title = result.get('title', '').lower()
+                snippet = result.get('snippet', '').lower()
+                combined_text = title + ' ' + snippet
+
+                score = 0
+                # Title matches worth more
+                for kw in important_keywords:
+                    if kw in title:
+                        score += 3
+                    elif kw in snippet:
+                        score += 1
+
+                # Bonus for opinion indicators
+                opinion_words = ['ý kiến', 'bình luận', 'phản hồi', 'góp ý', 'thảo luận', 'tranh luận', 'chuyên gia']
+                for word in opinion_words:
+                    if word in combined_text:
+                        score += 2
+                        break
+
+                return score
+
+            # Score all results
+            for result in unique_results:
+                result['relevance_score'] = calculate_relevance_score(result)
+
+            # Step 3: Prioritize trusted domains + high scores
             from core.config import config
-            trusted_results = [r for r in search_results if any(d in r['url'] for d in config.TRUSTED_DOMAINS)]
-            other_results = [r for r in search_results if not any(d in r['url'] for d in config.TRUSTED_DOMAINS)]
+            trusted_results = [r for r in unique_results if any(d in r['url'] for d in config.TRUSTED_DOMAINS)]
+            other_results = [r for r in unique_results if not any(d in r['url'] for d in config.TRUSTED_DOMAINS)]
 
-            # Combine: trusted first, then others (limit total)
-            final_results = trusted_results + other_results
-            final_results = final_results[:30]  # Limit to 30 total results
+            # Sort both by relevance score
+            trusted_results = sorted(trusted_results, key=lambda x: x.get('relevance_score', 0), reverse=True)
+            other_results = sorted(other_results, key=lambda x: x.get('relevance_score', 0), reverse=True)
 
-            logger.info(f"📊 Search results: {len(trusted_results)} from trusted domains, "
-                        f"{len(other_results)} from other sources, "
-                        f"{len(final_results)} total")
+            # Combine: trusted first, then high-scoring others
+            final_results = trusted_results[:25] + other_results[:10]  # Total max 35
+
+            avg_score = sum(r.get('relevance_score', 0) for r in final_results) / len(
+                final_results) if final_results else 0
+            logger.info(
+                f"📊 Final selection: {len(trusted_results[:25])} trusted, {len(other_results[:10])} other sources")
+            logger.info(f"📊 Average relevance score: {avg_score:.1f}")
 
             task = self.complete_task(current_task, {
                 'search_queries': search_queries,
                 'total_results': len(search_results),
-                'trusted_results': len(trusted_results),
-                'final_results': len(final_results)
+                'unique_results': len(unique_results),
+                'final_results': len(final_results),
+                'avg_relevance': avg_score
             })
 
             state = self.update_state(state, {

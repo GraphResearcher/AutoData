@@ -212,7 +212,8 @@ class DirectNewsSearchTool:
                 title = link.get_text(strip=True)
                 desc = article.find('div', class_='box-des')
                 snippet = desc.get_text(strip=True) if desc else ''
-                results.append({'url': url, 'title': title, 'snippet': snippet, 'source': source})
+                if url and title:  # Only add if we have valid data
+                    results.append({'url': url, 'title': title, 'snippet': snippet, 'source': source})
             except Exception:
                 continue
             return results
@@ -282,21 +283,28 @@ class DirectNewsSearchTool:
     def _parse_mst(self, soup: BeautifulSoup, source: str) -> List[Dict[str, Any]]:
         """Parser cho mst.gov.vn"""
         results = []
-        articles = soup.find_all('div', class_='item') or soup.find_all('li')
+        # Try multiple selectors for better coverage
+        articles = soup.find_all('div', class_='item') or soup.find_all('li', class_='search-item') or soup.find_all('li')
         for article in articles:
             try:
                 link = article.find('a')
                 if not link:
                     continue
-                url = urljoin('https://mst.gov.vn', link.get('href', ''))
-                title = link.get_text(strip=True)
-                desc = article.find('p') or article.find('div', class_='desc')
+                href = link.get('href', '')
+                if not href:
+                    continue
+                url = urljoin('https://mst.gov.vn', href)
+                # Get title from link text or title attribute
+                title = link.get('title', '') or link.get_text(strip=True)
+                # Try multiple ways to get description
+                desc = article.find('p') or article.find('div', class_='desc') or article.find('div', class_='summary')
                 snippet = desc.get_text(strip=True) if desc else ''
-                results.append({'url': url, 'title': title, 'snippet': snippet, 'source': source})
+                # Only add if we have meaningful content
+                if url and title and len(title) > 10:
+                    results.append({'url': url, 'title': title, 'snippet': snippet, 'source': source})
             except Exception:
                 continue
         return results
-
 
 # Singleton instance
 direct_news_search_tool = DirectNewsSearchTool()

@@ -22,44 +22,74 @@ class TextAnalyzerTool:
 
     def generate_search_queries(self, keywords: ExtractedKeywords, base_topic: str = "") -> ToolResult:
         """
-        Tạo search queries chỉ dựa vào base_topic, bỏ key_phrases.
+        Tạo search queries thông minh dựa vào base_topic VÀ keywords từ PDF.
 
         Args:
-            keywords: ExtractedKeywords object (bỏ qua trong phiên bản này)
+            keywords: ExtractedKeywords object với main_keywords và key_phrases
             base_topic: Chủ đề chính (ví dụ: "Luật Khoa học Công nghệ")
 
         Returns:
-            ToolResult với danh sách queries
+            ToolResult với danh sách queries được tối ưu
         """
         try:
             queries = []
 
+            # Lấy top keywords từ PDF
+            top_keywords = []
+            if keywords:
+                # Ưu tiên key_phrases vì chứa ngữ cảnh
+                top_keywords = keywords.key_phrases[:5] if keywords.key_phrases else []
+                # Nếu không đủ, thêm main_keywords
+                if len(top_keywords) < 3 and keywords.main_keywords:
+                    top_keywords.extend(keywords.main_keywords[:3])
+
+            # Strategy 1: Base topic với opinion keywords
             if base_topic:
-                # Mẫu truy vấn phổ biến cho việc thu thập ý kiến công chúng
+                opinion_patterns = [
+                    f"{base_topic} ý kiến chuyên gia",
+                    f"{base_topic} phản hồi",
+                    f"{base_topic} bình luận",
+                    f"dư luận về {base_topic}",
+                ]
+                queries.extend(opinion_patterns[:3])
+
+            # Strategy 2: Combine keywords với base topic để tìm nội dung cụ thể hơn
+            if top_keywords and base_topic:
+                for kw in top_keywords[:3]:
+                    # Bỏ qua keywords quá ngắn hoặc không có ý nghĩa
+                    if len(kw) < 5 or kw.lower() in ['nghị định', 'điều', 'khoản', 'luật']:
+                        continue
+                    queries.append(f"{base_topic} {kw}")
+
+            # Strategy 3: Nếu không có keywords, dùng các pattern chung
+            if not queries:
                 queries.extend([
                     f"{base_topic} ý kiến người dân",
-                    f"{base_topic} bình luận",
                     f"{base_topic} thảo luận",
                     f"phản hồi về {base_topic}",
-                    f"đánh giá {base_topic}",
-                    f"góp ý {base_topic}",
-                    f"người dân nói gì về {base_topic}",
-                    f"quan điểm công chúng {base_topic}",
-                    f"{base_topic} dư luận xã hội",
-                    f"{base_topic} trên mạng xã hội",
                 ])
 
-            # Xóa trùng lặp và giới hạn kết quả
-            unique_queries = list(dict.fromkeys(queries))
-            final_queries = unique_queries[:5]
+            # Xóa trùng lặp và clean up
+            unique_queries = []
+            seen = set()
+            for q in queries:
+                q_clean = q.strip().lower()
+                if q_clean not in seen and len(q) > 10:
+                    unique_queries.append(q)
+                    seen.add(q_clean)
 
-            logger.info(f"Generated {len(final_queries)} base-topic search queries")
+            # Limit to reasonable number
+            final_queries = unique_queries[:8]
+
+            logger.info(f"Generated {len(final_queries)} optimized search queries")
+            logger.info(f"Sample queries: {final_queries[:3]}")
 
             return ToolResult(
                 success=True,
                 data={
                     'queries': final_queries,
-                    'count': len(final_queries)
+                    'count': len(final_queries),
+                    'keywords_used': top_keywords
                 }
             )
 
