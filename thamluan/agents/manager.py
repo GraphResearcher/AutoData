@@ -143,17 +143,27 @@ class ManagerAgent(BaseAgent):
                         input_data={'urls_to_scrape': urls_to_scrape}
                     )
                     logger.info("📰 Next: Scrape articles and analyze sentiment")
+                else:
+                    # No new URLs to scrape, mark as done
+                    logger.info("📰 All URLs already processed, marking scrape as done")
+                    state['scrape_articles_done'] = True
 
         # Nếu task SCRAPE_ARTICLES vừa hoàn thành
         if current_task.task_type == TaskType.SCRAPE_ARTICLES and current_task.status.value == 'completed':
-            analyzed_articles = state.get('analyzed_articles', [])
-            new_articles = getattr(current_task, 'output_data', {}).get('articles', [])
-            analyzed_articles.extend(new_articles)
-            state['analyzed_articles'] = analyzed_articles
-            state['scrape_articles_done'] = True
-            logger.info(f"📰 Scrape completed: {len(new_articles)} new articles added")
+            # Check if scrape_articles_done is already set by ArticleAnalyzerAgent
+            if not state.get('scrape_articles_done', False):
+                analyzed_articles = state.get('analyzed_articles', [])
+                new_articles = getattr(current_task, 'output_data', {}).get('articles', [])
+                analyzed_articles.extend(new_articles)
+                state['analyzed_articles'] = analyzed_articles
+                state['scrape_articles_done'] = True
+                logger.info(f"📰 Scrape completed: {len(new_articles)} new articles added")
 
-        elif TaskType.SCRAPE_ARTICLES in completed_types and TaskType.EXPORT_DATA not in completed_types:
+        # Check if we should move to export - either SCRAPE_ARTICLES completed or scrape is done
+        scrape_is_complete = (TaskType.SCRAPE_ARTICLES in completed_types or
+                             state.get('scrape_articles_done', False))
+
+        if scrape_is_complete and TaskType.EXPORT_DATA not in completed_types:
             if not task_already_created(TaskType.EXPORT_DATA):
                 analyzed_articles = state.get('analyzed_articles', [])
                 if analyzed_articles:
@@ -162,6 +172,10 @@ class ManagerAgent(BaseAgent):
                         input_data={'analyzed_articles': analyzed_articles}
                     )
                     logger.info("💾 Next: Export to CSV")
+                else:
+                    # No articles to export, mark workflow as complete
+                    logger.info("⚠️ No articles found to export, completing workflow")
+                    state['is_complete'] = True
 
         elif TaskType.EXPORT_DATA in completed_types:
             logger.info("✅ Workflow completed successfully!")

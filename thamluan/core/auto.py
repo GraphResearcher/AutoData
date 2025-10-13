@@ -94,10 +94,17 @@ async def run_workflow_async(target_url: str, project_name: str) -> Dict[str, An
 
         initial_state = create_initial_state(target_url, project_name)
         workflow = create_workflow()
-        app = workflow.compile()
+        app = workflow.compile(
+            checkpointer=None,
+            interrupt_before=None,
+            interrupt_after=None,
+            debug=False
+        )
+        # Configure with higher recursion limit
+        config = {"recursion_limit": 100}
 
         logger.info("🚀 Executing workflow asynchronously...")
-        final_state = await app.ainvoke(initial_state)
+        final_state = await app.ainvoke(initial_state, config=config)
 
         report = manager_agent.generate_report(final_state)
         logger.info("=" * 80)

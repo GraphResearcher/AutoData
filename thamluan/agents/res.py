@@ -114,16 +114,36 @@ class ArticleAnalyzerAgent(BaseAgent):
 
     async def execute(self, state: AgentState) -> AgentState:
         try:
-            if self.loop_counter >= self.MAX_LOOP:
-                logger.warning(f"Max loop reached for {self.name}")
-                return state
-
             current_task = state.get('current_task')
             if not current_task or current_task.task_type != TaskType.SCRAPE_ARTICLES:
                 return state
 
+            # Check if max loop reached
+            if self.loop_counter >= self.MAX_LOOP:
+                logger.warning(f"Max loop reached for {self.name}")
+                # Complete the task and mark scrape as done
+                task = self.complete_task(current_task, {
+                    'articles_count': 0,
+                    'urls_scraped': 0,
+                    'max_loop_reached': True
+                })
+                state = self.update_state(state, {
+                    'current_task': task,
+                    'scrape_articles_done': True
+                })
+                return state
+
             urls_to_scrape = current_task.input_data.get('urls_to_scrape', [])
             if not urls_to_scrape:
+                # No URLs to scrape, mark as done
+                task = self.complete_task(current_task, {
+                    'articles_count': 0,
+                    'urls_scraped': 0
+                })
+                state = self.update_state(state, {
+                    'current_task': task,
+                    'scrape_articles_done': True
+                })
                 return state
 
             from tools.article_scraper import article_scraper_tool
@@ -147,9 +167,14 @@ class ArticleAnalyzerAgent(BaseAgent):
                     'urls_scraped': len(scraped_urls)
                 })
                 state = self.update_state(state, {'current_task': task})
+
+                # Mark scrape as done after successful scrape
+                state['scrape_articles_done'] = True
             else:
                 task = self.complete_task(current_task, {}, error=scrape_result.error)
                 state = self.log_error(state, scrape_result.error)
+                # Still mark as done even on error to prevent infinite loop
+                state['scrape_articles_done'] = True
 
             self.loop_counter += 1
             return state
