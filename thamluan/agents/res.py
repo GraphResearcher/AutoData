@@ -153,28 +153,39 @@ class ArticleAnalyzerAgent(BaseAgent):
             if scrape_result.success:
                 articles = scrape_result.data['articles']
                 scraped_urls = [a.url for a in articles]
-                state['processed_urls'] = existing_urls.union(scraped_urls)
 
+                # Analyze sentiment for each article
                 analyzed_articles = state.get('analyzed_articles', [])
+                analyzed_articles_new = []
                 for a in articles:
                     a_dict = a.to_dict()
                     a_dict['sentiment'] = self.analyze_sentiment(a_dict.get('content', ''))
+                    analyzed_articles_new.append(a_dict)
                     analyzed_articles.append(a_dict)
-                state['analyzed_articles'] = analyzed_articles
 
                 task = self.complete_task(current_task, {
                     'articles_count': len(articles),
-                    'urls_scraped': len(scraped_urls)
+                    'urls_scraped': len(scraped_urls),
+                    'articles': analyzed_articles_new  # Pass articles in output_data
                 })
-                state = self.update_state(state, {'current_task': task})
 
-                # Mark scrape as done after successful scrape
-                state['scrape_articles_done'] = True
+                # Update state with all changes at once
+                state = self.update_state(state, {
+                    'current_task': task,
+                    'processed_urls': existing_urls.union(scraped_urls),
+                    'analyzed_articles': analyzed_articles,
+                    'scrape_articles_done': True
+                })
+
+                logger.info(f"✅ Analyzed {len(analyzed_articles_new)} articles with sentiment")
             else:
                 task = self.complete_task(current_task, {}, error=scrape_result.error)
-                state = self.log_error(state, scrape_result.error)
                 # Still mark as done even on error to prevent infinite loop
-                state['scrape_articles_done'] = True
+                state = self.update_state(state, {
+                    'current_task': task,
+                    'scrape_articles_done': True
+                })
+                state = self.log_error(state, scrape_result.error)
 
             self.loop_counter += 1
             return state
@@ -223,32 +234,47 @@ class ExporterAgent(BaseAgent):
 
             # Khởi tạo embedding model nếu chưa có
             if self.embedding_model is None:
-                self.embedding_model = SentenceTransformer('models/all-MiniLM-L6-v2-f16.gguf')
+                from sentence_transformers import SentenceTransformer
+                self.embedding_model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 
             # Tạo embeddings cho bài báo
-            article_texts = [a['content'] for a in articles]
-            embeddings = self.embedding_model.encode(article_texts, convert_to_numpy=True)
+            article_texts = [a.get('content', '') for a in articles if a.get('content')]
 
-            # Chuẩn bị metadata và id
-            metadatas = [
-                {'title': a['title'], 'url': a.get('url'), 'sentiment': a.get('sentiment', 'neutral')}
-                for a in articles
-            ]
-            ids = [f"article_{uuid.uuid4().hex}" for _ in articles]
+            if article_texts:
+                logger.info(f"Generating embeddings for {len(article_texts)} articles...")
+                embeddings = self.embedding_model.encode(article_texts, convert_to_numpy=True)
 
-            # Lưu vào Vector DB nếu collection tồn tại
-            collection_name = state.get('vector_db_collection')
-            if collection_name:
-                result = vector_db_tool.add_documents(
-                    collection_name=collection_name,
-                    documents=article_texts,
-                    embeddings=embeddings,
-                    metadatas=metadatas,
-                    ids=ids,
-                    similarity_threshold=0.95  # tránh trùng vector
-                )
-                if not result.success:
-                    logger.error(f"VectorDB error: {result.error}")
+                # Chuẩn bị metadata và id
+                metadatas = [
+                    {
+                        'title': a.get('title', 'Untitled'),
+                        'url': a.get('url', ''),
+                        'sentiment': a.get('sentiment', 'neutral'),
+                        'source': a.get('source', ''),
+                        'type': 'article'
+                    }
+                    for a in articles if a.get('content')
+                ]
+                ids = [f"article_{uuid.uuid4().hex}" for _ in article_texts]
+
+                # Lưu vào Vector DB nếu collection tồn tại
+                collection_name = state.get('vector_db_collection')
+                if collection_name:
+                    logger.info(f"Adding {len(article_texts)} articles to Vector DB collection: {collection_name}")
+                    result = vector_db_tool.add_documents(
+                        collection_name=collection_name,
+                        documents=article_texts,
+                        embeddings=embeddings,
+                        metadatas=metadatas,
+                        ids=ids,
+                        similarity_threshold=0.95  # tránh trùng vector
+                    )
+                    if result.success:
+                        logger.info(f"✅ Successfully added articles to Vector DB")
+                    else:
+                        logger.error(f"VectorDB error: {result.error}")
+            else:
+                logger.warning("No article content found to add to Vector DB")
 
             # Cập nhật state
             task = self.complete_task(current_task, {
