@@ -4,9 +4,8 @@ from pathlib import Path
 from typing import Optional
 import logging
 from langchain_core.messages import HumanMessage
-#from langchain_google_genai import GoogleGenerativeAI
 from langgraph.graph import StateGraph, START, END
-from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_ollama import ChatOllama
 
 sys.dont_write_bytecode = True
 
@@ -19,6 +18,7 @@ from autodata.core.config import AutoDataConfig, load_environment_variables_from
 
 logger = logging.getLogger(__name__)
 
+
 class AutoData:
     def __init__(
         self,
@@ -28,32 +28,23 @@ class AutoData:
         verbose: bool = False,
         env_path: Optional[Path] = None,
     ):
-        """Initialize AutoData with configuration and logging setup.
-
-        Args:
-            config_path: Optional path to configuration file
-            log_level: Logging level (default: "INFO")
-            output_dir: Optional output directory for results
-            verbose: Enable verbose output
-            env_path: Optional path to .env file for API keys and environment variables
-        """
-        # Setup logging first
+        """Initialize AutoData with configuration and logging setup."""
         setup_logging(log_level)
-
-        # Load environment variables
         load_environment_variables_from_file(env_path)
 
-        # Initialize configuration
+        # Load configuration
         self.config = (
-            AutoDataConfig.from_file(config_path) if config_path else AutoDataConfig()
+            AutoDataConfig.from_file(config_path)
+            if config_path
+            else AutoDataConfig()
         )
         self.output_dir = output_dir
         self.verbose = verbose
 
-        # Initialize LLM
+        # Initialize Ollama model
         self.llm = self._initialize_llm()
 
-        # Initialize agents
+        # Initialize all agents
         self.manager = ManagerAgent(model=self.llm)
         self.planner = PlannerAgent(model=self.llm)
         self.tools = ToolAgent(model=self.llm)
@@ -63,36 +54,31 @@ class AutoData:
         self.test = TestAgent(model=self.llm)
         self.validator = ValidationAgent(model=self.llm)
 
-        # Build workflow
+        # Build and compile workflow graph
         workflow = self._build_workflow()
         self.workflow = workflow.compile()
 
     def _initialize_llm(self):
-        """Initialize the language model with proper configuration."""
+        """Initialize Ollama model from configuration."""
         try:
-            llm = globals()[self.config.LLM_Config.ModelClass](
-                **self.config.LLM_Config._get_additional_kwargs()
+            llm = ChatOllama(
+                model=self.config.LLM_Config.model or "llama3.1:8b",
+                temperature=self.config.LLM_Config.temperature or 0.3,
+                num_ctx=self.config.LLM_Config.num_ctx or 4096,
+                base_url=self.config.LLM_Config.base_url
+                or "http://localhost:11434",
             )
-            logger.info(f"✅ Initialized LLM: {self.config.LLM_Config.ModelClass}")
+            logger.info(f"Initialized Ollama LLM: {self.config.LLM_Config.model}")
             return llm
         except Exception as e:
-            logger.error(f"❌ Failed to initialize LLM: {e}")
-            logger.info("💡 Falling back to GoogleGenerativeAI with JSON-enforced configuration")
-
-            # Fallback to default GoogleGenerativeAI (fixed version)
-            return ChatGoogleGenerativeAI(
-                model=self.config.LLM_Config.model,
-                temperature=self.config.LLM_Config.temperature,
-                max_output_tokens=self.config.LLM_Config.max_tokens,
-                google_api_key=( self.config.LLM_Config.api_key or os.getenv("GOOGLE_API_KEY") ),
-                convert_system_message_to_human=True,  # ✅ giúp Gemini hiểu system prompt
-
-            )
+            logger.error(f"Failed to initialize Ollama LLM: {e}")
+            raise
 
     def _build_workflow(self):
         """Build the multi-agent workflow graph."""
         try:
-            graph = StateGraph(AgentState)
+            # 👇 Thêm concurrency="sequential" để tránh lỗi song song next
+            graph = StateGraph(AgentState, concurrency="sequential")
 
             # Add nodes
             graph.add_node("ManagerAgent", self.manager)
@@ -104,17 +90,8 @@ class AutoData:
             graph.add_node("TestAgent", self.test)
             graph.add_node("ValidationAgent", self.validator)
 
+            # Define workflow sequence
             graph.add_edge(START, "ManagerAgent")
-
-            #graph.add_edge("PlannerAgent", "ManagerAgent")
-            #graph.add_edge("WebAgent", "ManagerAgent")
-            #graph.add_edge("ToolAgent", "ManagerAgent")
-            #graph.add_edge("BlueprintAgent", "ManagerAgent")
-            #graph.add_edge("EngineerAgent", "ManagerAgent")
-            #graph.add_edge("TestAgent", "ManagerAgent")
-            #graph.add_edge("ManagerAgent", "ValidationAgent")
-
-            #graph.add_edge(START, "ManagerAgent")
 
             # Step 1 — Research Squad
             graph.add_edge("ManagerAgent", "PlannerAgent")
@@ -129,10 +106,10 @@ class AutoData:
             graph.add_edge("TestAgent", "ValidationAgent")
             graph.add_edge("ValidationAgent", "ManagerAgent")
 
-            # Kết thúc
+            # End workflow
             graph.add_edge("ManagerAgent", END)
 
-            # Add conditional routing from manager
+            # Conditional routing
             graph.add_conditional_edges(
                 "ManagerAgent",
                 lambda x: x["next"],
@@ -144,30 +121,22 @@ class AutoData:
                     "EngineerAgent": "EngineerAgent",
                     "TestAgent": "TestAgent",
                     "ValidationAgent": "ValidationAgent",
+                    "ManagerAgent": "ManagerAgent",
                     "[END]": END,
                 },
             )
 
-            logger.info("✅ Workflow graph built successfully")
+            logger.info("Workflow graph built successfully")
             return graph
 
         except Exception as e:
-            logger.error(f"❌ Failed to build workflow: {e}")
+            logger.error(f"Failed to build workflow: {e}")
             return None
 
     async def arun(self, instruction: str):
-        """Run the AutoData system with the given instruction.
-
-        Args:
-            instruction: User instruction for data collection
-
-        Returns:
-            dict: Results of the data collection process
-        """
+        """Run the AutoData system asynchronously with the given instruction."""
         try:
-            logger.info(
-                f"🚀 Starting AutoData workflow with instruction: {instruction}"
-            )
+            logger.info(f"Starting AutoData workflow with instruction: {instruction}")
 
             input_state = AgentState(
                 messages=[HumanMessage(content=instruction)],
@@ -176,11 +145,12 @@ class AutoData:
             )
 
             async for update in self.workflow.astream(input_state):
-                logger.info(f"🔄 Workflow update: {update}")
+                logger.info(f"Workflow update: {update}")
 
         except Exception as e:
             import traceback
-            logger.error(f"❌ AutoData workflow failed: {e}")
+
+            logger.error(f"AutoData workflow failed: {e}")
             logger.debug(traceback.format_exc())
             return {
                 "status": "error",
@@ -188,4 +158,3 @@ class AutoData:
                 "traceback": traceback.format_exc(),
                 "instruction": instruction,
             }
-

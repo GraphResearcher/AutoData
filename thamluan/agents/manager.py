@@ -1,0 +1,203 @@
+"""
+Manager Agent - Điều phối và quản lý workflow.
+"""
+
+import logging
+from typing import Dict, Any
+from datetime import datetime
+
+from agents.base import BaseAgent
+from core.types import AgentState, AgentRole, TaskType
+from prompts import load_prompt
+
+logger = logging.getLogger(__name__)
+
+
+class ManagerAgent(BaseAgent):
+    """
+    Manager Agent - Orchestrator của hệ thống.
+    Nhiệm vụ:
+    - Phân tích yêu cầu ban đầu
+    - Phân công tasks cho các agents
+    - Track progress
+    - Quyết định next steps
+    """
+
+    def __init__(self):
+        super().__init__(
+            role=AgentRole.MANAGER,
+            name="Manager Agent",
+            description="Orchestrates workflow and manages agent coordination"
+        )
+        self.system_prompt = load_prompt("manager_system.md")
+        self.processed_urls = set()  # tránh duplicate URLs
+
+    async def execute(self, state: AgentState) -> AgentState:
+        """
+        Execute manager logic.
+        """
+        try:
+            logger.info("=" * 60)
+            logger.info("Manager Agent executing...")
+            logger.info("=" * 60)
+
+            if not state.get('current_task'):
+                return await self._start_workflow(state)
+            else:
+                return await self._monitor_and_decide(state)
+
+        except Exception as e:
+            logger.error(f"Manager execution error: {str(e)}")
+            return self.log_error(state, f"Manager execution failed: {str(e)}")
+
+    async def _start_workflow(self, state: AgentState) -> AgentState:
+        """
+        Bắt đầu workflow mới.
+        """
+        logger.info("Starting new workflow...")
+
+        target_url = state['target_url']
+        project_name = state['project_name']
+
+        logger.info(f"Project: {project_name}")
+        logger.info(f"Target URL: {target_url}")
+
+        task = self.create_task(
+            task_type=TaskType.CRAWL_WEB.value,
+            input_data={'url': target_url, 'find_pdf': True}
+        )
+
+        state = self.update_state(state, {'current_task': task})
+        from core.types import update_state_task
+        state = update_state_task(state, task)
+
+        logger.info(f"✅ Created first task: {task.task_type.value}")
+        return state
+
+    async def _monitor_and_decide(self, state: AgentState) -> AgentState:
+        """
+        Monitor progress và quyết định next step.
+        """
+        current_task = state.get('current_task')
+        task_history = state.get('task_history', [])
+
+        if not current_task:
+            logger.info("No current task, workflow may be complete")
+            return state
+
+        logger.info(f"Current task: {current_task.task_type.value} - {current_task.status.value}")
+
+        completed_types = [
+            task.task_type
+            for task in task_history
+            if task.status.value == 'completed'
+        ]
+
+        def task_already_created(task_type):
+            return any(t.task_type == task_type for t in task_history) or \
+                   (current_task and current_task.task_type == task_type)
+
+        next_task = None
+
+        # Workflow logic
+        if TaskType.CRAWL_WEB in completed_types and TaskType.DOWNLOAD_PDF not in completed_types:
+            if not task_already_created(TaskType.DOWNLOAD_PDF):
+                pdf_links = state.get('pdf_document', {})
+                if pdf_links:
+                    next_task = self.create_task(
+                        task_type=TaskType.DOWNLOAD_PDF.value,
+                        input_data={'pdf_links': pdf_links}
+                    )
+                    logger.info("📥 Next: Download PDF")
+
+        elif TaskType.DOWNLOAD_PDF in completed_types and TaskType.EXTRACT_CONTENT not in completed_types:
+            if not task_already_created(TaskType.EXTRACT_CONTENT):
+                pdf_path = state.get('pdf_local_path')
+                if pdf_path:
+                    next_task = self.create_task(
+                        task_type=TaskType.EXTRACT_CONTENT.value,
+                        input_data={'pdf_path': pdf_path}
+                    )
+                    logger.info("📄 Next: Extract PDF content")
+
+        elif TaskType.EXTRACT_CONTENT in completed_types and TaskType.SEARCH_OPINIONS not in completed_types:
+            if not task_already_created(TaskType.SEARCH_OPINIONS):
+                keywords = state.get('extracted_keywords')
+                if keywords:
+                    next_task = self.create_task(
+                        task_type=TaskType.SEARCH_OPINIONS.value,
+                        input_data={'keywords': keywords}
+                    )
+                    logger.info("🔍 Next: Search for opinions")
+
+
+        elif TaskType.SEARCH_OPINIONS in completed_types and not state.get('scrape_articles_done', False):
+            search_results = state.get('search_results', [])
+            if search_results:
+                # Lọc URLs đã scrape
+                processed_urls = state.get('processed_urls', set())
+                urls_to_scrape = [r['url'] for r in search_results if r['url'] not in processed_urls]
+                if urls_to_scrape:
+                    next_task = self.create_task(
+                        task_type=TaskType.SCRAPE_ARTICLES.value,
+                        input_data={'urls_to_scrape': urls_to_scrape}
+                    )
+                    logger.info("📰 Next: Scrape articles and analyze sentiment")
+
+        # Nếu task SCRAPE_ARTICLES vừa hoàn thành
+        if current_task.task_type == TaskType.SCRAPE_ARTICLES and current_task.status.value == 'completed':
+            analyzed_articles = state.get('analyzed_articles', [])
+            new_articles = getattr(current_task, 'output_data', {}).get('articles', [])
+            analyzed_articles.extend(new_articles)
+            state['analyzed_articles'] = analyzed_articles
+            state['scrape_articles_done'] = True
+            logger.info(f"📰 Scrape completed: {len(new_articles)} new articles added")
+
+        elif TaskType.SCRAPE_ARTICLES in completed_types and TaskType.EXPORT_DATA not in completed_types:
+            if not task_already_created(TaskType.EXPORT_DATA):
+                analyzed_articles = state.get('analyzed_articles', [])
+                if analyzed_articles:
+                    next_task = self.create_task(
+                        task_type=TaskType.EXPORT_DATA.value,
+                        input_data={'analyzed_articles': analyzed_articles}
+                    )
+                    logger.info("💾 Next: Export to CSV")
+
+        elif TaskType.EXPORT_DATA in completed_types:
+            logger.info("✅ Workflow completed successfully!")
+            state['is_complete'] = True
+            return state
+
+        if next_task:
+            state = self.update_state(state, {'current_task': next_task})
+            from core.types import update_state_task
+            state = update_state_task(state, next_task)
+
+        return state
+
+    def generate_report(self, state: AgentState) -> Dict[str, Any]:
+        """
+        Tạo báo cáo tổng hợp về workflow.
+        """
+        task_history = state.get('task_history', [])
+        completed_tasks = [t for t in task_history if t.status.value == 'completed']
+        failed_tasks = [t for t in task_history if t.status.value == 'failed']
+
+        report = {
+            'project_name': state.get('project_name'),
+            'started_at': state.get('started_at'),
+            'completed_at': datetime.now() if state.get('is_complete') else None,
+            'total_tasks': len(task_history),
+            'completed_tasks': len(completed_tasks),
+            'failed_tasks': len(failed_tasks),
+            'errors_count': len(state.get('errors', [])),
+            'warnings_count': len(state.get('warnings', [])),
+            'pdf_processed': state.get('pdf_local_path') is not None,
+            'keywords_extracted': state.get('extracted_keywords') is not None,
+            'comments_collected': len(state.get('collected_comments', [])),
+            'csv_exported': state.get('csv_output_path') is not None
+        }
+        return report
+
+# Singleton instance
+manager_agent = ManagerAgent()

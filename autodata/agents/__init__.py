@@ -25,6 +25,7 @@ __all__ = [
     # Manager Agent
     "ManagerAgent",
     "ManagerResponse",
+
     # Research Group Agents (commented out until implemented)
     # "PlannerAgent",
     # "PlannerResponse",
@@ -34,6 +35,7 @@ __all__ = [
     # "ToolResponse",
     # "BlueprintAgent",
     # "BlueprintResponse",
+
     # Development Group Agents (commented out until implemented)
     # "EngineerAgent",
     # "EngineerResponse",

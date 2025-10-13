@@ -1,99 +1,95 @@
 import sys
-import os
 import logging
-from typing import Dict, List, Optional, Callable, Any
+from typing import List, Callable, Optional
 from easydict import EasyDict
 from pydantic import BaseModel, Field
-from langchain_core.messages import HumanMessage
 
-sys.dont_write_bytecode = True
-
-from autodata.agents.base import BaseResponse, BaseAgent
+from autodata.agents.base import BaseAgent, BaseResponse
 from autodata.agents.res import RESEARCH_AGENTS
 from autodata.agents.dev import DEVELOPMENT_AGENTS
-from autodata.core.config import AutoDataConfig
 from autodata.core.types import AgentState
 from autodata.prompts.prompt_loader import load_prompt
 
+sys.dont_write_bytecode = True
 logger = logging.getLogger(__name__)
 
 
 class ManagerResponse(BaseResponse):
-    """
-    Response from the manager agent.
-    """
-
-    message: str = Field(description="The command you need to pass to the next agent.")
-    next: str = Field(description="The name of the next agent to handle the task.")
-    status: str = Field(description="Current status of the workflow.")
-    reasoning: str = Field(description="Reasoning behind the decision.")
+    message: str = Field(description="Hướng dẫn hoặc thông điệp cần gửi.")
+    next: str = Field(description="Agent tiếp theo để thực hiện nhiệm vụ.")
+    reasoning: str = Field(description="Lý do hoặc cơ sở để chuyển tiếp nhiệm vụ.")
+    status: str = Field(default="running", description="Trạng thái hiện tại của workflow.")
 
 
 class ManagerAgent(BaseAgent):
-    """
-    Manager agent responsible for coordinating multiple agents to collect data.
-
-    The manager agent oversees the multi-agent workflow, coordinates between
-    research and development groups, and ensures the data collection process
-    follows the defined workflow.
-    """
+    """Agent điều phối toàn bộ pipeline crawl dữ liệu."""
 
     def __init__(
         self,
         agent_name: str = "ManagerAgent",
-        description: str = "A manager agent to manage the task process.",
+        description: str = "A manager agent to orchestrate multi-agent workflow.",
         model: Callable = None,
         tools: Optional[List[Callable]] = None,
         output_parser: BaseModel = ManagerResponse,
         **kwargs,
     ):
-        """Initialize the ManagerAgent.
-
-        Args:
-            config: AutoDataConfig instance containing LLM and other settings
-            description: Description of the agent's purpose
-            model: Optional LLM model instance, if None will use model from config
-            output_parser: Parser for agent outputs
-        """
-
-        # Load the manager prompt template with worker names
         instruction = load_prompt(
-            "manager", WORKER_NAMES=RESEARCH_AGENTS + DEVELOPMENT_AGENTS
+            "manager",
+            WORKER_NAMES=RESEARCH_AGENTS + DEVELOPMENT_AGENTS
         )
 
-        # Initialize the base agent
         super().__init__(
+            agent_name=agent_name,
             instruction=instruction,
             description=description,
             model=model,
-            output_parser=output_parser,
-            agent_name=agent_name,
             tools=tools,
+            output_parser=output_parser,
         )
-
-        logger.info("ManagerAgent initialized successfully")
+        logger.info("✅ ManagerAgent initialized successfully")
 
     async def __call__(self, state: AgentState, model=None):
-        assert model or self._model, "Please provide valid LLM."
+        """Điều phối workflow giữa các agent."""
         llm = model if model is not None else self._model
+        assert llm, "ManagerAgent requires an LLM instance."
 
-        output_format = self._output_parser
-        prompt = self._prompt
+        try:
+            chain = self._prompt | llm.with_structured_output(self._output_parser)
+            response = chain.invoke(state)
 
-        chain = prompt | llm.with_structured_output(output_format)
-        response = chain.invoke(state)
+            next_agent = response.next.strip().replace("\n", "")
+            reasoning = response.reasoning.strip()
+            next_agent = self.route_agent(next_agent)
 
-        # Chuẩn hóa hướng đi tiếp theo
-        next_agent = response.next.strip() if response.next else ""
+            logger.info(f"📍 Manager decided to move to: {next_agent}")
+            logger.debug(f"Reasoning: {reasoning}")
 
-        # ✅ Nếu manager kết thúc workflow, gán [END]
-        if any(word in next_agent.lower() for word in ["user", "done", "complete", "finish", "end"]):
-            next_agent = "[END]"
+            # ✅ Cập nhật trực tiếp vào state
+            state["messages"].append(response.message)
+            state["next"] = next_agent
 
-        message_to_return = EasyDict(
-            next=next_agent,
-            messages=[response.message]
-        )
+            return state
 
-        return message_to_return
+        except Exception as e:
+            logger.error(f"❌ ManagerAgent error: {e}", exc_info=True)
+            state["messages"].append(f"[Manager Error] {str(e)}")
+            state["next"] = "[END]"
+            return state
 
+    def route_agent(self, next_agent: str) -> str:
+        """Tự động định tuyến agent kế tiếp."""
+        name = next_agent.lower()
+
+        if "planner" in name:
+            return "WebAgent"
+        if "web" in name:
+            return "ToolAgent"
+        if "tool" in name:
+            return "EngineerAgent"
+        if "engineer" in name:
+            return "TestAgent"
+        if "test" in name:
+            return "ValidationAgent"
+        if "validation" in name or "done" in name or "finish" in name:
+            return "[END]"
+        return "ManagerAgent"

@@ -100,7 +100,7 @@ class BaseAgent:
         prompt = self._prompt
         chain = prompt | llm
 
-        # ✅ Chuẩn hóa input
+        # Chuẩn hóa input
         if hasattr(state, "messages"):
             input_data = {"messages": state.messages}
         elif isinstance(state, dict) and "messages" in state:
@@ -108,10 +108,10 @@ class BaseAgent:
         else:
             raise ValueError(f"Invalid state type passed to {self._agent_name}: {type(state)}")
 
-        # ✅ Gọi model
+        # Gọi model
         raw_response = chain.invoke(input_data)
 
-        # ✅ Nếu model trả về object Pydantic → convert sang string JSON
+        #  Nếu model trả về object Pydantic → convert sang string JSON
         if isinstance(raw_response, BaseResponse):
             text_response = raw_response.to_message()
         elif isinstance(raw_response, dict):
@@ -122,7 +122,7 @@ class BaseAgent:
         else:
             text_response = raw_response
 
-        # ✅ Parse output theo Pydantic nếu cần
+        # Parse output theo Pydantic nếu cần
         try:
             response = parser.invoke(text_response)
         except Exception as e:

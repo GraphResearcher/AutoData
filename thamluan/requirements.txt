@@ -1,0 +1,52 @@
+langchain==0.3.27
+langchain-ollama==0.3.10
+ollama==0.5.3  # nâng từ 0.1.6 lên 0.5.3 để tương thích
+# Vector Database
+chromadb==0.4.22
+sentence-transformers==2.3.1
+
+# Web Scraping
+beautifulsoup4==4.12.3
+selenium==4.16.0
+requests==2.31.0
+lxml==5.1.0
+html5lib==1.1
+
+# PDF Processing
+PyPDF2==3.0.1
+pdfplumber==0.10.3
+pypdf==3.17.4
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.3
+
+# Text Processing
+nltk==3.8.1
+spacy==3.7.2
+python-dotenv==1.0.0
+
+# Utilities
+python-dateutil==2.8.2
+tqdm==4.66.1
+colorama==0.4.6
+
+# API & HTTP
+httpx==0.27.2
+aiohttp==3.9.1
+
+# Logging
+loguru==0.7.2
+
+# CLI
+click==8.1.7
+rich==13.7.0
+
+# Facebook Scraping (optional, có thể bị block)
+facebook-scraper==0.2.59
+
+# Google Search
+googlesearch-python==1.2.3
+
+# Rate Limiting
+ratelimit==2.2.1
