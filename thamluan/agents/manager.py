@@ -139,14 +139,25 @@ class ManagerAgent(BaseAgent):
             logger.info(f"📰 Scrape task completed: {len(new_articles)} new articles in this batch")
             logger.info(f"📊 Total articles in state: {len(analyzed_articles)}")
 
-        # Only create new scrape tasks if not done yet
-        if TaskType.SEARCH_OPINIONS in completed_types and not state.get('scrape_articles_done', False):
+        # Check if a scrape task already exists
+        scrape_task_exists = any(t.task_type == TaskType.SCRAPE_ARTICLES for t in task_history) or \
+                             (current_task and current_task.task_type == TaskType.SCRAPE_ARTICLES)
+
+        # Only create new scrape tasks if:
+        # 1. SEARCH_OPINIONS is completed
+        # 2. Scrape is not marked as done
+        # 3. No scrape task exists yet
+        if TaskType.SEARCH_OPINIONS in completed_types and \
+                not state.get('scrape_articles_done', False) and \
+                not scrape_task_exists:
             search_results = state.get('search_results', [])
+            logger.info(f"🔎 Have {len(search_results)} search results to process")
             if search_results:
                 # Lọc URLs đã scrape
                 processed_urls = state.get('processed_urls', set())
                 urls_to_scrape = [r['url'] for r in search_results if r['url'] not in processed_urls]
                 if urls_to_scrape:
+                    logger.info(f"📰 Creating scrape task for {len(urls_to_scrape)} URLs")
                     next_task = self.create_task(
                         task_type=TaskType.SCRAPE_ARTICLES.value,
                         input_data={'urls_to_scrape': urls_to_scrape}
@@ -158,13 +169,11 @@ class ManagerAgent(BaseAgent):
                     state['scrape_articles_done'] = True
 
                 # Check if we should move to export - only if scrape is truly done
-                # Don't check this if we just created a scrape task (it hasn't run yet!)
-                scrape_task_pending = (current_task and current_task.task_type == TaskType.SCRAPE_ARTICLES and
-                                       current_task.status.value == 'pending')
-                scrape_is_complete = (TaskType.SCRAPE_ARTICLES in completed_types or
-                                      state.get('scrape_articles_done', False))
+                # IMPORTANT: Only move to export when scrape_articles_done = True
+                scrape_is_done = state.get('scrape_articles_done', False)
 
-                if scrape_is_complete and not scrape_task_pending and TaskType.EXPORT_DATA not in completed_types:
+                # Only consider moving to export if scrape is actually marked as done
+                if scrape_is_done and TaskType.EXPORT_DATA not in completed_types:
                     if not task_already_created(TaskType.EXPORT_DATA):
                         analyzed_articles = state.get('analyzed_articles', [])
                         if analyzed_articles:
@@ -184,9 +193,12 @@ class ManagerAgent(BaseAgent):
             return state
 
         if next_task:
+            logger.info(f"✅ Setting next task: {next_task.task_type.value} (status: {next_task.status.value})")
             state = self.update_state(state, {'current_task': next_task})
             from core.types import update_state_task
             state = update_state_task(state, next_task)
+        else:
+            logger.info("ℹ️  No new task to create, workflow continues with current task")
 
         return state
 
