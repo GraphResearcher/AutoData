@@ -157,11 +157,14 @@ class ManagerAgent(BaseAgent):
                     logger.info("📰 All URLs already processed, marking scrape as done")
                     state['scrape_articles_done'] = True
 
-                # Check if we should move to export - either SCRAPE_ARTICLES completed or scrape is done
+                # Check if we should move to export - only if scrape is truly done
+                # Don't check this if we just created a scrape task (it hasn't run yet!)
+                scrape_task_pending = (current_task and current_task.task_type == TaskType.SCRAPE_ARTICLES and
+                                       current_task.status.value == 'pending')
                 scrape_is_complete = (TaskType.SCRAPE_ARTICLES in completed_types or
                                       state.get('scrape_articles_done', False))
 
-                if scrape_is_complete and TaskType.EXPORT_DATA not in completed_types:
+                if scrape_is_complete and not scrape_task_pending and TaskType.EXPORT_DATA not in completed_types:
                     if not task_already_created(TaskType.EXPORT_DATA):
                         analyzed_articles = state.get('analyzed_articles', [])
                         if analyzed_articles:

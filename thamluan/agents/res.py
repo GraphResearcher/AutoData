@@ -49,38 +49,71 @@ class SearchAgent(BaseAgent):
             search_queries = query_result.data['queries'][:10]
             search_results = []
 
-            # Thử direct news search trước
+            # 1. Try direct news search first
+            logger.info("🔍 Searching on Vietnamese news sites...")
             try:
                 from tools.direct_news_search import direct_news_search_tool
                 for query in search_queries[:5]:
                     result = direct_news_search_tool.search_all_sites(query, max_results_per_site=3)
                     if result.success:
                         search_results.extend(result.data['results'])
+                logger.info(f"Found {len(search_results)} results from news sites")
             except Exception as e:
-                logger.warning(f"Direct search failed: {str(e)}, falling back to search engines")
-                search_result = search_engine_tool.search_multiple_queries(
-                    queries=search_queries,
-                    num_per_query=5
-                )
-                if not search_result.success:
-                    task = self.complete_task(current_task, {}, error=search_result.error)
-                    return self.log_error(state, search_result.error)
-                search_results = search_result.data['results']
+                logger.warning(f"Direct news search failed: {str(e)}")
 
-            # Filter trusted domains
+            # 2. Also search on Google/web for more diverse results
+            # Always do web search to get broader coverage
+            logger.info("🌐 Searching on Google/web for additional articles...")
+            try:
+                search_result = search_engine_tool.search_multiple_queries(
+                    queries=search_queries[:3],  # Use first 3 queries
+                    num_per_query=10  # Get more results from web
+                )
+                if search_result.success:
+                    web_results = search_result.data['results']
+                    logger.info(f"Found {len(web_results)} results from web search")
+                    # Deduplicate by URL
+                    existing_urls = {r['url'] for r in search_results}
+                    for r in web_results:
+                        if r['url'] not in existing_urls:
+                            search_results.append(r)
+                            existing_urls.add(r['url'])
+                    logger.info(f"Total unique results after combining: {len(search_results)}")
+                else:
+                    logger.warning(f"Web search failed: {search_result.error}")
+            except Exception as e:
+                logger.warning(f"Web search error: {str(e)}")
+
+            # If we still have no results, that's an error
+            if not search_results:
+                error_msg = "No search results found from any source"
+                task = self.complete_task(current_task, {}, error=error_msg)
+                return self.log_error(state, error_msg)
+
+            # Prioritize trusted domains but don't completely filter others
             from core.config import config
-            filtered_results = [r for r in search_results if any(d in r['url'] for d in config.TRUSTED_DOMAINS)]
+            trusted_results = [r for r in search_results if any(d in r['url'] for d in config.TRUSTED_DOMAINS)]
+            other_results = [r for r in search_results if not any(d in r['url'] for d in config.TRUSTED_DOMAINS)]
+
+            # Combine: trusted first, then others (limit total)
+            final_results = trusted_results + other_results
+            final_results = final_results[:30]  # Limit to 30 total results
+
+            logger.info(f"📊 Search results: {len(trusted_results)} from trusted domains, "
+                        f"{len(other_results)} from other sources, "
+                        f"{len(final_results)} total")
 
             task = self.complete_task(current_task, {
                 'search_queries': search_queries,
                 'total_results': len(search_results),
-                'filtered_results': len(filtered_results)
+                'trusted_results': len(trusted_results),
+                'final_results': len(final_results)
             })
 
             state = self.update_state(state, {
                 'current_task': task,
                 'search_queries': search_queries,
-                'search_results': filtered_results
+                'search_results': final_results
             })
 
             return state
